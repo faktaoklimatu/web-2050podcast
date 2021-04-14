@@ -2,7 +2,14 @@
     "hosting": {
       "public": ".",
       "cleanUrls": true,
-      "trailingSlash": false
+      "trailingSlash": false,
+      "ignore": [
+        "firebase.json",
+        ".git/**",
+        "README.md",
+        "**/.*",
+        "**/node_modules/**"
+      ]
     }
   }
   
