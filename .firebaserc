@@ -1,5 +1,17 @@
 {
   "projects": {
     "default": "podcast-2050"
+  },
+  "targets": {
+    "podcast-2050": {
+      "hosting": {
+        "production": [
+          "podcast-2050"
+        ],
+        "preview": [
+          "podcast-2050"
+        ]
+      }
+    }
   }
 }

@@ -39,8 +39,8 @@ cache:
   - $TRAVIS_BUILD_DIR/.cache  # Enable caching link checks
 
 before_deploy: 
-  - wget -q --output-document=web-core/firebase https://firebase.tools/bin/linux/latest
-  - chmod +x web-core/firebase
+  - wget -q --output-document=firebase https://firebase.tools/bin/linux/latest
+  - chmod +x firebase
 
 deploy:
   # Firebase production deployment

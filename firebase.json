@@ -1,19 +1,4 @@
 {
-    "hosting": {
-      "public": ".",
-      "cleanUrls": true,
-      "trailingSlash": false,
-      "ignore": [
-        "firebase.json",
-        ".git/**",
-        "README.md",
-        "**/.*",
-        "**/node_modules/**"
-      ]
-    }
-  }
-
-{
   "hosting": [ 
     
     {
