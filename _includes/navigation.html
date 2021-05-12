@@ -1,0 +1,12 @@
+{% if jekyll.environment != "production" %}
+<div id="dev-warning" class="alert-warning mb-0">
+    <p>
+        <a id="devWarningToggle" class="collapsed" data-toggle="collapse" href="#devWarningDetails" >
+            <i class="fas fa-fw fa-code"></i>
+            Vývojářská verze webu
+            <i class="fas fa-fw fa-chevron-down"></i>
+        </a>
+    </p>
+    <p class="collapse" id="devWarningDetails">Oproti produkční verzi v ní chybí web analytika.</p>
+</div>
+{% endif %}

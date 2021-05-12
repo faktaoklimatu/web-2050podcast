@@ -1,0 +1,4 @@
+Contact: admin@2050podcast.cz
+Acknowledgments: https://2050podcast.cz/humans.txt
+Preferred-Languages: cs, sk, en
+Canonical: https://2050podcast.cz/.well-known/security.txt

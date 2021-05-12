@@ -1,0 +1,58 @@
+os: linux
+dist: focal    # Ubuntu 20.04 LTS
+language: ruby
+gemfile: Gemfile
+
+# Clone full git history for git-restore-mtime to work
+git:
+  depth: false
+
+# Install the necessary software
+addons:
+  apt:
+    sources:
+      - sourceline: 'ppa:inkscape.dev/stable'
+    packages:
+    - inkscape
+    - imagemagick
+
+# Restore file times for better GNU Make optimizations
+before_install:
+  - git clone --depth=1 https://github.com/MestreLion/git-tools # Distro version is currently broken
+  - ./git-tools/git-restore-mtime --force
+  - rm -rf ./git-tools
+
+install:
+  - make bundle-install
+
+script:
+  - make check
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # Speeds up installation of html-proofer
+
+cache:
+  bundler: true               # Enable caching of bundler gem packages
+  directories:
+  - $TRAVIS_BUILD_DIR/vendor  # Enable caching installed bundle gems
+  - $TRAVIS_BUILD_DIR/.cache  # Enable caching link checks
+
+before_deploy: 
+  - wget -q --output-document=web-core/firebase https://firebase.tools/bin/linux/latest
+  - chmod +x web-core/firebase
+
+deploy:
+  # Firebase production deployment
+  - provider: script # uses FIREBASE_TOKEN
+    on:
+      branch: master
+    skip_cleanup: true
+    script: make deploy-production
+  # Firebase preview deployment
+  - provider: script # uses FIREBASE_TOKEN
+    on:
+      all_branches: true
+      condition: $TRAVIS_BRANCH = preview-*
+    skip_cleanup: true
+    script: make deploy-preview
