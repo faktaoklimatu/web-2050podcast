@@ -2,10 +2,12 @@
 title: "2050 podcast"
 url: https://2050podcast.cz
 email: podcast@2050podcast.cz
+instagram: 2050_podcast
+facebook: 2050podcast
 github: faktaoklimatu/web-2050podcast
 newsletter: "https://tinyletter.com/faktaoklimatu/subscribe"
 fundraising: "https://www.darujme.cz/projekt/1203742"
-author: faktaoklimatu.cz
+author: Fakta o klimatu
 copyright: "&copy; 2021 Otevřená data o klimatu, z. ú."
 description: Klimatický podcast o budoucnosti, ve které nám nepoteče do bot.
 keywords: klima, změna klimatu, podcast
@@ -34,6 +36,10 @@ cdn:
     jquery_hash:        "sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
     bootstrap_js:       "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.bundle.min.js"
     bootstrap_js_hash:  "sha512-wV7Yj1alIZDqZFCUQJy85VN+qvEIly93fIQAN7iqDFCPEucLCeNFz4r35FCo9s6WrpdDQPi80xbljXB8Bjtvcg=="
+    tocbot:             "https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.12.2/tocbot.min.js"
+    tocbot_hash:        "sha512-8u1QblAcGUuhEv26YgTYO3+OtPL7l37qiYoPQtahVTaiLn/H3Z/K16TOXJ3U7PDYBiJWCWKM0a+ELUDGDgED2Q=="
+    fuse:               "https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.min.js"
+    fuse_hash:          "sha512-KnvCNMwWBGCfxdOtUpEtYgoM59HHgjHnsVGSxxgz7QH1DYeURk+am9p3J+gsOevfE29DV0V+/Dd52ykTKxN5fA=="
 
 # What files to include/exclude from final site?
 include: [ ".well-known" ] # .well-known-templates implicitly excluded

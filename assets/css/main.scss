@@ -1,0 +1,11 @@
+---
+# This file should contain only @imports from assets/_scss folder.
+# The foder _scss is not exported on the web, only used for compilation of the CSS file.
+---
+
+@import "colors.scss";
+
+@import "core_design.scss";
+@import "search.scss";
+@import "index.scss";
+@import "episodes.scss";

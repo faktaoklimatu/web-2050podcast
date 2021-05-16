@@ -1,12 +1,22 @@
 <footer>
     <div class="container">
-        <!--
+        <div>
+            <a class="no-ext-link-icon" href="{{ site.fundraising }}">
+            <span class="fas fa-fw fa-heart"></span> Podpořte nás</a><br/>
+            <a class="no-ext-link-icon" href="https://instagram.com/{{ site.instagram }}">
+            <span class="fab fa-fw fa-instagram"></span> {{ site.instagram }}</a><br/>
+            <a class="no-ext-link-icon" href="https://facebook.com/{{ site.facebook }}">
+            <span class="fab fa-fw fa-facebook"></span> {{ site.facebook }}</a><br/>
+            <a class="no-ext-link-icon" href="{{ site.newsletter }}">
+            <span class="fas fa-fw fa-envelope-open-text"></span> Novinky emailem</a><br/>
+            <a class="no-ext-link-icon" href="mailto:{{ site.email }}">
+            <span class="fas fa-fw fa-envelope"></span> {{ site.email }}</a><br/>
+        </div>
         <div class="text-right">
             {{ site.copyright }}<br/>
-            {{ site.data.lang.footer.last-change }}: <a class="no-ext-link-icon" href="https://github.com/{{ site.github }}/commit/{{ site.git.commit_hash }}"
+            Poslední změna: <a class="no-ext-link-icon" href="https://github.com/{{ site.github }}/commit/{{ site.git.commit_hash }}"
             title="commit {{ site.git.commit_hash_short }}">{{ site.git.commit_date }}</a><br/>
             GitHub: <a class="no-ext-link-icon" href="https://github.com/{{ site.github }}/">{{ site.github }}</a>
         </div>
-        -->
     </div>
 </footer>
