@@ -1,0 +1,18 @@
+---
+layout: null
+---
+[
+  {%- assign pages = site.pages | where_exp: "page", "page.search_type" %}
+  {%- assign objects = site.episodes | sort: "published" | reverse %}
+  {%- assign all = pages | concat: objects %}
+  {%- for page in all %}
+    {
+        "title" : {{ page.title | strip_html | jsonify }},
+        "url" : "{{ page.url }}",
+        {%- capture html %}<img src="https://faktaoklimatu.cz/assets/generated/emise-cr-detail_600.png" alt="Emise skleníkových plynů v ČR podle sektorů detailně" class="img-fluid" />{%- endcapture %}
+        "block" : {{ html | normalize_whitespace | jsonify }},
+        "perex" : {{ page.summary | normalize_whitespace | strip | strip_html | strip_newlines | replace: '"', '' | jsonify }},
+        "content" : {{ page.content | markdownify | normalize_whitespace | strip | strip_html | strip_newlines | replace: '"', '' | slice: 0, 3000 | jsonify }}
+    }{%- if forloop.last %}{% else %},{% endif %}
+  {%- endfor %}
+]
