@@ -2,32 +2,11 @@ body {
     color: #333333;
     font-family: sans-serif;
     text-align: center;
-}
-
-.main {
-    z-index: 1;
-    position: absolute;
-    top: 30px;
-    bottom: 30px;
-    left: 30px;
-    right: 30px;
     background: #f2f2f2;
 }
 
-.center {
-    z-index: 2;
-    position: absolute;
-    top: 45%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);
-    padding: 30px;
-}
-
-@media only screen and (min-width: 950px) {
-    .center {
-        min-width: 800px;
-    }
+.container {
+    padding-top: 10%;
 }
 
 img {
