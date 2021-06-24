@@ -14,3 +14,5 @@ gem 'nokogumbo'
 # Temporarity provided locally.
 # Local fix applied (URI escaping needed). Pull request submitted.
 # gem 'jekyll-target-blank'
+
+gem "webrick", "~> 1.7"
