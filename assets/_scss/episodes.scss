@@ -111,7 +111,7 @@ p.caption {
     }
 
     h2, li, a:not(:hover) {
-        color: $c-grey;
+        color: $c-primary;
     }
 
     li {
@@ -192,9 +192,9 @@ div.longread-figure {
         margin: 0.5rem 0.5rem 0 0.5rem;
         font-size: 0.8rem;
         line-height: 150%;
-        color: $c-grey;
+        color: $c-secondary;
         a {
-            color: $c-grey;
+            color: $c-secondary;
         }
     }
 }

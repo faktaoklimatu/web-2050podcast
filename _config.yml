@@ -2,8 +2,13 @@
 title: "2050 podcast"
 url: https://2050podcast.cz
 email: podcast@2050podcast.cz
-instagram: 2050_podcast
-facebook: 2050podcast
+instagram: https://www.instagram.com/2050_podcast/
+facebook: https://www.facebook.com/2050podcast
+spotify: https://open.spotify.com/show/4vhMfZxkN7iUGQMVqEvOO8
+apple-podcasts: https://podcasts.apple.com/us/podcast/2050/id1570604946
+google-podcasts: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hdWRpb2Jvb20uY29tL2NoYW5uZWxzLzUwNTA1NTIucnNz
+youtube: https://www.youtube.com/channel/UCpW-nPyjH68BUfAjzhk7O_Q
+rss: https://audioboom.com/channels/5050552.rss
 github: faktaoklimatu/web-2050podcast
 newsletter: "https://tinyletter.com/faktaoklimatu/subscribe"
 fundraising: "https://www.darujme.cz/projekt/1203742"
@@ -36,10 +41,6 @@ cdn:
     jquery_hash:        "sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
     bootstrap_js:       "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.bundle.min.js"
     bootstrap_js_hash:  "sha512-wV7Yj1alIZDqZFCUQJy85VN+qvEIly93fIQAN7iqDFCPEucLCeNFz4r35FCo9s6WrpdDQPi80xbljXB8Bjtvcg=="
-    tocbot:             "https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.12.2/tocbot.min.js"
-    tocbot_hash:        "sha512-8u1QblAcGUuhEv26YgTYO3+OtPL7l37qiYoPQtahVTaiLn/H3Z/K16TOXJ3U7PDYBiJWCWKM0a+ELUDGDgED2Q=="
-    fuse:               "https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.min.js"
-    fuse_hash:          "sha512-KnvCNMwWBGCfxdOtUpEtYgoM59HHgjHnsVGSxxgz7QH1DYeURk+am9p3J+gsOevfE29DV0V+/Dd52ykTKxN5fA=="
 
 # What files to include/exclude from final site?
 include: [ ".well-known" ] # .well-known-templates implicitly excluded

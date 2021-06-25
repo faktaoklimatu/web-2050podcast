@@ -1,8 +1,29 @@
 /* Intro page customizations */
 
 .intro {
+
+    background-image: url('/assets/img/header.png');
+    background-size: cover;
+    min-height: 100vh;
+
+    .container {
+        
+    }
+
+    h1 {
+        margin-top: 10vh;
+        font-size: 6rem;
+        font-weight: bold;
+        color: $c-body;
+    }
+
     p {
-        font-size: 1.5rem;
+        font-size: 1.4rem;
+        color: $c-body;
+    }
+
+    .btn {
+        margin: 1.5em 0 2em 0;
     }
 
     @media screen and (max-width: 768px) {
@@ -14,148 +35,5 @@
             padding-left: 0;
             text-align: center;
         }
-
-        p:first-of-type {
-            margin-top: 0;
-        }
-
-        form {
-            padding-left: 0;
-        }
     }
-}
-
-.card {
-    margin: 15px 0 15px 0;
-    border-width: 2px;
-}
-
-.preview-card {
-    text-decoration: none;
-    text-align: left;
-    // enforce 10:7 aspect ratio
-    height: 0;
-    padding-bottom: 70%;
-    overflow: hidden;
-
-    h6.card-subtitle {
-        text-transform: uppercase;
-        font-size: 0.9rem;
-    }
-}
-
-.preview-card-image {
-    // Add 70% of the 4px border as well.
-    padding-bottom: calc(70% + 3px);
-    background-size: cover;
-}
-
-a.card:hover {
-    border-color: rgba($c-primary, 0.5);
-    text-decoration: none;
-}
-
-.small-card-img-overlay {
-    background-color: rgba(255, 255, 255, 0.9);
-    top: auto;
-    bottom: 0.5rem;
-    padding: 0.3rem 1rem;
-
-    h5 {
-        margin-bottom: 0;
-        font-size: 1rem;
-    }
-}
-
-.card-dataset-overlay {
-    background-color: rgba(255, 255, 255, 0.9);
-    bottom: auto;
-}
-
-.more-overlay-box {
-    overflow: hidden;
-    background-image: radial-gradient(white 30%, rgba(255,255,255,0.8) 60%, rgba(255,255,255,0) 100%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding: 60px;
-
-    i { // Font Awesome icon
-        padding-bottom: 0.2em;
-        font-size: 300%;
-    }
-}
-
-/* Tabs for role-specific links */
-
-.bg-extralight-blue { background: $c-extralight-blue !important; }
-.bg-extralight-green { background: $c-extralight-orange !important; }
-.bg-extralight-red { background: $c-extralight-yellow !important; }
-
-.nav-tabs .nav-link {
-    border: 0;
-    margin: 0 10px 0 0;
-    padding: 0.5em 1em;
-    cursor: pointer;
-}
-
-/* Accordion of topics covered */
-
-.accordion-item {
-    border-bottom: 1px solid rgba(0,0,0,.25);
-}
-
-.accordion-item:last-child {
-    border: none;
-}
-
-.accordion-header {
-    cursor: pointer;
-    padding: 1rem 0;
-    margin-bottom: 0;
-}
-
-.accordion-header .fa {
-    transition: .3s transform ease-in-out;
-  }
-
-.accordion-header.collapsed .fa {
-    transform: rotate(180deg);
-}
-
-/* Carousel with successes */
-
-.carousel-caption {
-    background: rgba(0,0,0,0.6);
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding: 20px 20% 50px 20%;
-}
-
-.carousel a {
-    text-decoration: none;
-}
-
-.payment-box {
-  display: none;
-  #payment-table {
-    margin: 20px 0 20px 0;
-
-    th {
-      text-align: right;
-      padding: 3px 10px;
-    }
-
-    td {
-      padding: 3px 10px;
-      border-left: 2px solid $c-primary;
-    }
-  }
-}
-
-.index-logos {
-    height: 100px;
-    padding: 10px 0 10px 30px;
 }
