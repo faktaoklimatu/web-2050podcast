@@ -1,9 +1,9 @@
 ---
 layout:     episode
-title:      "Teaser title"
-number:      0
-slug:       "0-teaser"
-published:  2021-06-01
+title:      "AAA"
+number:     1
+slug:       "1-aaa"
+published:  2021-06-02
 tags-scopes: [ svet ]
 tags-topics: [ budoucnost ]
 summary:    "Kratky popis dielu"

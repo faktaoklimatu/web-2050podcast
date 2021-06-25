@@ -1,9 +1,9 @@
 ---
 layout:     episode
-title:      "Teaser title"
-number:      0
-slug:       "0-teaser"
-published:  2021-06-01
+title:      "DDD"
+number:     4
+slug:       "4-ddd"
+published:  2021-06-05
 tags-scopes: [ svet ]
 tags-topics: [ budoucnost ]
 summary:    "Kratky popis dielu"

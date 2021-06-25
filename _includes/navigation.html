@@ -1,32 +1,24 @@
-<nav class="navbar navbar-expand-md navbar-light fixed-top">
+<nav class="navbar navbar-expand-md navbar-dark fixed-top">
     <div id="nav-container" class="container">
         <a class="navbar-brand" href="/">{{ site.title }}</a>
         <div id="navbar-buttons">
-            <button id="searchShow" class="btn btn-sm btn-outline-secondary" type="button" aria-label="Vyhledávání">
-                <i class="fas fa-search"></i>
-            </button>
             <button id="toggler" class="btn btn-sm btn-outline-secondary" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Zobrazit/skrýt navigaci">
                 <i class="fas fa-bars"></i>
             </button>
         </div>
         <div class="collapse navbar-collapse" id="navbar">
-            <ul class="navbar-nav ml-auto">
-                <li><a class="nav-link {{ menu-item.class }}" href="/epizody">Epizody</a></li>
-                <li><a class="nav-link {{ menu-item.class }}" href="{{ site.fundraising }}">Podpořte nás</a></li>
-                <li><a class="nav-link {{ menu-item.class }}" href="{{ site.newsletter }}">Newsletter</a></li>
+            <ul class="navbar-nav text ml-auto">
+                <li><a class="nav-link" href="/epizody">Epizody</a></li>
+                <li><a class="nav-link no-ext-link-icon" href="{{ site.fundraising }}">Podpořte nás</a></li>
             </ul>
-        </div>
-    </div>
-    <div id="search-container" class="container">
-        <form id="searchbox-form">
-            <input class="form-control me-2" id="searchbox" data-bs-toggle="dropdown" type="search" placeholder="Hledat" aria-label="Hledat" autocomplete="off">
-            <button id="searchHide" class="btn btn-sm btn-outline-secondary" type="button" aria-label="Zrušit">
-                <i class="fas fa-fw fa-times"></i>
-            </button>
-        </form>
-        <div id="omnisearch-suggestions-container">
-            <div class="dropdown-menu" id="omnisearch-suggestions" aria-labelledby="searchbox">
-            </div>
+            <ul class="navbar-nav ml-auto">
+                <li><a class="nav-link no-ext-link-icon" href="{{ site.instagram }}"><i class="fab fa-fw fa-instagram"></i></a></li>
+                <li><a class="nav-link no-ext-link-icon" href="{{ site.spotify }}"><i class="fab fa-fw fa-spotify"></i></a></li>
+                <li><a class="nav-link no-ext-link-icon" href="{{ site.apple-podcasts }}"><i class="fas fa-fw fa-podcast"></i></a></li>
+                <li><a class="nav-link no-ext-link-icon" href="{{ site.google-podcasts }}"><i class="fab fa-fw fa-google"></i></a></li>
+                <li><a class="nav-link no-ext-link-icon" href="{{ site.youtube }}"><i class="fab fa-fw fa-youtube"></i></a></li>
+                <li><a class="nav-link no-ext-link-icon" href="{{ site.rss }}"><i class="fas fa-fw fa-rss"></i></a></li>
+            </ul>
         </div>
     </div>
 </nav>

@@ -1,9 +1,9 @@
 ---
 layout:     episode
-title:      "Teaser title"
-number:      0
-slug:       "0-teaser"
-published:  2021-06-01
+title:      "CCC"
+number:     3
+slug:       "3-ccc"
+published:  2021-06-04
 tags-scopes: [ svet ]
 tags-topics: [ budoucnost ]
 summary:    "Kratky popis dielu"

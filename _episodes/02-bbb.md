@@ -1,9 +1,9 @@
 ---
 layout:     episode
-title:      "Teaser title"
-number:      0
-slug:       "0-teaser"
-published:  2021-06-01
+title:      "BBB"
+number:     2
+slug:       "2-teaser"
+published:  2021-06-03
 tags-scopes: [ svet ]
 tags-topics: [ budoucnost ]
 summary:    "Kratky popis dielu"
