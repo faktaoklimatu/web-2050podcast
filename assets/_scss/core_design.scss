@@ -109,6 +109,18 @@ ul:last-child {
     }
 }
 
+.btn-secondary {
+    color: $c-text;
+    background-color: transparent;
+    border-color: $c-text;
+
+    &:hover {
+        color: $c-body;
+        background-color: $c-text;
+        border-color: $c-text;
+    }
+}
+
 .btn-primary:not(:disabled):not(.disabled).active,
 .btn-primary:not(:disabled):not(.disabled):active {
     color: $c-body;
@@ -141,19 +153,24 @@ ul:last-child {
         background-position: left;
     }
 
+    .nav-link {
+        display: inline-block;
+
+        i {
+            font-size: 1.5em;
+        }
+    }
+
     .container {
         padding: 0.5em 1em;
     }
 
     button.btn {
+        color: $c-body;
+        border-color: $c-body;
         margin: 0.25rem 0.1rem;
         font-size: 1.1rem;
     }
-}
-
-.navbar-expand-md .navbar-nav.text .nav-link {
-    padding-left: 1rem;
-    padding-right: 1rem;
 }
 
 @media (min-width: 768px) {
@@ -243,63 +260,5 @@ footer .container div.right {
     footer .container div.right {
         text-align: right;
         margin-top: 0em;
-    }
-}
-
-/* Collapssible sections in texts. */
-
-details {
-    padding-right: 2rem;
-    padding-left: 1rem;
-    border: 1px solid rgba(0, 0, 0, 0.125);
-    background: rgba(255, 255, 255, 0.5);
-
-    + details {
-        border-top: 0;
-    }
-
-    > summary {
-        padding: 0.75rem 0 0.75rem 0;
-
-        &::marker {
-            content: "⯆";
-        }
-
-        h2, h3, h4 {
-            display: inline;
-            margin-left: 0.5em;
-        }
-    }
-
-    > summary:hover {
-        color: #0056b3;
-    }
-
-    &[open] {
-        padding-bottom: 1.5em;
-
-        > summary {
-            margin-bottom: 0.25em;
-        }
-
-        > summary::marker {
-            content: "⯅";
-        }
-    }
-
-    h2, h3, h4, p {
-        margin-left: 1.75rem;
-    }
-
-    + h2, + h3, + p, + ul {
-        margin-top: 1rem;
-    }
-}
-
-/* Informational popups. */
-
-.popover {
-    p {
-        text-align: left;
     }
 }

@@ -1,0 +1,50 @@
+---
+layout: empty
+title: Fakta o klimatu
+slug: index
+---
+<div class="section intro">
+    <div class="container">
+        <h1 id="home">2050</h1>
+        <p>Klimatický podcast o budoucnosti,<br/>ve které nám nepoteče do bot.<br/>
+            <a href="/epizody/0-teaser" class="btn btn-primary"><i class="fas fa-fw fa-headphones"></i> Poslechni si teaser</a>
+        </p>
+        <p>Chceš dát vědět,<br/>až vyjde první epizoda?<br/>
+            <a href="#newsletter-modal" class="btn btn-primary" id="newsletter-embed" data-toggle="modal" data-target="#newsletter-modal"> To teda chci!</a>
+        </p>
+    </div>
+</div>
+<div class="section">
+    <div class="container">
+        <h2>Proč a jak točíme tenhle podcast</h2>
+
+        <div class="d-sm-flex mt-3 mb-3">
+            <div class="mr-sm-3">
+                <h3 class="color-primary">Chceme</h3>
+                <p>aby se lidé v otázce změny klimatu lépe orientovali. Aby věděli o řešeních, která jsou v současné době už k dispozici a můžeme je použít.</p>
+            </div>
+            <div>
+                <h3 class="color-primary">Nechceme</h3>
+                <p>prohlubovat "klimatickou depresi" a přinášet další zprávy o tom, jak je všechno špatně. Nechceme se ale ani tvářit, že svět spasí třídění odpadu.</p>
+            </div>
+        </div>
+        
+        <p>Podcast 2050 má za cíl komunikovat o otázkách spojených se změnou klimatu věcně a konstruktivně a opírat se přitom o data a dosavadní vědecké poznatky. Nečekejte proto úhel pohledu, který je jednoduchý a černobílý. Zatímco v některých krocích k udržitelné budoucnosti má lidstvo už dnes jasno a stačí je jen realizovat, jinde ještě nevíme.</p>
+        <p>V podcastu 2050 prozkoumáváme cesty k takové budoucnosti, ve které nám nepoteče do bot.</p>
+    </div>
+</div>
+<div class="section text-center">
+    <div class="container">
+        <h2 class="text-lg-left">Epizody</h2>
+        
+        {% assign sorted_episodes = site.episodes | sort: number | slice: 0,3 %}
+        {% for episodee in sorted_episodes %}
+        {% include episode-preview.html episode=episodee %}
+        {% endfor %}
+        
+        {% if site.episodes.size > 3 %}
+        <a class="btn btn-primary all-episodes" href="/epizody">Zobraz všechny epizody</a>
+        {% endif %}
+        
+    </div>
+</div>
