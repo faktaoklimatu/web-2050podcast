@@ -1,11 +1,9 @@
 ---
 layout:     episode
-title:      "BBB"
-number:     2
-slug:       "2-teaser"
-published:  2021-06-03
-tags-scopes: [ svet ]
-tags-topics: [ budoucnost ]
+title:      "AAA"
+number:     1
+slug:       "1-aaa"
+published:  2021-06-02
 summary:    "Kratky popis dielu"
 audioboom:  "7861095"
 ---

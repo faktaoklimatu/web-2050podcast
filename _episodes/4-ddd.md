@@ -1,11 +1,9 @@
 ---
 layout:     episode
-title:      "CCC"
-number:     3
-slug:       "3-ccc"
-published:  2021-06-04
-tags-scopes: [ svet ]
-tags-topics: [ budoucnost ]
+title:      "DDD"
+number:     4
+slug:       "4-ddd"
+published:  2021-06-05
 summary:    "Kratky popis dielu"
 audioboom:  "7861095"
 ---

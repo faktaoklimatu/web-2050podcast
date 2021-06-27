@@ -10,7 +10,7 @@ google-podcasts: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hdWRpb2Jvb20uY2
 youtube: https://www.youtube.com/channel/UCpW-nPyjH68BUfAjzhk7O_Q
 rss: https://audioboom.com/channels/5050552.rss
 github: faktaoklimatu/web-2050podcast
-newsletter: "https://tinyletter.com/faktaoklimatu/subscribe"
+newsletter: "8-0ff8f206695a872edfb6fade7b6458ba"
 fundraising: "https://www.darujme.cz/projekt/1203742"
 author: Fakta o klimatu
 copyright: "&copy; 2021 Otevřená data o klimatu, z. ú."
@@ -73,6 +73,11 @@ plugins:
 
 target-blank:
     add_css_classes: ext-link
+
+html-beautify:
+  include:
+    - "*.html"
+    - "*.md"
 
 # Enable Czech smart quotes
 kramdown:
