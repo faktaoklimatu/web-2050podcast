@@ -1,5 +1,6 @@
 # Generated web files
 /humans.txt
+/assets/episodes/*
 
 # Build Jekyll site, cache, test results
 /_site/**

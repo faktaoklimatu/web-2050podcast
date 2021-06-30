@@ -1,3 +1,7 @@
+EPISODE_IMAGES_FOLDER=assets/episodes
+EPISODE_IMAGES_SRC=$(wildcard _episodes/*.jpg _episodes/*.png)
+EPISODE_IMAGES_DST=$(addprefix $(EPISODE_IMAGES_FOLDER)/,$(notdir $(EPISODE_IMAGES_SRC)))
+
 PODMAN=podman
 CONTAINER_IMAGE=2050podcast/web
 CONTAINER_NAME=2050podcast
@@ -53,11 +57,15 @@ deploy-production: build
 
 # === Targets for generating files  ===
 
-generated-files: humans.txt
+generated-files: humans.txt $(EPISODE_IMAGES_DST)
 
 humans.txt: CONTRIBUTORS.md
 	@echo "Creating humans.txt file ..."
 	cp CONTRIBUTORS.md humans.txt
+
+$(EPISODE_IMAGES_FOLDER)/%: _episodes/%
+	mkdir -p $(@D)
+	cp $< $@
 
 # === Cleaning targets  ===
 

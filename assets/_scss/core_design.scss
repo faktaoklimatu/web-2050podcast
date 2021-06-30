@@ -5,9 +5,9 @@ html {
 body {
     padding-top: 56px;
     font-family: 'Space Grotesk', sans-serif !important;
-    color: $c-text;
+    color: $c-black;
     font-size: 1.1rem;
-    background: $c-body;
+    background: $c-white;
     position: relative;
     display: flex;
     min-height: 100vh;
@@ -35,6 +35,10 @@ a {
     color: $c-primary;
     text-decoration: underline;
     cursor: pointer;
+}
+
+a:hover {
+    color: $c-secondary;
 }
 
 .ext-link:after {
@@ -98,32 +102,32 @@ ul:last-child {
 }
 
 .btn-primary {
-    color: $c-body;
+    color: $c-white;
     background-color: $c-secondary;
     border-color: $c-secondary;
 
     &:hover {
-        color: $c-body;
+        color: $c-white;
         background-color: $c-primary;
         border-color: $c-primary;
     }
 }
 
 .btn-secondary {
-    color: $c-text;
+    color: $c-black;
     background-color: transparent;
-    border-color: $c-text;
+    border-color: $c-secondary;
 
     &:hover {
-        color: $c-body;
-        background-color: $c-text;
-        border-color: $c-text;
+        color: $c-white;
+        background-color: $c-secondary;
+        border-color: $c-secondary;
     }
 }
 
 .btn-primary:not(:disabled):not(.disabled).active,
 .btn-primary:not(:disabled):not(.disabled):active {
-    color: $c-body;
+    color: $c-white;
     background-color: $c-primary;
     border-color: $c-primary;
 }
@@ -145,16 +149,9 @@ ul:last-child {
         box-shadow: 0 3px 10px #e2e2ff;
     }
 
-    &-brand {
-        padding-left: 2rem;
-        background-image: url(/assets/favicon.png);
-        background-repeat: no-repeat;
-        background-size: 1.5rem;
-        background-position: left;
-    }
-
     .nav-link {
         display: inline-block;
+        padding: 0.5rem 0.5rem;
 
         i {
             font-size: 1.5em;
@@ -166,8 +163,8 @@ ul:last-child {
     }
 
     button.btn {
-        color: $c-body;
-        border-color: $c-body;
+        color: $c-white;
+        border-color: $c-white;
         margin: 0.25rem 0.1rem;
         font-size: 1.1rem;
     }
@@ -228,9 +225,10 @@ footer {
     width: 100%;
     padding-top: 2rem;
     padding-bottom: 2rem;
-    line-height: 1.5rem;
-    background: $c-primary;
-    color: $c-body;
+    font-size: 1rem;
+    text-align: center;
+    background: $c-secondary;
+    color: rgba(255, 255, 255, 0.5);;
 
     .container {
         display: flex;
@@ -240,25 +238,22 @@ footer {
         div {
             flex-grow: 1;
         }
+
+        div:last-of-type {
+            margin-top: 1em;
+        }
     }
 
     a {
         color: inherit;
+    }
+
+    a:hover {
+        color: rgba(255, 255, 255, 0.75);
     }
 }
 
 div.pre-footer {
     color: $c-primary;
     text-align: center;
-}
-
-footer .container div.right {
-    margin-top: 1em;
-}
-
-@media (min-width: 992px) {
-    footer .container div.right {
-        text-align: right;
-        margin-top: 0em;
-    }
 }
