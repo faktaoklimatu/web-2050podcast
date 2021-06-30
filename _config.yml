@@ -54,7 +54,9 @@ exclude:
     - firebase.json        # Deploy settings
     - utils                # Development files
     - Dockerfile           # Containerization
-    - .cache/               # Intermediate files
+    - .cache/              # Intermediate files
+    - _episodes/*.jpg      # Episode images
+    - _episodes/*.png      # Episode images
 
 sass:
     sass_dir: assets/_scss

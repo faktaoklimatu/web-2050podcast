@@ -6,20 +6,16 @@
     background-size: cover;
     min-height: 100vh;
 
-    .container {
-        
-    }
-
     h1 {
         margin-top: 10vh;
         font-size: 6rem;
         font-weight: bold;
-        color: $c-body;
+        color: $c-white;
     }
 
     p {
         font-size: 1.4rem;
-        color: $c-body;
+        color: $c-white;
     }
 
     .btn {

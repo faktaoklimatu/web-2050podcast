@@ -3,19 +3,17 @@ layout: empty
 title: Všechny epizody
 slug: epizody
 ---
-<div class="section"><div class="container" markdown="1">
+<div class="section"><div class="container">
 
 <h1>{{ page.title }}</h1>
 
-<p class="lead">Intro text.</p>
+<p class="lead">Chcete vědět, co vŠechno už vyšlo? Zde najdete přehled všech epizod podcastu 2050.</p>
 
 </div></div>
 
 {% assign sorted_episodes = site.episodes | sort: number %}
 {% for episode in sorted_episodes %}
-<div class="section"><div class="container" markdown="1">
-
+<div class="section"><div class="container">
 {% include episode-preview.html episode=episode %}
-
 </div></div>
 {% endfor %}

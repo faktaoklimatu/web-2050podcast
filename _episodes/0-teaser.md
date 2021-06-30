@@ -3,7 +3,7 @@ layout:     episode
 title:      "Podcast 2050 se blíží!"
 number:     0
 slug:       "0-teaser"
-published:  2021-06-01
+published:  2021-05-11
 summary:    |
   Klimatický podcast o budoucnosti, ve které nám nepoteče do bot.
   
