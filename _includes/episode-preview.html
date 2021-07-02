@@ -3,7 +3,9 @@
         <iframe class="col-lg-4 mb-3 mr-lg-auto" height="330px" src="https://embeds.audioboom.com/posts/{{ include.episode.audioboom }}/embed/v4?image_option=full" style="background-color:transparent; display:block; padding: 0; max-width:280px;" frameborder="0" allowtransparency="allowtransparency" scrolling="no" title="Audioboom player" allow="autoplay"></iframe>
         <div class="col-lg-8 mb-3">
             <h3><a href="{{ include.episode.url }}">{{ include.episode.title }}</a></h3>
-            <p class="text-muted">{% include date-cs.html date=include.episode.published %}, epizoda {{ include.episode.number }}</p>
+            <p class="text-muted">{% include date-cs.html date=include.episode.published %}, 
+                {% if include.episode.type %}{{ include.episode.type }}{% else %}epizoda{% endif %}
+                {% if include.episode.number %}{{ include.episode.number }}{% endif %}</p>
             <p>{{ include.episode.summary | markdownify }}</p>
             <a class="btn btn-secondary ml-0" href="/epizody/{{ include.episode.slug }}">Podrobnosti a bonusy</a>
         </div>
