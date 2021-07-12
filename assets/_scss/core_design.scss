@@ -148,8 +148,10 @@ ul:last-child {
     flex-flow: column wrap;
     padding: 0;
 
-    li {
-        padding: 0 1rem;
+    @media (min-width: 992px) {
+        li {
+            padding: 0 1rem;
+        }
     }
 
     a {
