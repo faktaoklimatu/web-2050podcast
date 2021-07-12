@@ -148,8 +148,17 @@ ul:last-child {
     flex-flow: column wrap;
     padding: 0;
 
+    li {
+        padding: 0 1rem;
+    }
+
     a {
         text-decoration: none;
+        color:rgba(255, 255, 255, 0.85)!important;
+    }
+
+    a:hover {
+        color: $c-white!important;
     }
 
     &-scrolled {
@@ -167,9 +176,9 @@ ul:last-child {
         svg {
             height: 1.7em;
             margin-top: -12px;
-            fill: rgba(255, 255, 255, 0.5);
+            fill: rgba(255, 255, 255, 0.85);
             &:hover {
-                fill: rgba(255, 255, 255, 0.75);
+                fill: $c-white;
             }
         }
     }
