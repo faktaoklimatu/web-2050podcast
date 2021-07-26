@@ -11,7 +11,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8">
-            <h1>{{ page.title }}</h1>
+            <h1>{% if page.number %}{{ page.number }}: {% endif %}{{ page.title }}</h1>
             <p class="text-muted">{% include date-cs.html date=page.published %}, 
               {% if page.type %}{{ page.type }}{% else %}epizoda{% endif %}
               {% if page.number %}{{ page.number }}{% endif %}</p>
