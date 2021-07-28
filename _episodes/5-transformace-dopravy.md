@@ -6,7 +6,7 @@ slug:       "5-transformace-dopravy"
 published:  2021-07-28
 summary:    |
   O elektroautech se mluví v poslední době opravdu hodně. My se v páté epizodě zaměříme na detailní srovnání spalovacích motorů a elektromotorů a vyjádříme se ke třem argumentům, které lze v souvislosti s elektromobily často slyšet.
-audioboom:  "7902963"
+audioboom:  "7912584"
 ---
 _"Mají příliš krátký dojezd."_
 

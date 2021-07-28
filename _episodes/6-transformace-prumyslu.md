@@ -6,7 +6,7 @@ slug:       "6-transformace-prumyslu"
 published:  2021-07-28
 summary:    |
   V šesté epizodě se nyní podíváme také na to, jaké emise vznikají v průmyslu přímo, a to samotnou výrobou či chemickými reakcemi využívanými v konkrétních odvětvích. Jako příklad můžeme uvést výrobu cementu, kde oxid uhličitý vzniká přímo během chemické reakce.
-audioboom:  "7902963"
+audioboom:  "7912585"
 ---
 Průmysl produkuje emise skleníkových plynů tím, že spotřebovává velké množství energie při všech procesech spalování, zahřívání, sušení nebo destilace. Tato část úzce souvisí s nutností dekarbonizace sektoru energetiky, o které jsme mluvili ve druhé epizodě.
 

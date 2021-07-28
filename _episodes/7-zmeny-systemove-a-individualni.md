@@ -6,7 +6,7 @@ slug:       "7-zmeny-systemove-a-individualni"
 published:  2021-07-28
 summary:    |
   Přehled možností, jak dosáhnout uhlíkové neutrality v jednotlivých sektorech, máme za sebou. Pořád ale nevíme přesně, kdo tedy zařídí, aby se to opravdu stalo. A právě na to se podíváme v poslední epizodě první série našeho podcastu.
-audioboom:  "7902963"
+audioboom:  "7912596"
 ---
 Uděláme si přehled o tom, jak ke klimatické změně přistupují politici jinde v Evropě a ve světě – a co se na mezinárodní i národní úrovni v této oblasti aktuálně řeší. Zkrátka jaké nástroje mají státy, aby motivovaly k potřebným změnám, a klimatické neutrality tak bylo opravdu dosaženo.
 
