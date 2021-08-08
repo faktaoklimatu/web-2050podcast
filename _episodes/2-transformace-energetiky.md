@@ -24,6 +24,9 @@ Dozvíte se, jakým směrem se může naše energetika vydat, abychom v roce 205
 
 <div class="bonus-material" markdown="1">
 
+* **Infografika [Vývoj světových cen elektřiny podle zdrojů](https://faktaoklimatu.cz/infografiky/cena-energie)** (_Fakta o klimatu_)  
+  Ceny výroby elektřiny ze slunce a větru v polsední dekádě výrazně klesly a dnes tyto obnovitelné zdroje energie patří ve světě mezi nejlevnější.
+
 * **Infografika [Emise skleníkových plynů podle sektorů lidské činnosti](https://faktaoklimatu.cz/infografiky/emise-cr-detail)** (_Fakta o klimatu_)  
   Tato série postupně rozebírá jednotlivé sektory lidské činnosti a věnuje se řešením, která mohou pomoci eliminovat množství skleníkových plynů produkovaných v těchto sektorech.
 
@@ -31,7 +34,7 @@ Dozvíte se, jakým směrem se může naše energetika vydat, abychom v roce 205
   Definici termínu, který jste mohli v této epizodě často slyšet, najdete v našem slovníčku.
 
 * **Infografika [Energetika a emise](https://faktaoklimatu.cz/infografiky/elektrina-cr)** (_Fakta o klimatu_)  
-V tomto grafu si můžete prohlédnout, kolik emisí a energie produkují jednotlivé zdroje energie.
+  V tomto grafu si můžete prohlédnout, kolik emisí a energie produkují jednotlivé zdroje energie.
 
 * **Infografiky [Potenciál větrné energie](https://faktaoklimatu.cz/infografiky/potencial-vetrne-energie-cr) a [Potenciál solární energie](https://faktaoklimatu.cz/infografiky/potencial-solarni-energie-cr-strechy)** (_Fakta o klimatu_)  
   Přechod na obnovitelné zdroje energie je v ČR možný a tady se můžete podívat, jaký mají tyto zdroje potenciál. Mluví o něm například i Oldřich Sklenář.
