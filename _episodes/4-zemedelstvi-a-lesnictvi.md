@@ -30,8 +30,8 @@ V této epizodě se podrobně podíváme na sektory lesnictví a zemědělství.
 * **Rozhovor s Vojtěchem Koteckým z Univerzity Karlovy** (_2050 podcast_)  
   Rozhovor bude k poslechu od 1. září 2021.
 
-* **Rozhovor s Radkem Pokorným z Mendelovy univerzity v Brně** (_Science slam MUNI_)  
-  Science slam MUNI vydá rozhovor někdy během léta 2021 na svém [Spotify kanálu](https://open.spotify.com/show/7C2SmbgQ6ZDYLJrdvwH2qE).
+* **[Rozhovor s Radkem Pokorným](https://soundcloud.com/scienceslammuni/ss12-05-radek-pokorny-share) z Mendelovy univerzity v Brně** (_Science slam MUNI_)  
+  Radek sám o sobě říká, že je lesník. V rozhovoru se proto bavíme o tom, jaké v Česku máme lesy, jak je organizovaná jejich správa, nebo jak změna klimatu ovlivňuje podobu lesů. Můžete se také podívat na jeho [vystoupení ze Science slamu 12](https://www.youtube.com/watch?v=Kj94x3CrcdQ).
 
 * **Infografika [Emise skleníkových plynů podle sektorů lidské činnosti](https://faktaoklimatu.cz/infografiky/emise-cr-detail)** (_Fakta o klimatu_)  
   Tato série postupně rozebírá jednotlivé sektory lidské činnosti a věnuje se řešením, která mohou pomoci eliminovat množství skleníkových plynů produkovaných v těchto sektorech.
