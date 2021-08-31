@@ -28,7 +28,7 @@ Přechod ke klimatické neutralitě není jen v zájmu států, ale i firem. Nav
 <div class="bonus-material" markdown="1">
 
 * **Rozhovor s Barborou Geršlovou z IKEA** (_2050 podcast_)  
-  Rozhovor bude k poslechu od 1. září 2021.
+  Rozhovor bude k poslechu během září 2021.
 
 * **Explainer [Uhlíková neutralita](https://faktaoklimatu.cz/explainery/uhlikova-neutralita)** (_Fakta o klimatu_)  
   Tento explainer projektu Fakta o klimatu Vám názorně vysvětlí základní téma našeho podcastu – uhlíkové neutrality. Kromě toho ukazuje také cesty, jak jí dosáhnout.

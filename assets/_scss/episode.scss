@@ -1,5 +1,15 @@
 /* Episode page customizations */
 
-.bonus-material ul li {
-    margin-top: 1em;
+.bonus-material {
+    ul li {
+        margin-top: 1em;
+    }
+    .youtube-iframe {
+        text-align: center;
+    }
+    .youtube-iframe iframe {
+        width: 352px;
+        height: 198px;
+        margin-top: 1em;
+    }
 }

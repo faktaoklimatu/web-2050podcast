@@ -28,17 +28,26 @@ Abychom klimatické neutrality opravdu dosáhli, musí potřebné změny probíh
 
 <div class="bonus-material" markdown="1">
 
-* **Rozhovor s Michalem Brožou z OSN** (_2050 podcast_)  
-  Rozhovor bude k poslechu od 1. září 2021.
+{% include bonus-interview.html
+  title="Michal Broža (OSN) o mezinárodním kontextu změn klimatu"
+  video-id="ZKT0kQxmb6w"
+  video-within-playlist="https://www.youtube.com/watch?v=ZKT0kQxmb6w&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=3"
+%}
 
-* **Rozhovor s Helenou Továrkovou z Nadace Veronica** (_2050 podcast_)  
-  Rozhovor bude k poslechu od 1. září 2021.
+{% include bonus-interview.html
+  title="Helena Továrková (Nadace Veronica) o individuálním spotřebitelském chování"
+  video-id="DLZud5WRsRU"
+  video-within-playlist="https://www.youtube.com/watch?v=DLZud5WRsRU&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=8"
+%}
 
-* **Rozhovor s Kristinou Zindulkovou z Asociace pro mezinárodní otázky** (_2050 podcast_)  
-  Rozhovor bude k poslechu od 1. září 2021.
+{% include bonus-interview.html
+  title="Kristina Zindulková (AMO) o spravedlivé transformaci"
+  video-id="qbowSuKQfDg"
+  video-within-playlist="https://www.youtube.com/watch?v=qbowSuKQfDg&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=4"
+%}
 
 * **Rozhovor s Kateřinou Davidovou z Centra pro dopravu a energetiku** (_2050 podcast_)  
-  Rozhovor bude k poslechu od 1. září 2021.
+  Rozhovor bude k poslechu během září 2021.
 
 * **Infografika [Emise skleníkových plynů podle sektorů lidské činnosti](https://faktaoklimatu.cz/infografiky/emise-cr-detail)** (_Fakta o klimatu_)  
   Tato série postupně rozebírá jednotlivé sektory lidské činnosti a věnuje se řešením, která mohou pomoci eliminovat množství skleníkových plynů produkovaných v těchto sektorech.

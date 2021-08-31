@@ -26,8 +26,11 @@ Dozvíte se, jak by mohla vypadat doprava budoucnosti a také to, proč je důle
 
 <div class="bonus-material" markdown="1">
 
-* **Rozhovor s Oldřichem Sklenářem z Asociace pro mezinárodní otázky** (_2050 podcast_)  
-  Rozhovor bude k poslechu od 1. září 2021.
+{% include bonus-interview.html
+  title="Oldřich Sklenář (AMO) o dekarbonizaci dopravy"
+  video-id="9o-9dt5eHh4"
+  video-within-playlist="https://www.youtube.com/watch?v=9o-9dt5eHh4&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=2"
+%}
 
 * **Infografika [Emise skleníkových plynů podle sektorů lidské činnosti](https://faktaoklimatu.cz/infografiky/emise-cr-detail)** (_Fakta o klimatu_)  
   Tato série postupně rozebírá jednotlivé sektory lidské činnosti a věnuje se řešením, která mohou pomoci eliminovat množství skleníkových plynů produkovaných v těchto sektorech.

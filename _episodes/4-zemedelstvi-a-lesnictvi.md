@@ -27,8 +27,11 @@ V této epizodě se podrobně podíváme na sektory lesnictví a zemědělství.
 
 <div class="bonus-material" markdown="1">
 
-* **Rozhovor s Vojtěchem Koteckým z Univerzity Karlovy** (_2050 podcast_)  
-  Rozhovor bude k poslechu od 1. září 2021.
+{% include bonus-interview.html
+  title="Vojtěch Kotecký (Univerzita Karlova) o změnách klimatu v české krajině"
+  video-id="7Hpg7CiS4Ys"
+  video-within-playlist="https://www.youtube.com/watch?v=7Hpg7CiS4Ys&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=5"
+%}
 
 * **[Rozhovor s Radkem Pokorným](https://soundcloud.com/scienceslammuni/ss12-05-radek-pokorny-share) z Mendelovy univerzity v Brně** (_Science slam MUNI_)  
   Radek sám o sobě říká, že je lesník. V rozhovoru se proto bavíme o tom, jaké v Česku máme lesy, jak je organizovaná jejich správa, nebo jak změna klimatu ovlivňuje podobu lesů. Můžete se také podívat na jeho [vystoupení ze Science slamu 12](https://www.youtube.com/watch?v=Kj94x3CrcdQ).

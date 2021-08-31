@@ -21,11 +21,17 @@ Kromě renovací a úspor se ale v této epizodě podíváme i na sektor stavebn
 
 <div class="bonus-material" markdown="1">
 
-* **Rozhovor s Karlem Fronkem ze SKANSKA** (_2050 podcast_)  
-  Rozhovor bude k poslechu od 1. září 2021.
+{% include bonus-interview.html
+  title="Karel Fronk (SKANSKA) o dekarbonizaci stavebnictví"
+  video-id="Lp6YEq7w8XI"
+  video-within-playlist="https://www.youtube.com/watch?v=Lp6YEq7w8XI&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=6"
+%}
 
-* **Rozhovor s Petrem Holubem z Budovy21** (_2050 podcast_)  
-  Rozhovor bude k poslechu od 1. září 2021.
+{% include bonus-interview.html
+  title="Petr Holub (Budovy21) o úsporách energie a renovacích v sektoru budov"
+  video-id="KhGIApnnqpI"
+  video-within-playlist="https://www.youtube.com/watch?v=KhGIApnnqpI&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=8"
+%}
 
 * **Infografika [Emise skleníkových plynů podle sektorů lidské činnosti](https://faktaoklimatu.cz/infografiky/emise-cr-detail)** (_Fakta o klimatu_)  
   Tato série postupně rozebírá jednotlivé sektory lidské činnosti a věnuje se řešením, která mohou pomoci eliminovat množství skleníkových plynů produkovaných v těchto sektorech.
