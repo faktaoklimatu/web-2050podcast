@@ -46,8 +46,11 @@ Abychom klimatické neutrality opravdu dosáhli, musí potřebné změny probíh
   video-within-playlist="https://www.youtube.com/watch?v=qbowSuKQfDg&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=4"
 %}
 
-* **Rozhovor s Kateřinou Davidovou z Centra pro dopravu a energetiku** (_2050 podcast_)  
-  Rozhovor bude k poslechu během září 2021.
+{% include bonus-interview.html
+  title="Kateřina Davidová (CDE) o klimatických dohodách a politikách"
+  video-id="MJz2h4oZtD8"
+  video-within-playlist="https://www.youtube.com/watch?v=MJz2h4oZtD8&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=8"
+%}
 
 * **Infografika [Emise skleníkových plynů podle sektorů lidské činnosti](https://faktaoklimatu.cz/infografiky/emise-cr-detail)** (_Fakta o klimatu_)  
   Tato série postupně rozebírá jednotlivé sektory lidské činnosti a věnuje se řešením, která mohou pomoci eliminovat množství skleníkových plynů produkovaných v těchto sektorech.
