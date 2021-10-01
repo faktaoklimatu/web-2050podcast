@@ -12,6 +12,7 @@
 /vendor
 
 # Temporary files
+/_tmp/**
 *~
 
 # IDE files
