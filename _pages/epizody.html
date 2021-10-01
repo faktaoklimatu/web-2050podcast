@@ -11,7 +11,7 @@ slug: epizody
 
 </div></div>
 
-{% assign sorted_episodes = site.episodes | sort: number %}
+{% assign sorted_episodes = site.episodes | sort: number | reverse %}
 {% for episode in sorted_episodes %}
 <div class="section"><div class="container">
 {% include episode-preview.html episode=episode %}
