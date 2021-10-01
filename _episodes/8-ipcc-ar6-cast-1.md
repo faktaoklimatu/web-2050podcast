@@ -1,7 +1,7 @@
 ---
 layout:     episode
 title:      "„Víme toho už dost,“ říká nová zpráva IPCC"
-number:     7
+number:     8
 slug:       "7-ipcc-ar6-cast-1"
 published:  2021-10-01
 summary:    |
