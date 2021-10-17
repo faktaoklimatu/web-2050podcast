@@ -23,14 +23,14 @@ Kromě renovací a úspor se ale v této epizodě podíváme i na sektor stavebn
 
 {% include bonus-interview.html
   title="Karel Fronk (SKANSKA) o dekarbonizaci stavebnictví"
-  video-id="Lp6YEq7w8XI"
-  video-within-playlist="https://www.youtube.com/watch?v=Lp6YEq7w8XI&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=6"
+  audioboom="7958308"
+  caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
 {% include bonus-interview.html
   title="Petr Holub (Budovy21) o úsporách energie a renovacích v sektoru budov"
-  video-id="KhGIApnnqpI"
-  video-within-playlist="https://www.youtube.com/watch?v=KhGIApnnqpI&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=8"
+  audioboom="7958310"
+  caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
 * **Infografika [Emise skleníkových plynů podle sektorů lidské činnosti](https://faktaoklimatu.cz/infografiky/emise-cr-detail)** (_Fakta o klimatu_)  

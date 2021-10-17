@@ -29,8 +29,8 @@ Přechod ke klimatické neutralitě není jen v zájmu států, ale i firem. Nav
 
 {% include bonus-interview.html
   title="Barbora Geršlová (IKEA) o strategii udržitelnosti společnosti IKEA"
-  video-id="veLJ17GBSec"
-  video-within-playlist="https://www.youtube.com/watch?v=veLJ17GBSec&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=9"
+  audioboom="7958315"
+  caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
 * **Explainer [Uhlíková neutralita](https://faktaoklimatu.cz/explainery/uhlikova-neutralita)** (_Fakta o klimatu_)  
