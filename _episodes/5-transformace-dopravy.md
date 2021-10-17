@@ -28,8 +28,8 @@ Dozvíte se, jak by mohla vypadat doprava budoucnosti a také to, proč je důle
 
 {% include bonus-interview.html
   title="Oldřich Sklenář (AMO) o dekarbonizaci dopravy"
-  video-id="9o-9dt5eHh4"
-  video-within-playlist="https://www.youtube.com/watch?v=9o-9dt5eHh4&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=2"
+  audioboom="7958302"
+  caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
 * **Infografika [Emise skleníkových plynů podle sektorů lidské činnosti](https://faktaoklimatu.cz/infografiky/emise-cr-detail)** (_Fakta o klimatu_)  

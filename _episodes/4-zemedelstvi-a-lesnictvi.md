@@ -29,8 +29,8 @@ V této epizodě se podrobně podíváme na sektory lesnictví a zemědělství.
 
 {% include bonus-interview.html
   title="Vojtěch Kotecký (Univerzita Karlova) o změnách klimatu v české krajině"
-  video-id="7Hpg7CiS4Ys"
-  video-within-playlist="https://www.youtube.com/watch?v=7Hpg7CiS4Ys&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=5"
+  audioboom="7958307"
+  caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
 * **[Rozhovor s Radkem Pokorným](https://soundcloud.com/scienceslammuni/ss12-05-radek-pokorny-share) z Mendelovy univerzity v Brně** (_Science slam MUNI_)  

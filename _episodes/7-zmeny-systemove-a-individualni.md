@@ -30,26 +30,26 @@ Abychom klimatické neutrality opravdu dosáhli, musí potřebné změny probíh
 
 {% include bonus-interview.html
   title="Michal Broža (OSN) o mezinárodním kontextu změn klimatu"
-  video-id="ZKT0kQxmb6w"
-  video-within-playlist="https://www.youtube.com/watch?v=ZKT0kQxmb6w&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=3"
+  audioboom="7958298"
+  caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
 {% include bonus-interview.html
   title="Helena Továrková (Nadace Veronica) o individuálním spotřebitelském chování"
-  video-id="DLZud5WRsRU"
-  video-within-playlist="https://www.youtube.com/watch?v=DLZud5WRsRU&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=8"
+  audioboom="7958312"
+  caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
 {% include bonus-interview.html
   title="Kristina Zindulková (AMO) o spravedlivé transformaci"
-  video-id="qbowSuKQfDg"
-  video-within-playlist="https://www.youtube.com/watch?v=qbowSuKQfDg&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=4"
+  audioboom="7958305"
+  caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
 {% include bonus-interview.html
   title="Kateřina Davidová (CDE) o klimatických dohodách a politikách"
-  video-id="MJz2h4oZtD8"
-  video-within-playlist="https://www.youtube.com/watch?v=MJz2h4oZtD8&list=PLS3WwlCy6P0MQWptoq_OL1hw1jxh7w5tG&index=8"
+  audioboom="7958314"
+  caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
 * **Infografika [Emise skleníkových plynů podle sektorů lidské činnosti](https://faktaoklimatu.cz/infografiky/emise-cr-detail)** (_Fakta o klimatu_)  
