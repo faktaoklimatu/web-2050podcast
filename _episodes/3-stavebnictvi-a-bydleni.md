@@ -24,12 +24,14 @@ Kromě renovací a úspor se ale v této epizodě podíváme i na sektor stavebn
 {% include bonus-interview.html
   title="Karel Fronk (SKANSKA) o dekarbonizaci stavebnictví"
   audioboom="7958308"
+  spotify="1hetJsVXXkyCKAoLExeLcy"
   caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
 {% include bonus-interview.html
   title="Petr Holub (Budovy21) o úsporách energie a renovacích v sektoru budov"
   audioboom="7958310"
+  spotify="2G4G7aSScijfCOUOXy99Nx"
   caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 

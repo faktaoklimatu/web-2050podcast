@@ -31,24 +31,28 @@ Abychom klimatické neutrality opravdu dosáhli, musí potřebné změny probíh
 {% include bonus-interview.html
   title="Michal Broža (OSN) o mezinárodním kontextu změn klimatu"
   audioboom="7958298"
+  spotify="763a215y6kSn6E0CPEMwQu"
   caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
 {% include bonus-interview.html
   title="Helena Továrková (Nadace Veronica) o individuálním spotřebitelském chování"
   audioboom="7958312"
+  spotify="3gTjci6UeJmdTQ2gdSzzZg"
   caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
 {% include bonus-interview.html
   title="Kristina Zindulková (AMO) o spravedlivé transformaci"
   audioboom="7958305"
+  spotify="1Fom1PA3duWr1SXAIh4Bp3"
   caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
 {% include bonus-interview.html
   title="Kateřina Davidová (CDE) o klimatických dohodách a politikách"
   audioboom="7958314"
+  spotify="6trKLli9fi8tbzKDvne3Ru"
   caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}
 
