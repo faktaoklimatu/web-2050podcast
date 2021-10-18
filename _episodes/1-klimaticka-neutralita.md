@@ -3,6 +3,7 @@ layout:     episode
 title:      "Přechod ke klimatické neutralitě"
 number:     1
 slug:       "1-klimaticka-neutralita"
+redirect_from: "/epizody/1"
 published:  2021-07-28
 summary:    |
   Hlavním tématem této epizody (stejně jako celého podcastu) je přechod ke klimatické neutralitě. Abychom zastavili oteplování planety, a zamezili tak zhoršování změn klimatu, musíme do ovzduší vypouštět jen takové množství skleníkových plynů, které jsme schopni z atmosféry odebírat. Tomu se říká klimatická neutralita.

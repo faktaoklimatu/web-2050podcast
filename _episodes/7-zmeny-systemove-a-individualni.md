@@ -3,6 +3,7 @@ layout:     episode
 title:      "Změny na politické úrovni & jak může přispět každý z nás"
 number:     7
 slug:       "7-zmeny-systemove-a-individualni"
+redirect_from: "/epizody/7"
 published:  2021-07-28
 summary:    |
   Přehled možností, jak dosáhnout uhlíkové neutrality v jednotlivých sektorech, máme za sebou. Pořád ale nevíme přesně, kdo tedy zařídí, aby se to opravdu stalo. A právě na to se podíváme v poslední epizodě první série našeho podcastu.

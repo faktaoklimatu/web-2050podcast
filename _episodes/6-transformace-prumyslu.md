@@ -3,6 +3,7 @@ layout:     episode
 title:      "Krátká exkurze do transformace průmyslu"
 number:     6
 slug:       "6-transformace-prumyslu"
+redirect_from: "/epizody/6"
 published:  2021-07-28
 summary:    |
   V šesté epizodě se nyní podíváme také na to, jaké emise vznikají v průmyslu přímo, a to samotnou výrobou či chemickými reakcemi využívanými v konkrétních odvětvích. Jako příklad můžeme uvést výrobu cementu, kde oxid uhličitý vzniká přímo během chemické reakce.

@@ -3,6 +3,7 @@ layout:     episode
 title:      "Mezinárodní jednání: Jak probíhají a jaké jsou osobní zkušenosti českých vyjednavačů"
 number:     11
 slug:       "11-mezinarodni-jednani-prubeh"
+redirect_from: "/epizody/11"
 published:  2021-10-20
 summary:    |
   Jak se stane, že se na jednom místě na 14 dní sejde celý svět a dokáže se na něčem dohodnout? Ve třetí epizodě ze série o mezinárodních klimatických jednáních si přiblížíme, jak vůbec taková jednání probíhají, jak to celé funguje.

@@ -3,6 +3,7 @@ layout:     episode
 title:      "Transformace energetiky: přechod na obnovitelné zdroje"
 number:     2
 slug:       "2-transformace-energetiky"
+redirect_from: "/epizody/2"
 published:  2021-07-28
 summary:    |
   Když se bavíme o energetice v České republice, myslíme tím výrobu elektřiny a tepla. Ta je u nás zodpovědná za 40 % emisí skleníkových plynů, a je tak největším znečišťovatelem. Díky tomu se zde však také můžeme  emisí zbavit poměrně jednoduše.
