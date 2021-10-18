@@ -3,6 +3,7 @@ layout:     episode
 title:      "Klimatická neutralita v krajině: zemědělství a lesnictví"
 number:     4
 slug:       "4-zemedelstvi-a-lesnictvi"
+redirect_from: "/epizody/4"
 published:  2021-07-28
 summary:    |
   Na krajinu máme poměrně velké nároky. Kromě toho, že využíváme její produkční funkci, tedy například v ní pěstujeme obilí či využíváme dřevo z lesů, byli bychom rádi, kdyby krajina byla také zdravá a pomáhala nám pohlcovat skleníkové plyny.

@@ -3,6 +3,7 @@ layout:     episode
 title:      "Jak se dnes svět dívá na změnu klimatu a s čím jedou státy na COP26 v Glasgow?"
 number:     12
 slug:       "12-jak-svet-vidi-zmenu-klimatu"
+redirect_from: "/epizody/12"
 published:  2021-10-20
 summary:    |
   Světový klimatický summit v Glasgow se koná na začátku listopadu a v této  epizodě se zaměříme na to, jak se současný svět na změnu klimatu dívá – jak na jednotlivé státy dopadají její důsledky a co se s tím jednotlivé země pokoušejí dělat.

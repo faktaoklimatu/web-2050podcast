@@ -2,7 +2,10 @@
 layout:     episode
 title:      "„Víme toho už dost,“ říká nová zpráva IPCC"
 number:     8
-slug:       "7-ipcc-ar6-cast-1"
+slug:       "8-ipcc-ar6-cast-1"
+redirect_from: 
+  - "/epizody/8"
+  - "/epizody/7-ipcc-ar6-cast-1"
 published:  2021-10-01
 summary:    |
   V srpnu 2021 byla zveřejněna první část očekávané Šesté hodnotící zprávy IPCC, dokumentu shrnujícího vědecké poznatky, které se týkají fyzikální podstaty změn klimatu. Najdeme v ní tedy například data o teplotách, srážkách a podobně.

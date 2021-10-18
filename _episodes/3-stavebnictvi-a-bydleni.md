@@ -3,6 +3,7 @@ layout:     episode
 title:      "Jak stavíme a bydlíme dnes a jaké to bude v roce 2050"
 number:     3
 slug:       "3-stavebnictvi-a-bydleni"
+redirect_from: "/epizody/3"
 published:  2021-07-28
 summary:    |
   Kromě toho, že se elektřina a teplo nějak vyrábí, také se někde spotřebovávají. Mimo průmysl je to převážně sektor budov a stavebnictví. Hodně energie můžeme ušetřit prostě tím, že starší budovy efektivně renovujeme a jejich spotřeba díky tomu výrazně poklesne.

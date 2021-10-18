@@ -3,6 +3,7 @@ layout:     episode
 title:      "Trailer: 2050 už se blíží!"
 type:       trailer
 slug:       "0-trailer"
+redirect_from: "/epizody/0"
 published:  2021-07-13
 summary:    |
   Poslechněte si, co pro vás zrovna stříháme a zjistěte, kdy si můžete konečně poslechnout celou první sérii podcastu.

@@ -3,6 +3,7 @@ layout:     episode
 title:      "Dopady mezinárodních jednání, klimatické právo a žaloby"
 number:     10
 slug:       "10-mezinarodni-jednani-dopady"
+redirect_from: "/epizody/10"
 published:  2021-10-20
 summary:    |
   Mají mezinárodní jednání o klimatu vůbec nějaký smysl? Mají nějaký reálný dopad? Nebo je to jen prázdné tlachání politiků? Těmito otázkami jsme se nechali vést při nahrávání druhé epizody ze série o mezinárodních jednáních a dohodách.
