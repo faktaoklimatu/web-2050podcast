@@ -37,7 +37,7 @@ slug: index
     <div class="container">
         <h2 class="text-lg-left">Epizody</h2>
         
-        {% assign sorted_episodes = site.episodes | where_exp:"item", "item.number > 0" | sort: number | reverse | slice: 0,3 %}
+        {% assign sorted_episodes = site.episodes | where_exp:"item", "item.number > 0" | sort: 'number' | reverse | slice: 0,3 %}
         {% for episodee in sorted_episodes %}
         {% include episode-preview.html episode=episodee %}
         {% endfor %}
