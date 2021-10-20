@@ -7,7 +7,7 @@ redirect_from: "/epizody/13"
 published:  2021-10-20
 summary:    |
   Závěr série o mezinárodních klimatických jednáních patří samotné konferenci v Glasgow. Jedná se o summit všech smluvních stran Rámcové úmluvy o změně klimatu (UNFCCC), který se koná každý rok, nicméně letošní ročník je často v médiích prezentován jako „poslední šance pro klima“. Poslední šance to určitě není, ale bezesporu jde o důležitý summit.
-audioboom:  "7950185"
+audioboom:  "7963932"
 ---
 
 Posuny se očekávají zejména v oblasti vyjednávání o klimatické finanční podpoře pro rozvojové země, bližší specifikaci toho, jak jednotlivé státy plánují naplnit cíle Pařížské dohody a jak zvýší své národní příspěvky na podporu společného úsilí – přejít k bezemisní ekonomice.
@@ -30,36 +30,36 @@ Těšit se můžete i na slova britského velvyslance v České republice, kter�
 
 {% include bonus-interview.html
   title="Nick Archer (Velvyslanec Spojeného království) o britské klimatické politice a o předsednictví COP26 v Glasgow (český překlad)"
-  audioboom="7958298"
-  spotify="763a215y6kSn6E0CPEMwQu"
+  audioboom="7963939"
+  spotify="4oo2M60h7p2Ux1YQPJKrz8"
   caption="Britský velvyslanec Nick Archer mluví o roli své země v organizování konference COP26 a vysvětluje, co přesně má Velká Británie na starost a co je v souvislosti s konferencí její hlavní snahou. Británie je zároveň bezpochyby jedním z hlavních světových aktérů v oblasti změny klimatu – ptali jsme se tedy, jak se stalo, že má změna klimatu jako téma v Británii tak velkou podporu veřejnosti i napříč politickým spektrem. Český překlad namluvil Aleš Slanina."
 %}
 
 {% include bonus-interview.html
   title="Nick Archer (UK Ambassador) on British climate action and presidency of COP26 in Glasgow (original audio in English)"
-  audioboom="7958298"
-  spotify="763a215y6kSn6E0CPEMwQu"
+  audioboom="7963940"
+  spotify="0ewE9rk7rW3MsY4T2AFFLG"
   caption="The British Ambassador to the Czech Republic Nick Archer talks about the role of his country in organizing the COP26 summit, describing the UK’s main responsibilities and efforts. In addition, the United Kingdom is clearly a world leader in climate action so we also wanted to know how it happened that climate-related issues have so much support across the British political spectrum today and how such high public awareness can be achieved. "
 %}
 
 {% include bonus-interview.html
   title="Romana Březovská (AMO): Klimatické summity, Pařížská dohoda a COP26 v Glasgow"
-  audioboom="7958298"
-  spotify="763a215y6kSn6E0CPEMwQu"
+  audioboom="7963936"
+  spotify="63TGrIxxXvikzdIo96dDjY"
   caption="Romana Březovská působila na ministerstvu životního prostředí na pozici ministerského rady a zúčastnila se mimo jiné COP25 v Madridu. V rozhovoru podrobně vysvětluje, jak klimatické summity fungují, popisuje mechanismy Pařížské dohody a sdílí své zkušenosti a svůj pohled na mezinárodní klimatický režim."
 %}
 
 {% include bonus-interview.html
   title="Pavel Zámyslický a Kateřina Suchá (MŽP): Jak funguje COP a co očekávat od COP26 v Glasgow"
-  audioboom="7958298"
-  spotify="763a215y6kSn6E0CPEMwQu"
+  audioboom="7963937"
+  spotify="4WhRx2OftKRytEscIPLkwl"
   caption="Čeští delegáti jezdí na klimatické summity pravidelně a v tomto rozhovoru popisují, jak probíhá příprava podkladů i samotná vyjednávání. Sdílí také své zážitky z podobných konferencí a naznačují, jaké výsledky můžeme čekat od COP26 v Glasgow."
 %}
 
 {% include bonus-interview.html
   title="Hana Müllerová (AV ČR): Právní rámec COP, klimatické právo a žaloby"
-  audioboom="7958298"
-  spotify="763a215y6kSn6E0CPEMwQu"
+  audioboom="7963938"
+  spotify="2iG8faM8eeTUM56mAtkpBO"
   caption="V tomto rozhovoru Hana Müllerová z Centra pro klimatické právo a udržitelnost přibližuje nový právní obor zvaný klimatické právo. Vysvětluje také právní rámec mezinárodních klimatických jednání a uvádí konkrétní příklady klimatických žalob, které jsou jedním z přímých důsledků mezinárodních dohod."
 %}
 

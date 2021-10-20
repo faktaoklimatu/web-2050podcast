@@ -7,7 +7,7 @@ redirect_from: "/epizody/11"
 published:  2021-10-20
 summary:    |
   Jak se stane, že se na jednom místě na 14 dní sejde celý svět a dokáže se na něčem dohodnout? Ve třetí epizodě ze série o mezinárodních klimatických jednáních si přiblížíme, jak vůbec taková jednání probíhají, jak to celé funguje.
-audioboom:  "7950185"
+audioboom:  "7963928"
 ---
 
 Zeptali jsme se přímo vyjednavačů, kteří na klimatické summity jezdí a reprezentují tam Českou republiku. Kromě pohledu do zákulisí se můžete těšit i na jejich osobní zkušenosti a odpovědi na otázku „Jaké je to být vyjednavačem na půdě OSN a jak vaše práce vlastně vypadá?“
@@ -26,15 +26,15 @@ Zeptali jsme se přímo vyjednavačů, kteří na klimatické summity jezdí a r
 
 {% include bonus-interview.html
   title="Romana Březovská (AMO): Klimatické summity, Pařížská dohoda a COP26 v Glasgow"
-  audioboom="7958298"
-  spotify="763a215y6kSn6E0CPEMwQu"
+  audioboom="7963936"
+  spotify="63TGrIxxXvikzdIo96dDjY"
   caption="Romana Březovská působila na ministerstvu životního prostředí na pozici ministerského rady a zúčastnila se mimo jiné COP25 v Madridu. V rozhovoru podrobně vysvětluje, jak klimatické summity fungují, popisuje mechanismy Pařížské dohody a sdílí své zkušenosti a svůj pohled na mezinárodní klimatický režim."
 %}
 
 {% include bonus-interview.html
   title="Pavel Zámyslický a Kateřina Suchá (MŽP): Jak funguje COP a co očekávat od COP26 v Glasgow"
-  audioboom="7958298"
-  spotify="763a215y6kSn6E0CPEMwQu"
+  audioboom="7963937"
+  spotify="4WhRx2OftKRytEscIPLkwl"
   caption="Čeští delegáti jezdí na klimatické summity pravidelně a v tomto rozhovoru popisují, jak probíhá příprava podkladů i samotná vyjednávání. Sdílí také své zážitky z podobných konferencí a naznačují, jaké výsledky můžeme čekat od COP26 v Glasgow."
 %}
 
