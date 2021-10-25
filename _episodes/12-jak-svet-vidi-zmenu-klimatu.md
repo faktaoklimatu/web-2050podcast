@@ -54,6 +54,9 @@ Možná vás překvapí, že Evropská unie není jediná, kdo toto téma hodně
   caption="Čeští delegáti jezdí na klimatické summity pravidelně a v tomto rozhovoru popisují, jak probíhá příprava podkladů i samotná vyjednávání. Sdílí také své zážitky z podobných konferencí a naznačují, jaké výsledky můžeme čekat od COP26 v Glasgow."
 %}
 
+* **Explainer [Kdo jsou hlavní aktéři klimatických jednání a jaké jsou jejich pozice?](https://faktaoklimatu.cz/explainery/pozice-akteru-cop)** (_Fakta o klimatu_)  
+  Vysvětlující text k pozicím jednotlivých států na COP26, o kterém mluvíme v epizodě.
+
 * **Infografika [Aktéři klimatických jednání](https://faktaoklimatu.cz/infografiky/akteri-klimatickych-jednani)** (_Fakta o klimatu_)  
   Přehled aktérů mezinárodních klimatických jednání na základě dat o emisích skleníkových plynů, HDP, spotřebě elektřiny a velikosti populace ukazuje, že jednotliví aktéři vstupují do těchto jednání s různými výchozími podmínkami. Ty pak ovlivňují jejich vyjednávací pozici.
 
