@@ -3,7 +3,7 @@
     
     {
       "_comment": "HTTP header setting for production channel",
-      "_comment-details": "All caches to 1 week, files must revalidate, others have stale-while-revalidate for 1 month, CSP report URI is empty",
+      "_comment-details": "All caches to 1 week, files must revalidate, others have stale-while-revalidate for 1 month",
 
       "target": "production",
       "public": "_site",
@@ -33,6 +33,9 @@
           "key": "X-Frame-Options",
           "value": "SAMEORIGIN"
         }, {
+          "key": "Report-To",
+          "value": "{\"group\": \"default\", \"max_age\": 10886400, \"endpoints\": [{\"url\": \"https://nkas07xe.uriports.com/reports\"}], \"include_subdomains\": true}"
+        }, {
           "key": "NEL",
           "value": "{\"report_to\": \"default\", \"max_age\": 2592000, \"include_subdomains\": true, \"failure_fraction\": 1.0}"
         }, {
@@ -40,7 +43,7 @@
           "value": "default-src 'self'; font-src 'self' https://cdnjs.cloudflare.com; img-src 'self' data: https://www.googletagmanager.com https://www.google-analytics.com; script-src 'self' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com https://cdnjs.cloudflare.com; style-src 'self' https://cdnjs.cloudflare.com; style-src-attr 'self' 'unsafe-inline'; connect-src 'self' https://www.google-analytics.com; frame-src https://www.googletagmanager.com https://embeds.audioboom.com; report-uri https://nkas07xe.uriports.com/reports/report; report-to default"
         }, {
           "key": "Expect-CT",
-          "value": "max-age=86400"
+          "value": "max-age=86400,report-uri=\"https://nkas07xe.uriports.com/reports/report\""
         }, {
           "key": "Permissions-Policy",
           "value": "microphone=(), camera=(), geolocation=()"
