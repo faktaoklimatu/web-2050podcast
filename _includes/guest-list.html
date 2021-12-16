@@ -1,0 +1,9 @@
+{% if page.guests.size > 0 %}
+<h3>Hosté</h3>
+<ul>
+{% for guest in page.guests %}
+    {% assign person = site.data.people | find: "id", guest %}
+    <li>{{ person.name }} {{ person.surname }} (<em>{{ person.description }}</em>)</li>
+{% endfor %}
+</ul>
+{% endif %}

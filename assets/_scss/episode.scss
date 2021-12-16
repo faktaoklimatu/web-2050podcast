@@ -13,3 +13,44 @@
         margin-top: 1em;
     }
 }
+
+.transcript {
+    h3 {
+        font-size: 100%;
+        color: $c-primary;
+        float: left;
+        width: 100px;
+        clear: both;
+        margin-bottom: 0.3rem;
+
+        @media screen and (max-width: 768px) {
+            float: none;
+        }
+    }
+
+    .moderator {
+        color: $c-secondary!important;
+    }
+
+    p {
+        margin-left: 120px;
+
+        @media screen and (max-width: 768px) {
+            margin-left: 0;
+        }
+    }
+
+    .time {
+        margin-left: 0px!important;
+        font-size: 80%;
+        font-weight: normal;
+        color: #536365;
+        float: left;
+        display: block;
+        width: 100%;
+        margin-bottom: 0.15rem;
+    }
+    .time:after {
+        clear: both;
+    }
+}
