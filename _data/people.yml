@@ -1,0 +1,48 @@
+- id: holik
+  name: Petr
+  surname: Holík
+  description: autor podcastu 2050, Fakta o klimatu
+  moderator: true
+
+- id: svobodova
+  name: Vendula
+  surname: Svobodová
+  description: moderátorka podcastu 2050, Fakta o klimatu
+  moderator: true
+
+- id: zamyslicky
+  name: Pavel
+  surname: Zámyslický
+  description: Ministerstvo životního prostředí ČR
+
+- id: archer
+  name: Nick
+  surname: Archer
+  description: Velvyslanec Spojeného království v České republice
+
+- id: broza
+  name: Michal
+  surname: Broža
+  description: Česká kancelář Oganizace spojených národů
+  institution: Ministerstvo životního prostředí ČR
+  role: nějaká ministerská role?
+
+- id: brezovska
+  name: Romana
+  surname: Březovská
+  description: Asociace pro mezinárodní otázky
+
+- id: kvasnickova
+  name: Barbora
+  surname: Kvasničková
+  description: „Mladá delegátka“ při Organizaci spojených národů
+
+- id: mullerova
+  name: Hana
+  surname: Müllerová
+  description: Centrum pro klimatické právo a udržitelnost Akademie věd ČR
+
+- id: sucha
+  name: Kateřina
+  surname: Suchá
+  description: Ministerstvo životního prostředí ČR
