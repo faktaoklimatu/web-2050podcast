@@ -9,6 +9,7 @@ summary:    |
   Představujeme dalších šest dílů podcastu 2050, opět v ucelené sérii. Tentokrát jsme se zaměřili na téma mezinárodních jednání a klimatických dohod. Jak aktivně k tématu změny klimatu přistupují země v různých částech světa, jaké jsou jejich národní priority a o čem spolu diskutují? A jakou roli hraje Česká republika?
 audioboom:  "7963925"
 guests: [ archer, broza, brezovska, kvasnickova, mullerova, sucha, zamyslicky ]
+transcript: true
 ---
 
 Druhý důvod, proč tato série vznikla, je aktuální: v listopadu 2021 se ve skotském Glasgow uskuteční 26. Konference OSN o změně klimatu (_Conference of Parties_), známá také jako COP26. Jedná se o největší klimatický summit tohoto roku, a je tedy potřeba věnovat mu náležitou pozornost.
