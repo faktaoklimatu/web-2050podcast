@@ -17,6 +17,9 @@
               {% if page.number %}{{ page.number }}{% endif %}</p>
             <div class="lead">
               {{ page.summary | markdownify }}
+              {% if page.transcript %}
+                <a class="btn btn-primary" id="btn-transcript" href="#transkript"><i class="far fa-file-alt"></i> Transkript epizody</a>
+              {% endif %}
               <a class="btn btn-secondary no-ext-link-icon" id="sharing-facebook" href="https://facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | cgi_escape }}" rel="noopener"><i class="fab fa-facebook-f"></i> Sdílej!</a>
               <a class="btn btn-secondary no-ext-link-icon" id="sharing-twitter" href="https://twitter.com/intent/tweet/?text={{ page.title | cgi_escape }}&amp;url={{ page.url | absolute_url | cgi_escape }}" rel="noopener"><i class="fab fa-twitter"></i> Tweetuj!</a>
             </div>

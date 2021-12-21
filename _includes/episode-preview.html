@@ -7,7 +7,10 @@
                 {% if include.episode.type %}{{ include.episode.type }}{% else %}epizoda{% endif %}
                 {% if include.episode.number %}{{ include.episode.number }}{% endif %}</p>
             <p>{{ include.episode.summary | markdownify }}</p>
-            <a class="btn btn-secondary ml-0" href="/epizody/{{ include.episode.slug }}">Podrobnosti a bonusy</a>
+            <a class="btn btn-secondary ml-0" href="/epizody/{{ include.episode.slug }}"><i class="fas fa-lightbulb"></i> Podrobnosti a bonusy</a>
+            {% if include.episode.transcript %}
+                <a class="btn btn-secondary" id="btn-transcript" href="/epizody/{{ include.episode.slug }}#transkript"><i class="far fa-file-alt"></i> Transkript</a>
+            {% endif %}
         </div>
     </div>
 </div>
