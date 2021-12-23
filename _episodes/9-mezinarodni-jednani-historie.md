@@ -80,7 +80,8 @@ V této epizodě představujeme záměr a hosty celé série a také si udělám
 
 ## Transkript
 
-<div class="transcript" markdown="1">
+<div class="transcript">
+<div class="collapse" id="transcript-text" aria-expanded="false" markdown="1">
 
 {% include transcript-time.html time="00:07" %}
 {% include transcript-person.html id="holik" %}
@@ -279,4 +280,8 @@ Mějte se fajn.
 {% include transcript-person.html id="holik" %}
 Na shledanou!
 
+</div>
+<div class="fadeout collapsed text-center" data-toggle="collapse" href="#transcript-text" aria-expanded="false" aria-controls="transcript-text">
+  <a role="button" class="btn btn-primary">Rozbalit transkript</a>
+</div>
 </div>

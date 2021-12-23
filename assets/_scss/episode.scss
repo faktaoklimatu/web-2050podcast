@@ -53,4 +53,31 @@
     .time:after {
         clear: both;
     }
+
+    .collapse:not(.show) {
+        display: block;
+        height: 16em !important;
+        overflow: hidden;
+    }
+
+    .fadeout:not(.collapsed) {
+        display: none;
+    }
+
+    .fadeout {
+        position: relative;
+        margin-top: -16em;
+        bottom: 0;
+        width: 100%;
+        height: 16em;
+        background: -webkit-linear-gradient(rgba(0,0,0,0) 0%, $c-white 100%);
+        background-image: -moz-linear-gradient(rgba(0,0,0,0) 0%, $c-white 100%);
+        background-image: -o-linear-gradient(rgba(0,0,0,0) 0%, $c-white 100%);
+        background-image: linear-gradient(rgba(0,0,0,0) 0%, $c-white 100%);
+        background-image: -ms-linear-gradient(rgba(0, 0, 0, 0) 0%, $c-white 100%);
+
+        .btn {
+            margin-top: 12em;
+        }
+    }
 }
