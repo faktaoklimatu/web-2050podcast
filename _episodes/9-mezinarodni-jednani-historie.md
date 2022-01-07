@@ -78,7 +78,7 @@ V této epizodě představujeme záměr a hosty celé série a také si udělám
 
 ---
 
-## Transkript
+## Transkript epizody
 
 <div class="transcript">
 <div class="collapse" id="transcript-text" aria-expanded="false" markdown="1">
