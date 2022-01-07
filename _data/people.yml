@@ -10,6 +10,18 @@
   description: moderátorka podcastu 2050, Fakta o klimatu
   moderator: true
 
+- id: pribyla
+  name: Ondráš
+  surname: Přibyla
+  description: Fakta o klimatu
+  moderator: true
+
+- id: lnenicka
+  name: Jirka
+  surname: Lněnička
+  description: Fakta o klimatu
+  moderator: true
+
 - id: zamyslicky
   name: Pavel
   surname: Zámyslický
@@ -46,3 +58,8 @@
   name: Kateřina
   surname: Suchá
   description: Ministerstvo životního prostředí ČR
+
+- id: sasek
+  name: Matěj
+  surname: Šašek
+  description: soukromý zemědělec a lesník
