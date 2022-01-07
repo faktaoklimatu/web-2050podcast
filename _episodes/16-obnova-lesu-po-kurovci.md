@@ -48,12 +48,7 @@ Lesní porosty pokrývají v České republice 36,8 % území. Lesy hrají z hle
 
 </div>
 
----
-
-## Transkript epizody
-
-<div class="transcript">
-<div class="collapse" id="transcript-text" aria-expanded="false" markdown="1">
+{% include transcript-start.html %}
 
 {% include transcript-time.html time="00:01" %}
 {% include transcript-person.html id="sasek" %}
@@ -335,8 +330,4 @@ V bonusovém kanálů, který existuje pod názvem 2050 bonusové epizody, najde
 {% include transcript-person.html id="holik" %}
 My se z našeho výletu na Vysočinu vracíme a na vás se budeme těšit zase u dalších epizod podcastu 2050.
 
-</div>
-<div class="fadeout collapsed text-center" data-toggle="collapse" href="#transcript-text" aria-expanded="false" aria-controls="transcript-text">
-  <a role="button" class="btn btn-primary">Rozbalit transkript</a>
-</div>
-</div>
+{% include transcript-end.html %}
