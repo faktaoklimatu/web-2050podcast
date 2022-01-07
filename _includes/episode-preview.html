@@ -9,7 +9,7 @@
             <p>{{ include.episode.summary | markdownify }}</p>
             <a class="btn btn-secondary ml-0" href="/epizody/{{ include.episode.slug }}"><i class="fas fa-lightbulb"></i> Podrobnosti a bonusy</a>
             {% if include.episode.transcript %}
-                <a class="btn btn-secondary" id="btn-transcript" href="/epizody/{{ include.episode.slug }}#transkript-epizody"><i class="far fa-file-alt"></i> Transkript</a>
+                <a class="btn btn-secondary" id="btn-transcript" href="/epizody/{{ include.episode.slug }}#transkript"><i class="far fa-file-alt"></i> Transkript</a>
             {% endif %}
         </div>
     </div>
