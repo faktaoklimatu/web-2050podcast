@@ -14,13 +14,16 @@
   name: Ondráš
   surname: Přibyla
   description: Fakta o klimatu
-  moderator: true
 
 - id: lnenicka
   name: Jirka
   surname: Lněnička
   description: Fakta o klimatu
-  moderator: true
+
+- id: protivinsky
+  name: Tomáš
+  surname: Protivinský
+  description: Fakta o klimatu
 
 - id: zamyslicky
   name: Pavel
