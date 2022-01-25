@@ -98,7 +98,7 @@ No, ale samozřejmě není ten hlavní důvod, proč se to jmenuje 2050.
 Ok, teď tady padlo už několik termínů. Změna klimatu, globální teplota, klimatická neutralita. Poprosili jsme našeho šéfa, aby nám v tom udělal pořádek.
 {% include transcript-person.html id="pribyla" %}
  Já jsem Ondráš Přibyla, založil jsem projekt Fakta o klimatu (faktaoklimatu.cz), kde se snažíme dávat k dispozici data, fakta o klimatu a klimatické změně, aby byla k dispozici srozumitelná pro všechny.
-{% include transcript-person.html id="pribyla" %}
+
 Klimatická změna, jedna z největších výzev, která nás jako lidstvo v následujících 30, 50, 100 letech čeká. Vlastně klimatická změna ovlivňuje prostředí, ve kterém žijeme, ať už se to týká dostupnosti vody a produkce potravin, ekosystémů, tedy například lesů, do kterých bychom rádi chodili po práci, anebo přímo té práce, kdy, když je venku tak velké vedro, že tam nejde pracovat, tak se vlastně nedá žít pořádně. Největší úkol, který nás čeká ve vztahu ke změně klimatu teď, potřebujeme dosáhnout klimatické neutrality tzn. přestat do atmosféry přidávat skleníkové plyny. Týká se to hlavně oxidu uhličitého, který vzniká spalováním fosilních paliv a některými dalšími procesy, který může za 3/4 celkového oteplení, které teďka máme.
 {% include transcript-person.html id="holik" %} Díky Ondráši za vysvětlení. Hlavním tématem naší doby a stejně tak našeho podcastu je tady přechod ke klimatické neutralitě. Jak to ale uděláme, jak přejdeme ke klimatické neutralitě?
 {% include transcript-time.html time="03:08" %}
