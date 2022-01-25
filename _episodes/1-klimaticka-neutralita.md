@@ -334,3 +334,5 @@ To, co zatím ale nemáme nějaká společenská politická vůle se touto cesto
 Zároveň určitě navštivte náš web 2050podcast.cz, kde najdete bonusové materiály k této epizodě. Dále tam máme infografiky a odkazy na články a zdroje, ale i nesestříhané rozhovory s některými hosty, do kterých se můžete zaposlouchat do hloubky.
 {% include transcript-person.html id="holik" %} Tak u další epizody na shledanou.
 
+{% include transcript-end.html %}
+
