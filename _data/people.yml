@@ -66,3 +66,23 @@
   name: Matěj
   surname: Šašek
   description: soukromý zemědělec a lesník
+  
+  - id: hanzlik
+  name: Viktor
+  surname: Hanzlík
+  description: McKinsey & Company
+  
+  - id: gerslova
+  name: Barbora
+  surname: Geršlová
+  description: IKEA
+  
+  - id: jungwirth
+  name: Tomáš
+  surname: Jungwirth
+  description: Asociace pro mezinárodní otázky
+  
+  - id: tovarkova
+  name: Helena
+  surname: Továrková
+  description: ředitelka Nadace Veronica
