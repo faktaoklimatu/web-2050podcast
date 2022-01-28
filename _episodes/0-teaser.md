@@ -12,7 +12,6 @@ Chcete vědět, co se chystá a jak projekt postupuje? Dejte nám lajk na Instag
 
 <a class="btn btn-primary" href="{{ site.instagram }}">Instagram</a>
 <a class="btn btn-secondary" href="{{ site.facebook }}">Facebook</a>
-<a class="btn btn-secondary" href="#newsletter-modal" id="newsletter-embed" data-toggle="modal" data-target="#newsletter-modal">Newsletter</a>
 
 Jestli se už těšíte na první sérii, sledujte nás na vaší oblíbené platformě!
 
