@@ -17,12 +17,7 @@ Velkou studii na toto téma nedávno vydala konzultační společnost McKinsey. 
 
 Přechod ke klimatické neutralitě není jen v zájmu států, ale i firem. Navštívili jsme společnost IKEA a ptali se, jak se k probíhající transformaci staví. Na závěr epizody se také podíváme na možné scénáře dalšího vývoje a vybarvíme obrázek toho, jak by mohla naše blízká budoucnost vypadat.
 
-### Hosté
-
-* Viktor Hanzlík (_McKinsey_)
-* Barbora Geršlová (_IKEA_)
-* Tomáš Jungwirth (_Asociace pro mezinárodní otázky_)
-* Helena Továrková (_Nadace Veronica_)
+{% include guest-list.html %}
 
 ---
 
