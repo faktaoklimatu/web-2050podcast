@@ -7,7 +7,7 @@ slug: index
     <div class="container">
         <h1 id="home">2050</h1>
         <p>Klimatický podcast o budoucnosti,<br/>ve které nám nepoteče do bot.<br/>
-            <a href="/epizody/1-klimaticka-neutralita" class="btn btn-primary"><i class="fas fa-fw fa-headphones"></i> Poslechni si první epizodu</a>
+            <a href="{{ site.episodes | sort: 'published' | reverse | first | relative_url }}" class="btn btn-primary"><i class="fas fa-fw fa-headphones"></i> Poslechni si nejnovější epizodu</a>
         </p>
         <p>Posloucháš pravidelně?<br/>Podpoř produkci podcastu.<br/>
             <a href="{{ site.fundraising }}" class="btn btn-primary no-ext-link-icon"><i class="fas fa-fw fa-heart"></i> Darovat</a>
