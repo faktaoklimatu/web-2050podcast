@@ -12,7 +12,10 @@ guests: [ protivinsky ]
 transcript: true
 ---
 
-Přestože se spojení “Fit for 55” skloňuje v médiích poměrně často, ne vždy jsou související fakta komunikována přehledně a v úplnosti. Důležité je například vědět, že tento balíček opatření je zatím ve fázi návrhu a detaily budou zástupci členských zemí projednávat v Evropském parlamentu a Radě EU ještě přibližně další dva roky – mimo jiné v době, kdy bude Česká republika Radě EU předsedat. V epizodě se dozvíte, do jakého kontextu “Fit for 55” zapadá a jaké návrhy opatření obsahuje. Možná vás překvapí, že se opravdu nejedná pouze o donekonečna omílané mediální zprávy o emisních povolenkách nebo spalovacích motorech.
+Přestože se spojení “Fit for 55” skloňuje v médiích poměrně často, ne vždy jsou související fakta komunikována přehledně a v úplnosti. Důležité je například vědět, že tento balíček opatření je zatím ve fázi návrhu a detaily budou zástupci členských zemí projednávat v Evropském parlamentu a Radě EU ještě přibližně další dva roky – mimo jiné v době, kdy bude Česká republika Radě EU předsedat. 
+
+V epizodě se dozvíte, do jakého kontextu “Fit for 55” zapadá a jaké návrhy opatření obsahuje. Možná vás překvapí, že se opravdu nejedná pouze o donekonečna omílané mediální zprávy o emisních povolenkách nebo spalovacích motorech.
+
 
 {% include guest-list.html %}
 
@@ -35,6 +38,7 @@ Přestože se spojení “Fit for 55” skloňuje v médiích poměrně často, 
   Fit for 55 je balíček legislativních návrhů Evropské komise, které mají vést k 55% snížení evropských emisí skleníkových plynů do roku 2030 v porovnání s rokem 1990. Tento cíl je mezikrokem k dosažení uhlíkové neutrality do roku 2050, ke kterému se Evropská unie právně zavázala.
 
 </div>
+
 
 {% include transcript-start.html %}
 
