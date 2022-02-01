@@ -91,4 +91,5 @@
   name: Hanka
   surname: Vrtalová
   description: moderátorka podcastu 2050, Fakta o klimatu
+  moderator: true
   
