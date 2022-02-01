@@ -27,17 +27,19 @@ V epizodě se dozvíte, do jakého kontextu “Fit for 55” zapadá a jaké ná
 
 <div class="bonus-material" markdown="1">
 
+* **Infografika [Co je Fit for 55](https://faktaoklimatu.cz/infografiky/fit-for-55)** (_Fakta o klimatu_)  
+  Fit for 55 je balíček legislativních návrhů Evropské komise, které mají vést k 55% snížení evropských emisí skleníkových plynů do roku 2030 v porovnání s rokem 1990. Tento cíl je mezikrokem k dosažení uhlíkové neutrality do roku 2050, ke kterému se Evropská unie právně zavázala.
+
+* **Infografika [Fit for 55: Přehled navrhovaných opatření](https://faktaoklimatu.cz/infografiky/fit-for-55-opatreni)** (_Fakta o klimatu_)  
+  Fit for 55 je balíček legislativních návrhů Evropské komise, které mají vést k 55% snížení evropských emisí skleníkových plynů do roku 2030 v porovnání s rokem 1990. Tento cíl je mezikrokem k dosažení uhlíkové neutrality do roku 2050, ke kterému se Evropská unie právně zavázala.
+  
 * **Explainer [Jak fungují evropské emisní povolenky?](https://faktaoklimatu.cz/explainery/emisni-povolenky-ets)** (_Fakta o klimatu_)  
   Emisní povolenky jsou hlavním nástrojem Evropského systému pro obchodování s emisemi (European Union Emissions Trading Scheme, EU ETS), jehož cílem je snížit emise skleníkových plynů prostřednictvím jejich zpoplatnění.
 
 * **Explainer [Co přináší nová Lesnická strategie do roku 2030?](https://faktaoklimatu.cz/explainery/pozice-akteru-cop)** (_Fakta o klimatu_)  
   V následujícím textu se zaměříme na klíčové návrhy nové Lesnické strategie EU do roku 2030 (NLS), kterou v červenci 2021 vydala Evropská komise.
 
-* **Infografika [Co je Fit for 55](https://faktaoklimatu.cz/infografiky/fit-for-55)** (_Fakta o klimatu_)  
-  Fit for 55 je balíček legislativních návrhů Evropské komise, které mají vést k 55% snížení evropských emisí skleníkových plynů do roku 2030 v porovnání s rokem 1990. Tento cíl je mezikrokem k dosažení uhlíkové neutrality do roku 2050, ke kterému se Evropská unie právně zavázala.
 
-* **Infografika [Fit for 55: Přehled navrhovaných opatření](https://faktaoklimatu.cz/infografiky/fit-for-55-opatreni)** (_Fakta o klimatu_)  
-  Fit for 55 je balíček legislativních návrhů Evropské komise, které mají vést k 55% snížení evropských emisí skleníkových plynů do roku 2030 v porovnání s rokem 1990. Tento cíl je mezikrokem k dosažení uhlíkové neutrality do roku 2050, ke kterému se Evropská unie právně zavázala.
 
 </div>
 
