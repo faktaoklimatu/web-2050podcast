@@ -7,6 +7,7 @@ redirect_from: "/epizody/19"
 published:  2022-02-02
 summary:    |
   Členské státy Evropské unie (včetně ČR) podepsaly Zelenou dohodu pro Evropu (Green Deal) a navazující dokumenty, čímž se dosažení klimatické neutrality do roku 2050 stalo právně závazným cílem EU. 
+  
   Součástí tohoto dlouhodobého úsilí je i střednědobý cíl k roku 2030 – do konce této dekády chce EU jako celek snížit své emise o 55 % oproti roku 1990. Jaké konkrétní kroky jsou k dosažení tohoto ambiciózního cíle potřeba, detailně popisuje balíček opatření zvaný “Fit for 55”, z něhož  vám to nejdůležitější představujeme v této epizodě.
 audioboom:  "8022777"
 guests: [ protivinsky ]
@@ -14,6 +15,7 @@ transcript: true
 ---
 
 Přestože se spojení “Fit for 55” skloňuje v médiích poměrně často, ne vždy jsou související fakta komunikována přehledně a v úplnosti. Důležité je například vědět, že tento balíček opatření je zatím ve fázi návrhu a detaily budou zástupci členských zemí projednávat v Evropském parlamentu a Radě EU ještě přibližně další dva roky – mimo jiné v době, kdy bude Česká republika Radě EU předsedat. 
+
 V epizodě se dozvíte, do jakého kontextu “Fit for 55” zapadá a jaké návrhy opatření obsahuje. Možná vás překvapí, že se opravdu nejedná pouze o donekonečna omílané mediální zprávy o emisních povolenkách nebo spalovacích motorech.
 
 
