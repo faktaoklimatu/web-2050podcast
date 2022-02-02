@@ -4,6 +4,12 @@
   description: autor podcastu 2050, Fakta o klimatu
   moderator: true
 
+- id: vrtalova
+  name: Hanka
+  surname: Vrtalová
+  description: moderátorka podcastu 2050, Fakta o klimatu
+  moderator: true
+
 - id: svobodova
   name: Vendula
   surname: Svobodová
@@ -86,10 +92,3 @@
   name: Helena
   surname: Továrková
   description: ředitelka Nadace Veronica
-
-- id: vrtalova
-  name: Hanka
-  surname: Vrtalová
-  description: moderátorka podcastu 2050, Fakta o klimatu
-  moderator: true
-  
