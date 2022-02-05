@@ -92,3 +92,19 @@
   name: Helena
   surname: Továrková
   description: ředitelka Nadace Veronica
+  
+  - id: sklenar
+  name: Oldřich
+  surname: Sklenář
+  description: Asociace pro mezinárodní otázky
+  
+  - id: madej
+  name: Martin
+  surname: Madej
+  description: Asociace pro mezinárodní otázky
+  
+  - id: rovensky
+  name: Jan
+  surname: Rovenský
+  description: Greenpeace
+  
