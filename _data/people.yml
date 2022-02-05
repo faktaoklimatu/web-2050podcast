@@ -107,4 +107,8 @@
   name: Jan
   surname: Rovenský
   description: Greenpeace
-  
+ 
+ - id: robot
+  name: Robot
+  surname: Skeptik
+  description: Brno
