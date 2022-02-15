@@ -6,7 +6,7 @@ slug:       "20-financni-sektor"
 redirect_from: "/epizody/20"
 published:  2022-02-16
 summary:    |
-   Transformace na klimaticky neutrální ekonomiku bude vyžadovat nemalé finanční prostředky. Zároveň je s tímto přechodem spojena spousta velkých  příležitostí v oblasti byznysu. O tom, jak se na tyto změny dívají finanční instituce – centrální i národní banky, investiční společnosti nebo pojišťovny – jsme si povídali Petrem Chadimou z konzultační společnosti PwC.
+   Transformace na klimaticky neutrální ekonomiku bude vyžadovat nemalé finanční prostředky. Zároveň je s tímto přechodem spojena spousta velkých  příležitostí v oblasti byznysu. O tom, jak se na tyto změny dívají finanční instituce – centrální i národní banky, investiční společnosti nebo pojišťovny – jsme si povídali s Petrem Chadimou z konzultační společnosti PwC.
 audioboom:  "8031658"
 guests: [ chadima ]
 transcript: true
@@ -25,7 +25,7 @@ V současné době přinášející plno změn očekávají evropské finanční
 {% include bonus-interview.html
   title="Petr Chadima (PwC): O dekarbonizaci finančního sektoru"
   audioboom="8030892"
-  spotify="63TGrIxxXvikzdIo96dDjY"
+  spotify="0Fg8qxPiwcG6j9phmQujAd"
   caption="Nesestříhaný rozhovor s Petrem Chadimou z konzultační společnosti PwC jako bonus ke 20. epizodě podcastu 2050.
 Jak se na téma dekarbonizace dívá finanční sektor, co jsou hlavní výzvy a jaký vývoj můžeme očekávat do budoucna."
 %}
