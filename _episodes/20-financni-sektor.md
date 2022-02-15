@@ -22,13 +22,7 @@ V současné době přinášející plno změn očekávají evropské finanční
 
 <div class="bonus-material" markdown="1">
 
-{% include bonus-interview.html
-  title="Petr Chadima (PwC): O dekarbonizaci finančního sektoru"
-  audioboom="8030892"
-  spotify="63TGrIxxXvikzdIo96dDjY"
-  caption="Nesestříhaný rozhovor s Petrem Chadimou z konzultační společnosti PwC jako bonus ke 20. epizodě podcastu 2050.
-Jak se na téma dekarbonizace dívá finanční sektor, co jsou hlavní výzvy a jaký vývoj můžeme očekávat do budoucna."
-%}
+
 
 </div>
 
