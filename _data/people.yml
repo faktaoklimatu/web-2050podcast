@@ -16,6 +16,11 @@
   description: moderátorka podcastu 2050, Fakta o klimatu
   moderator: true
 
+- id: robot
+  name: Robot
+  surname: Skeptik
+  description: Brno
+
 - id: pribyla
   name: Ondráš
   surname: Přibyla
@@ -107,8 +112,8 @@
   name: Jan
   surname: Rovenský
   description: Greenpeace
-
-- id: robot
-  name: Robot
-  surname: Skeptik
-  description: Brno
+  
+- id: chadima
+  name: Petr
+  surname: Chadima
+  description: konzultant ve společnosti PwC
