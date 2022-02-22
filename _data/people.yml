@@ -117,3 +117,14 @@
   name: Petr
   surname: Chadima
   description: konzultant ve společnosti PwC
+    
+- id: holub
+  name: Petr
+  surname: Holub
+  description: Budovy21
+  
+- id: fronk
+  name: Karel
+  surname: Fronk
+  description: SKANSKA
+
