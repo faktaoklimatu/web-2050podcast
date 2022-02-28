@@ -127,3 +127,18 @@
   name: Karel
   surname: Fronk
   description: SKANSKA
+
+- id: kozminova
+  name: Michaela
+  surname: Kožmínová
+  description: Asociace pro mezinárodní otázky
+
+- id: pokorny
+  name: Radek
+  surname: Pokorný
+  description: Mendelova univerzita v Brně
+
+- id: kotecky
+  name: Vojtěch
+  surname: Kotecký
+  description: Univerzita Karlova
