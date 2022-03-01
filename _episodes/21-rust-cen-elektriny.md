@@ -2,7 +2,7 @@
 layout:     episode
 title:      "Proč roste cena elektřiny? Souvislosti a možné scénáře do budoucna"
 number:     21
-slug:       "21-elektrina"
+slug:       "21-rust-cen-elektriny"
 redirect_from: "/epizody/21"
 published:  2022-03-02
 summary:    |
@@ -34,7 +34,6 @@ Tuto epizodu najdete i na [našem YouTube kanálu v podobě videa](https://youtu
   Srovnání vývoje sdružených nákladů na výrobu elektřiny v modelových velkých elektrárnách (tzv. utility-scale) od roku 2009 do roku 2020, především z hlediska technologií a trhu. Do ceny nejsou započteny dotace, ceny emisních povolenek ani náklady spojené s vyrovnáním nestálosti zdrojů. V grafu jsou zobrazeny obnovitelné zdroje, které mají v České republice největší potenciál rozvoje.
   
 * **Další materiály najdete na webu [Fakta o klimatu v sekci Energetika](https://faktaoklimatu.cz/temata/energetika)** (_Fakta o klimatu_)  
-
 
 </div>
 
