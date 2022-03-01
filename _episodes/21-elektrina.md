@@ -14,7 +14,7 @@ transcript: true
 
 S našimi hosty diskutujeme také o tom, jak by mohl trh s elektřinou v budoucnosti vypadat a na jaký mix zdrojů energie budeme v České republice pravděpodobně spoléhat. V souvislosti s aktuální situací na východě Evropy se rovněž věnujeme potenciálu budování většího množství obnovitelných zdrojů, které mohou do budoucna snížit naši závislost na fosilních palivech. A dotkneme se také velmi důležité otázky: co může každý z nás udělat pro to, abychom své náklady na elektřinu v budoucnu maximálně snížili? A co může udělat stát?
 
-Tuto epizodu najdete i na našem YouTube kanálu v podobě videa: https://youtu.be/dWtetyfQfhg
+Tuto epizodu najdete i na [na našem YouTube kanálu v podobě videa](https://youtu.be/dWtetyfQfhg) .
 
 {% include guest-list.html %}
 
