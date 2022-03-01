@@ -24,12 +24,23 @@ Tuto epizodu najdete i na [na našem YouTube kanálu v podobě videa](https://yo
 
 <div class="bonus-material" markdown="1">
 
+* **Infografika [Elektřina v ČR: výroba, spotřeba a emise](https://faktaoklimatu.cz/infografiky/elektrina-cr)** (_Fakta o klimatu_)  
+  Přehled výroby elektřiny podle zdrojů, souvisejících emisí CO2eq a spotřeby elektřiny podle sektorů. Uhelné zdroje produkují naprostou většinu emisí v rámci české elektroenergetiky.
+  
+* **Infografika [Srovnání scénářů transformace elektroenergetiky ČR](https://faktaoklimatu.cz/infografiky/srovnani-energetickych-scenaru-cr)** (_Fakta o klimatu_)  
+  Srovnání pěti nedávných scénářů pro transformaci české elektroenergetiky do roku 2030. Scénáře se radikálně liší ve svém dopadu na snížení emisí skleníkových plynů souvisejících s výrobou elektřiny. Stejně tak se scénáře liší zaměřením a použitou metodikou.
+  
+* **Infografika [Vývoj světových cen elektřiny podle zdrojů](https://faktaoklimatu.cz/infografiky/cena-energie)** (_Fakta o klimatu_)  
+  Srovnání vývoje sdružených nákladů na výrobu elektřiny v modelových velkých elektrárnách (tzv. utility-scale) od roku 2009 do roku 2020, především z hlediska technologií a trhu. Do ceny nejsou započteny dotace, ceny emisních povolenek ani náklady spojené s vyrovnáním nestálosti zdrojů. V grafu jsou zobrazeny obnovitelné zdroje, které mají v České republice největší potenciál rozvoje.
+  
+* **Další materiály najdete na webu [Fakta o klimatu v sekci Energetika](https://faktaoklimatu.cz/temata/energetika)** (_Fakta o klimatu_)  
 
 
 </div>
 
 {% include transcript-start.html %}
 
-Přepis epizody doplníme během následujících dní.
+
+**Přepis epizody doplníme během následujících dní.**
 
 {% include transcript-end.html %}
