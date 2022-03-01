@@ -36,6 +36,11 @@
   surname: Protivinský
   description: Fakta o klimatu
 
+- id: krcal
+  name: Jan
+  surname: Krčál
+  description: Fakta o klimatu
+
 - id: zamyslicky
   name: Pavel
   surname: Zámyslický
@@ -142,8 +147,3 @@
   name: Vojtěch
   surname: Kotecký
   description: Univerzita Karlova
-
-- id: krcal
-  name: Jan
-  surname: Krčál
-  description: Fakta o klimatu
