@@ -40,7 +40,8 @@ Tuto epizodu najdete i na [našem YouTube kanálu v podobě videa](https://youtu
 
 {% include transcript-start.html %}
 
-
+...
 **Přepis epizody doplníme během následujících dní.**
+...
 
 {% include transcript-end.html %}
