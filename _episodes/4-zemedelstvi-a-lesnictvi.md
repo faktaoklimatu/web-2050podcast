@@ -186,7 +186,6 @@ Změna lesnického managementu se odráží i v tom, jak nezvládáme kůrovcovo
 {% include transcript-person.html id="pokorny" %} 
 Já si ještě pamatuju coby student chodil jsem do lesa a podobně. Každý vlastně to polesí mělo svý zaměstnance, jak v těžební, tak v pěstební činnosti a podobně, takže si to menežovali sami. Věděli, že tady ta smrková monokultura je náchylná v uvozovce na tady tomu říkám obecně disturbance z angličtiny, ale jakýkoliv poškození, takže oni věděli, hele, když tam hajný vidí kůrovcový strom, tak tam hned druhý den poslal chlapa s traktorem a druhého s motorovou pilou, který to vytěžili, a další den tam poslal ženský, který to spálily ten strom i ty zbytky, takže ta čistota, hygiena lesa byla zachovaná a tady vlastně ten kůrovec v uvozovce byl opravdu eliminován velmi brzy.
 
-{% include transcript-person.html id="pokorny" %} 
 Bohužel já beru za chybu tu transformaci, tak jak proběhla v tom devadesátým druhým roku u státního podniku, které vlastně to šlo do akciových společností. Vlastně ta rychlost, pružnost reakce třeba na toho kůrovce tím se ztratila. Zvlášť ještě teď tím, že ten s. p. musí plnit tu státní zakázku, musí dělat výběrové řízení, no a kůrovec ale nečeká, než proběhne výběrové řízení. Nedejbože, když se někdo odvolá, tak to trvá nějakou dobu, ale kůrovec už vyletí a je dávno někde jinde.
 
 {% include transcript-person.html id="holik" %} 
