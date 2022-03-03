@@ -25,7 +25,7 @@ Tuto epizodu najdete i na [našem YouTube kanálu v podobě videa](https://youtu
 <div class="bonus-material" markdown="1">
 
 * **Explainer [Jak se na trhu stanovuje cena elektřiny?](https://faktaoklimatu.cz/explainery/cena-elektriny-na-trhu)** (_Fakta o klimatu_)  
-  Přečtěte si také náš nový Explainer, ve kterém podrobně vysvětlujeme, jak se cena elektřiny na trhu určuje.
+  Přečtěte si také náš nový explainer, ve kterém podrobně vysvětlujeme, jak se cena elektřiny na trhu určuje.
 
 * **Infografika [Elektřina v ČR: výroba, spotřeba a emise](https://faktaoklimatu.cz/infografiky/elektrina-cr)** (_Fakta o klimatu_)  
   Přehled výroby elektřiny podle zdrojů, souvisejících emisí CO2eq a spotřeby elektřiny podle sektorů. Uhelné zdroje produkují naprostou většinu emisí v rámci české elektroenergetiky.
