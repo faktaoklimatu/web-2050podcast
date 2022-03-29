@@ -15,6 +15,7 @@ transcript: false
 Jihomoravský kraj nedávno vyhlásil vítěze soutěže Cena za krajinu, která má za cíl zviditelňovat příklady dobré praxe, ze kterých se můžeme učit o tom, jaké zásahy naší krajině pomohou a jaké naopak ne. V rozhovoru se ptáme porotců soutěže Cena za krajinu na to, jaké projekty byly hodnocené a jaká byla hodnotící kritéria. Podle nich se totiž můžeme učit, jaká opatření na našem venkově opravdu mají pozitivní dopad. 
 
 Podívejte se na epizodu vč. videa [na YouTube](https://youtu.be/tSabavCEShg).
+
 Tato epizoda vznikla ve spolupráci s krajským úřadem JMK.
 
 
