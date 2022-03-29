@@ -12,12 +12,11 @@ guests: [ smetana, schneider ]
 transcript: false
 ---
 
-Jihomoravský kraj nedávno vyhlásil vítěze soutěže Cena za krajinu, která má za cíl zviditelňovat příklady dobré praxe, ze kterých se můžeme učit o tom, jaké zásahy naší krajině pomohou a jaké naopak ne. V rozhovoru se ptáme porotců soutěže Cena za krajinu na to, jaké projekty byly hodnocené a jaká byla hodnotící kritéria. Podle nich se totiž můžeme učit, jaká opatření na našem venkově opravdu mají pozitivní dopad. 
+Jihomoravský kraj nedávno vyhlásil vítěze soutěže [Cena za krajinu](https://cenazakrajinu.cz), která má za cíl zviditelňovat příklady dobré praxe, ze kterých se můžeme učit o tom, jaké zásahy naší krajině pomohou a jaké naopak ne. V rozhovoru se ptáme porotců soutěže Cena za krajinu na to, jaké projekty byly hodnocené a jaká byla hodnotící kritéria. Podle nich se totiž můžeme učit, jaká opatření na našem venkově opravdu mají pozitivní dopad.
 
-Podívejte se na epizodu vč. videa [na YouTube](https://youtu.be/tSabavCEShg).
+Podívejte se na epizodu včetně videa [na YouTube](https://youtu.be/tSabavCEShg).
 
-Tato epizoda vznikla ve spolupráci s krajským úřadem JMK.
-
+Tato epizoda vznikla ve spolupráci s Krajským úřadem JMK.
 
 {% include guest-list.html %}
 
@@ -28,7 +27,7 @@ Tato epizoda vznikla ve spolupráci s krajským úřadem JMK.
 <div class="bonus-material" markdown="1">
 
 * **Explainer [Jak v následujícím století hospodařit v českých lesích?](https://faktaoklimatu.cz/explainery/hospodareni-lesy)** (_Fakta o klimatu_)  
-  Klimatické podmínky se v Česku mění a dopady jsou zřetelně vidět. Chceme-li tu mít zdravé lesy, musíme v nich začít hospodařit jinak, než bylo v posledních dvou stoletích běžné: potřebujeme lesy, které se dokáží měnícím se klimatickým podmínkám přizpůsobit.
+  Klimatické podmínky se v Česku mění a dopady jsou zřetelně vidět. Chceme-li tu mít zdravé lesy, musíme v nich začít hospodařit jinak, než bylo v posledních dvou stoletích běžné: Potřebujeme lesy, které se dokáží měnícím se klimatickým podmínkám přizpůsobit.
 
 * **Web [Cena za krajinu](https://cenazakrajinu.cz)** (_Jihomoravský kraj_)  
   Soutěž, která má za cíl zviditelnit příklady dobré praxe mezi adaptačními projekty na jižní Moravě.
@@ -36,6 +35,10 @@ Tato epizoda vznikla ve spolupráci s krajským úřadem JMK.
 * **Web [Živá půda](https://www.ziva-puda.cz)** (_Nadace Partnerství_)  
   Nadace Partnerství dlouhodobě poskytuje poradenství v oblasti nakládání s půdou jak zemědělcům, tak i drobným vlastníkům půdy.
 
-
 </div>
 
+---
+
+## Transkript epizody
+
+Přepis epizody doplníme během následujících dní.
