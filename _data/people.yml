@@ -147,3 +147,13 @@
   name: Vojtěch
   surname: Kotecký
   description: Univerzita Karlova
+
+- id: smetana
+  name: Martin
+  surname: Smetana
+  description: Nadace Partnerství
+
+- id: schneider
+  name: Jiří
+  surname: Schneider
+  description: Mendelova univerzita v Brně
