@@ -29,7 +29,7 @@ Podívejte se na epizodu včetně videa a vizuální prezentace [na YouTube](htt
 * **Infografika [Schematická mapa klimatické změny](https://faktaoklimatu.cz/infografiky/schema-klimaticke-zmeny)** (_Fakta o klimatu_)  
   Klimatická změna není jen nárůst teploty – jde o souhrnný pojem pro řadu vzájemně provázaných jevů. Změna jednoho faktoru, například zvýšení koncentrace CO2 v atmosféře, vyvolává dlouhý řetězec příčin a následků.
 
-* **Infografika [Proč je oteplení o více než 1,5 °C problém?](https://cenazakrajinu.cz)** (_Fakta o klimatu_)  
+* **Infografika [Proč je oteplení o více než 1,5 °C problém?](https://faktaoklimatu.cz/infografiky/body-zlomu-1)** (_Fakta o klimatu_)  
   Pařížská dohoda deklaruje úsilí o to, aby nárůst globální průměrné teploty výrazně nepřekročil hranici 1,5 °C. Jedním z hlavních důvodů pro stanovení této hranice je riziko překročení tzv. bodů zlomu (tipping points). Při oteplení nad 2 °C se blížíme pravděpodobným bodům zlomu mnoha velkých planetárních systémů.
 
 * **Zpráva IPCC [Impacts, Adaptation and Vulnerability](https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/)** (_IPCC_)  
