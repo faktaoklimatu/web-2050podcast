@@ -16,7 +16,7 @@ Jihomoravský kraj nedávno vyhlásil vítěze letošního ročníku soutěže [
 
 Podívejte se na epizodu včetně videa [na YouTube](https://youtu.be/tSabavCEShg).
 
-Tato epizoda vznikla ve spolupráci s Krajským úřadem JMK.
+Tato epizoda vznikla ve spolupráci s Krajským úřadem JMK a Skautským institutem.
 
 {% include guest-list.html %}
 
