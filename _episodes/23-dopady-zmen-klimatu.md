@@ -96,7 +96,6 @@ Dopady klimatické změny jsme si rozdělili do tří kategorií. Klimatické p�
 {% include transcript-person.html id="pribyla" %} 
 Jedna oblast jsou přímo podmínky pro život. Vlastně potřebujeme žít v prostředí, které má rozumné teploty, potřebujeme pitnou vodu a případně potřebujeme, aby to prostředí mělo rozumné teploty proto, abychom mohli pracovat. To je jedno z témat, které se objevuje ve studiích, že když je příliš velké vedro, tak klesá produktivita práce.
 
-{% include transcript-person.html id="pribyla" %} 
 Druhou tou oblastí, která má vlastně ale úplně jiný charakter je potravinová bezpečnost. Kdy se to vůbec nemusí týkat nějakého extrému nebo podmínek, které by byly pro člověka nepříjemné, ale v okamžiku, kdy je to nepříjemné pro ryby a rybolov – prostě vlna veder v oceánu, tak najednou to znamená nedostatek ryb – to znamená cenové šoky právě v té oblasti. 
 
 {% include transcript-person.html id="holik" %} 
