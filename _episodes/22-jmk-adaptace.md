@@ -39,8 +39,6 @@ Tato epizoda vznikla ve spolupráci s Krajským úřadem JMK a Skautským instit
 
 {% include transcript-start.html %}
 
-
-
 {% include transcript-person.html id="holik" %}
 Dobrý den, v naší dnešní epizodě podcastu 2050 zůstaneme tak trochu doma.
 
@@ -248,7 +246,4 @@ O dopadech změny klimatu a potřebě adaptace se v tomhle podcastu budeme bavit
 {% include transcript-person.html id="holik" %}
 Mějte se krásně a nashledanou.
 
-
-
 {% include transcript-end.html %}
-
