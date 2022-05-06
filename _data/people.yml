@@ -162,3 +162,14 @@
   name: Karolína
   surname: Břinková
   description: Slow Femme
+
+- id: davidova
+  name: Kateřina
+  surname: Davidová
+  description: Centrum pro dopravu a energetiku
+  
+- id: zindulkova
+  name: Kristina
+  surname: Zindulková
+  description: Asociace pro mezinárodní otázky
+  
