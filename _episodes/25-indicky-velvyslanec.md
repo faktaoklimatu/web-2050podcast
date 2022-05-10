@@ -30,7 +30,3 @@ Rozhovor je v anglickém jazyce bez překladu.
   Přehled aktérů mezinárodních klimatických jednání na základě dat o emisích skleníkových plynů, HDP, spotřebě elektřiny a velikosti populace vč. Indické republiky.
   
 </div>
-
-## Transkript epizody
-
-Tato epizoda nemá transkript.
