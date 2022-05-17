@@ -2,7 +2,7 @@
 layout:     episode
 title:      "Jak se Indie vyrovnává se změnou klimatu? Rozhovor s indickým velvyslancem v Česku."
 number:     25
-slug:       "2-indicky-velvyslanec"
+slug:       "25-indicky-velvyslanec"
 redirect_from: "/epizody/25"
 published:  2022-05-18
 summary:    |
@@ -28,5 +28,5 @@ Rozhovor je v anglickém jazyce bez překladu.
 
 * **Infografika [Aktéři klimatických jednání](https://faktaoklimatu.cz/infografiky/akteri-klimatickych-jednani)** (_Fakta o klimatu_)  
   Přehled aktérů mezinárodních klimatických jednání na základě dat o emisích skleníkových plynů, HDP, spotřebě elektřiny a velikosti populace vč. Indické republiky.
-  
+
 </div>
