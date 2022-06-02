@@ -1,6 +1,6 @@
 ---
 layout:     episode
-title:      "Čeho se bojí bankéři? O dekarbonizaci finančního sektoru s Petrem Chadimou (PwC)"
+title:      "Čeho se bojí bankéři? O dekarbonizaci finančního sektoru s Petrem Chadimou (PwC)."
 number:     20
 slug:       "20-financni-sektor"
 redirect_from: "/epizody/20"
