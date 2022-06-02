@@ -1,6 +1,6 @@
 ---
 layout:     episode
-title:      "Proč roste cena elektřiny? Souvislosti a možné scénáře do budoucna"
+title:      "Proč roste cena elektřiny? Souvislosti a možné scénáře do budoucna."
 number:     21
 slug:       "21-rust-cen-elektriny"
 redirect_from: "/epizody/21"
