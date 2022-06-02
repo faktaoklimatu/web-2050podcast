@@ -1,6 +1,6 @@
 ---
 layout:     episode
-title:      "Jak stavíme a bydlíme dnes a jaké to bude v roce 2050"
+title:      "Jak stavíme a bydlíme dnes a jaké to bude v roce 2050?"
 number:     3
 slug:       "3-stavebnictvi-a-bydleni"
 redirect_from: "/epizody/3"
