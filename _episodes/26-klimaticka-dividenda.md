@@ -7,7 +7,7 @@ redirect_from: "/epizody/26"
 published:  2022-06-02
 summary:    |
   Evropský systém pro obchodování s emisemi neznamená jen rostoucí náklady pro ty, kdo emise vypouštějí, ale také výnosy, které se vracejí zpět do státního rozpočtu. Odtud bere stát prostředky například na dotace spojené se zateplením vaší nemovitosti nebo pořízením nového kotle.
-audioboom:  "8001393"
+audioboom:  "8094362"
 guests: [ jungwirth, svoboda ]
 transcript: false
 ---
@@ -42,6 +42,7 @@ Hosté Tomáš Jungwirth a Jan Svoboda v rozhovoru mimo jiné přibližují konc
   Česká republika v následujících letech obdrží na klimatická opatření z fondů EU bezprecedentní objem financí. Tyto prostředky budou podle ceny emisních povolenek odpovídat 450 až 800 miliardám korun a budou směřovat do mnoha oblastí: od obnovitelných zdrojů energie a komunitní energetiky přes zlepšování energetické účinnosti až po udržitelné zemědělství a další.
 
 </div>
+
 
 ## Transkript epizody
 
