@@ -1,6 +1,6 @@
 ---
 layout:     episode
-title:      "Kam plynou peníze z emisních povolenek a co je to klimatická dividenda"
+title:      "Kam plynou peníze z emisních povolenek a co je to klimatická dividenda?"
 number:     26
 slug:       "26-klimaticka-dividenda"
 redirect_from: "/epizody/26"
