@@ -15,7 +15,7 @@ Podle hosta této epizody, indického velvyslance v ČR Hemanta Kotalwara, není
 
 Rozhovor je v anglickém jazyce bez překladu.
 
-{% include guest-list.html %}
+{% include 2050/guest-list.html %}
 
 ---
 
