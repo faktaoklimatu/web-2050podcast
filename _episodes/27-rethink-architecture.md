@@ -17,7 +17,6 @@ Projekt Rethink Architecture mimo své vzdělávací aktivity vytváří i tzv. 
 Navštivte web projektu [Rethink Architecture](https://www.rethinkarchitecture.cz) nebo projekt sledujte na [Instagramu](https://www.instagram.com/rethinkarchitecture.cz/).
 Epizodu ve formě videa najdete na našem [YouTube kanálu](https://youtu.be/l08HMIpOEeQ).
 
-
 {% include guest-list.html %}
 
 ---
@@ -69,7 +68,6 @@ Primárně děkujeme moc za pozvání. Máme radost, že můžeme tady nejenom n
 
 {% include transcript-person.html id="eklova" %}
 A já bych rovnou doplňila, co to pro nás jako ta udržitelnost je, ono je to totiž jako docela těžký téma. To slovo si nejsme… Jako nejsou úplně lidí vždycky jistý. My se na udržitelnost díváme jako ze tří pohledů, a to je za prvé ten environmentální, to asi je to téma, který jako nejvíc tady známé. Snižování uhlíkový stopy, snižování spotřeby materiálu, vody, a tak dál, ale má to i další pilíře takzvaně, a to je pohled sociální. To znamená udržitelné architektura je taková, která je přátelská k těm lidem, která vlastně jako zajišťuje to, že ty lidi tam jsou zdraví, že se tam cítí dobře a podporuje to třeba tvorbu komunity a třetí opravdu hodně důležitý pohled je i ekonomická udržitelnost, protože to je něco, co my hodně často říkáme, že si můžeme vymyslet něco, co je třeba super krásný ekologický, ale když to nikdo nezaplatí, tak se to nikdy nestane mainstreamem a tím pádem nedojde k žádný velký změně, kterou v tom stavebnictví, architektuře potřebujeme. 
-
 
 {% include transcript-time.html time="03:30" %}
 {% include transcript-person.html id="vrtalova" %}
