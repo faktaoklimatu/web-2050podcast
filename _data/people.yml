@@ -182,3 +182,13 @@
   name: Jan
   surname: Svoboda
   description: Asociace pro mezinárodní otázky
+
+- id: baric
+  name: Karolína
+  surname: Barič
+  description: Rethink Architecture
+
+- id: eklova
+  name: Kateřina
+  surname: Eklová
+  description: Rethink Architecture
