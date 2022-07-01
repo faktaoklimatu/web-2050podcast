@@ -14,6 +14,8 @@ transcript: true
 
 Hosté Tomáš Jungwirth a Jan Svoboda v rozhovoru mimo jiné přibližují koncept tzv. klimatické dividendy – způsobu, jak domácnostem kompenzovat zvýšené náklady spojené se zelenou transformací nebo třeba jen přispět na dražší energie. V epizodě se podrobně podíváme na finanční toky v rámci povolenkového systému EU ETS, vysvětlíme si koncept uhlíkové daně a jejího využití a zmapujeme možnosti, pomocí kterých je možné lidem kompenzovat zvyšující se životní náklady.
 
+Vznik této epizody finančně podpořil Krajský úřad JMK.
+
 {% include 2050/guest-list.html %}
 
 ---
