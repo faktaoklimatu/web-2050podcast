@@ -17,6 +17,8 @@ Projekt Rethink Architecture mimo své vzdělávací aktivity vytváří i tzv. 
 Navštivte web projektu [Rethink Architecture](https://www.rethinkarchitecture.cz) nebo projekt sledujte na [Instagramu](https://www.instagram.com/rethinkarchitecture.cz/).
 Epizodu ve formě videa najdete na našem [YouTube kanálu](https://youtu.be/l08HMIpOEeQ).
 
+Vznik této epizody finančně podpořil Krajský úřad JMK.
+
 {% include 2050/guest-list.html %}
 
 ---
