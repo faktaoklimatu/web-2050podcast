@@ -45,7 +45,7 @@ Existuje několik průmyslových odvětví, které bude docela těžké dekarbon
 {% include 2050/transcript-person.html id="holik" %} 
 Jedním z nich je výroba oceli. 
 
-{% include transcript-person.html id="vrtalova" %}
+{% include 2050/transcript-person.html id="vrtalova" %}
 Posloucháte podcast 2050.
 
 {% include 2050/transcript-person.html id="holik" %}
