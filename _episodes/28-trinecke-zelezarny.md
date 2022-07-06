@@ -6,7 +6,7 @@ slug:           "28-trinecke-zelezarny"
 redirect_from:  "/epizody/28"
 published:      2022-07-06
 summary:    |
-  Při běžné výrobě jedné tuny oceli vzniknou dvě tuny CO2. Přes vysokou emisní náročnost je však ocel materiálem, bez kterého se neobejdeme a který potřebujeme i pro samotnou dekarbonizaci (například větrná elektrárna obsahuje desítky tun ocelových součástí). Navštívili jsme proto jeden z největších hutních podniků v Česku, abychom se o výrobě oceli dozvěděli více a zjistili, zda a jak se dá ocel do budoucna vyrábět bez emisí.
+  Při běžné výrobě jedné tuny oceli vzniknou dvě tuny CO<sub>2</sub>. Přes vysokou emisní náročnost je však ocel materiálem, bez kterého se neobejdeme a který potřebujeme i pro samotnou dekarbonizaci (například větrná elektrárna obsahuje desítky tun ocelových součástí). Navštívili jsme proto jeden z největších hutních podniků v Česku, abychom se o výrobě oceli dozvěděli více a zjistili, zda a jak se dá ocel do budoucna vyrábět bez emisí.
 audioboom:  "8115164"
 guests: [ kalinec ]
 transcript: true
@@ -39,22 +39,22 @@ V přepočtu na osobu je v množství zpracované oceli Česká republika světo
 
 {% include 2050/transcript-start.html %}
 {% include 2050/transcript-time.html time="00:10" %}
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 Existuje několik průmyslových odvětví, které bude docela těžké dekarbonizovat. 
 
 {% include 2050/transcript-person.html id="holik" %}
 Jedním z nich je výroba oceli. 
 
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 Posloucháte podcast 2050.
 
 {% include 2050/transcript-person.html id="holik" %}
-Výroba oceli je hodně emisně náročná v průměru dvě tuny CO2 na tunu vyrobené oceli. Je to ale materiál, bez kterého se v současnosti neobejdeme. Ocel dokonce ve velkém potřebujeme k samotné dekarbonizaci. Taková větrná elektrárna, například má v sobě desítky tun ocelových součástí. 
+Výroba oceli je hodně emisně náročná v průměru dvě tuny CO<sub>2</sub> na tunu vyrobené oceli. Je to ale materiál, bez kterého se v současnosti neobejdeme. Ocel dokonce ve velkém potřebujeme k samotné dekarbonizaci. Taková větrná elektrárna, například má v sobě desítky tun ocelových součástí. 
 
 {% include 2050/transcript-person.html id="kalinec" %}
 Ono je to takovej trošku paradox, že vlastně ocel je emisně z pohledu uhlíku velmi náročný výrobek. Zároveň bez té oceli, pokud chceme dekarbonizovat, se neobejdeme, jestli chceme elektrifikovat dopravu, tak je to o těch kolejnicích, je to o těch drátech, je to o těch elektroautech, které jsou poskládané z tisíců různých součástek a velká část jich je z oceli. 
 
-{% include 2050/transcript-person.html id="vrtalova" %}  
+{% include 2050/transcript-person.html id="vrtalova" %}
 V dnešní epizodě vás chceme vzít na výlet do Třineckých železáren na návštěvu do jednoho z největších hutních podniků v Česku. Díky této exkurzi můžete společně s námi ocel pochopit a zjistit tak, jak se vyrábí, na co se využívá a hlavně, jaké jsou cesty ke snižování emisí při její výrobě.
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -85,25 +85,25 @@ No tak primárně ocel, že jo, ale zároveň s produkcí oceli různé druhotn�
 {% include 2050/transcript-person.html id="holik" %}
 Podívejme se teď na ocel v číslech.
 
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 V Česku se vyrobí za rok přibližně 5 milion tun oceli. Z toho polovina právě ve Třineckých železárnách. 
 
 {% include 2050/transcript-person.html id="kalinec" %}
 V Evropské unii se vyrobí 140 milionů tun oceli ročně. Na světě pak 1,9 miliardy tun a z toho polovina celé téhle produkce připadá na Čínu. 
 
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 Podle World Steel Association se v Česku zpracovalo za rok 2020 616 kg oceli na osobu. Průměr Evropské unie byl skoro třikrát menší, 247 kg.
 
 {% include 2050/transcript-person.html id="holik" %}
 Ve zpracování oceli na hlavu jsme na špičce světového žebříčku. Před námi jsou jenom státy jako třeba Čína, Taiwan nebo Jižní Korea.
 
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 Je to dáno zejména tím, že jsme hodně průmyslový stát. Máme to například obrovský automobilový průmysl, který ocel hojně využívá. 
 
 {% include 2050/transcript-person.html id="holik" %}
 Výrobky z oceli najdeme prostě úplně všude, různé drátky, šroubky, trubky. Ocel je třeba součástí i betonu ve stavebnictví.
 
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 V Třinci se specializují zejména na tzv. dlouhou výrobu, tedy například kolejnice nebo dráty. 
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -118,7 +118,7 @@ Jsou dva nějaké tradiční způsoby výroby oceli, když to nějak zjednoduš�
 
 Dopopíšu i tu šrotovou cestu, která vlastně je recyklační. Ta ocel je super v tom, že lze dokonale recyklovat. Šrotová cesta je o tom, že máme nějakou elektrickou obloukovou pec, do které nasypeme šrot. V té peci se to roztaví a máme už rovnou ocel, přeskočíme tu fázi vyroby toho surového železa. Zase už si s tím potom jenom následně na těch ocelárnách hrajeme a vaříme tu polívku tam podle těch… Přidáváme ty správné ingredience.
 
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 Zaměřme se teď na tu první cestu výroby oceli, tu rudnou, kde v tomto procesu vznikají emise oxidu uhličitého? 
 
 {% include 2050/transcript-person.html id="kalinec" %}
@@ -136,7 +136,7 @@ A jestli tomu dobře rozumím, tak to je část, která se nevyřeší tím, že
 {% include 2050/transcript-person.html id="kalinec" %}
 Ano nebo takhle zároveň jde říct, že jako už máme bezemisní metody výroby železa a následně oceli, to znamená změnou paliva, to znamená jako to redukční činidlo lze použít i ten vodík.
 
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 No, a když se podíváme na tu šrotovou cestu výroby oceli z pohledu emisí, tak jak ta vypadá? 
 
 {% include 2050/transcript-time.html time="09:47" %}
@@ -146,13 +146,13 @@ Tohle to může být zcela bezemisní cesta výroby oceli, protože máme už š
 To znamená neustále potřebujeme to doplňovat i s tou čistou surovinou tou železnou rudou. Tam je to s tou dekarbonizaci už složitější a lze to dělat vodíkem teda, jak jsem zmínil, lze redukovat tu železnou rudu i vodíkem, ale zase musíme sehnat dostatečně zelenej ten vodík, nebudeme to vyrábět ze zemního plynu třeba vlastně. Je to strašně energeticky náročné, že jo, když jsme si dělali nějaké propočty v rámci železáren, tak sice se říká, že jako vodíková cesta má asi o deset až patnáct  procent nižší celkovou energetickou náročnost oproti stávajícímu způsobu výroby, ale je nutné zajistit čtyři a půl až šest megawatt elektrické energie na jednu tunu oceli. To pro představu, když to vztáhneme na úroveň těch Třineckých železáren, které vyrábějí nějakých dva a půl milionu tun oceli, by představovalo nějakých jedenáct až patnáct terawatt hodin elektrické energie. Pro srovnání Temelín vyrábí nějakých šestnáct až osmnáct terawatt hodin za rok, takže necelej Temelín bychom potřebovali jenom proto, abysme vyrobili to množství oceli, které momentálně vyrábíme, takže samozřejmě my tady nejsme sami jako v téhle republice, jsou jiné emisně náročná odvětví, takže a teďko zároveň chceme dekarbonizovat dopravu. Ty cíle dekarbonizační jsou nesmírně jako ambiciózní a velké. Já jim držím palce doufám, že si na tom… Že na tom nepohoříme, což by asi celá společnost intenzivně pocítila zároveň, jestli se tu nechceme upéct na té planetě, tak jako je třeba se o to pokoušet. 
 
 {% include 2050/transcript-time.html time="12:20" %}
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 Když si shrneme základní informace o dekarbonizaci výroby oceli, tak můžeme říct následující.
 
 {% include 2050/transcript-person.html id="holik" %}
 Existují dva způsoby, jak vyrobit ocel. Za prvé rudná cesta, to znamená výroba z železné rudy a za druhé šrotová cesta tedy recyklace staré oceli. 
 
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 Abychom dekarbonizovali rudnou cestu potřebujeme proto velké množství vodíku vyrobeného bezemisním způsobem a abychom dekarbonizovali šrotovou cestu, tak tam je to jednodušší. Potřebujeme, v uvozovkách jen zelenou elektřinu pro elektrické pece. Té elektřiny je ale potřeba opravdu hodně.
 
 {% include 2050/transcript-person.html id="kalinec" %}
@@ -211,16 +211,16 @@ Ano, a což je předpoklad pro dekarbonizaci nejenom hutnictví, ale veškerého
 Když se by se stalo, že Třinecké železárny přejdou ve velkém na tu šrotovou metodu, to znamená, že budeme spotřebovávat ten šrot, který se teďka z Evropy vyváží, tak si ho spotřebujeme tady doma. Nestane se to, že se ty emise akorát přenesou do jiné části světa, protože jakoby lokálně tím pádem budem vyrábět bezemisně a recyklovat ocel, ale neznamená to, že pak nějaká země Čína, řekněme, bude muset o to víc vyrobit tou metodou z té surové rudy a tím pádem se ty emise přesou do jiné části světa? 
 
 {% include 2050/transcript-person.html id="kalinec" %}
-Teoreticky to možné je. Už jenom celý systém obchodování smi s nima povolenkami a svým způsobem k tomu trošku taky může vést jo, v rámci Evropské unie musíme za každou emitovanou tunu emisí CO2 zaplatit poměrně velké peníze a ti, kteří tímto vázáni nejsou, tak mají konkurenční výhodu a ve finále to může vést k tomu, že můžou hutní podniky v Evropě zanikat a jinde se ty emise vesele budou produkovat a my se ocitneme velké nevýhodě, jak už jsem zmínil.
+Teoreticky to možné je. Už jenom celý systém obchodování smi s nima povolenkami a svým způsobem k tomu trošku taky může vést jo, v rámci Evropské unie musíme za každou emitovanou tunu emisí CO<sub>2</sub> zaplatit poměrně velké peníze a ti, kteří tímto vázáni nejsou, tak mají konkurenční výhodu a ve finále to může vést k tomu, že můžou hutní podniky v Evropě zanikat a jinde se ty emise vesele budou produkovat a my se ocitneme velké nevýhodě, jak už jsem zmínil.
 
 {% include 2050/transcript-time.html time="22:05" %}
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 Tady je nutné dodat, že je opravdu nezbytné, aby svět ve zpoplatňování emisí postupoval společně. Právě kvůli tomu, aby se emisně náročná výroba nepřesouvala z jedné části světa do jiné kvůli nižším nákladům. 
 
 {% include 2050/transcript-person.html id="holik" %}
 V současnosti je nějaký systém zpoplatnění emisí zaveden ve zhruba padesáti státech. Celkem to odpovídá dvaceti třem procentům světových emisí skleníkových plynů. Znamená, že u dvaceti třech procent emisí za jejich vypuštění někdo musel zaplatit.
 
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 Vlastní povolenkové systémy má kromě Evropské unie třeba Čína, Jižní Korea, Austrálie nebo je zavádí některé státy USA. Formou uhlíkové daně pak zpoplatňují emise například v Japonsku Jihoafrické republice nebo Mexiku. 
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -266,25 +266,25 @@ Já si myslím, že tak jak to máme v Třineckých železárnách namyšleno te
 Když se bavíme o investicích do dekarbonizace, je nutné dodat, že proto, aby náš průmysl prošel transformací úspěšně potřebujeme opravdu funkční systém finanční podpory ze strany Evropské unie a také fungující mechanismy, jak zajistit konkurenceschopnost oproti jiným částem světa, například systém uhlíkového vyrovnání na hranicích EU. 
 
 {% include 2050/transcript-time.html time="29:04" %}
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 Třinecké železárny jsme navštívili, protože jsou jedním z největších emitentů v České republice, ale zároveň vyrábí ocel, bez které se prostě neobejdeme. 
 
 {% include 2050/transcript-person.html id="holik" %}
 Pro mě je fajn slyšet, že takto velkém a emisně náročném typu výroby se otevřeně mluví o dekarbonizaci a že přemýšlejí nad tím, jak toho dosáhnout.
 
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 Já jsem moc ráda, že tu tenhle rozhovor máme, protože je jedna věc bavit se o dekarbonizaci se zástupci zelené neziskovky a pak bavit se o tom samém s oceláři. 
 
 {% include 2050/transcript-person.html id="holik" %}
 My doufáme, že se nám povedlo i pro vás tohle téma trochu více vybarvit a můžete si teďka lépe představit, jak může vypadat budoucnost bezemisní hutní výroby.
 
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 My se na vás budeme moc těšit zas u dalších epizod. Přejeme příjemné letní dny. 
 
 {% include 2050/transcript-person.html id="holik" %}
 Ve vztahu ke změnám klimatu prochází celý svět aktuálně obrovskou transformací.
 
-{% include 2050/transcript-person.html id="vrtalova" %} 
+{% include 2050/transcript-person.html id="vrtalova" %}
 V projektu Fakta o klimatu a podcastu 2050 přispíváme k tomu, abychom touto transformací prošli jako společnost úspěšně.
 
 {% include 2050/transcript-person.html id="holik" %}
