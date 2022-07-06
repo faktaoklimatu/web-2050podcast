@@ -41,7 +41,6 @@ Tuto epizodu najdete i na [našem YouTube kanálu v podobě videa](https://youtu
 </div>
 
 
-
 {% include 2050/transcript-start.html %}
 {% include 2050/transcript-person.html id="vrtalova" %} 
 Dneska se budeme bavit o tom, proč rostou ceny elektřiny. A taky o tom, jak vlastně celý ten systém výroby a dodávek elektřiny funguje. 
@@ -61,7 +60,7 @@ A abychom ten zážitek ještě více podpořili, tak jsme k podcastu přidali i
 {% include 2050/transcript-person.html id="holik" %}
 Náš první pokusný videozáznam z našeho malého studia můžete vidět na YouTube kanálu 2050 podcast. Ale teď pojďme na to. Užijte si poslech.
 
-{% include transcript-person.html id="vrtalova" %}
+{% include 2050/transcript-person.html id="holik" %}
 Ahoj, vítejte u další epizody podcastu 2050. No a v dnešní epizodě se budeme věnovat něčemu, co zasáhlo spoustu z nás a zároveň něčemu, čemu se média v poslední době věnovala velmi intenzivně, a to sice rostoucí ceně elektřiny. No, a nejen o té rostoucí ceně elektřiny se dneska budeme bavit. Pozvali jsme si dneska dva skvělé hosty a s nimi se podíváme i trochu za jenom rostoucí cenu, ale i na to hele, kde se ta elektřina v našich zásuvkách vlastně bere? A budou ty ceny dál růst? A jak vlastně tady tenhle trh s elektřinou funguje?
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -242,7 +241,7 @@ Ano, tu cenu vlastně nikdo negarantuje. A ten důvod je jako jednoduchý, nikdo
 
 {% include 2050/transcript-time.html time="24:33" %}
 
-{% include transcript-person.html id="vrtalova" %}
+{% include 2050/transcript-person.html id="holik" %}
 Děkuju, já jsem teď konečně pochopila, jak i z těch malých kousků, který byly potřeba nakoupit, to vlastně narostlo do těch obřích rozměrů, skrz to, že jsem nevěděla, že ti dodavatelé, kteří měli nakoupeno za ty staré ceny, teď museli přibírat právě ty lidi od těch, kteří neměli nakoupeno dopředu. To pak jako dává smysl, že se to celé jako diametrálně zvyšuje.
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -259,7 +258,7 @@ A vlastně dokážu si představit, když zjistím, že támhle soused má prost
 {% include 2050/transcript-person.html id="holik" %} 
 Vztahu ke změnám klimatu prochází celý svět aktuálně obrovskou transformací.
 
-{% include transcript-person.html id="vrtalova" %}
+{% include 2050/transcript-person.html id="holik" %}
 V projektu Fakta o klimatu a podcastu 2050 přispíváme k tomu, abychom touto transformací prošli jako společnost úspěšně.
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -469,7 +468,7 @@ Což by znamenalo první krok: pojďme postavit hodně obnovitelných zdrojů, a
 {% include 2050/transcript-person.html id="sklenar" %} 
 No to už je v podstatě cesta, kterou se ubírá nejenom Česká republika, ale i v podstatě všechny okolní země. Takže, zatímco dnes těch hodin, kdy ta elektřina je velmi levná, nebo má dokonce zápornou cenu, tak je velmi málo. Ale v budoucnu, za několik málo let ta realita může být úplně jiná.  A my bychom na to měli být připraveni. A zase my bychom měli a rozumně využívat těch stávajících zdrojů…zase, když si vezmeme, že, pokud se shodneme na tom, že jádro je dobrý nízkoemisní zdroj, to fungující postavené jádro, tak je samozřejmě potom žádoucí, například, naplánovat odstávky a výměnu paliva, pokud je to možné, na letní období, kdy se předpokládá, že bude přebytek výroby z fotovoltaiky. 
 
-{% include transcript-person.html id="vrtalova" %}
+{% include 2050/transcript-person.html id="holik" %}
 Co já jakožto odběratel elektřiny jednak můžu dělat výhledově, anebo naopak, co se pro mě bude dít, to znamená, můžu teď očekávat další výkyvy cen v budoucnosti, nebo naopak teď nějakou chvíli to bude klidné? 
 
 {% include 2050/transcript-time.html time="48:00" %}
