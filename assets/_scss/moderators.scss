@@ -1,0 +1,75 @@
+.moderators {
+  padding-bottom: 0;
+}
+
+.moderators::after {
+  content: ' ';
+  display: block;
+  background: url('/assets/img/moderators.jpeg') center/cover no-repeat;
+  padding: 0 0 110% 0;
+  margin-top: 1rem;
+}
+
+.moderators-callout {
+  background: rgba(1,1,1,0.05);
+  padding: 1.5rem;
+}
+
+.moderator-photo {
+  width: 70%;
+  border-radius: 50%;
+}
+
+blockquote p::before {
+  content: '\201E';
+}
+
+blockquote p::after {
+  content: '\201C';
+}
+
+.quote-author {
+  text-align: right;
+
+  span {
+      display:block;
+      font-style: italic;
+  }
+}
+
+.quote-author::before {
+  content: '—';
+}
+
+@media (min-width: 576px) {
+  .moderators {
+      background: url('/assets/img/moderators.jpeg') center/cover no-repeat;
+      padding: 0 0 66% 0;
+      color: white;
+      text-shadow: 0px 0px 0.1rem black;
+
+      .container {
+          position: absolute;
+          top: var(--navbar-height);
+          left: 0;
+          right: 0;
+          margin: 3rem auto;
+      }
+  }
+
+  .moderators::after {
+      content: none;
+  }
+
+  .moderator-photo {
+      width: 60%;
+  }
+
+  .quote-author span {
+      display: inline;
+      font-style: normal;
+  }
+  .quote-author span::before {
+      content: ", ";
+  }
+}

@@ -1,9 +1,10 @@
 html {
     scroll-padding-top: 7rem;
+    --navbar-height: 56px;
 }
 
 body {
-    padding-top: 56px;
+    padding-top: var(--navbar-height);
     font-family: 'Space Grotesk', sans-serif !important;
     color: $c-black;
     font-size: 1.1rem;
@@ -150,6 +151,12 @@ ul:last-child {
 
     @media (min-width: 992px) {
         li {
+            padding: 0 .5rem;
+        }
+    }
+
+    @media (min-width: 1200px) {
+        li {
             padding: 0 1rem;
         }
     }
@@ -169,7 +176,7 @@ ul:last-child {
 
     .nav-link {
         display: inline-block;
-        padding: 0.5rem 0.5rem;
+        padding: 0.5rem;
 
         i {
             font-size: 1.5em;
@@ -197,7 +204,7 @@ ul:last-child {
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
     #navbar-buttons {
         order: 1;
         #toggler {
