@@ -149,16 +149,13 @@ ul:last-child {
     flex-flow: column wrap;
     padding: 0;
 
-    @media (min-width: 992px) {
-        li {
-            padding: 0 .5rem;
-        }
+    .navbar-brand {
+        flex-grow: 2;
     }
 
-    @media (min-width: 1200px) {
-        li {
-            padding: 0 1rem;
-        }
+    .navbar-nav {
+        flex-grow: 1;
+        justify-content: space-around;
     }
 
     a {
