@@ -9,12 +9,14 @@ moderators:
   img: "petr-holik.jpeg"
   email: "petr.holik@faktaoklimatu.cz"
   linkedin: "https://www.linkedin.com/in/petrholik/"
-- name: "Hanka Vrtalová"
+  twitter: "https://twitter.com/holik_petr"
+- name: "Hana Vrtalová"
   story: |
      Hanka se věnuje produkci vědecko-popularizačních akcí, zejména v projektu Science slam. Ve Faktech o klimatu se specializuje na téma transformace dopravy a spoluvytváří podcast 2050. Kromě toho také lektoruje širokou škálu workshopů pro firemní klienty nebo studenty na Přírodovědecké fakultě Masarykovy univerzity v Brně, kde zároveň řídí lektorské pracoviště zaměřené na vzdělávání a trénink budoucích učitelů. Posledních devět let se aktivně věnuje divadelní improvizaci.
   img: "hanka-vrtalova.jpeg"
   email: "hana.vrtalova@faktaoklimatu.cz"
   linkedin: "https://www.linkedin.com/in/hana-vrtalová/"
+  twitter: "https://twitter.com/HVrtalova"
 references:
 - author: "Petr Škyřík"
   affiliation: "Masarykova univerzita"
@@ -36,6 +38,10 @@ references:
 <div class="section moderators"><div class="container">
 <h1>{{ page.title }}</h1>
 </div></div>
+
+<div class="section claim"><div class="container"><div class="claim-text">
+Moderátoři podcastu Petr Holík a Hana Vrtalová, s mnohaletými zkušenostmi s komunikací vědy a performance.
+</div></div></div>
 
 <div class="section"><div class="container">
 <h2>Můžeme moderovat i vaši akci</h2>
@@ -74,7 +80,10 @@ Moderátoři podcastu 2050 jsou zkušení lektoři komunikačních dovedností, 
             </div>
             <div class="card-body d-flex flex-column">
                 <h5 class="card-title text-center">
-                    {{ item.name }} {% if item.linkedin %}<a class="no-ext-link-icon" href="{{ item.linkedin }}"><span class="fab fa-fw fa-linkedin"></span></a>{% endif %}
+                    <span class="pr-2">{{ item.name }}</span>
+                    {% if item.linkedin %}<a class="no-ext-link-icon" href="{{ item.linkedin }}"><span class="fab fa-fw fa-linkedin"></span></a>{% endif %}
+                    {%- if item.twitter %}<a class="no-ext-link-icon" href="{{ item.twitter }}"><span class="fab fa-fw fa-twitter"></span></a>{% endif %}
+
                 </h5>
                 <div class="card-text mb-3 text-center">{{ item.story | markdownify }}</div>
                 {%- if item.email %}
