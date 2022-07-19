@@ -1,18 +1,18 @@
 ---
 layout:         episode
-title:          "XXX"
+title:          "Kolik stojí povodně a kolik sucho? Klima a extrémy počasí očima pojišťoven"
 number:         29
 slug:           "29-cap"
 redirect_from:  "/epizody/29"
 published:      2022-07-20
 summary:    |
-  XXX KRATKY POPIS XXX
+  Podle Jana Matouška, ředitele České asociace pojišťoven, je změna klimatu jedním ze dvou hlavních témat, která pojišťovny v současnosti řeší. S rostoucí průměrnou roční teplotou totiž přibývá i extrémních projevů počasí, jako jsou vlny veder, sucho, intenzivní srážky apod., a škody, které tyto extrémy způsobí, pak do velké míry hradí právě pojišťovny. Je pro ně tedy velice důležité se na častější výskyt těchto jevů a jejich větší intenzitu dobře připravit.
 audioboom:  "8122700"
 guests: [ matousek ]
 transcript: true
 ---
 
-XXX POPIS XXX
+S ohledem na své závazky  kompenzovat vzniklé škody budou pojišťovny v budoucnosti klást důraz zejména na prevenci a pomáhat svým klientům zavádět taková opatření, která dopady extrémů počasí co nejvíce sníží. V rozhovoru se dozvíte, jak pojišťovny k rizikům způsobeným změnami klimatu přistupují, jaké mají plány do budoucna a zazní také několik konkrétních příkladů extrémních událostí a kolik nás tyto škody stály.
 
 {% include 2050/guest-list.html %}
 
@@ -23,10 +23,10 @@ XXX POPIS XXX
 <div class="bonus-material" markdown="1">
 
 * **Infografika [Jaký vliv má klimatická změna na extrémy počasí](https://faktaoklimatu.cz/infografiky/vliv-klimatu-na-extremy)** (_Fakta o klimatu_)  
-  popis popis popis
+  V důsledku změny klimatu jsou extrémní meteorologické události v mnoha oblastech světa stále častější a intenzivnější. Pravděpodobnost výskytu však nestoupá u všech extrémů stejně a navíc se v některých částech světa změny projevují více než jinde.
   
 * **Explainer [Jak souvisí extrémní počasí v Česku s klimatickou změnou?](https://faktaoklimatu.cz/explainery/vliv-klimatu-na-extremy-cesko)** (_Fakta o klimatu_)  
-  popis popis popis
+  S rostoucí frekvencí a intenzitou extrémních meteorologických jevů se veřejnost stále častěji ptá, jak tyto události souvisejí se změnou klimatu. Čeští odborníci na jednotlivé typy extrémů v tomto textu komentují příklady z nedávné doby.
 
 
 </div>
