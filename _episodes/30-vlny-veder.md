@@ -44,9 +44,7 @@ Vznik této epizody podpořil Skautský institut.
 * **Článek [Accelerated western European heatwave trends linked to more-persistent double jets over Eurasia](https://www.nature.com/articles/s41467-022-31432-y.pdf)** (_Nature_)  
   Původní článek, jehož shrnutí nabízí výše uvedené video.
 
-
 </div>
-
 
 {% include 2050/transcript-start.html %}
 
