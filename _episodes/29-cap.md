@@ -14,6 +14,8 @@ transcript: true
 
 S ohledem na své závazky  kompenzovat vzniklé škody budou pojišťovny v budoucnosti klást důraz zejména na prevenci a pomáhat svým klientům zavádět taková opatření, která dopady extrémů počasí co nejvíce sníží. V rozhovoru se dozvíte, jak pojišťovny k rizikům způsobeným změnami klimatu přistupují, jaké mají plány do budoucna a zazní také několik konkrétních příkladů extrémních událostí a kolik nás tyto škody stály.
 
+Vznik této epizody podpořil [Skautský institut](https://www.skautskyinstitut.cz/).
+
 {% include 2050/guest-list.html %}
 
 ---
