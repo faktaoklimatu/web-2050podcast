@@ -10,7 +10,7 @@ moderators:
   email: "petr.holik@faktaoklimatu.cz"
   linkedin: "https://www.linkedin.com/in/petrholik/"
   twitter: "https://twitter.com/holik_petr"
-- name: "Hana Vrtalová"
+- name: "Hana Tesák Vrtala"
   story: |
      Hanka se věnuje produkci vědecko-popularizačních akcí, zejména v projektu Science slam. Ve Faktech o klimatu se specializuje na téma transformace dopravy a spoluvytváří podcast 2050. Kromě toho také lektoruje širokou škálu workshopů pro firemní klienty nebo studenty na Přírodovědecké fakultě Masarykovy univerzity v Brně, kde zároveň řídí lektorské pracoviště zaměřené na vzdělávání a trénink budoucích učitelů. Posledních devět let se aktivně věnuje divadelní improvizaci.
   img: "hanka-vrtalova.jpeg"
@@ -40,7 +40,7 @@ references:
 </div></div>
 
 <div class="section claim"><div class="container"><div class="claim-text">
-Moderátoři podcastu Petr Holík a Hana Vrtalová, s mnohaletými zkušenostmi s komunikací vědy a performance.
+Moderátoři podcastu Petr Holík a Hana Tesák Vrtala, s mnohaletými zkušenostmi s komunikací vědy a performance.
 </div></div></div>
 
 <div class="section"><div class="container">
