@@ -12,7 +12,7 @@ guests: [ moran ]
 transcript: false
 ---
 
-Ve své roli Regionálního ambasadora na COP26 pro Evropu, Střední Asii, Turecko a Írán  měl David jedinečnou příležitost setkat se s mnoha lidmi, názory i konflikty v oblasti změn klimatu. V podcastu mimo jiné přibližuje, jak zásadní bylo potkat se s ostatními vyjednavači osobně, po covidové pauze, jak vypadá vyjednávání s byznysem a vládními představiteli  „na domácí půdě“ nebo třeba to, co se vyjednavačům během konference honí hlavou.
+Ve své roli Regionálního ambasadora na COP26 pro Evropu, Střední Asii, Turecko a Írán  měl David jedinečnou příležitost setkat se s mnoha lidmi, názory i konflikty v oblasti změn klimatu. V podcastu mimo jiné přibližuje, jak zásadní bylo potkat se s ostatními vyjednavači osobně, po covidové pauze, jak vypadá vyjednávání s byznysem a vládními představiteli "na domácí půdě" nebo třeba to, co se vyjednavačům během konference honí hlavou.
 
 Rozhovor je v angličtině, epizoda má český úvod.
 
