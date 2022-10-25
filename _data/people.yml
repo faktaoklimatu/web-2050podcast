@@ -203,12 +203,12 @@
   surname: Matoušek
   description: Česká asociace pojišťoven
 
-  - id: kolouchova
+- id: kolouchova
   name: Kateřina
   surname: Kolouchová
   description: Fakta o klimatu
 
-  - id: moran
+- id: moran
   name: David
   surname: Moran
   description: Regionální ambasador na COP26
