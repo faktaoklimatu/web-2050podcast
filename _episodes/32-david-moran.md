@@ -16,7 +16,6 @@ Ve své roli Regionálního ambasadora na COP26 pro Evropu, Střední Asii, Ture
 
 Rozhovor je v angličtině, epizoda má český úvod. Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 
-
 {% include 2050/guest-list.html %}
 
 ---
