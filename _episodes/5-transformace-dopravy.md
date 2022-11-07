@@ -44,7 +44,7 @@ Dozvíte se, jak by mohla vypadat doprava budoucnosti a také to, proč je důle
 {% include 2050/transcript-start.html %}
 
 {% include 2050/transcript-person.html id="holik" %}
-Vendy, jak jsi se dneska dostala jsem do studia?
+Vendy, jak jsi se dneska dostala sem do studia?
 
 {% include 2050/transcript-person.html id="svobodova" %}
 Já jela tramvají.
