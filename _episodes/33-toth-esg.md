@@ -18,7 +18,6 @@ Na konci epizody zmiňujeme [toto video](https://youtu.be/p6CF-umWLZg) z kanálu
 
 Podpořte Fakta o klimatu a kupte si pod stromeček některý z plakátů v novém designu nebo Atlas klimatické změny. Všechy dárky a možnosti podpory najdete na [donio.cz/nastartujtefakta](https://www.donio.cz/nastartujtefakta).
 
-
 {% include 2050/guest-list.html %}
 
 ---
@@ -31,4 +30,3 @@ Podpořte Fakta o klimatu a kupte si pod stromeček některý z plakátů v nov�
   K dosažení klimatických cílů bude potřeba velký objem jak veřejného, tak soukromého kapitálu. V rámci Evropské unie by mobilizaci soukromého kapitálu měla napomoci právě taxonomie, neboť přináší klasifikaci udržitelných a klimatu prospěšných aktivit.
   
 </div>
-
