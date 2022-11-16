@@ -26,6 +26,9 @@ Podpořte Fakta o klimatu a kupte si pod stromeček některý z plakátů v nov�
 
 <div class="bonus-material" markdown="1">
 
+* **Infografika [What is Sustainable Finance and why does it matter?](https://www.isfc.org/infographic)** (_ISFC_)  
+  As sustainable finance has recently been gaining momentum, we thought it would come in handy to go through some of its key themes. What does sustainable finance mean and why is it important? Download our infographic to find out.
+  
 * **Infografika [Co je taxonomie EU](https://faktaoklimatu.cz/infografiky/taxonomie-eu)** (_Fakta o klimatu_)  
   K dosažení klimatických cílů bude potřeba velký objem jak veřejného, tak soukromého kapitálu. V rámci Evropské unie by mobilizaci soukromého kapitálu měla napomoci právě taxonomie, neboť přináší klasifikaci udržitelných a klimatu prospěšných aktivit.
   
