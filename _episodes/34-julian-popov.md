@@ -23,7 +23,7 @@ Rozhovor byl natočen 31. května 2022.
 
 <div class="bonus-material" markdown="1">
 
-* **Infografika [Co je Fit for 55]([https://www.isfc.org/infographic](https://faktaoklimatu.cz/infografiky/fit-for-55?q=fit))** (_Fakta o klimatu_)  
+* **Infografika [Co je Fit for 55](https://faktaoklimatu.cz/infografiky/fit-for-55?q=fit)** (_Fakta o klimatu_)  
   Fit for 55 je balíček legislativních návrhů Evropské komise, které mají vést k 55% snížení evropských emisí skleníkových plynů do roku 2030 v porovnání s rokem 1990. Tento cíl je mezikrokem k dosažení uhlíkové neutrality do roku 2050, k němuž se Evropská unie právně zavázala.
   
 * **Infografika [Fit for 55: přehled navrhovaných opatření](https://faktaoklimatu.cz/infografiky/fit-for-55-opatreni)** (_Fakta o klimatu_)  
