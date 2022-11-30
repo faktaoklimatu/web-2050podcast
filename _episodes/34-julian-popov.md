@@ -2,8 +2,8 @@
 layout:         episode
 title:          "Julian Popov: O klimatické neutralitě EU a jak ji ovlivní probíhající válka a další velké výzvy dneška"
 number:         34
-slug:           "33-julian-popov"
-redirect_from:  "/epizody/33"
+slug:           "34-julian-popov"
+redirect_from:  "/epizody/34"
 published:      2022-11-30
 summary:    |
   Jak ovlivní konflikt na Ukrajině evropský Green Deal a balíček opatření Fit for 55? Jakou roli v transformaci na nízkouhlíkovou ekonomiku hraje finanční sektor? A jak na evropské úrovni řešit  rozdíly, které existují mezi jednotlivými regiony?
