@@ -1,6 +1,6 @@
 ---
 layout:         episode
-title:          "Julian Popov: O klimatické neutralitě EU a jak ji ovlivní probíhající válka a další velké výzvy dneška"
+title:          "Julian Popov: O klimatické neutralitě EU a jak ji ovlivní probíhající válka a další velké výzvy dneška (ENG)"
 number:         34
 slug:           "34-julian-popov"
 redirect_from:  "/epizody/34"
@@ -14,6 +14,7 @@ transcript: false
 V této epizodě se ponoříme hlouběji do tématu klimatické neutrality a především transformace, kterou bude Evropa v dalších dekádách procházet. S naším hostem rozebíráme historický kontext a příklady podobných technologicko-společenských změn, jež se v Evropě odehrály už dříve a na společnost měly velký dopad. Z rozhovoru ale získáte i přehled o tom, jak nastartovat sociální změny potřebné k naplnění evropských klimatických cílů, a dozvíte se například také, jak by mohly vypadat energeticky úsporné budovy budoucnosti.
 
 Rozhovor byl natočen 31. května 2022.
+Rozhovor je v angličtině, epizoda má český úvod.
 
 {% include 2050/guest-list.html %}
 
