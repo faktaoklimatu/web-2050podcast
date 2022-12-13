@@ -99,7 +99,7 @@ My jsme se na téma průmyslu nebo toho, kdo jsou ti velcí znečišťovatelé, 
 {% include 2050/transcript-person.html id="pribyla" %} 
 Na té grafice je zobrazeno 29 největších emitentů a největších podle toho, jak bychom je vzali v seznamu těch, kteří si objednávají emisní povolenky, odtamtud ty data procházejí, takže ze všech plátců, kteří si kupují emisní povolenky a tím pádem mají ověřené emise, na které si museli koupit ty povolenky. Tak, když vezmeme 29, tak to dohromady udělá 42 % emisí České republiky. To je ale docela významné si uvědomit, že to těch 42 % emisí v České republice nesouvisí se spotřebou jednotlivců, ale souvisí s činností 29 největších podniků v desetimilionové zemi. Hned ta další druhá věc, která je potřeba říct je, co to je průmysl, protože to je slovo, které se člověk dozví možná v zeměpise, možná v občance a často je opakované ve zprávách, ale průmysl není jedna homogenní entita, to jsou vlastně různé průmysly, a to, co vidíme tady zobrazeno, tak jsou největší elektrárny a teplárny, většinou hnědouhelné a většinou v severních Čechách, které mohou za velké množství emisí. 
 
-{% include 2050/transcript-time.html time=”06:31” %}
+{% include 2050/transcript-time.html time="06:31" %}
 
 {% include 2050/transcript-person.html id="holik" %}
 To jsou elektrárny, že jo, ty můžeme řadit do sektoru energetiky, těm se teďka v téhle sérii věnovat nebudeme, protože energetiku chceme rozebrat jako samostatnou kapitolu. Pojďme se zaměřit na ten průmysl, co tam je pak na té mapě. 
@@ -225,5 +225,6 @@ Mějte se krásně a přejeme vám klidné a pohodové Vánoce.
 
 {% include 2050/transcript-person.html id="vrtalova" %} 
 Ahoj.
+
 
 {% include 2050/transcript-end.html %}
