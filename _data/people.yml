@@ -222,3 +222,13 @@
   name: Julian
   surname: Popov
   description: ECF Fellow, BPIE Chairman
+
+- id: skavron
+  name: Jakub
+  surname: Skavron
+  description: Climate & Sustainable Leaders
+
+- id: zednicek
+  name: Pavel
+  surname: Zedníček
+  description: Institut cirkulární ekonomiky
