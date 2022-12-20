@@ -14,6 +14,8 @@ transcript: true
 
 Touto epizodou startujeme podcatovou sérii, ve které se v příštích měsících na téma dekarbonizace průmyslu zaměříme do hloubky. Dozvíte se, kde v průmyslu emise vznikají, která odvětví bude obzvláště těžké emisí zbavit a jaké technologie máme k dispozici, aby se nám to povedlo. Diskutovat budeme i o financování transformace průmyslu nebo například o principech cirkulární ekonomiky, které také mohou se snižováním emisí výrazně pomoci.
 
+Epizoda vznikla za podpory Britského velvyslanectví v Praze.
+
 {% include 2050/guest-list.html %}
 
 ---
