@@ -39,6 +39,7 @@ Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 </div>
 
 
+
 ## Transkript epizody
 
 Transkript epizody doplníme během několika dní.
