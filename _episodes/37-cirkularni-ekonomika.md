@@ -1,6 +1,6 @@
 ---
 layout:     episode
-title:      "Jak cirkulární ekonomika pomůže dekarbonizovat průmysl"
+title:      "Jak cirkulární ekonomika pomůže dekarbonizovat průmysl?"
 number:     37
 slug:       "37-cirkularni-ekonomika"
 redirect_from: "/epizody/37"
