@@ -28,7 +28,7 @@ Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 <div class="bonus-material" markdown="1">
 
 * **Studie [Role cirkulární ekonomiky v dekarbonizaci průmyslu](https://incien.org/wp-content/uploads/2022/10/incien_study_CZ_DIGI.pdf)** (_INCIEN_)  
-  Nedávno vydaná studie s podtitulem “Iniciování debaty se zástupci českého průmyslu o dodatečných cestách k dosažení uhlíkové neutrality”.
+  Nedávno vydaná studie s podtitulem "Iniciování debaty se zástupci českého průmyslu o dodatečných cestách k dosažení uhlíkové neutrality".
 
 * **Infografika [Největší emitenti ČR](https://github.com/faktaoklimatu/graphics/blob/main/data-visualization/infographics/emissions/czechia/top-emission-producers-in-czechia/cs-nejvetsi-emitenti-cr.pdf)** (_Fakta o klimatu_)  
   Téměř polovinu roční produkce skleníkových plynů v ČR vypustí jen několik desítek producentů – elektráren, železáren, cementáren a rafinerií. Data jsou k roku 2020.
