@@ -35,8 +35,9 @@ Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 * **Explainer [Co je Zelená dohoda pro Evropu?](https://faktaoklimatu.cz/explainery/zelena-dohoda-pro-evropu)** (_Fakta o klimatu_)  
   Snad žádný evropský dokument nepřitáhl v posledních letech v Česku tolik mediální pozornosti jako Zelená dohoda pro Evropu. A taky nesklidil tolik kritiky. Výzkumy přitom odhalily zajímavý paradox, že European Green Deal sice nemalé části české veřejnosti vadí, ale jen málokdo tuší, co se v něm vlastně píše. V tomto textu proto přinášíme přehled toho nejdůležitějšího a přidáváme k němu užitečné souvislosti.
 
-
 </div>
+
+---
 
 ## Transkript epizody
 
