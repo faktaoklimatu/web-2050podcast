@@ -18,7 +18,6 @@ V neposlední řadě se dozvíte i to, jak více využívat dřevo ve stavebnict
 
 Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 
-
 {% include 2050/guest-list.html %}
 
 ---
