@@ -9,7 +9,7 @@ summary:    |
    V Evropské unii můžeme ušetřit 40 % emisí z průmyslu, pokud zavedeme principy cirkulární ekonomiky. S Pavlem Zedníčkem z INCIEN (Institut cirkulární ekonomiky) v této epizodě vysvětlujeme, co to je, v jakých odvětvích a jak konkrétně ji můžeme využít a jak si v této oblasti aktuálně vedeme.
 audioboom:  "8231993"
 guests: [ zednicek ]
-transcript: false
+transcript: true
 ---
 
 Klíčovou otázkou, kterou se cirkulární ekonomika snaží řešit, je, jak zajistit potřebné služby (například bydlení nebo dopravu) a přitom snížit objem těžby, výroby a využití emisně náročných materiálů, jako jsou ocel, cement, hliník nebo plasty. Typicky se bavíme o možnostech nových technologických postupů nebo o recyklaci těchto materiálů.
