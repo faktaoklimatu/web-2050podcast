@@ -16,7 +16,7 @@ Hosté Tomáš Jungwirth a Jan Svoboda v rozhovoru mimo jiné přibližují konc
 
 Vznik této epizody finančně podpořil Krajský úřad JMK.
 
-{% include 2050/sponsor.html name="jmk.png" %}
+{% include 2050/sponsor.html name="jmk.png" alt="logo Jihomoravského kraje" %}
 
 {% include 2050/guest-list.html %}
 

@@ -19,7 +19,7 @@ Epizodu ve formě videa najdete na našem [YouTube kanálu](https://youtu.be/l08
 
 Vznik této epizody finančně podpořil Krajský úřad JMK.
 
-{% include 2050/sponsor.html name="jmk.png" %}
+{% include 2050/sponsor.html name="jmk.png" alt="logo Jihomoravského kraje" %}
 
 {% include 2050/guest-list.html %}
 
