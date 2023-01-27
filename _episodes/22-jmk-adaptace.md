@@ -18,6 +18,9 @@ Podívejte se na epizodu včetně videa [na YouTube](https://youtu.be/tSabavCESh
 
 Tato epizoda vznikla ve spolupráci s Krajským úřadem JMK a Skautským institutem.
 
+{% include 2050/sponsor.html name="jmk.png" %}
+{% include 2050/sponsor.html name="si.svg" class="logo-add-protected-area" %}
+
 {% include 2050/guest-list.html %}
 
 ---
@@ -26,13 +29,13 @@ Tato epizoda vznikla ve spolupráci s Krajským úřadem JMK a Skautským instit
 
 <div class="bonus-material" markdown="1">
 
-* **Explainer [Jak v následujícím století hospodařit v českých lesích?](https://faktaoklimatu.cz/explainery/hospodareni-lesy)** (_Fakta o klimatu_)  
+* **Explainer [Jak v následujícím století hospodařit v českých lesích?](https://faktaoklimatu.cz/explainery/hospodareni-lesy)** (_Fakta o klimatu_)
   Klimatické podmínky se v Česku mění a dopady jsou zřetelně vidět. Chceme-li tu mít zdravé lesy, musíme v nich začít hospodařit jinak, než bylo v posledních dvou stoletích běžné: Potřebujeme lesy, které se dokáží měnícím se klimatickým podmínkám přizpůsobit.
 
-* **Web [Cena za krajinu](https://cenazakrajinu.cz)** (_Jihomoravský kraj_)  
+* **Web [Cena za krajinu](https://cenazakrajinu.cz)** (_Jihomoravský kraj_)
   Soutěž, která má za cíl zviditelnit příklady dobré praxe mezi adaptačními projekty na jižní Moravě.
 
-* **Web [Živá půda](https://www.ziva-puda.cz)** (_Nadace Partnerství_)  
+* **Web [Živá půda](https://www.ziva-puda.cz)** (_Nadace Partnerství_)
   Nadace Partnerství dlouhodobě poskytuje poradenství v oblasti nakládání s půdou jak zemědělcům, tak i drobným vlastníkům půdy.
 
 </div>
@@ -46,7 +49,7 @@ Dobrý den, v naší dnešní epizodě podcastu 2050 zůstaneme tak trochu doma.
 A to ne jen doma v Česku, ale i pro nás doma, tedy na Moravě. Nemusíte se ale bát, i když nejste z Brna tak jako my, stejně pro vás tahle epizoda bude relevantní.
 
 {% include 2050/transcript-person.html id="holik" %}
-Chceme se totiž bavit o adaptacích na změny klimatu. A to velice konkrétně, chceme se bavit o tom, co můžeme v naší krajině dělat, abychom byli v adaptacích úspěšní. 
+Chceme se totiž bavit o adaptacích na změny klimatu. A to velice konkrétně, chceme se bavit o tom, co můžeme v naší krajině dělat, abychom byli v adaptacích úspěšní.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 Navázali jsme spolupráci s jihomoravským krajem, který nedávno vyhlásil vítěze soutěže Cena za krajinu. Tato cena hodnotí právě úspěšná adaptační opatření.
@@ -64,12 +67,12 @@ Můžete se těšit na několik příkladů dobré praxe, tedy příkladů toho,
 Pojďme si naše dnešní hosty představit.
 
 {% include 2050/transcript-person.html id="schneider" %}
-Jmenuji se Jiří Schneider. Jsem děkanem fakulty regionálního rozvoje a mezinárodních studií na Mendelově univerzitě v Brně. Mou odborností jsou jednak lesy, ale potom taky právě ochrana krajiny a dlouhodobě jsem učil revitalizace, což s tím velmi úzce souvisí, právě tady s tou problematikou. 
+Jmenuji se Jiří Schneider. Jsem děkanem fakulty regionálního rozvoje a mezinárodních studií na Mendelově univerzitě v Brně. Mou odborností jsou jednak lesy, ale potom taky právě ochrana krajiny a dlouhodobě jsem učil revitalizace, což s tím velmi úzce souvisí, právě tady s tou problematikou.
 
 Já to ještě doplním, aby to nevypadalo, že jsem jenom čistý teoretik. Se ženou máme pozemkový spolek Zázvoníky, kde už vlastně 18 let pečujeme o stejnojmennou lokalitu nedaleko Bořetic, kde se snažíme udržovat sečením poměrně cennou stepku s řadou kriticky ohrožených druhů rostlin a živočichů. Takže jsem si také prošel tím jednáním s vlastníky, zemědělci, vysvětlováním, proč to má význam a jak je úžasné, že tam taková lokalita může být.
 
 {% include 2050/transcript-person.html id="smetana" %}
-Volám sa Martin Smetana, usadil som sa na Hodonínsku na južnej Morave. Predtým som vyštudoval botaniku, zoológiu a ekológiu na Masarykovej univerzite v Brne. V mieste bydliska v Blatničke som sa začal venovať obnove krajiny. Začal som ako malý zemědělec a postupne mi to trošku prerástlo cez hlavu a začal som meniť krajinu vo veľkom. V roku 2019 som za to získal prvú cenu v kategorii Adapterra awards a už dva roky pomáham Nadaci Partnerství ako poradca vlastníkom zemědělských pozemkov a zároveň ako expert na adaptačné opatrenia v krajine. 
+Volám sa Martin Smetana, usadil som sa na Hodonínsku na južnej Morave. Predtým som vyštudoval botaniku, zoológiu a ekológiu na Masarykovej univerzite v Brne. V mieste bydliska v Blatničke som sa začal venovať obnove krajiny. Začal som ako malý zemědělec a postupne mi to trošku prerástlo cez hlavu a začal som meniť krajinu vo veľkom. V roku 2019 som za to získal prvú cenu v kategorii Adapterra awards a už dva roky pomáham Nadaci Partnerství ako poradca vlastníkom zemědělských pozemkov a zároveň ako expert na adaptačné opatrenia v krajine.
 
 {% include 2050/transcript-person.html id="holik" %}
 Já bych se chtěl zeptat nebo začít otázkou, protože jsme vás pozvali jakožto porotce Ceny za krajinu, tak kdybyste mohli tuhle cenu v krátkosti představit. O co se jedná, pro koho, kde a jak dlouho se to koná a v čem spočívá tahleta událost?
@@ -106,7 +109,7 @@ Druhý aspekt je, že na tej pôde častokrát, respektíve tú pôdu vlastnia k
 Jestli bych mohla okomentovat jednu drobnost, jak jste mluvil těch pachtýřích, tak já jsem poměrně nedávno zdědila ornou půdu a až teď mi došlo, že teď s tím můžu něco dělat. Já jsem se teď o to vůbec nestarala. A to je vlastně hrozně super, takže pokud je vás víc, kdo jste náhodou zdědili ornou půdu nebo ji vlastníte, tak to je super zpráva.
 
 {% include 2050/transcript-person.html id="smetana" %}
-Je to tak a ja by som hneď doplnil, že veľa tých vlastníkov vlastne dostane tú pôdu a teraz nevie, čo s tým. A väčšinou to napríklad kvôli nejakým pracovným povinnostiam nemajú čas ani riešiť a v podstate ich to odradzuje to riešiť, pretože si uvedomujú, že to je veľmi zložité a práve preto sme v Nadaci Partnerství v rámci projektu Živá půda otvorili poradňu pre vlastníkov, kde nám môžete napísať. 
+Je to tak a ja by som hneď doplnil, že veľa tých vlastníkov vlastne dostane tú pôdu a teraz nevie, čo s tým. A väčšinou to napríklad kvôli nejakým pracovným povinnostiam nemajú čas ani riešiť a v podstate ich to odradzuje to riešiť, pretože si uvedomujú, že to je veľmi zložité a práve preto sme v Nadaci Partnerství v rámci projektu Živá půda otvorili poradňu pre vlastníkov, kde nám môžete napísať.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 Já se ozvu. (smích)
@@ -194,7 +197,7 @@ Pojďme do toho.
 {% include 2050/transcript-person.html id="smetana" %}
 Úplným víťazom je pán docent Marada zo Šardíc, ktorý dlhé roky tam hospodári. Tým, že je zároveň akademik (pracuje na Mendelovej univerzite) a zároveň hospodári v tej krajine, tak ho dosť frustroval ten stav, že tá krajina nie je úplne taká, aká by mala byť, ako to učí na tej škole, a tak začal robiť niečo s tou krajinou. Bolo mu jasné, že práve pozemkové úpravy sú úplný základ, takže inicioval pozemkové úpravy, snažil sa do toho poštuchnúť trošku aj tú obec. Podarilo sa tam zrealizovať pozemkové úpravy a potom, keď skončili pozemkové úpravy, on tam začal hospodáriť.
 
-Laická verejnosť ho asi najviac pozná s tými biopásmi, ktoré na Šardicku má, pretože tam chodia fotografi z celej republiky to fotiť. Sú to nádherné zábery, ako sú dlhé pásy naprieč tými veľkými lánmi – on to tam rozrušuje rôznymi pestrofarevnými prvkami. Takže pán Marada vyhral prvú cenu s projektom Zemědělské hospodárenie zamerané na obnovu vodného režimu, podporu biodiverzity a adaptáciu krajiny na klimatickú zmenu. 
+Laická verejnosť ho asi najviac pozná s tými biopásmi, ktoré na Šardicku má, pretože tam chodia fotografi z celej republiky to fotiť. Sú to nádherné zábery, ako sú dlhé pásy naprieč tými veľkými lánmi – on to tam rozrušuje rôznymi pestrofarevnými prvkami. Takže pán Marada vyhral prvú cenu s projektom Zemědělské hospodárenie zamerané na obnovu vodného režimu, podporu biodiverzity a adaptáciu krajiny na klimatickú zmenu.
 
 {% include 2050/transcript-person.html id="holik" %}
 Složitý název. Co se pod tím skrývá?
