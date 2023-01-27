@@ -16,6 +16,8 @@ S ohledem na své závazky  kompenzovat vzniklé škody budou pojišťovny v bud
 
 Vznik této epizody podpořil [Skautský institut](https://www.skautskyinstitut.cz/).
 
+{% include 2050/sponsor.html name="si.svg" class="logo-add-protected-area" %}
+
 {% include 2050/guest-list.html %}
 
 ---
@@ -24,10 +26,10 @@ Vznik této epizody podpořil [Skautský institut](https://www.skautskyinstitut.
 
 <div class="bonus-material" markdown="1">
 
-* **Infografika [Jaký vliv má klimatická změna na extrémy počasí](https://faktaoklimatu.cz/infografiky/vliv-klimatu-na-extremy)** (_Fakta o klimatu_)  
+* **Infografika [Jaký vliv má klimatická změna na extrémy počasí](https://faktaoklimatu.cz/infografiky/vliv-klimatu-na-extremy)** (_Fakta o klimatu_)
   V důsledku změny klimatu jsou extrémní meteorologické události v mnoha oblastech světa stále častější a intenzivnější. Pravděpodobnost výskytu však nestoupá u všech extrémů stejně a navíc se v některých částech světa změny projevují více než jinde.
-  
-* **Explainer [Jak souvisí extrémní počasí v Česku s klimatickou změnou?](https://faktaoklimatu.cz/explainery/vliv-klimatu-na-extremy-cesko)** (_Fakta o klimatu_)  
+
+* **Explainer [Jak souvisí extrémní počasí v Česku s klimatickou změnou?](https://faktaoklimatu.cz/explainery/vliv-klimatu-na-extremy-cesko)** (_Fakta o klimatu_)
   S rostoucí frekvencí a intenzitou extrémních meteorologických jevů se veřejnost stále častěji ptá, jak tyto události souvisejí se změnou klimatu. Čeští odborníci na jednotlivé typy extrémů v tomto textu komentují příklady z nedávné doby.
 
 
@@ -73,7 +75,7 @@ Celá tato epizoda vlastně mluví o extrémních projevech počasí a o tom, ko
 
 {% include 2050/transcript-time.html time="09:54" %}
 {% include 2050/transcript-person.html id="holik" %}
-Já jsem se chtěl zeptat na data, která vám chybí, která byste potřebovali. Takže nějaká data o tom, jaké budou frekvence právě těchhle těch událostí. Nějaká další? 
+Já jsem se chtěl zeptat na data, která vám chybí, která byste potřebovali. Takže nějaká data o tom, jaké budou frekvence právě těchhle těch událostí. Nějaká další?
 
 {% include 2050/transcript-person.html id="matousek" %}
 No to jsou data o klimatických modelech v podstatě. Řada mezinárodních zajistitelů nebo mezinárodních makléřů se snaží vyvíjet vlastní klimatické modely, abysme mohli říct třeba jak často se tady budou měnit… nebo frekvence třeba krupobití. Zdálo by se to jako marginální věc, ale tuším, že to krupobití, které bylo v Praze nás v roce 2010 nás stálo 1,9 miliardy korun. Tedy rozumět tomu, jak často takovéhle věci se budou dít, je pro nás důležité, ale ty data… není to jenom o tom, že my je sami analyzujeme. Musíme se přece víc jako soustředit na spolupráci s univerzitami, s výzkumnými centry, protože ty jsou asi daleko dopředu.
@@ -121,7 +123,7 @@ Jak vlastně ti klienti vnímají tohle to vaše počínání? Protože je to n�
 Ta změna, kterou jsme udělali před lety v místě pojištění těch nemovitostí, jinými slovy, máte to v zóně, kde je vysoká míra rizika – už to pojištění pravděpodobně nezískáte, nebude bude dražší, tak ti klienti dobře nereagují, to si pojďme nepředstírat. A je to samozřejmě ale hodně o tom, jak to vysvětlíte tomu klientovi. Nejsem si jistý, nevím, jestli se to vždycky podařilo těm klientům vysvětlit správně. Ono samozřejmě ten klient to nechce slyšet taky. Má prostě nějaký pozemek, ve kterém si chce něco postavit a najednou zjistí, že mu to nikdo nechce pojistit, a když to nebude mít pojištěné, tak na to nedostane hypotéku, tak je to samozřejmě složitá situace. Na druhé straně při té míře pravděpodobnosti, když to tam bude ten dům stavět každých 20 let potom, tak to taky není jako zábava, no, ale rozhodně musíme být daleko aktivnější ve vysvětlování toho, proč co děláme, aby tomu ti klienti rozuměli, protože pokud tomu rozumí, tak jsem naopak přesvědčený, že budou vlastně s náma na jedné lodi.
 
 {% include 2050/transcript-person.html id="holik" %}
-Chtěl bych se zeptat na téma nepojistitelných událostí. Jestli to je něco… Asi je to něco, co už se možná děje, vlastně vůbec nevím, v jaké míře. A jestli je to něco, co se s klimatickou změnou bude měnit / zvyšovat, že prostě můžou nastat události, které se prostě pojistit nedají… A teď vy jste se už dotknul trochu toho tornáda na Moravě, jestli třeba to je nějaká z událostí, která je vlastně takového rozsahu, že prostě pojistit nejde, anebo jde, nebo jak tohleto téma vlastně bude žít? 
+Chtěl bych se zeptat na téma nepojistitelných událostí. Jestli to je něco… Asi je to něco, co už se možná děje, vlastně vůbec nevím, v jaké míře. A jestli je to něco, co se s klimatickou změnou bude měnit / zvyšovat, že prostě můžou nastat události, které se prostě pojistit nedají… A teď vy jste se už dotknul trochu toho tornáda na Moravě, jestli třeba to je nějaká z událostí, která je vlastně takového rozsahu, že prostě pojistit nejde, anebo jde, nebo jak tohleto téma vlastně bude žít?
 
 {% include 2050/transcript-person.html id="matousek" %}
 To tornádo, já o něm říkám, že je to pro nás takový klimatický budíček, jo, nejen pro nás, ale i pro naše pojišťovny, abysme si opravdu uvědomili, že ty extrémní jevy tady s větší mírou četnosti budou. Tady si ještě můžeme říct, že vlastně paradoxně jako bylo štěstí, že to tornádo zasáhlo jenom těch 5–6 menších obcí a že výrazně třeba nezasáhlo Břeclav nebo Hodonín, protože ty škody by byly násobně vyšší. Dneska to, co jsme zaplatili za tornádo je asi zhruba 3,5 miliardy korun. Je to pojistitelné, protože nepojišťujeme tornádo, pojišťujeme prostě vliv větru, a to je běžná škoda na majetku. Musíme se ale od té chvíle dívat i na tohle pojištění trochu jinak, protože typicky naši klienti, ale i my, když jsme jim prodávali pojištění, tak si dokázali představit, že jim to tornádo nebo velkej vítr odnese střechu, takže si tu pojistnou částku zvolili na to, když budu potřebovat novou střechu, abych ji postavil. To ne ještě vždycky realisticky.
@@ -141,7 +143,7 @@ Těch případů je několik. První věc je – my máme přeci jenom poměrně
 Potom, co nás bezpochyby zajímá, je stav lesa. Ten má prostě velký vliv na udržitelnost vody v krajině, ale i například na průběh těch větrných událostí. A tady zase, já už jsem to předtím řekl, musíme sázet les na příštích 100 let – na to klima, které tady bude, ne na těch minulých. Krajina naší Vysočiny, když tam projíždíte, vidíte ty kůrovcem sežrané lesy, tak vidíte, že odolná teda rozhodně nebude a že to není problém kůrovce, je to problém odolnosti toho lesního porostu vůči tomu počasí, které tady bude. To znamená přesvědčit třeba stát, aby podnikl účinnější opatření v tom, jakým způsobem bude probíhat hospodaření a výsadba lesa, jakým způsobem budeme snižovat například stav té přemnožené zvěře, abychom tady byli schopni ještě nějaký les vůbec vypěstovat. Tak to je rozhodně třeba jeden z úkolů, který před náma teďka stojí.
 
 {% include 2050/transcript-person.html id="holik" %}
-Mám asi poslední otázku. Vlastně bych se chtěl zeptat, když odhlédneme od změny klimatu, tak jestli byste mohl pojmenovat, jaké další výzvy ten váš sektor čekají. Kde vlastně ta klimatická změna stojí v nějakým větším balíku věcí kterým je potřeba věnovat pozornost? 
+Mám asi poslední otázku. Vlastně bych se chtěl zeptat, když odhlédneme od změny klimatu, tak jestli byste mohl pojmenovat, jaké další výzvy ten váš sektor čekají. Kde vlastně ta klimatická změna stojí v nějakým větším balíku věcí kterým je potřeba věnovat pozornost?
 
 {% include 2050/transcript-person.html id="matousek" %}
 Stojí poměrně vysoko, ale ještě výš nad ní stojí problém demografie. Jaká bude potřeba našich klientů z hlediska jejich úspor na stáří. Obecně vidíme, mimochodem ten problém má celá Evropa, že ta demografie se vyvíjí špatně, vlastně dost neúprosně v neprospěch penzijních systémů, v neprospěch zdravotnických systémů. Co můžeme my pro naše klienty v budoucnu udělat, abysme jim tohle riziko spojené se stárnutím populace pomohli řešit, a to může být, jak v oblasti životního pojištění a s ním spojených spořících produktů, tak především v oblasti zdravotního pojištění, protože ty předlužené státy, a ten náš v tomhle není výjimka, budou mít do budoucna velký problém financovat stávající kvalitu zdravotních služeb a je racionální se začít připravovat na to, jestli naši klienti nebudou potřebovat produkty, který jim ten výpadek nějakým způsobem nahradí.
