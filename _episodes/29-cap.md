@@ -16,7 +16,7 @@ S ohledem na své závazky  kompenzovat vzniklé škody budou pojišťovny v bud
 
 Vznik této epizody podpořil [Skautský institut](https://www.skautskyinstitut.cz/).
 
-{% include 2050/sponsor.html name="si.svg" class="logo-add-protected-area" %}
+{% include 2050/sponsor.html name="si.svg" alt="logo Skautského institutu" class="logo-add-protected-area" %}
 
 {% include 2050/guest-list.html %}
 

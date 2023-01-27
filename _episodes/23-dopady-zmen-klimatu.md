@@ -20,7 +20,7 @@ Podívejte se na epizodu včetně videa a vizuální prezentace [na YouTube](htt
 
 Vznik této epizody finančně podpořil Krajský úřad JMK.
 
-{% include 2050/sponsor.html name="jmk.png" %}
+{% include 2050/sponsor.html name="jmk.png" alt="logo Jihomoravského kraje" %}
 
 {% include 2050/guest-list.html %}
 
