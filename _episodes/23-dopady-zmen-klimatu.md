@@ -18,7 +18,7 @@ Ondráš Přibyla z Fakt o klimatu mluví v této epizodě podcastu o tom, jak v
 
 Podívejte se na epizodu včetně videa a vizuální prezentace [na YouTube](https://youtu.be/pGosWwug9ts).
 
-Vznik této epizody finančně podpořil Krajský úřad JMK.
+Vznik této epizody finančně podpořil Jihomoravský kraj.
 
 {% include 2050/sponsor.html name="jmk.png" alt="logo Jihomoravského kraje" %}
 

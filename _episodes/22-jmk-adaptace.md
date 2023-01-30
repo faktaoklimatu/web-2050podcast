@@ -16,7 +16,7 @@ Jihomoravský kraj nedávno vyhlásil vítěze letošního ročníku soutěže [
 
 Podívejte se na epizodu včetně videa [na YouTube](https://youtu.be/tSabavCEShg).
 
-Tato epizoda vznikla ve spolupráci s Krajským úřadem JMK a Skautským institutem.
+Vznik této epizody finančně podpořil Jihomoravský kraj a [Skautský institut](https://www.skautskyinstitut.cz/).
 
 {% include 2050/sponsor.html name="jmk.png" alt="logo Jihomoravského kraje" %}
 {% include 2050/sponsor.html name="si.svg" alt="logo Skautského institutu" class="logo-add-protected-area" %}

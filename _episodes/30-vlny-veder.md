@@ -16,7 +16,7 @@ Vlnu veder se dají definovat třemi způsoby. Buď jako překročení určité 
 
 Na konci epizody vám také představíme naše plány na podzimní sérii podcastu.
 
-Vznik této epizody podpořil [Skautský institut](https://www.skautskyinstitut.cz/).
+Vznik této epizody finančně podpořil [Skautský institut](https://www.skautskyinstitut.cz/).
 
 {% include 2050/sponsor.html name="si.svg" alt="logo Skautského institutu" class="logo-add-protected-area" %}
 
