@@ -30,3 +30,9 @@ Epizoda vznikla za podpory Britského velvyslanectví v Praze.
   Rešerše od Adama Bílka, která shrnuje nejdůležitější zdroje k tématu CCS.
 
 </div>
+
+---
+
+## Transkript epizody
+
+Transkript epizody doplníme během několika dní.
