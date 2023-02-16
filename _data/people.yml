@@ -242,3 +242,8 @@
   name: Adam
   surname: Bílek
   description: Fakta o klimatu
+
+- id: tengler
+  name: Martin
+  surname: Tengler
+  description: Bloomberg NEF
