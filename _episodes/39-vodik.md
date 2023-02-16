@@ -1,6 +1,6 @@
 ---
 layout:     episode
-title:      "XXX"
+title:      "Vodík v souvislostech"
 number:     39
 slug:       "39-vodik"
 redirect_from: "/epizody/39"
