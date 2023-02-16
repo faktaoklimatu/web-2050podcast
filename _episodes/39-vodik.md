@@ -6,12 +6,12 @@ slug:       "39-vodik"
 redirect_from: "/epizody/39"
 published:  2023-02-17
 summary:    |
-   XXX
+   Přestože se o využití vodíku mluví v mnoha odvětvích, ne vždy se musí jednat o ten nejlevnější způsob dekarbonizace. V této epizodě proto s Martinem Tenglerem (Bloomberg NEF) diskutujeme nejen technologický potenciál vodíku a jeho využití v průmyslu, ale hlavně ekonomické souvislosti výroby a přepravy. Ty totiž do značné míry ovlivní jeho možnou budoucnost ve světové ekonomice.
 audioboom:  "XXX"
 guests: [ tengler ]
 transcript: true
 ---
-
+Už dnes ovšem celosvětově spotřebováváme za rok tolik energie z vodíku, kolik jí spotřebuje USA ze zemního plynu za půl roku. Vodík tedy stojí za bližší seznámení, proto probereme jeho nejzajímavější fyzikální a chemické vlastnosti a vysvětlíme vám, jak se vyrábí dnes nebo jak by se mohl produkovat za deset let. S tím souvisí i diskuze, jak se vodíku daří na politické a legislativní úrovni nejen v Evropské unii.
 
 Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 
@@ -24,10 +24,10 @@ Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 <div class="bonus-material" markdown="1">
 
 {% include 2050/bonus-interview.html
-  title="XXX"
+  title="Martin Tengler: O využití vodíku nejen v průmyslu v ekonomických souvislostech"
   audioboom="XXX"
   spotify="0Fg8qxPiwcG6j9phmQujAd"
-  caption="Nesestříhaný rozhovor s Petrem Chadimou z konzultační společnosti PwC jako bonus ke 20. epizodě podcastu 2050. Jak se na téma dekarbonizace dívá finanční sektor, co jsou hlavní výzvy a jaký vývoj můžeme očekávat do budoucna."
+  caption="Prodloužená verze 39. epizody podcastu, která obsahuje dodatečné informace k historii využití vodíku, výrobě vodíku a jeho využití v dekarbonizaci lodní a letecké dopravy"
 %}
 
 </div>
