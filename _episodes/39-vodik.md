@@ -32,7 +32,8 @@ Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 
 </div>
 
-{% include 2050/transcript-start.html %}
+## Transkript epizody
 
+---
 
-{% include 2050/transcript-end.html %}
+Transkript doplníme během několika následujících dní.
