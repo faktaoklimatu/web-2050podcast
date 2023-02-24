@@ -282,8 +282,6 @@ Tam, kde to jde, to má smysl. A ty ceny, o kterých jsme mluvili, očekáváme,
 
 ### Vodík na politické úrovni
 
-Tam, kde to jde, to má smysl. A ty ceny, o kterých jsme mluvili, očekáváme, že klesnou ze dvou hlavních faktorů. Ceny elektrolyzérů a obnovitelných zdrojů budou nadále klesat, takže očekáváme, že třeba v roce 2030 bude možné v Evropské unii vyrábět vodík za 2 USD za kilogram ve většině zemí, nebo dokonce levněji, například ve Španělsku za 1,5 USD. V té době se rozdíl mezi nejlevnější zemí, jako je Brazílie, a nejdražší zemí, jako je Japonsko, bude snižovat a proto očekáváme, že dovoz vodíku v budoucnu, i když se dnes může zdát atraktivní, nebude tak atraktivní.
-
 {% include 2050/transcript-time.html time="39:13" %}
  
 {% include 2050/transcript-person.html id="vrtalova" %}
