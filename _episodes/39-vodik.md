@@ -9,7 +9,7 @@ summary:    |
    Přestože se o využití vodíku mluví v mnoha odvětvích, ne vždy se musí jednat o ten nejlevnější způsob dekarbonizace. V této epizodě proto s Martinem Tenglerem (Bloomberg NEF) diskutujeme nejen technologický potenciál vodíku a jeho využití v průmyslu, ale hlavně ekonomické souvislosti výroby a přepravy. Ty totiž do značné míry ovlivní jeho možnou budoucnost ve světové ekonomice.
 audioboom:  "8248988"
 guests: [ tengler ]
-transcript: false
+transcript: true
 ---
 Už dnes ovšem celosvětově spotřebováváme za rok tolik energie z vodíku, kolik jí spotřebuje USA ze zemního plynu za půl roku. Vodík tedy stojí za bližší seznámení, proto probereme jeho nejzajímavější fyzikální a chemické vlastnosti a vysvětlíme vám, jak se vyrábí dnes nebo jak by se mohl produkovat za deset let. S tím souvisí i diskuze, jak se vodíku daří na politické a legislativní úrovni nejen v Evropské unii.
 
@@ -33,6 +33,7 @@ Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 </div>
 
 {% include 2050/transcript-start.html %}
+
 
 _Pozn. Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. Nejedná se tedy o přesné citace._
 
