@@ -1,7 +1,7 @@
 {% assign person = site.data.people | find: "id", include.id %}
-<h3 {% if person.moderator %}class="moderator"{% endif %}
+<h4 {% if person.moderator %}class="moderator"{% endif %}
     data-container="body" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-html="true"
     data-title="{{ person.name }} {{ person.surname }}"
     data-content="{{ person.description }}">
         {{ person.name }}
-</h3>
+</h4>
