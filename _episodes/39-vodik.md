@@ -56,7 +56,7 @@ To, jak moc se vodík reálně využívat bude v budoucnosti nezáleží ale jen
 
 Takže v téhle epizodě půjdeme doopravdy do hloubky. Budeme se dívat jenom na vodík a podíváme se na to, kde v dekarbonizaci průmyslu nám může pomoci.
 
-{% include 2050/transcript-person.html id="holik" %}
+{% include 2050/transcript-person.html id="holik" %} 
 
 V tuto chvíli už je čas přivítat našeho dnešního hosta, se kterým toto téma diskutujeme, takže já už mu teď dávám slovo, ať se nám představil sám.
 
