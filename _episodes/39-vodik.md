@@ -34,8 +34,7 @@ Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 
 {% include 2050/transcript-start.html %}
 
-
-_Pozn. Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. Nejedná se tedy o přesné citace._
+_Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. Nejedná se tedy o přesné citace._
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
@@ -47,7 +46,7 @@ My pokračujeme v sérii o dekarbonizaci průmyslu a dneska se podíváme na dru
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-Budeme se totiž bavit o vodíku a jeho využití. Vodík v současnosti využíváme především kvůli jeho chemickým vlastnostem, ale je to prvek, který se dá využít i jako zdroj energie. 
+Budeme se totiž bavit o vodíku a jeho využití. Vodík v současnosti využíváme především kvůli jeho chemickým vlastnostem, ale je to prvek, který se dá využít i jako zdroj energie.
 
 {% include 2050/transcript-person.html id="holik" %}
 
