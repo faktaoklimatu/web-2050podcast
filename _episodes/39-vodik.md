@@ -6,7 +6,7 @@ slug:       "39-vodik"
 redirect_from: "/epizody/39"
 published:  2023-02-17
 summary:    |
-   Přestože se o využití vodíku mluví v mnoha odvětvích, ne vždy se musí jednat o ten nejlevnější způsob dekarbonizace. V této epizodě proto s Martinem Tenglerem (Bloomberg NEF) diskutujeme nejen technologický potenciál vodíku a jeho využití v průmyslu, ale hlavně ekonomické souvislosti výroby a přepravy. Ty totiž do značné míry ovlivní jeho možnou budoucnost ve světové ekonomice.
+   Přestože se o využití vodíku mluví v mnoha odvětvích, ne vždy se musí jednat o ten nejlevnější způsob dekarbonizace. V této epizodě proto s Martinem Tenglerem (BloombergNEF) diskutujeme nejen technologický potenciál vodíku a jeho využití v průmyslu, ale hlavně ekonomické souvislosti výroby a přepravy. Ty totiž do značné míry ovlivní jeho možnou budoucnost ve světové ekonomice.
 audioboom:  "8248988"
 guests: [ tengler ]
 transcript: true
@@ -62,7 +62,7 @@ V tuto chvíli už je čas přivítat našeho dnešního hosta, se kterým toto 
 
 {% include 2050/transcript-person.html id="tengler" %}
 
-Já se jmenuji Martin Tengler a pracuji ve firmě Bloomberg NEF jako vedoucí vodíkového výzkumu.
+Já se jmenuji Martin Tengler a pracuji ve firmě BloombergNEF jako vedoucí vodíkového výzkumu.
 
 {% include 2050/transcript-time.html time="01:26" %}
 
@@ -72,7 +72,7 @@ Pojďme si vodík představit jako prvek. Co to vlastně je, kde se tady vzal, j
 
 {% include 2050/transcript-person.html id="tengler" %}
 
-Na vodíku je zajímavé to, že se ho ve vesmíru vyskytuje hodně velké množství. Je to nejvíce se vyskytující prvek v celém vesmíru. Zhruba 74 % všech částic ve vesmíru je vodík. Problém je v tom, že ten vodík se většinou samozřejmě vyskytuje ve hvězdách a nikoliv na naší planetě, a to znamená, že na naší planetě najdeme vodík spíš ne jako samotný prvek ve formě H2, tak jak bychom ho chtěli, ale ve formě sloučenin, například H2O, anebo třeba CH4, což je zemní plyn nebo metan. Z těchto sloučenin z vody nebo z metanu nebo z jiných sloučenin vodíku musíme ten vodík potom extrahovat, abychom ho mohli použít.
+Na vodíku je zajímavé to, že se ho ve vesmíru vyskytuje hodně velké množství. Je to nejvíce se vyskytující prvek v celém vesmíru. Zhruba 74 % všech částic ve vesmíru je vodík. Problém je v tom, že ten vodík se většinou samozřejmě vyskytuje ve hvězdách a nikoliv na naší planetě, a to znamená, že na naší planetě najdeme vodík spíš ne jako samotný prvek ve formě H<sub>2</sub>, tak jak bychom ho chtěli, ale ve formě sloučenin, například H<sub>2</sub>O, anebo třeba CH<sub>4</sub>, což je zemní plyn nebo metan. Z těchto sloučenin z vody nebo z metanu nebo z jiných sloučenin vodíku musíme ten vodík potom extrahovat, abychom ho mohli použít.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
@@ -106,10 +106,11 @@ Což by asi byl problém pro nějaký další rozvoj, nějaké vodíkové infras
 
 Já bych se ráda podívala na vodík ve vztahu k dekarbonizaci, proč ho vlastně potřebujeme a v jakých odvětvích ho můžeme využít?
  
-Martin Tengler (host) 
+{% include 2050/transcript-person.html id="tengler" %}
+
 Už dneska používáme opravdu velké množství vodíku, zhruba 100 milionů tun vodíku ročně. Jak si to představit? Vodík je ten nejlehčí prvek na periodické tabulce a 100 milionů tun samozřejmě znamená, že je to obrovské množství, ale jak obrovské? Já jsem to zkoušel různě překládat do srozumitelnější podoby a nakonec jsem dospěl k tomu, že by se tímto vodíkem, který dneska za rok použijeme, dalo naplnit Mrtvé moře jedenáctkrát. Takže to opravdu hodně vodíku. Co se týče té energie, kterou ten vodík v sobě má, tak používáme zhruba tolik vodíku, kolik spotřebují Spojené státy zemního plynu za půl roku. Takže ho opravdu používáme hodně.
 
-Ale k čemu ho používáme? Nepoužíváme ho k tomu, co by možná lidi napadlo jako první, což jsou třeba věci jako auta a podobně. Dneska vodík používají hlavně tři důležitá odvětví. Používá se při rafinaci ropy, tam je to zásadní při odsiřování té ropy a podobně. Používá se při výrobě amoniaku, amoniak neboli NH3 je zásadní chemická sloučenina pro výrobu hnojiv. A také se používá při výrobě metanolu, což je opět důležitá chemická sloučenina pro výrobu dalších důležitých věcí. Samozřejmě vodík se taky dá použít jako zdroj energie, a to si myslím, že je to, co napadne většinu lidí jako první. Ten vodík dneska používáme hlavně kvůli jeho chemickým vlastnostem. My ho používáme proto, protože je tam to H2 a my potřebujeme vytvořit NH3, neboli amoniak. Potřebujeme odsiřit tu ropu a ten vodík se na tu síru navazuje atp. Ale samozřejmě vodík sám o sobě, jak jsem řekl, obsahuje spoustu energie, více na kilogram než jakýkoliv jiný prvek. Na metr krychlový, jak už jsem řekl, tam je to horší, samozřejmě.
+Ale k čemu ho používáme? Nepoužíváme ho k tomu, co by možná lidi napadlo jako první, což jsou třeba věci jako auta a podobně. Dneska vodík používají hlavně tři důležitá odvětví. Používá se při rafinaci ropy, tam je to zásadní při odsiřování té ropy a podobně. Používá se při výrobě amoniaku, amoniak neboli NH3 je zásadní chemická sloučenina pro výrobu hnojiv. A také se používá při výrobě metanolu, což je opět důležitá chemická sloučenina pro výrobu dalších důležitých věcí. Samozřejmě vodík se taky dá použít jako zdroj energie, a to si myslím, že je to, co napadne většinu lidí jako první. Ten vodík dneska používáme hlavně kvůli jeho chemickým vlastnostem. My ho používáme proto, protože je tam to H<sub>2</sub> a my potřebujeme vytvořit NH3, neboli amoniak. Potřebujeme odsiřit tu ropu a ten vodík se na tu síru navazuje atp. Ale samozřejmě vodík sám o sobě, jak jsem řekl, obsahuje spoustu energie, více na kilogram než jakýkoliv jiný prvek. Na metr krychlový, jak už jsem řekl, tam je to horší, samozřejmě.
  
 {% include 2050/transcript-person.html id="vrtalova" %}
 
@@ -171,7 +172,7 @@ Jestli to dobře chápu, tak z toho, co říkáš, tak příprava vodíku bude v
  
 Já jsem právě někde četl, že Evropská unie plánuje vystavět nějakých 30 000 km potrubí právě na vodík. Je to něco, co je rozhodnuto odklepnuto, nebo to je nějaká fáze přemýšlení teprve nebo nevíš, nedokázal bys k tomu říct něco konkrétního?
  
-Martin Tengler (host)
+{% include 2050/transcript-person.html id="tengler" %}
  
 Tak na evropské úrovni si myslím, že odklepnuto ještě není nic, ale každopádně na úrovni určitých členských států už se něco děje. Takže například v Holandsku už dneska odsouhlasili stavbu několika set kilometrů vodíkových potrubí, které by měly spojovat hlavně ty tzv. industriální huby na holandském pobřeží a ideálně vytvořit možnost propojení těchto potrubí se sousedními zeměmi, jako je například Německo. A Německo samo také už teď začíná velmi silně uvažovat o propojení a vytvoření vlastního systému a jeho propojení právě například s Holandskem, což by mohlo pomoci s dopravou vodíku do těch industriálních hubů. Takže ta tzv. vodíková ekonomika nejspíš začne tím způsobem, že ta průmyslová odvětví, o kterých jsme se bavili, jako je například výroba amoniaku, hnojiv, výroba metanolu, rafinace ropy a výroba oceli, budou konzumovat vodík, který nejspíše bude k nim doručen nějakým potrubím, ale to bude trvat ještě třeba 10 let, než se taková potrubí postaví.
  
