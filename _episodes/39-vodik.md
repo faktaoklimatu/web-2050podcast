@@ -64,6 +64,8 @@ V tuto chvíli už je čas přivítat našeho dnešního hosta, se kterým toto 
 
 Já se jmenuji Martin Tengler a pracuji ve firmě BloombergNEF jako vedoucí vodíkového výzkumu.
 
+### Fyzikální a chemické vlastnosti vodíku
+
 {% include 2050/transcript-time.html time="01:26" %}
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -100,6 +102,8 @@ Diskutuje se o tom, že by vodík mohl být přepravován stejně jako zemní pl
 
 Což by asi byl problém pro nějaký další rozvoj, nějaké vodíkové infrastruktury, díky té mediální explozi.
 
+### Kde se používá vodík dnes a kde může pomoci s dekarbonizací
+
 {% include 2050/transcript-time.html time="07:48" %}
 
 {% include 2050/transcript-person.html id="vrtalova" %}
@@ -121,6 +125,8 @@ Jaká odvětví tedy můžeme dekarbonizovat právě díky vodíku?
 Tak my jsme to rozdělili na tři velké skupiny. Vodík by se dal použít buď jako vodík nebo jeho sloučeniny, jako například amoniak nebo metanol, by se daly použít pro dekarbonizaci například v lodní nebo letadlové dopravě. Možná i nákladní dopravě, i když tam spíše to vidíme na baterie. Vodík by se také dal použít pro výrobu elektřiny, ale k tomu se ještě určitě dostaneme, protože vyrobit vodík z elektřiny s určitými ztrátami, pak ho uložit s určitými ztrátami a zase ho s určitými ztrátami konvertovat zpět na elektřinu, to potřebuje mít člověk pádný důvod, než rovnou tu elektřinu použít přímo. Ale dá se využít k výrobě elektřiny, hlavně k dlouhodobému ukládání, například na zimu.
 
 Potom by se také vodík dal využít jako zdroj tepla pro průmysl, odvětví v průmyslu, jako například výroba cementu a hlavně, řekl bych, výroba oceli. Ta ocel je právě zajímavá v tom, že v tom ten vodík má tu výhodu, že by se dal použít nejen jako zdroj energie na roztavení té železné rudy, ale také na tzv. redukci – na tu kombinaci toho vodíku s tím kyslíkem, aby nám zůstalo jenom to železo. A také by se samozřejmě vodík dal použít jako čistý vodík pro výrobu těch věcí, o kterých už jsem mluvil – amoniak, methanol – dekarbonizace těch odvětví, kde dneska ten vodík už používáme, ale ten vodík je většinou vyrobený z fosilních paliv. A tudíž není to prostředek dekarbonizace dneska, ale je to součást toho problému, který je potřeba dekarbonizovat. Takže to bych řekl, že jsou ta tři hlavní odvětví, kde ten vodík se bude používat.
+
+### Jak se vodík vyrábí a jak jej vyrábět bezemisně
 
 {% include 2050/transcript-person.html id="vrtalova" %}
  
@@ -145,6 +151,8 @@ Jakým způsobem tedy můžeme vyrábět vodík s nulovými emisemi?
 {% include 2050/transcript-person.html id="tengler" %}
  
 Abychom se dostali na nulu, potřebovali bychom vodík vyrobit pomocí elektrolýzy vody. Elektrolýza znamená, že se voda nechá tzv. rozbít pomocí elektřiny, která by samozřejmě musela být tzv. čistá elektřina, která nevypouští žádný oxid uhličitý. Nejznámější způsob, jak vyrábět vodík bez emisí, je tzv. zelený vodík, který se vyrábí elektrolýzou vody pomocí elektřiny z obnovitelných zdrojů energie. Avšak, kromě zeleného vodíku existuje ještě více než 10 různých barev vodíku.
+
+### Jak vodík skladovat a převážet
 
 {% include 2050/transcript-time.html time="15:23" %}
  
@@ -175,6 +183,8 @@ Já jsem právě někde četl, že Evropská unie plánuje vystavět nějakých 
 {% include 2050/transcript-person.html id="tengler" %}
  
 Tak na evropské úrovni si myslím, že odklepnuto ještě není nic, ale každopádně na úrovni určitých členských států už se něco děje. Takže například v Holandsku už dneska odsouhlasili stavbu několika set kilometrů vodíkových potrubí, které by měly spojovat hlavně ty tzv. industriální huby na holandském pobřeží a ideálně vytvořit možnost propojení těchto potrubí se sousedními zeměmi, jako je například Německo. A Německo samo také už teď začíná velmi silně uvažovat o propojení a vytvoření vlastního systému a jeho propojení právě například s Holandskem, což by mohlo pomoci s dopravou vodíku do těch industriálních hubů. Takže ta tzv. vodíková ekonomika nejspíš začne tím způsobem, že ta průmyslová odvětví, o kterých jsme se bavili, jako je například výroba amoniaku, hnojiv, výroba metanolu, rafinace ropy a výroba oceli, budou konzumovat vodík, který nejspíše bude k nim doručen nějakým potrubím, ale to bude trvat ještě třeba 10 let, než se taková potrubí postaví.
+
+### Vodík v Česku
  
 {% include 2050/transcript-person.html id="vrtalova" %}
 
@@ -183,6 +193,8 @@ Děje se v tomhle něco i v Česku, nebo tam ještě vůbec nejsme v těchhle ú
 {% include 2050/transcript-person.html id="tengler" %}
 
 V Česku určitě existují takové úvahy. Abych se přiznal, nemám tolik aktuální informace zrovna o naší zemi, ale vím, že máme tzv. vodíkovou strategii. Jedním z jejích pilířů je právě doprava vodíku do České republiky. Protože, pokud vím, tak Česká republika úplně nepočítá s tím, že se z ní stane velký výrobce vodíku, ale že bude muset nějakým způsobem do země dovážet vodík. Takže pokud bychom chtěli v České republice vodík ve velkém množství, pravděpodobně se budeme muset napojit na nějaký ten plynovod, například.
+
+### Ekonomika vodíku – kolik stojí jeho výroba a jaké to má důsledky?
 
 {% include 2050/transcript-time.html time="25:38" %}
  
@@ -266,6 +278,10 @@ Ano, a zároveň z toho vyplývá, že se vyplatí spotřebovávat vodík tam, k
  
 {% include 2050/transcript-person.html id="tengler" %}
  
+Tam, kde to jde, to má smysl. A ty ceny, o kterých jsme mluvili, očekáváme, že klesnou ze dvou hlavních faktorů. Ceny elektrolyzérů a obnovitelných zdrojů budou nadále klesat, takže očekáváme, že třeba v roce 2030 bude možné v Evropské unii vyrábět vodík za 2 USD za kilogram ve většině zemí, nebo dokonce levněji, například ve Španělsku za 1,5 USD. V té době se rozdíl mezi nejlevnější zemí, jako je Brazílie, a nejdražší zemí, jako je Japonsko, bude snižovat a proto očekáváme, že dovoz vodíku v budoucnu, i když se dnes může zdát atraktivní, nebude tak atraktivní.
+
+### Vodík na politické úrovni
+
 Tam, kde to jde, to má smysl. A ty ceny, o kterých jsme mluvili, očekáváme, že klesnou ze dvou hlavních faktorů. Ceny elektrolyzérů a obnovitelných zdrojů budou nadále klesat, takže očekáváme, že třeba v roce 2030 bude možné v Evropské unii vyrábět vodík za 2 USD za kilogram ve většině zemí, nebo dokonce levněji, například ve Španělsku za 1,5 USD. V té době se rozdíl mezi nejlevnější zemí, jako je Brazílie, a nejdražší zemí, jako je Japonsko, bude snižovat a proto očekáváme, že dovoz vodíku v budoucnu, i když se dnes může zdát atraktivní, nebude tak atraktivní.
 
 {% include 2050/transcript-time.html time="39:13" %}
