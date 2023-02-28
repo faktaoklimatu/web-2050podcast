@@ -34,7 +34,7 @@ Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 
 {% include 2050/transcript-start.html %}
 
-_Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. Nejedná se tedy o přesné citace._
+_Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce._
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
