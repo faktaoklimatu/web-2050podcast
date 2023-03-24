@@ -12,4 +12,4 @@ Podcast 2050 má za cíl komunikovat o otázkách spojených se změnou klimatu 
 
 V podcastu 2050 prozkoumáváme cesty k takové budoucnosti, ve které nám nepoteče do bot.
 
-Podcast 2050 vám přinášejí [Fakta o klimatu](https://faktaoklimatu.cz/) ve spolupráci s [Asociací pro mezinárodní otázky](https://www.amo.cz/), [Učenou společností České republiky](https://www.learned.cz/) a [Centrem pro dopravu a energetiku](https://www.cde-org.cz/cs/).
+Podcast 2050 vám přinášejí [Fakta o klimatu](https://faktaoklimatu.cz/).
