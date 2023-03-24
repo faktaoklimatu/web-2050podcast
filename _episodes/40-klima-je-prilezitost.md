@@ -1,6 +1,6 @@
 ---
 layout:     episode
-title:      "Petr Daniš: Klima je příležitost"
+title:      "Petr Daniš – Klima je příležitost"
 number:     40
 slug:       "40-klima-je-prilezitost"
 redirect_from: "/epizody/40"
