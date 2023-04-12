@@ -29,7 +29,7 @@ IPCC funguje v rámci Organizace spojených národů a kromě zástupců jednotl
 %}
   
 * **Explainer [Co jsou zprávy IPCC a jak vznikají?](https://faktaoklimatu.cz/explainery/zpravy-ipcc)** (_Fakta o klimatu_)  
-  Vždy jednou za několik let vychází tzv. Hodnotící zpráva IPCC, zásadní dokument v oblasti dosavadního výzkumu klimatické změny. Skládá se z několika částí, které jsou zveřejňovány postupně. Co tyto reporty obsahují, kdo je sestavuje a jaké „novinky“ v nich najdeme?
+  Vždy jednou za několik let vychází tzv. Hodnotící zpráva IPCC, zásadní dokument v oblasti dosavadního výzkumu klimatické změny. Skládá se z několika částí, které jsou zveřejňovány postupně. Co tyto reporty obsahují, kdo je sestavuje a jaké "novinky" v nich najdeme?
 
 </div>
 
@@ -46,6 +46,7 @@ Hodnotící zprávy IPCC vycházejí zhruba jednou za osm let a zaměřují se n
 Já jsem klimatolog Radim Tolasz. Pracuji na Českém hydrometeorologickém ústavu a několik let zastupuji Českou republiku v mezivládním panelu pro změnu klimatu IPCC.
 
 ### Co je to IPCC a kdo je členem
+
 {% include 2050/transcript-time.html time="01:25" %}
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -55,6 +56,7 @@ Tak já vás vítám v našem podcastu a děkuji moc, že jste přijal pozvání
 Mezivládní panel pro změnu klimatu (IPCC, zkráceně) je, jak už ze samotného názvu vyplývá, mezivládní organizace. To znamená, že státy, v našem případě Česká republika, se před lety rozhodly, že chtějí být členy IPCC a jmenují do panelu vždy jednoho zástupce, kterému se říká focal point pro danou republiku nebo pro daný stát. Já sám zasedám v panelu IPCC nějaký rok. IPCC má dneska 195 členů a těch 195 států tam jmenovalo každý svého zástupce. To není nějaké homogenní těleso, protože ti zástupci nejsou všichni klimatologové, přestože si troufnu odhadnout, že lidé, kteří se klimatologií z nějaké části zabývají, v tom panelu převládají. Jednotlivé státy tam ale mohou najmenovat kohokoliv, proto tam jsou například zástupci vlád, různých ministerstev z některých zemí, jak říkám, z mnoha zemí, tam jsou zástupci meteorologických služeb, jako já z Českého hydrometeorologického ústavu, ale jsou tam také zástupci z akademií věd nebo z univerzit. Dohromady těch 195 zástupců jednotlivých členských států tvoří panel IPCC.
 
 ### Jak IPCC pracuje a jak vybírá autory zpráv
+
 {% include 2050/transcript-time.html time="03:05" %}
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -66,6 +68,7 @@ Jde v zásadě o to, že v nějaké době se panel rozhodne nebo mu někdo zadá
 Je tady docela velký přetlak. To znamená, že těch přihlášek bývá zhruba tisícovka a těch samotných autorů do různých pozic, review autoři a ti, co to píšou, je potom zhruba 200, to znamená, je to tak zhruba jedna ku pěti. Členství v IPCC, řekl bych, že není v ničem úplně výhodné, nepřináší to žádné pozice ani ekonomické efekty. V zásadě jde o to, že stát, který je členem a aktivním členem, má v okamžiku účasti na jednání IPCC k dispozici veškeré informace, které tím panelem probíhají, což si myslím, že v dnešní době je docela důležité.
 
 ### Jak vznikají zprávy IPCC
+
 {% include 2050/transcript-time.html time="05:28" %}
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -118,15 +121,16 @@ Pokud se podíváte do těch zpráv – teď nemám na mysli ty Summary for Poli
 Když se podívám na panel IPCC nebo na celou organizaci a proces, tak občas zazní nějaká kritika. Stále se setkávám s tím, že lidé některé zprávy z médií často zneužívají, aby tvrdili, že IPCC není důvěryhodné. Chtěl bych se vás zeptat, zda nějaká kritika, kterou jste slyšel, je relevantní, a případně, zda máte nějaké nápady na zlepšení fungování procesu, které by mohly pomoci k posílení důvěryhodnosti zpráv.
 
 {% include 2050/transcript-person.html id="tolasz" %}
-Vždycky se všechno dá dělat lépe a zlepšit, to jako si nebudeme zastírat. A je to také záležitost práce, kterou dělá panel. Musím však říct, že kritiky, které jsou velmi medializované, jsou většinou založené na neznalosti, to znamená, že 99 % té kritiky vyplývá z neznalosti. Buď je to kritika, která vůbec neví, jak panel funguje – například jsou to takové věci, že jsme si odhlasovali vědu a podobně – ale na panelu se o těchto věcech nikdy nehlasuje, a to ani o těch Summary for Policy Makers. Nebo je to kritika, která vychází z neznalosti základní klimatologie. Toto je nejčastější kritika „Ale klima se tady vždycky měnilo. Tak proč z toho děláte teď humbuk?!" A dotyčný není schopen akceptovat nebo rozumově zvládnout ten rozdíl mezi tím, jak se klima měnilo před miliony let a jak se mění za poslední desítky let. To není úplně identická změna klimatu. Toto jsou dvě nejčastější pozice, na které kritika zaznívá často.
+Vždycky se všechno dá dělat lépe a zlepšit, to jako si nebudeme zastírat. A je to také záležitost práce, kterou dělá panel. Musím však říct, že kritiky, které jsou velmi medializované, jsou většinou založené na neznalosti, to znamená, že 99 % té kritiky vyplývá z neznalosti. Buď je to kritika, která vůbec neví, jak panel funguje – například jsou to takové věci, že jsme si odhlasovali vědu a podobně – ale na panelu se o těchto věcech nikdy nehlasuje, a to ani o těch Summary for Policy Makers. Nebo je to kritika, která vychází z neznalosti základní klimatologie. Toto je nejčastější kritika: "Ale klima se tady vždycky měnilo. Tak proč z toho děláte teď humbuk?!" A dotyčný není schopen akceptovat nebo rozumově zvládnout ten rozdíl mezi tím, jak se klima měnilo před miliony let a jak se mění za poslední desítky let. To není úplně identická změna klimatu. Toto jsou dvě nejčastější pozice, na které kritika zaznívá často.
 
-Pravdou je, že v těch tisícovkách stránek se mohou objevit chyby. To nebudeme zastírat, že přestože projde tolikrát nějakými revizemi, tak se tam mohou objevit chyby. Nejčastěji mediálně zmiňovaná chyba byla ve čtvrté zprávě, kdy se uvádělo, že ledovce v Himálaji zmizí do roku 2030. Tato chyba se tam dostala z nějaké indické zprávy vlády, kde místo roku 2300 bylo napsáno 2030. Panel to převzal nebo autoři to převzali a objevilo se to ve zprávě. To se může stát, nemělo by se to stávat, ale bohužel se to stává. Taková kritika je samozřejmě opodstatněná, a i když se člověk nad tím zamyslí, nad těmi čísly a na první pohled vidí, že to je nesmysl, tak ta kritika je potom uchopena lidmi, kteří chtějí zachovat status quo a říkají: „Ale vy tam píšete nesmysly. 2030 je za humny a v Himalájích pořád ledovce jsou."
+Pravdou je, že v těch tisícovkách stránek se mohou objevit chyby. To nebudeme zastírat, že přestože projde tolikrát nějakými revizemi, tak se tam mohou objevit chyby. Nejčastěji mediálně zmiňovaná chyba byla ve čtvrté zprávě, kdy se uvádělo, že ledovce v Himálaji zmizí do roku 2030. Tato chyba se tam dostala z nějaké indické zprávy vlády, kde místo roku 2300 bylo napsáno 2030. Panel to převzal nebo autoři to převzali a objevilo se to ve zprávě. To se může stát, nemělo by se to stávat, ale bohužel se to stává. Taková kritika je samozřejmě opodstatněná, a i když se člověk nad tím zamyslí, nad těmi čísly a na první pohled vidí, že to je nesmysl, tak ta kritika je potom uchopena lidmi, kteří chtějí zachovat status quo a říkají: "Ale vy tam píšete nesmysly. 2030 je za humny a v Himalájích pořád ledovce jsou."
 
 ### Výstupy aktuální Šesté hodnotící zprávy
+
 {% include 2050/transcript-time.html time="20:03" %}
 
 {% include 2050/transcript-person.html id="holik" %}
-Co vlastně z té zprávy teď kouká? Co jsou ty hlavní věci, které bychom možná chtěli říct v podcastu, aby si je poslechli lidé, kteří pravděpodobně nebudou číst ani Summary for Policy Makers, protože se k tomu zkrátka nedostanou, ale co bychom chtěli, aby to znělo v veřejném prostoru.?
+Co vlastně z té zprávy teď kouká? Co jsou ty hlavní věci, které bychom možná chtěli říct v podcastu, aby si je poslechli lidé, kteří pravděpodobně nebudou číst ani Summary for Policy Makers, protože se k tomu zkrátka nedostanou, ale co bychom chtěli, aby to znělo v veřejném prostoru?
 
 {% include 2050/transcript-person.html id="tolasz" %}
 Tak já zůstanu u toho, co bylo v Summary for Policy Makers. Mě tam osobně zaujal jeden obrázek, nejsem schopen říct číslo toho obrázku, ale ukazuje, jak jsou jednotlivé generace lidí, kteří nyní žijí, ovlivněny klimatem. Tam je takový pěkný obrázek s tzv. klimatologickými stripes, což znamená, jak se postupně od roku 1900 zvyšuje globální teplota. Od nějakých modrých odstínů postupně jde přes ty oranžové a červené až po tmavě červené a skoro hnědé odstíny v roce 2100. Pod tím je ukázána délka lidského života, jaké klima zažívají a zažívali lidé narození v padesátých nebo osmdesátých letech minulého století, asi sedmdesátiletá generace. To, kam směřují lidé narození v těchto letech, tedy dneska, když se narodí někdo ve dvacátých letech tohoto století, se dá předpokládat, že zažije nebo se v jeho životě přiblíží k roku 2100.
@@ -156,6 +160,7 @@ Samozřejmě jsou oblasti na světě, kde se s tím vypořádají lépe, to je t
 A jak jsem říkal, změna klimatu je o setrvačnosti a o tom, že máme nějaký uhlíkový rozpočet, což je nějaká suma těch uhlíkových emisí, které jsme za ta desetiletí, staletí do té atmosféry přidali, a na základě toho se vlastně chová ta atmosféra tak, jak se chová. To je všechno hrozně komplikované z hlediska nějakých sociálních dopadů, možností diplomatického vyjednávání a možností pomoci si navzájem je to velmi složité. Ale v zásadě tam, kde můžeme snižovat emise, bychom je měli snižovat. A teď nemám na mysli jenom nás jako Českou republiku, ale také Spojené státy, Čínu a Indii. Tyto země už nespadají mezi ten chudý svět, který by nemusel a neměl snižovat emise, ale spíše patří k tomu bohatému světu, který se minimálně na snižování emisí připravuje.
 
 ### Klimatické úsilí České republiky
+
 {% include 2050/transcript-time.html time="29:05" %}
 
 {% include 2050/transcript-person.html id="holik" %}
