@@ -260,7 +260,7 @@ Myslím si, že to bude plus minus stejné a bude záležet spíše na tom, jak 
 {% include 2050/transcript-person.html id="kratochvil" %}
 Nám nevadí, když se spotřeba cementu sníží. Usilujeme o to, aby se stavělo více s méně. Máme to dokonce v našem firemním sloganu. Vycházíme z toho, že budou třeba vysokopevnostní betony, protože nejenže spotřeba cementu má velké environmentální dopady, ale také je nedostatek kameniva. Některé firmy používají recyklovaný beton a z něj vyrábějí nový beton, což je cirkulární ekonomika a my to podporujeme. Pokud dokážeme postavit dům, ve kterém je o 20 % méně betonu, a přitom zachováváme stejné parametry uživatelského komfortu, proč ne?
 
-*** Jaké to je být cementářem
+### Jaké to je být cementářem
 
 {% include 2050/transcript-time.html time="31:36" %}
 
