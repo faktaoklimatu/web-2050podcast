@@ -257,4 +257,13 @@
   name: Radim
   surname: Tolasz
   description: ČHMÚ
-  
+
+- id: zdenek
+  name: Pavel
+  surname: Zdeněk
+  description: Lafarge cement, a.s.
+
+- id: kratochvil
+  name: Miroslav
+  surname: Kratochvíl
+  description: Lafarge cement, a.s.
