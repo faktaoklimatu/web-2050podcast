@@ -13,6 +13,8 @@ transcript: true
 ---
 Zároveň se však bez cementu v současnosti neobejdeme a potřebujeme jej i jako surovinu pro samotnou dekarbonizaci. V této epizodě s námi můžete cementárnu navštívit, nahlédnout do pece, ve které se taví vápencový slín, nebo se podívat do kulového mlýna, kde se cement rozemílá, aby měl potřebnou hrubost. Tato jedinečná epizoda přímo z terénu nabízí možnost podívat se zblízka na jedno z klíčových průmyslových odvětví.
 
+Epizoda vznikla za podpory Britského velvyslanectví v Praze.
+
 {% include 2050/guest-list.html %}
 
 ---
@@ -27,6 +29,8 @@ Zároveň se však bez cementu v současnosti neobejdeme a potřebujeme jej i ja
 </div>
 
 {% include 2050/transcript-start.html %}
+
+_Nahrávky z areálu cementárny nejsou zahrnuty v přepisu. Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce._
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 Vážení posluchači, srdečně vás vítáme u další epizody podcastu 2050. Petr a já jsme se v rámci naší průmyslové série tentokrát vydali na exkurzi do cementárny.
