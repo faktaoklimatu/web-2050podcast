@@ -21,7 +21,7 @@ Zároveň se však bez cementu v současnosti neobejdeme a potřebujeme jej i ja
 
 <div class="bonus-material" markdown="1">
   
-* **Explainer [Jakou roli hrají emise CO2 z výroby cementu v klimatické změně?](https://faktaoklimatu.cz/explainery/emise-vyroba-cementu)** (_Fakta o klimatu_)  
-  V roce 2015 vzniklo při výrobě cementu přibližně 2,8 miliard tun CO2, tedy asi 8 % světových emisí. To je zhruba čtyřikrát více než letecká doprava. Můžeme očekávat, že díky rozvoji měst bude poptávka po cementu a betonu ve světovém měřítku dále narůstat.
+* **Explainer [Jakou roli hrají emise CO<sub>2</sub> z výroby cementu v klimatické změně?](https://faktaoklimatu.cz/explainery/emise-vyroba-cementu)** (_Fakta o klimatu_)  
+  V roce 2015 vzniklo při výrobě cementu přibližně 2,8 miliard tun CO<sub>2</sub>, tedy asi 8 % světových emisí. To je zhruba čtyřikrát více než letecká doprava. Můžeme očekávat, že díky rozvoji měst bude poptávka po cementu a betonu ve světovém měřítku dále narůstat.
 
 </div>
