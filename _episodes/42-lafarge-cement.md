@@ -9,7 +9,7 @@ summary:    |
     Navštívili jsme společnost Lafarge Cement, a.s., ve které jsme diskutovali nejen o výrobě a dekarbonizaci cementu, ale měli jsme také možnost nahlédnout do samotného výrobního areálu. Kdyby byl cementářský průmysl státem, byly by jeho emise třetí největší na světě. Jedná se tedy o odvětví, jehož dekarbonizace je pro dosažení klimatických cílů velmi důležitá. Podobně jako v případě oceli ani zde není dekarbonizace snadná: dvě třetiny emisí oxidu uhličitého vznikají během chemické reakce při výrobě, a tu v současnosti nedokážeme nijak nahradit.
 audioboom:  "8283919"
 guests: [ kratochvil, zdenek ]
-transcript: false
+transcript: true
 ---
 Zároveň se však bez cementu v současnosti neobejdeme a potřebujeme jej i jako surovinu pro samotnou dekarbonizaci. V této epizodě s námi můžete cementárnu navštívit, nahlédnout do pece, ve které se taví vápencový slín, nebo se podívat do kulového mlýna, kde se cement rozemílá, aby měl potřebnou hrubost. Tato jedinečná epizoda přímo z terénu nabízí možnost podívat se zblízka na jedno z klíčových průmyslových odvětví.
 
@@ -43,9 +43,10 @@ Dobrý den, jmenuji se Pavel Zdeněk a jsem obchodní ředitel a člen představ
 {% include 2050/transcript-person.html id="kratochvil" %}
 Dobrý den, já jsem Miroslav Kratochvíl, generální ředitel a předseda představenstva Lafarge Cement, a.s.
 
-*** Cement je pojivo
+### Cement je pojivo
 
 {% include 2050/transcript-time.html time="01:49" %}
+
 {% include 2050/transcript-person.html id="holik" %}
 Takže naše první otázka zní: Co je vlastně cement?
 
@@ -72,9 +73,10 @@ Takže čím více slínku v cementu, tím kvalitnější je?
 {% include 2050/transcript-person.html id="zdenek" %}
 Ano, ale zároveň je méně ekologický. Pokud hovoříme o dekarbonizaci, tak cement s vyšším poměrem slínku je méně ekologický. Neříkám, že CEM 5 je špatný, ale obsahuje méně slínku a často se přidávají různé přísady, které mohou být přírodní nebo odpadové produkty z výroby oceli, jako například struska.
 
-*** Jak se cement vyrábí
+### Jak se cement vyrábí
 
 {% include 2050/transcript-time.html time="03:47" %}
+
 {% include 2050/transcript-person.html id="holik" %}
 Pojďme se postupně ponořit do tématu, jak se vyrábí cement.
 
@@ -94,6 +96,7 @@ Jak si to mám představit? Je zde prostě velká pec, podobně jako vysoká pec
 Vzniká to výpalem, když zahřejeme surovinu z lomu. Jsou tam teploty od 1200 do 1600°C. Naše 70metrová pec má průměr 4 metry a je mírně nakloněná. Materiál sypeme z jedné strany. Jak se pec otáčí, materiál se odvaluje a plamenem ho zahříváme. Tím se sline do kuliček a vznikne slínek. A odchází nám to CO2, takže to takhle zhruba vypadá.
 
 {% include 2050/transcript-time.html time="07:18" %}
+
 {% include 2050/transcript-person.html id="holik" %}
 Takže abych to pochopil správně, emise vznikají v reakci, když se potřebujeme zbavit CO2, které se uvolní, a také při zahřátí, kdy musíme něčím topit pod kotlem. Je to tak?
 
@@ -106,9 +109,10 @@ Když mluvíte o alternativních palivech, představuji si, že dříve se použ
 {% include 2050/transcript-person.html id="kratochvil" %}
 V minulosti jsme používali zejména těžké topné oleje, jako je mazut, a potom jsme přešli na uhelný prach. Nyní dokážeme nahradit tato paliva různými druhy odpadů, které ale musí mít vysokou energetickou hustotu. Plyn používáme pouze při nájezdu pece, aby se prostředí uvádělo do kondice pro chemickou reakci.
 
-*** Emise z výroby cementu a alternativní paliva
+### Emise z výroby cementu a alternativní paliva
 
 {% include 2050/transcript-time.html time="08:45" %}
+
 {% include 2050/transcript-person.html id="holik" %}
 Zajímají mě celkové emise při výrobě cementu a z toho, co jsme si právě řekli, je těžké určit emise na jednu tunu vyrobeného cementu, protože různé druhy cementů obsahují různé množství slínku. Dá se tedy říct, kolik emisí vzniká na jednu tunu vyrobeného slínku?
 
@@ -122,6 +126,7 @@ Díky za srovnání.
 Vzhledem k těm 800 kg emisí: asi 2/3 pocházejí z procesu, tedy získávání CO2 z CaCO3, tomu se nedokážeme vyhnout, a zbývající 1/3 jsou emise z energetického procesu, kde používáme paliva. Samozřejmě čím více budeme využívat alternativních paliv, jako například biomasy, tím více snižujeme emise a přispíváme k dekarbonizaci.
 
 {% include 2050/transcript-time.html time="10:45" %}
+
 {% include 2050/transcript-person.html id="holik" %}
 Zmínil jste, že 1/3 emisí pochází z paliv, ne z chemického procesu samotného. To znamená, že tuto třetinu bychom teoreticky mohli ovlivnit tím, jaká paliva používáme. Řekl jste také, že již nyní používáme téměř 95 % nefosilních paliv a máte alternativní paliva. Takže se ptám, zda je možné jít ještě dál a dosáhnout 100% náhrady fosilních paliv?
 
@@ -144,9 +149,10 @@ Pojďme se ještě jednou podívat na emise, protože pokud v České republice 
 {% include 2050/transcript-person.html id="kratochvil" %}
 Poměry jsou hodně podobné. Většina emisí pochází z procesu, takže s tím nemůžeme moc pohnout. Co se týká České republiky, řekl bych, že jsme někde uprostřed. Záleží hodně na surovině, kterou zpracováváme, ale nelze říci, že jsme na někde na chvostu nebo na špici.
 
-*** Budoucnost cementářství a finanční aspekty 
+### Budoucnost cementářství a finanční aspekty 
 
 {% include 2050/transcript-time.html time="16:04" %}
+
 {% include 2050/transcript-person.html id="holik" %}
 Jaké jsou tedy bariéry, které brání větším změnám v tomto odvětví?
 
@@ -168,6 +174,7 @@ Takže pokud správně rozumím, čím dražší bude uhlík, tím dražší bud
 Cement, který obsahuje hodně slínku, bude prémiový a cena takového cementu velmi vysoká. CEM 1 momentálně tvoří zhruba 40 % trhu. Osobně si myslím, že buď bude tento cement na trhu zcela nahrazen, nebo ho budeme používat tak 15 % v horizontu 5 až 10 let.
 
 {% include 2050/transcript-time.html time="19:46" %}
+
 {% include 2050/transcript-person.html id="holik" %}
 K čemu tedy potřebujeme ty jednotlivé druhy, jako když řeknete: CEM 5 je tak na zahradního trpaslíka, CEM 3 – postavíte barák, CEM 1 na mrakodrap nebo jak se to vlastně takhle dělí z hlediska užití?
 
@@ -224,6 +231,7 @@ Takže vlastně 50 % navýšení ceny by odpovídalo současným cenám emisníc
 Pokud bychom nedostali emisní povolenky zadarmo, museli bychom zdražit o 1500 Kč, tedy o 50 % navíc, abychom si zachovali současnou ziskovost.
 
 {% include 2050/transcript-time.html time="27:16" %}
+
 {% include 2050/transcript-person.html id="vrtalova" %}
 A co zachytávání uhlíku neboli CCS? Je to pro vás cesta, jak dekarbonizovat?
 
@@ -251,6 +259,7 @@ Nám nevadí, když se spotřeba cementu sníží. Usilujeme o to, aby se stavě
 *** Jaké to je být cementářem
 
 {% include 2050/transcript-time.html time="31:36" %}
+
 {% include 2050/transcript-person.html id="holik" %}
 Zatím jsme hodně mluvili o technologiích, číslech a podobných věcech. Snažíme se ale do našeho podcastu zapojit i lidský faktor, aby si naši posluchači dokázali představit, jaké to vlastně je být součástí oboru, jako je cementářství, který se právě teď tolik mění. Jaké to tedy je být cementářem v současné době?
 
