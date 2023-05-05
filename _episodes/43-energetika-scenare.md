@@ -6,7 +6,7 @@ slug:       "43-energetika-scenare"
 redirect_from: "/epizody/43"
 published:  2023-05-03
 summary:    |
-    Výroba elektřiny a tepla má dnes na svědomí přibližně 40 % z celkových emisí skleníkových plynů v ČR. Do budoucna počítáme v rámci dekarbonizace odvětví, jako jsou doprava nebo průmysl, s další elektrifikací mnoha procesů, což znamená, že v roce 2050 bude spotřeba elektřiny oproti současnosti 1,5x až 2x větší. Proto je nutné hledat cesty k její bezemisní výrobě.
+    Výroba elektřiny a tepla má dnes na svědomí přibližně 40 % z celkových emisí skleníkových plynů v ČR. Do budoucna počítáme v rámci dekarbonizace odvětví, jako jsou doprava nebo průmysl, s další elektrifikací mnoha procesů, což znamená, že v roce 2050 bude spotřeba elektřiny oproti současnosti 1,5× až 2× větší. Proto je nutné hledat cesty k její bezemisní výrobě.
 audioboom:  "8294295"
 guests: [ krcal ]
 transcript: false
@@ -35,7 +35,7 @@ V nové sérii se budeme podrobně zabývat energetikou a v této první epizod�
   Abychom mohli energetiku dekarbonizovat dostatečně rychle, potřebujeme významně posílit bezemisní zdroje elektřiny. Tento text se zaměřuje na možnosti výroby, které jsou dnes technologicky dostupné a dají se v ČR využít.
 
 * **Infografika [Elektřina v ČR: výroba, spotřeba a emise](https://faktaoklimatu.cz/infografiky/elektrina-cr)** (_Fakta o klimatu_)  
-  Přehled výroby elektřiny podle zdrojů, souvisejících emisí CO2eq a spotřeby elektřiny podle sektorů. Uhelné zdroje produkují naprostou většinu emisí v rámci české elektroenergetiky.
+  Přehled výroby elektřiny podle zdrojů, souvisejících emisí CO<sub>2</sub>eq a spotřeby elektřiny podle sektorů. Uhelné zdroje produkují naprostou většinu emisí v rámci české elektroenergetiky.
 
 * **Infografika [Podíl zdrojů na výrobě elektřiny v EU a Británii](https://faktaoklimatu.cz/infografiky/elektrina-mix-eu)** (_Fakta o klimatu_)  
   Výroba elektřiny ve státech Evropské unie a ve Velké Británii v roce 2021 podle podílu jaderných, fosilních a obnovitelných zdrojů. V Česku se na výrobě elektřiny podílely z 50 % fosilní paliva, z 37 % jaderná energie a 13 % vyrobily obnovitelné zdroje.
