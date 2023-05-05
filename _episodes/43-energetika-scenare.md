@@ -42,6 +42,8 @@ V nové sérii se budeme podrobně zabývat energetikou a v této první epizod�
 
 </div>
 
+---
+
 ## Transkript epizody
 
 Transkript doplníme během několika dní.
