@@ -44,7 +44,7 @@ V nové sérii se budeme podrobně zabývat energetikou a v této první epizod�
 
 {% include 2050/transcript-start.html %}
 
-_Nahrávky z areálu cementárny nejsou zahrnuty v přepisu. Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce._
+_Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce._
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
@@ -75,6 +75,7 @@ Zároveň se dotýkáme toho, jak vlastně dosáhnout tohoto cílového stavu.
 Teď už se pojďme podívat na to, proč je elektroenergetika v dekarbonizaci tak důležitá.
 
 ### Elektřiny potřebujeme čím dál víc
+
 {% include 2050/transcript-time.html time="01:29" %}
 
 {% include 2050/transcript-person.html id="krcal" %} 
@@ -122,6 +123,7 @@ Takže ten nárůst není kvůli dekarbonizaci.
 Není to jen kvůli dekarbonizaci, ale i zvyšování životní úrovně a standardů života. Lze si představit nárůst o 50-100 procent. Je obtížné stanovit konkrétní číslo bez komplexního scénáře, ale problém je mnohem větší než pouze dekarbonizace výroby elektřiny z uhlí a zemního plynu, které se v současnosti používají v energetice a elektroenergetice. Bude potřeba výroba elektřiny zvýšit minimálně o polovinu, a klidně i dvojnásobek.
 
 ### Co budeme do budoucna elektrifikovat
+
 {% include 2050/transcript-time.html time="05:24" %}
 
 {% include 2050/transcript-person.html id="vrtalova" %}
@@ -143,6 +145,7 @@ Takže je důležité si uvědomit, že v dekarbonizačních strategiích se sni
 Když to řeknu v technických pojmech, konečná spotřeba energie bude klesat, ale spotřeba elektřiny bude stoupat, protože relativní podíl elektřiny v mixu roste.
 
 ### Z jakých zdrojů vyrábíme elektřinu dnes
+
 {% include 2050/transcript-time.html time="07:38" %}
 
 {% include 2050/transcript-person.html id="vrtalova" %}
@@ -184,6 +187,7 @@ Ano, velmi zjednodušeně.
 Zároveň tady už vedeme rozhovor 10 minut a je docela hutný. Nevím, jak to pro vás, pánové, ale já už bych chtěla shrnout tři body, které si z toho odnáším. První je, že kvůli elektrifikaci budeme muset výrazně navýšit celkovou výrobu elektřiny, a to zhruba 1,5 až dvojnásobně. Druhá věc, kterou si z toho beru, je že dnes vyrábíme nejvíce elektřiny v Česku z uhlí a jádra. Třetí bod je, že potřebujeme vyrábět elektřinu bez emisí a potřebujeme zvýšit produkci těchto zdrojů. To je to, co před chvílí říkal Petr. Možná bychom se mohli podívat na zdroje, ze kterých můžeme v Česku vyrábět bezemisní elektřinu. Jeňo, můžeš nám to přiblížit?
 
 ### Zdroje bezemisní elektřiny v Česku
+
 {% include 2050/transcript-time.html time="10:48" %}
 
 {% include 2050/transcript-person.html id="krcal" %} 
@@ -199,6 +203,7 @@ A uděláme na ni rovnou reklamu. Dáme vám samostatnou epizodu, kde se podív�
 Co vlastně chceme od výroby elektřiny? Tato otázka směřuje k tomu, jaké požadavky musí energetický mix splňovat, aby byl pro nás přijatelný. Jednou z klíčových charakteristik je minimalizace emisí. Nicméně, máme i další požadavky.
 
 ### Elektřina musí být dostupná a spolehlivá, nejen bez emisí
+
 {% include 2050/transcript-time.html time="12:44" %}
 
 {% include 2050/transcript-person.html id="krcal" %} 
@@ -240,6 +245,7 @@ To, o čem jsi mluvil, je důležité zdůraznit, že existují proměnné, kter
 A současně potřebujeme mít do jisté míry připravenost na ty varianty, kdy se tohle nepodaří. A pak už je to otázka toho, jak moc chceme být připraveni na nejhorší případ, jak moc důvěřujeme spolupráci v Evropě a jak moc se v Evropě dokážeme dohodnout na nějaké společné strategii. To jsou složité politické otázky, jak moc jsme ochotni ještě dále integrovat energetickou politiku v Evropě.
 
 ### Výzvou je dostatek elektřiny v zimě
+
 {% include 2050/transcript-time.html time="19:36" %}
 
 {% include 2050/transcript-person.html id="vrtalova" %}
@@ -293,6 +299,7 @@ A ještě, jako poslední velký zdroj elektřiny v zimě, je ukládání přeb
 Máte třeba 2/3 té elektřiny, kterou ztratíte v tom procesu ukládání do vodíku a výroby zpátky z té elektřiny. To znamená, že pokud to budete používat hodně, budete muset vyrobit hodně navíc abyste pokryli spotřebu třeba 100 TWh ročně, musíte třeba vyrobit 140 a část z toho uložit a použít zpět v jiný čas. To znamená, že je to v nějakém smyslu taky drahé nebo neefektivní na tu elektřinu, že ji potřebujete hodně vyrobit navíc. To je celé menu na zimní sezónu a možná se můžeme dívat na to, jak z toho sestavit nějaké varianty vývoje.
 
 ### Scénáře budoucího energetického mixu
+
 {% include 2050/transcript-time.html time="26:04" %}
 {% include 2050/transcript-person.html id="vrtalova" %}
 
@@ -345,6 +352,7 @@ To znamená, že to zase bude slunce, vítr a hodně importu, protože to není 
 Ne, na to dneska nemáme kapacitu drátů na hranicích, ani přenosová soustava by to nezvládla. Elektřina je zároveň klíčovou komoditou z hlediska energetické bezpečnosti, kterou si nechceme úplně pustit z ruky a říct, že to za nás vyřeší někdo jiný. To by bylo odůvodnění neaktivity. Žádná z těch tří variant není rozumná ze 100 % jako jediná, protože to má v sobě spoustu nejistot, zda se to podaří. A ještě je tedy důležité dodat, že bude těžší, pokud nebudeme mít dostatek domácího větru, protože vám to prostě bude chybět v té zimě a budete potřebovat více importu, jádra nebo zeleného vodíku a všechno to je buď drahé, nebo nedostupné.
 
 ### Elektřina nebude dvakrát dražší
+
 {% include 2050/transcript-time.html time="32:20" %}
 {% include 2050/transcript-person.html id="vrtalova" %}
 
@@ -381,6 +389,7 @@ Je do toho započítána cena za samotnou transformaci energetiky? Za tu změnu 
 Jo, jo. Když mluvím o ceně toho výsledku, tak mluvím o systémových nákladech. To znamená, že se podíváme na to, kolik stojí výroba elektřiny v tom výsledném řešení a kolik stojí investice. Firmy to nestaví zadarmo, musí si půjčit od banky na nějaký úrok a každý rok to musí splácet. Kapitálové náklady jsou rozprostřeny do každého roku provozu. Je obtížné odhadnout náklady na rozvoj přenosové a distribuční soustavy, tam ta data nemáme tak přesná. Celkový závěr však zůstává: mluvíme o celkových systémových nákladech na výrobu elektřiny.
 
 ### Jaké kroky podniknout teď
+
 {% include 2050/transcript-time.html time="37:14" %}
 {% include 2050/transcript-person.html id="vrtalova" %}
 
