@@ -24,7 +24,7 @@ Rozdělit se dají do tří kategorií: slunce a vítr, jádro a nízkoemisní f
 {% include 2050/bonus-interview.html
   title="Jan Krčál: Z čeho můžeme v ČR vyrábět bezemisní elektřinu?"
   audioboom="8301745"
-  spotify=""
+  spotify="1QJgC2rCjiQ4syc5UlsX4j"
   caption="Nesestříhaný bonusový rozhovor ke 44. epizodě podcastu 2050."
 %}
 
