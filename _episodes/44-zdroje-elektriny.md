@@ -11,7 +11,7 @@ audioboom:  "8301746"
 guests: [ krcal ]
 transcript: false
 ---
-Rozdělit se dají do tří kategorií: slunce a vítr, jádro a nízkoemisní flexibilní zdroje. U každého zdroje se díváme na to, kolik elektřiny z něj vyrábíme dnes, kolik by bylo reálné vyrábět v roce 2050, a diskutujeme také o jeho výhodách a nevýhodách. Protože žádný ze zdrojů nemůže pokrýt českou spotřebu elektřiny sám o sobě, bavíme se i o tom, jak spolu jednotlivé zdroje souvisí a jak se mohou navzájem doplňovat (např. v létě bývá více slunce, v zimě více větru, zároveň potřebujeme být připraveni i na situace, kdy právě příliš “nesvítí ani nefouká”).
+Rozdělit se dají do tří kategorií: slunce a vítr, jádro a nízkoemisní flexibilní zdroje. U každého zdroje se díváme na to, kolik elektřiny z něj vyrábíme dnes, kolik by bylo reálné vyrábět v roce 2050, a diskutujeme také o jeho výhodách a nevýhodách. Protože žádný ze zdrojů nemůže pokrýt českou spotřebu elektřiny sám o sobě, bavíme se i o tom, jak spolu jednotlivé zdroje souvisí a jak se mohou navzájem doplňovat (např. v létě bývá více slunce, v zimě více větru, zároveň potřebujeme být připraveni i na situace, kdy právě příliš "nesvítí ani nefouká").
 
 {% include 2050/guest-list.html %}
 
