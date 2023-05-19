@@ -136,7 +136,7 @@ Kolik větru máme dnes a kolik jsme schopni rozumně pokrýt do roku 2050?
 
 Dneska máme z větru asi 0,7 terawatthodiny, což znamená, že z toho, co budeme potřebovat, je to pouze 0,7 %, což je velmi málo. Je to třikrát méně než z energie slunce. Kolik energie můžeme získat dneska, je těžké odhadnout. Existují fyzikální limity, které nám říkají, že nemůžeme získat více než 70 terawatthodin. Navíc máme některá chráněná území, kde bychom neměli stavět. Navíc to omezuje přijatelnost pro lidi, kteří tam žijí. Sedmdesátwat hodin je jako virtuální představa, že bychom mohli nasekat větrníky tam, kde fouká nejvíc a kde to není chráněné, takže by se navzájem nestínily a mohly by fungovat. 
 
-Ale to je nějaký technický potenciál, ale ten realizovatelný potenciál je výrazně menší. Pak záleží na odhadu, protože nevíme, kam se dostaneme - to je společenská otázka. Musíme si položit otázku, co společnost přijme. Potřebujeme elektřinu a dekarbonizaci a chceme myslet na budoucnost. Vítr má důležitou roli, tak ho pojďme stavět. Ale zda dokážeme pokrýt 10 terawatthodin, tedy desetinu budoucí spotřeby v dekarbonizovaném světě, 20 nebo 30, to už je otázka společnosti. 
+Ale to je nějaký technický potenciál, ale ten realizovatelný potenciál je výrazně menší. Pak záleží na odhadu, protože nevíme, kam se dostaneme – to je společenská otázka. Musíme si položit otázku, co společnost přijme. Potřebujeme elektřinu a dekarbonizaci a chceme myslet na budoucnost. Vítr má důležitou roli, tak ho pojďme stavět. Ale zda dokážeme pokrýt 10 terawatthodin, tedy desetinu budoucí spotřeby v dekarbonizovaném světě, 20 nebo 30, to už je otázka společnosti. 
 
 Většina těch větrných parků, které tady máme, byla postavena před 10 až 15 lety. Shodou okolností většina solárních parků, které tady máme, byla postavena před 13 lety během solárního boomu. Tehdy byly náklady na stavbu solárního parku asi desetkrát vyšší než dnes a náklady na výstavbu větrníků byly asi třikrát vyšší než dnes. Od té doby, co jsme to tady naposledy stavěli, se slunce zlevnilo dramaticky a vítr také zlevnil podstatně.
 
@@ -146,7 +146,7 @@ Já si pro sebe chtěla udělat rychlý součet, a ty jsi řekl, že bychom mohl
 
 {% include 2050/transcript-person.html id="krcal" %} 
 
-Ano, když si jen sečteme ta čísla, o kterých jsme mluvili - ta rozpětí - vychází nám například 30-70. Těch 70 je poměrně vysoké číslo, nicméně je to jen jeden z možných scénářů. Bylo by to 30-70 % budoucí spotřeby elektřiny, což znamená, že mohou hrát důležitou nebo dokonce většinovou roli v nové elektroenergetice.
+Ano, když si jen sečteme ta čísla, o kterých jsme mluvili – ta rozpětí – vychází nám například 30–70. Těch 70 je poměrně vysoké číslo, nicméně je to jen jeden z možných scénářů. Bylo by to 30–70 % budoucí spotřeby elektřiny, což znamená, že mohou hrát důležitou nebo dokonce většinovou roli v nové elektroenergetice.
 
 ### Jaderná energie
 {% include 2050/transcript-time.html time="14:19" %}
@@ -173,7 +173,7 @@ Když jsme mluvili o slunci a větru, zmínili jsme cenu asi 50 eur. Tak kolik s
 
 {% include 2050/transcript-person.html id="krcal" %} 
 
-Jo, tak to by mohlo být něco jako 100-150 EUR, ale může to být i méně, pokud to bude financováno ze státních peněz. Přesněji řečeno, kdybychom počítali s úrokovou sazbou třeba 4 % a všechno by proběhlo podle plánu, mohlo by to být třeba 60 nebo 70 EUR na megawatthodinu.
+Jo, tak to by mohlo být něco jako 100–150 EUR, ale může to být i méně, pokud to bude financováno ze státních peněz. Přesněji řečeno, kdybychom počítali s úrokovou sazbou třeba 4 % a všechno by proběhlo podle plánu, mohlo by to být třeba 60 nebo 70 EUR na megawatthodinu.
 
 ### Malé modulární reaktory
 {% include 2050/transcript-time.html time="20:23" %}
@@ -225,11 +225,11 @@ Jaké jsou ty další zdroje?
 
 Jedním jsou vodní elektrárny, které dnes vyrobí asi dvě terawatthodiny za rok, takže by přispívaly k cílové spotřebě zhruba 2 %. Problém však s vodními elektrárnami spočívá v tom, že jsme již využili většinu potenciálu této vodní energie u nás. Možná o něco málo můžeme navýšit využití vodních elektráren, ale v principu zapomeňte na to. Je to něco, co tady máme a můžeme použít, ale jiné státy, jako je třeba Rakousko nebo Švédsko mají mnohem více vodní energie, kterou mohou využívat v těch elektrárnách. U nás je to fakt malý doplňkový zdroj, který je ale fajn, protože s ním můžete nějakým způsobem flexibilně pracovat. Můžete tu výrobu posunout v čase, kdy se vám to hodí, kdy zrovna nesvítí, nefouká atd. 
 
-Ten další zdroj jsou různé formy biomasy. Když mluvím o biomase, myslím tím klasickou pevnou biomasu, stejně jako bioplyn. Z tohoto zdroje vyrobíme ročně necelých pět terawatthodin. Je to asi půl na půl - pevná biomasa a bioplyn. Bioplyn se vyrábí v bioplynových stanicích, kde se zčásti používá kukuřice nebo jiné cíleně pěstované plodiny, které jsou tam typicky potřeba pro stabilizaci procesu. Pak mohou být použity různé zdroje jako kejda nebo odpadní produkty zemědělské produkce. Je to pestřejší škála, stejně jako můžeš mít bioplynovou stanici například z odpadních vod. Tam můžeš vlastně nachytat různé organické zbytky, které by jinak byly vypuštěny do kanálu. To je další zdroj biomasy, který je super využít.
+Ten další zdroj jsou různé formy biomasy. Když mluvím o biomase, myslím tím klasickou pevnou biomasu, stejně jako bioplyn. Z tohoto zdroje vyrobíme ročně necelých pět terawatthodin. Je to asi půl na půl – pevná biomasa a bioplyn. Bioplyn se vyrábí v bioplynových stanicích, kde se zčásti používá kukuřice nebo jiné cíleně pěstované plodiny, které jsou tam typicky potřeba pro stabilizaci procesu. Pak mohou být použity různé zdroje jako kejda nebo odpadní produkty zemědělské produkce. Je to pestřejší škála, stejně jako můžeš mít bioplynovou stanici například z odpadních vod. Tam můžeš vlastně nachytat různé organické zbytky, které by jinak byly vypuštěny do kanálu. To je další zdroj biomasy, který je super využít.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Možná bychom mohli zmínit ještě jednu věc, kterou jsme nezmínili při diskuzi o biomase. Proč je biomasa vlastně bezemisní nebo uhlíkově neutrální zdroj? To proto, že veškerý uhlík, který se při spalování uvolní do ovzduší, byl předtím přijat rostlinami během růstu z atmosféry. To znamená, že při spalování biomasy se vytváří CO2, ale tento CO2 byl předtím zachycen rostlinami a je takovým způsobem uhlíkově neutrální, nepřidává se tím žádný nový uhlík do atmosféry.
+Možná bychom mohli zmínit ještě jednu věc, kterou jsme nezmínili při diskuzi o biomase. Proč je biomasa vlastně bezemisní nebo uhlíkově neutrální zdroj? To proto, že veškerý uhlík, který se při spalování uvolní do ovzduší, byl předtím přijat rostlinami během růstu z atmosféry. To znamená, že při spalování biomasy se vytváří CO<sub>2</sub>, ale tento CO<sub>2</sub> byl předtím zachycen rostlinami a je takovým způsobem uhlíkově neutrální, nepřidává se tím žádný nový uhlík do atmosféry.
 
 {% include 2050/transcript-person.html id="krcal" %} 
 
@@ -290,7 +290,7 @@ Já si myslím, že to základní věcí je, že nemáme jeden jednoduchý nást
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Kdyby toto bylo povědomí v celé české společnosti, tak si myslím, že by ta diskuze nebo ty názory vypadaly hodně jinak. Protože i mezi lidmi, co znám, kteří se třeba nepohybují v energetice, ale mají názor na věci, tak mám dojem, že tam právě převládá ten názor: "Jediným řešením je jádro", "Jediným řešením je prostě slunce", "Jediným řešením je vítr". A vlastně jediným řešením je toto všechno chytře zkombinovat.
+Kdyby toto bylo povědomí v celé české společnosti, tak si myslím, že by ta diskuze nebo ty názory vypadaly hodně jinak. Protože i mezi lidmi, co znám, kteří se třeba nepohybují v energetice, ale mají názor na věci, tak mám dojem, že tam právě převládá ten názor: "Jediným řešením je jádro. Jediným řešením je prostě slunce. Jediným řešením je vítr." A vlastně jediným řešením je toto všechno chytře zkombinovat.
 
 {% include 2050/transcript-person.html id="krcal" %} 
 
