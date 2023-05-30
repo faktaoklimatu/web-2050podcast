@@ -267,3 +267,19 @@
   name: Miroslav
   surname: Kratochvíl
   description: Lafarge cement, a.s.
+
+- id: novak
+  name: Ondřej
+  surname: Novák
+  description: podcast Pod proudem
+  moderator: true
+
+- id: doucha
+  name: Pavel
+  surname: Doucha
+  description: DOUCHA ŠIKOLA advokáti
+
+- id: sikola
+  name: Luděk
+  surname: Šikola
+  description: DOUCHA ŠIKOLA advokáti
