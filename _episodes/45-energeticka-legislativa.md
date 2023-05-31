@@ -55,7 +55,7 @@ Loňský rok byl, co se týče energetické legislativy, hodně překotný a nab
 
 ### Změny jsou pozitivní, ale ČR je stále pozadu
 
-{% include 2050/transcript-time.html time=“02:25" %}
+{% include 2050/transcript-time.html time="02:25" %}
 
 {% include 2050/transcript-person.html id="sikola" %} 
 
