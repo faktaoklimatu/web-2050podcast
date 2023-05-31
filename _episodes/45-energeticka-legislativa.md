@@ -6,7 +6,7 @@ slug:       "45-energeticka-legislativa"
 redirect_from: "/epizody/45"
 published:  2023-05-31
 summary:    |
-      Jaké změny se aktuálně dějí na poli energetické legislativy? A jak ovlivňují rozvoj obnovitelných zdrojů a další klíčové parametry nové energetiky? Epizodu odpovídající na tyto otázky jsme se chystali natočit v rámci naší “energetické série”, ale zjistili jsme, že stejné téma už dobře zpracoval někdo jiný. Proto vám dnes přinášíme hostující epizodu podcastu Pod proudem.
+      Jaké změny se aktuálně dějí na poli energetické legislativy? A jak ovlivňují rozvoj obnovitelných zdrojů a další klíčové parametry nové energetiky? Epizodu odpovídající na tyto otázky jsme se chystali natočit v rámci naší „energetické série“, ale zjistili jsme, že stejné téma už dobře zpracoval někdo jiný. Proto vám dnes přinášíme hostující epizodu podcastu Pod proudem.
 audioboom:  "8308935"
 guests: [ novak, doucha, sikola ]
 transcript: true
@@ -89,9 +89,9 @@ No a když se zaměříme na ty konkrétní změny, které se podařilo prosadit
 
 {% include 2050/transcript-person.html id="doucha" %} 
 
-Část té novely nazývám novela 50-50-50, což jsou klíčové parametry některých z těch opatření, která novela zavádí. První 50 znamená, že licenci na výrobu energie potřebujete od účinnosti novely, tedy zhruba od začátku února, pouze v případě, že stavíte zdroj s výkonem větším než 50 kW. To už je zdroj, který, pokud mluvíme třeba o fotovoltaice, několikanásobně pokryje potřeby rodinných domů a vystačí si s ním i většina bytových domů. Bude to také smysluplné pro některé podniky, které by si chtěly na svých střechách postavit fotovoltaické elektrárny.
+Část té novely nazývám novela 50–50–50, což jsou klíčové parametry některých z těch opatření, která novela zavádí. První 50 znamená, že licenci na výrobu energie potřebujete od účinnosti novely, tedy zhruba od začátku února, pouze v případě, že stavíte zdroj s výkonem větším než 50 kW. To už je zdroj, který, pokud mluvíme třeba o fotovoltaice, několikanásobně pokryje potřeby rodinných domů a vystačí si s ním i většina bytových domů. Bude to také smysluplné pro některé podniky, které by si chtěly na svých střechách postavit fotovoltaické elektrárny.
 
-Dříve byl limit 10 kilowattů, takže je zřejmé, že toto je významné zjednodušení, zejména pokud jde o administrativu spojenou s licencí. Pokud jste byli držitelem licence, stali jste se podnikatelem v energetice a museli jste vést účetnictví, platit daně a řešit všechny záležitosti spojené s podnikáním. Nyní to bude platit pouze pro výroby s výkonem vyšším než 50 kW. 
+Dříve byl limit 10 kilowattů, takže je zřejmé, že toto je významné zjednodušení, zejména pokud jde o administrativu spojenou s licencí. Pokud jste byli držitelem licence, stali jste se podnikatelem v energetice a museli jste vést účetnictví, platit daně a řešit všechny záležitosti spojené s podnikáním. Nyní to bude platit pouze pro výroby s výkonem vyšším než 50 kW.
 
 Druhý limit se týká umístění nových zdrojů na volných plochách. Pokud si někdo například chce postavit dřevěnou konstrukci na zahradě, na níž umístí fotovoltaické panely a bude pod ní parkovat auto, aby na něj nepršelo, nebude potřebovat územní rozhodnutí. Pokud výkon této výroby nepřesáhne 50 kW, třetí limit se týká stavebního povolení. To se týká spíše instalací na stávajících budovách, jako je například fotovoltaika na střeše rodinného bytového domu nebo podniku. Dříve byl limit pro nutnost vyřídit si stavební povolení 20 kW, ale nyní je to 50 kW. Existují však situace, kdy tato pravidla neplatí, jako například při kulturních památkách, památkových rezervacích a ochranných pásmech, kde je stále potřeba získat závazné stanovisko orgánů památkové péče. Stejně tak se to týká požární bezpečnosti, která je stále důležitá a musí být dodržována, i když není potřeba stavební povolení.
 
