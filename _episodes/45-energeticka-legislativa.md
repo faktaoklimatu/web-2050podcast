@@ -83,7 +83,7 @@ Určitě je pravda to, co říkal můj kolega, a je třeba vyjádřit určité u
 
 No a když se zaměříme na ty konkrétní změny, které se podařilo prosadit, zejména tedy v rámci té novely nazývané Lex OZE 1, jak zásadně se tedy podle vás změní anebo usnadní budování nových zdrojů a provoz těch stávajících?
 
-### Novela 50:50:50 a nové trendy
+### Novela 50-50-50 a nové trendy
 
 {% include 2050/transcript-time.html time="07:40" %}
 
