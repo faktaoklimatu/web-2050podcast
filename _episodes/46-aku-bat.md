@@ -7,7 +7,7 @@ redirect_from: "/epizody/46"
 published:  2023-06-14
 summary:    |
       Vzhledem k čím dál většímu zapojení proměnlivých obnovitelných zdrojů energie, jako jsou slunce nebo vítr, roste naše potřeba energii také uchovávat pro pozdější využití. Jan Fousek z asociace AKU-BAT nám představí technologie, pomocí kterých můžeme energii ukládat a podrobně vysvětlí, proč je rozvoj akumulace v současnosti tak důležitý. Dojde i na to, jaké překážky a bariéry mu v rámci Česka stojí v cestě.
-audioboom:  ""
+audioboom:  "8316900"
 guests: [ fousek ]
 transcript: false
 ---
@@ -23,7 +23,7 @@ Akumulace elektřiny zároveň souvisí s tzv. flexibilitou sítě – souborem 
 
 {% include 2050/bonus-interview.html
   title="Jan Fousek (AKU-BAT): Akumulace energie a flexibilita sítě"
-  audioboom=""
+  audioboom="8316890"
   spotify=""
   caption="Nesestříhaný rozhovor jako bonus ke 46. epizodě podcastu 2050."
 %}
