@@ -25,7 +25,7 @@ Akumulace elektřiny zároveň souvisí s tzv. flexibilitou sítě – souborem 
   title="Jan Fousek (AKU-BAT): Akumulace energie a flexibilita sítě"
   audioboom="8316890"
   spotify="4ioIZWFpyVGfvkB7hxsujE"
-  caption="Nesestříhaný rozhovor jako bonus ke 46. epizodě podcastu 2050."
+  caption="Zajímá vás téma opravdu do hloubky? Poslechněte si celý nesestříhaný rozhovor s Janem Fouskem."
 %}
 
 * **Explainer [Jaké cesty mohou dovést Česko k bezemisní elektřině?](https://faktaoklimatu.cz/explainery/bezemisni-energetika-cr-1-scenare)** (_Fakta o klimatu_)  
