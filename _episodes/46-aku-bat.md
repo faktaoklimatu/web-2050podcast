@@ -36,6 +36,8 @@ Akumulace elektřiny zároveň souvisí s tzv. flexibilitou sítě – souborem 
 
 {% include 2050/transcript-start.html %}
 
+_Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce._
+
 {% include 2050/transcript-person.html id="holik" %}
 Vážení a milí posluchači, vítáme vás u další epizody podcastu 2050.
 
