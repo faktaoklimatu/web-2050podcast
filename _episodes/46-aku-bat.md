@@ -45,7 +45,7 @@ Vážení a milí posluchači, vítáme vás u další epizody podcastu 2050.
 Vzhledem ke stále většímu využívání proměnlivých obnovitelných zdrojů elektřiny, jako jsou sluneční a větrná energie, roste potřeba energii ukládat.
 
 {% include 2050/transcript-person.html id="holik" %}
-V dnešní epizodě si povídáme s Janem Fouskem z asociace AKU_BAT. Řeč bude o tom, jaké máme možnosti v oblasti akumulace energie a jakou roli bude v budoucnosti hrát tzv. flexibilita sítě.
+V dnešní epizodě si povídáme s Janem Fouskem z asociace AKU-BAT. Řeč bude o tom, jaké máme možnosti v oblasti akumulace energie a jakou roli bude v budoucnosti hrát tzv. flexibilita sítě.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 Můžete se také těšit na exkurzi do historie akumulace, na přehled technologií ukládání energie a dotkneme se i legislativních překážek, které v současnosti brání rozvoji akumulace.
@@ -189,7 +189,7 @@ Já ti chtěl poděkovat, že jsi za mě odpověděla. Je to přesně tak, jak j
 Já se chci zeptat, zda jsou již nějaké představy, jak by to mohlo být pro koncového uživatele? Dokážu si představit, že bych nikdy nechtěl najít auto úplně vybité, ale zároveň si myslím, že to není takový problém. Představuji si aplikaci na mobilu, kde si mohu nastavit, že chci vždy mít 70 % baterie a s těmi zbývajícími 30 % si mohou ostatní dělat, co chtějí. Nebo si mohu říct, že odjíždím na dovolenou a klidně si mohou vzít 90 % baterie, protože auto nebudu používat 14 dní. To by byla ta smartifikace sítě, o které uvažuji.
 
 {% include 2050/transcript-person.html id="fousek" %} 
-Je to tak. I debata, přesně tímhle tím směrem jde.
+Je to tak. I debata přesně tímhle tím směrem jde.
 
 ### Důsledky zastaralé české legislativy
 {% include 2050/transcript-time.html time="30:45" %}
