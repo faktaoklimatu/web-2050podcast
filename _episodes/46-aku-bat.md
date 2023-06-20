@@ -9,7 +9,7 @@ summary:    |
       Vzhledem k čím dál většímu zapojení proměnlivých obnovitelných zdrojů energie, jako jsou slunce nebo vítr, roste naše potřeba energii také uchovávat pro pozdější využití. Jan Fousek z asociace AKU-BAT nám představí technologie, pomocí kterých můžeme energii ukládat a podrobně vysvětlí, proč je rozvoj akumulace v současnosti tak důležitý. Dojde i na to, jaké překážky a bariéry mu v rámci Česka stojí v cestě.
 audioboom:  "8316900"
 guests: [ fousek ]
-transcript: false
+transcript: true
 ---
 Akumulace elektřiny zároveň souvisí s tzv. flexibilitou sítě – souborem nástrojů, s jejichž pomocí je možné podle potřeby zvyšovat či snižovat jak výrobu, tak spotřebu elektřiny. V nové nastupující energetice bude flexibilita zejména kvůli obnovitelným zdrojům důležitým prvkem. Jakými způsoby můžeme flexibilitu zajistit a jak to ovlivní přístup k elektřině v budoucnosti? To se taktéž dozvíte v nové epizodě podcastu 2050.
 
@@ -58,7 +58,7 @@ Kdo nebo co je AKU-BAT? Co právě děláte? A máme tady hezkou otázku: Jaké 
 {% include 2050/transcript-person.html id="fousek" %} 
 Je to zkratka pro název asociace pro akumulaci energie. Ten název jsme tomu dali tak, aby se zapamatoval. Já bych to definoval tak, že jsme takové sdružení většinou významných firem napříč spektrem, tím pojícím prvkem je tam samozřejmě akumulace a řekněme flexibilita, ale jde to do všech různých dalších úrovní, takže našimi členy jsou velcí technologičtí dodavatelé, výrobci právě baterií, ale třeba dodavatelé celé infrastruktury pro elektromobilitu, banky, teplárny, průmyslové podniky, ale s tím, že samozřejmě ty obnovitelné zdroje a dekarbonizace, digitalizace a posilování flexibility jsou tím nějakým průsečíkem.
 
-## Akumulace v minulosti a dnes
+### Akumulace v minulosti a dnes
 {% include 2050/transcript-time.html time="02:19" %}
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -106,7 +106,7 @@ Rok 2030. ČEPS ve své studii přiměřenosti, což je asi nejvýznamnější d
 
 Zatímco baterie s kapacitou megawathodiny stojí řádově 20-25 000 000 Kč, elektrolyzér, kompresor, palivový článek a všechny potřebné součásti stojí více než 100 000 000 Kč. Proto musí projekty vznikat a Evropská unie musí tuto technologii podpořit. Sezónní akumulace je stále nezbytná. Co se týče roku 2050, to bude záležet na geopolitice. V Evropě se pro vaši informaci se ročně připojuje zhruba 6 GWh a každý rok se přidává přibližně 5 GWh akumulace na úrovni Evropy.
 
-## Využití baterií nejen pro akumulaci
+### Využití baterií nejen pro akumulaci
 {% include 2050/transcript-time.html time="14:43" %}
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -137,7 +137,7 @@ Takže jsme si řekli o Evropě. Teď je zhruba 10 gigawatt hodin a plánuje se 
 
 Rok 2050 bude zásadně záviset na energetickém mixu. Teď řeknu celosvětově, ale je vlastně jedno, do jakého regionu to přineseme. Budou to celosvětově stovky až nižší tisíce gigawatthodin v bateriích a pravděpodobně desítky až stovky gigawattů v elektrolyzérech, protože budeme potřebovat médium pro sezónní akumulaci, a elektrolytická výroba vodíku bude pravděpodobně dominovat v tom roce 2050.
 
-## Jakými zúůsoby lze energii ukládat
+### Jakými způsoby lze energii ukládat
 {% include 2050/transcript-time.html time="21:27" %}
 
 {% include 2050/transcript-person.html id="fousek" %} 
@@ -152,7 +152,7 @@ Pokud bychom měli shrnout, co jsou ty hlavní věci, na které se můžeme spol
 {% include 2050/transcript-person.html id="fousek" %} 
 A já si myslím, že se to nebude výrazně měnit. To, co jsi řekl teď, se nebude měnit ani v nadcházejících dekádách, ani globálně. Bude se měnit jenom ten poměr nově přidávaných baterií, jak jsme si řekli v této dekádě. Ty budou pravděpodobně důležité kvůli rozvoji e-mobility a celkové flexibilitě. To jsme zde ale nezmínili. Právě proto jsou baterie důležité. Vodík zatím výrazně nepomůže a bude hrát roli až při mnohem větší penetraci obnovitelných zdrojů, než jsou dnes.
 
-## Flexibilita sítě
+### Flexibilita sítě
 {% include 2050/transcript-time.html time="23:51" %}
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -171,7 +171,7 @@ To chápeš naprosto dobře, takže vím, že třeba jedna z firem, která má p
 
 V případě mrazáků, kde jsou teploty třeba -30 až -40 stupňů v některých velkých mrazírnách, je to velmi výhodné, protože díky skvělé izolaci mrazák nepocítí, že nám vypadne proud, a za to, že nechladí jednu nebo dvě hodiny, dostanete velmi štědře zaplaceno. To je pointa vlastně agregace flexibility, takže nízko visící ovoce je v tom průmyslu. A já taky hodně sázím na ten Vehicle to Grid a můžeme si o něm povídat.
 
-## Vehicle to Grid
+### Vehicle to Grid
 {% include 2050/transcript-time.html time="28:07" %}
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -189,7 +189,7 @@ Já se chci zeptat, zda jsou již nějaké představy, jak by to mohlo být pro 
 {% include 2050/transcript-person.html id="fousek" %} 
 Je to tak. I debata, přesně tímhle tím směrem jde.
 
-## Důsledky zastaralé české legislativy
+### Důsledky zastaralé české legislativy
 {% include 2050/transcript-time.html time="30:45" %}
 
 {% include 2050/transcript-person.html id="vrtalova" %}
