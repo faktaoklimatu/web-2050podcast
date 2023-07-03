@@ -288,3 +288,8 @@
   name: Jan
   surname: Fousek
   description: AKU-BAT CZ
+
+- id: solc
+  name: Pavel
+  surname: Šolc
+  description: ČEPS
