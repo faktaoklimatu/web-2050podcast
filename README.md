@@ -1,6 +1,6 @@
 # 2050 podcast
 
-Klimatický podcast o budoucnosti, ve které nám nepoteče do bot.
+Klimatický podcast o cestách k udržitelné budoucnosti.
 
 ## Proč a jak točíme tenhle podcast
 
@@ -10,6 +10,6 @@ Klimatický podcast o budoucnosti, ve které nám nepoteče do bot.
 
 Podcast 2050 má za cíl komunikovat o otázkách spojených se změnou klimatu věcně a konstruktivně a opírat se přitom o data a dosavadní vědecké poznatky. Nečekejte proto úhel pohledu, který je jednoduchý a černobílý. Zatímco v některých krocích k udržitelné budoucnosti má lidstvo už dnes jasno a stačí je jen realizovat, jinde ještě nevíme.
 
-V podcastu 2050 prozkoumáváme cesty k takové budoucnosti, ve které nám nepoteče do bot.
+V podcastu 2050 prozkoumáváme cesty k udržitelnější budoucnosti.
 
 Podcast 2050 vám přinášejí [Fakta o klimatu](https://faktaoklimatu.cz/).
