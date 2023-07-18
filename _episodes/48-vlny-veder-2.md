@@ -3,7 +3,7 @@ layout:     episode
 title:      "Vlny veder – co o nich víme a jak je ve zdraví přežít"
 number:     48
 slug:       "48-vlny-veder-2"
-redirect_from: "/epizody/47"
+redirect_from: "/epizody/48"
 published:  2023-07-18
 summary:    |
       Lékař, klimatolog, meteorolog a fyzik vysvětlují v této epizodě vlny veder, každý z pohledu svého oboru. Přestože mluví hlavně o českém kontextu, mnohé z toho, co říkají, platí i globálně. Dozvíte se, jaká rizika pro naše zdraví vedra představují a jak těmto rizikům účinně předcházet. Získáte také základní informace o tom, co to vůbec vlna veder je, jak vzniká a jaký vývoj se u tohoto extrému počasí očekává do budoucna.
