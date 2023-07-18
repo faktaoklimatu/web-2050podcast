@@ -31,8 +31,8 @@ S našimi hosty se bavíme o tom, jak meteorologové vlny veder předpovídají 
 * **Analýza [Jak se mění počet extrémně teplých a extrémně studených dní v Česku?](https://faktaoklimatu.cz/explainery/teplotni-extremy-cr)** (_Fakta o klimatu_)\\
   Na Silvestra roku 2022 naměřili v pražském Klementinu teplotu 17,7 °C. O rok dříve to bylo o něco méně: 14,4 °C. Nejvyšší silvestrovské teploty ale bývaly v Klementinu okolo 2,3 °C – poslední dva Silvestry tedy byly opravdu výjimečně teplé. Zdá se, že také v létě častěji přicházejí vlny veder a padají teplotní rekordy. Nabízí se proto otázka: mění se počet výjimečně teplých dní, nebo je jich víceméně stejně jako dříve? A jak je to s výjimečně chladnými dny?
 
-* **Infografika [Souvislost koncentrace CO2 a globálního oteplování](https://faktaoklimatu.cz/infografiky/souvislost-koncentrace-oteplovani)** (_Fakta o klimatu_)\\
-  Z historických dat i modelování budoucího vývoje plyne, že oteplování planety je (přibližně) přímo úměrné nárůstu koncentrací CO2 v atmosféře. Přesněji řečeno: každé zvýšení koncentrací CO2 o 10 ppm (parts per million) vede k nárůstu teploty zhruba o 0,1 °C.
+* **Infografika [Souvislost koncentrace CO<sub>2</sub> a globálního oteplování](https://faktaoklimatu.cz/infografiky/souvislost-koncentrace-oteplovani)** (_Fakta o klimatu_)\\
+  Z historických dat i modelování budoucího vývoje plyne, že oteplování planety je (přibližně) přímo úměrné nárůstu koncentrací CO<sub>2</sub> v atmosféře. Přesněji řečeno: každé zvýšení koncentrací CO<sub>2</sub> o 10 ppm (parts per million) vede k nárůstu teploty zhruba o 0,1 °C.
 
 {% include 2050/transcript-start.html %}
 
