@@ -12,7 +12,7 @@ guests: [ lang, zikmund ]
 transcript: true
 ---
 
-Větrný park Václavice je jedním z největších a nejnovějších v Česku. S našimi hosty jsme diskutovali nejen o obecných otázkách týkajících se “českého větru” a výstavby větrného parku, ale také o některých rozšířených mýtech, které okolo tohoto tématu kolují a jsou často do velké míry zkreslené. Zároveň jsme měli možnost se na jednu z elektráren podívat zblízka a prohlédnout si, jak celá technologie funguje – od paty až po vrcholek věže.
+Větrný park Václavice je jedním z největších a nejnovějších v Česku. S našimi hosty jsme diskutovali nejen o obecných otázkách týkajících se "českého větru" a výstavby větrného parku, ale také o některých rozšířených mýtech, které okolo tohoto tématu kolují a jsou často do velké míry zkreslené. Zároveň jsme měli možnost se na jednu z elektráren podívat zblízka a prohlédnout si, jak celá technologie funguje – od paty až po vrcholek věže.
 
 {% include 2050/guest-list.html %}
 
@@ -122,7 +122,7 @@ Tohle je věc, která naopak u toho větru je velmi jednoduchá, protože existu
 Mohli bychom se tedy dostat k tomu, jak vlastně takový větrný park vznikne, jak se to postaví, třeba klidně i na příkladu větrného parku ve Václavicích? Co je k tomu potřeba? Už jste naznačoval, začínalo to nějakým hlasováním v obci, ale co všechno to vlastně obnášelo?
 
 {% include 2050/transcript-person.html id="lang" %} 
-Možná se vracíme trošku k tomu, proč větrné parky nevznikají v takové míře, jak si myslíme, že by asi byly potřeba. Základem tohoto procesu je právě na začátku povolovací řízení, které je u nás samozřejmě komplikovanější a zdlouhavější. Existuje celá řada možností, kde se ten proces může zadrhnout, zejména z hlediska vyjádření a zapojení různých sdružení. Je pravda, jak jsem již řekl, že to má dopad na vzhled krajiny, a proto se snažíme ve všech našich projektech být v souladu s místní komunitou. Komunikujeme, projednáváme a získáváme souhlas, protože je zřejmé, že bez minimálního souhlasu s plánem v daném místě se proces může neskutečně protáhnout. To samozřejmě znamená problémy s návratností investice, protože když do něčeho investujete peníze a energii a trvá vám to pak 5-10 let, což byly běžné případy v ČR, je to špatně. Proto je povolovací proces důležitý.
+Možná se vracíme trošku k tomu, proč větrné parky nevznikají v takové míře, jak si myslíme, že by asi byly potřeba. Základem tohoto procesu je právě na začátku povolovací řízení, které je u nás samozřejmě komplikovanější a zdlouhavější. Existuje celá řada možností, kde se ten proces může zadrhnout, zejména z hlediska vyjádření a zapojení různých sdružení. Je pravda, jak jsem již řekl, že to má dopad na vzhled krajiny, a proto se snažíme ve všech našich projektech být v souladu s místní komunitou. Komunikujeme, projednáváme a získáváme souhlas, protože je zřejmé, že bez minimálního souhlasu s plánem v daném místě se proces může neskutečně protáhnout. To samozřejmě znamená problémy s návratností investice, protože když do něčeho investujete peníze a energii a trvá vám to pak 5–10 let, což byly běžné případy v ČR, je to špatně. Proto je povolovací proces důležitý.
 
 Já z tohoto ohledu velmi vítám dnešní snahu i ze strany politiků, zejména MŽP a MPO, kteří mají do toho nejvíce co mluvit, dívat se na ten proces a snažit se ho nějakým způsobem kultivovat nebo napřímit. Jsou to různé změny zákonů, které v této chvíli probíhají, je to celá řada a doufejme, že se to podaří a že ta cesta bude nějakým způsobem přímější.
 
