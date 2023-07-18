@@ -308,3 +308,13 @@
   name: Michal
   surname: Žák
   description: Matematicko-fyzikální fakulta UK
+
+- id: lang
+  name: Marek
+  surname: Lang
+  description: JRD Group a.s.
+
+- id: zikmund
+  name: Marek
+  surname: Zikmund
+  description: větrný park Václavice
