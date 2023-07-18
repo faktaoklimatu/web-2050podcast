@@ -293,3 +293,18 @@
   name: Pavel
   surname: Šolc
   description: ČEPS
+
+- id: sebek
+  name: Tomáš
+  surname: Šebek
+  description: Lékaři bez hranic
+
+- id: lhotka
+  name: Ondřej
+  surname: Lhotka
+  description: Ústav fyziky atmosféry AV ČR
+
+- id: zak
+  name: Michal
+  surname: Žák
+  description: Matematicko-fyzikální fakulta UK
