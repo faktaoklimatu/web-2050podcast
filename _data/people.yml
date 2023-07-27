@@ -318,3 +318,18 @@
   name: Marek
   surname: Zikmund
   description: větrný park Václavice
+
+- id: otypkova
+  name: Laura
+  surname: Otýpková
+  description: Frank Bold
+
+- id: ander
+  name: Martin
+  surname: Ander
+  description: Nadace Partnerství
+
+- id: macekova
+  name: Magdalena
+  surname: Maceková
+  description: Nadace Partnerství
