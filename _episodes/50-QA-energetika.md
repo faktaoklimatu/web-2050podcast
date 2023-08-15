@@ -4,10 +4,10 @@ title:      "Q&A na téma Energetika"
 number:     50
 slug:       "50-QA-energetika"
 redirect_from: "/epizody/50"
-published:  2023-08-04
+published:  2023-08-16
 summary:    |
       V posledním měsíci jsme na sociálních sítích a v newsletteru Fakt o klimatu sbírali vaše dotazy na téma energetiky. Často jste se ptali na materiálovou náročnost a efektivitu obnovitelných zdrojů energie, na liberalizovaný trh s elektřinou a energetickou burzu nebo na připravované změny energetického zákona v České republice.
-audioboom:  "XXX"
+audioboom:  "8350149"
 guests: [ otypkova, krcal, pribyla, vrtalova ]
 transcript: false
 ---
