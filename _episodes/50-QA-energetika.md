@@ -16,6 +16,20 @@ V epizodě jsme se zaměřili zejména na otázky, jejichž zodpovězení může
 
 Užijte si naši úplně první Q&A epizodu a dejte nám vědět, jestli je pro vás tento formát užitečný!
 
+Pro lepší orientaci přidáváme časy jednotlivých otázek:
+1:30 Je výroba obnovitelných zdrojů energie ekologická? A jak je to s jejich recyklovatelností?
+11:49 Co se stane s baterií elektromobilu, jakmile doslouží?
+14:55 Jaké jsou v současnosti posuny v komunitní energetice a změně připravovaného energetického zákona?
+23:20 Proč má smysl být na energetické burze v Lipsku a jak vlastně funguje?
+29:21 Čím můžeme nahradit plynové elektrárny jako závěrný flexibilní zdroj?
+33:00 Jak cena denního spotu ovlivňuje výrobu v našich jaderných elektrárnách?
+35:20 Jak lokální OZE bez dotací přežijí import levné elektřiny ze zahraničí?
+39:05 Jak moc realistické jsou plány jednotlivých evropských zemí ohledně transformace energetiky, pokud se na ně podíváme jako na celek?
+42:19 Co se musí v síti fyzicky změnit, aby mohla být flexibilní?
+43:37 Je možné peníze EU alokované na boj s klimatickou změnou použít na rozvoj přenosové soustavy? Plánuje se přenosová soustava na úrovni EU?
+45:44 Jak velká je spotřeba fosilních paliv v teplárenství? Jaké jsou možné technologie pro transformaci teplárenství?
+
+
 {% include 2050/guest-list.html %}
 
 ---
