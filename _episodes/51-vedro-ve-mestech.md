@@ -4,10 +4,10 @@ title:      "Vedro ve městě. Co s tím?"
 number:     51
 slug:       "51-vedro-ve-mestech"
 redirect_from: "/epizody/51"
-published:  2023-08-15
+published:  2023-08-23
 summary:    |
       Naši hosté z Nadace Partnerství se dlouhodobě věnují udržitelnosti a komfortu života ve městech v čase postupující klimatické změny. V dnešní epizodě se zaměříme na to, jak konkrétně klimatická změna na městské prostředí dopadá a proč jsou zde vedra větší problém než v otevřené krajině. Probereme principy adaptačních opatření a uvedeme také příklady  jednotlivých adaptačních prvků i příklady fungující adaptace celých měst.
-audioboom:  "XXX"
+audioboom:  "8354312"
 guests: [ macekova, ander ]
 transcript: false
 ---
@@ -43,6 +43,10 @@ Ve městech je důležité vytvářet síť zastíněných míst, po kterých se
 
 * **Mobilní aplikace [Tree Check App](https://www.lifetreecheck.eu/cs/TreeCheck/TreeCheckApp)** (_Nadace Partnerství_)  
   Checkuj stromy, pečuj o ně a sbírej je do svého herbáře. Díky chytré aplikaci Tree Check pomůžeš zchladit naše města. Zároveň se dozvíš něco o přírodě a dobře se přitom pobavíš.
+
+* **Web web: [Adapterra Awards](https://www.adapterraawards.cz)** (_Nadace Partnerství_)  
+  Soutěž projektů, které pomáhají přizpůsobit česká města, domy a krajinu klimatické změně. V současnosti probíhá pátý ročník, ve kterém můžete hlasovat o nejsympatičtějším projektu.
+
 
 ---
 
