@@ -25,7 +25,7 @@ Ve městech je důležité vytvářet síť zastíněných míst, po kterých se
 {% include 2050/bonus-interview.html
   title="Maceková, Ander: Příčiny a řešení veder v městském prostředí"
   audioboom="8341131"
-  spotify="XXXXXXXXXXXXXXXX"
+  spotify="3CUnMSlt8DOe7omou5mF0M"
   caption="Originální nesestříhaný rozhovor jako bonus k 51. epizodě podcastu 2050. V bonusu si můžete poslechnout ještě víc o konkrétních adaptačních opatřeních a projektech Nadace Partnerství."
 %}
 
