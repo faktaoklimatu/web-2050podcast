@@ -15,6 +15,9 @@
 /_tmp/**
 *~
 
+# Mac Finder files
+*.DS_Store
+
 # IDE files
 .idea
 .vscode
