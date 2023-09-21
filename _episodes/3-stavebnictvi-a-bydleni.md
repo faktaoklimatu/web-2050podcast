@@ -9,6 +9,7 @@ summary:    |
   Kromě toho, že se elektřina a teplo nějak vyrábí, také se někde spotřebovávají. Mimo průmysl je to převážně sektor budov a stavebnictví. Hodně energie můžeme ušetřit prostě tím, že starší budovy efektivně renovujeme a jejich spotřeba díky tomu výrazně poklesne.
 audioboom:  "7912538"
 guests: [ holub, fronk ]
+tags:       [ prumysl, spolecnost ]
 transcript: true
 ---
 Kromě renovací a úspor se ale v této epizodě podíváme i na sektor stavebnictví a vysvětlíme si, kde dochází k produkci skleníkových plynů, když stavíme dům. Dozvíte se také to, jak by se mohly lišit budovy v roce 2050 od těch dnešních nebo na jakou finanční podporu máte šanci dosáhnout, pokud chcete rekonstruovat vlastní dům klimaticky příznivým způsobem.

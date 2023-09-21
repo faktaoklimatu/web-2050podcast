@@ -9,6 +9,7 @@ summary:    |
   Z 12 tun emisí skleníkových plynů, které v Česku průměrně připadají na jednoho obyvatele, souvisí s osobní spotřebou jen menší část. Většinu emisí svou spotřebou přímo ovlivnit nemůžeme, je totiž spojena s poskytováním služeb a chodem celé společnosti. To se týká i průmyslu: zde vzniká přibližně třetina emisí ČR. Pokud tedy chceme Českou republiku dekarbonizovat, bude nutné se zaměřit i na průmyslové procesy, které jsou výrazným zdrojem emisí, například v cementárnách či ocelárnách.
 audioboom:  "8211189"
 guests: [ pribyla, zednicek, skavron ]
+tags:       [ prumysl ]
 transcript: true
 ---
 

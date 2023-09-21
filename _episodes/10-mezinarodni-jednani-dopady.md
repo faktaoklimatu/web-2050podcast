@@ -8,6 +8,7 @@ published:  2021-10-20
 summary:    |
   Mají mezinárodní jednání o klimatu vůbec nějaký smysl? Mají nějaký reálný dopad? Nebo je to jen prázdné tlachání politiků? Těmito otázkami jsme se nechali vést při nahrávání druhé epizody ze série o mezinárodních jednáních a dohodách.
 audioboom:  "7963927"
+tags:       [ politika ]
 ---
 
 Tyto dohody totiž mají dalekosáhlé důsledky v oblasti byznysu, finančnictví, ale také práva. A právě na klimatické právo se v této epizodě zaměřujeme především. O jaký obor se vlastně jedná a jak může přispět ke zvládání změn klimatu? A jak fungují tzv. klimatické žaloby?

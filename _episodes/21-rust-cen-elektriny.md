@@ -9,6 +9,7 @@ summary:    |
    Na konci roku 2021 upoutal značnou mediální pozornost prudký nárůst cen elektřiny. Stojí za ním hned několik faktorů – rychlé oživení světové ekonomiky po covidové krizi, závady na infrastruktuře a zdražení cen zemního plynu. Jak spolu tyto faktory souvisejí a jak vůbec celý systém výroby, obchodování a dodávek elektřiny funguje? To vše se dozvíte v této epizodě.
 audioboom:  "8039717"
 guests: [ sklenar, krcal ]
+tags:       [ energetika, spolecnost ]
 transcript: true
 ---
 

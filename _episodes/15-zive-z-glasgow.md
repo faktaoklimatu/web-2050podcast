@@ -8,6 +8,7 @@ published:  2021-11-09
 summary:    |
   Pokud jste si poctivě poslechli naši druhou sérii, víte, že sledujeme příběhy českých vyjednavačů na COP26 v Glasgow.
 audioboom:  "7975844"
+tags:       [ politika ]
 ---
 
 S Romanou a Barborou jsme v živém vstupu přímo z konference probírali jak aktuálně jednání probíhají a jaké jsou důležité aktuality. Dozvíte se také jaká atmosféra na konferenci panuje, jaké doprovodné akce se konají a v neposlední řadě konkrétní příklady toho, na čem naši hosté v Glasgow pracují.

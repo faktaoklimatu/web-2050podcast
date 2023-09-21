@@ -8,7 +8,8 @@ published:  2023-08-16
 summary:    |
       V posledním měsíci jsme na sociálních sítích a v newsletteru Fakt o klimatu sbírali vaše dotazy na téma energetiky. Často jste se ptali na materiálovou náročnost a efektivitu obnovitelných zdrojů energie, na liberalizovaný trh s elektřinou a energetickou burzu nebo na připravované změny energetického zákona v České republice.
 audioboom:  "8350149"
-guests: [ otypkova, krcal, pribyla, vrtalova ]
+guests:     [ otypkova, krcal, pribyla, vrtalova ]
+tags:       [ energetika, politika ]
 transcript: true
 ---
 

@@ -9,6 +9,7 @@ summary:    |
     Mezivládní panel pro změny klimatu (IPCC) nedávno vydal poslední část takzvané Šesté hodnotící zprávy, která shrnuje dosavadní vědecké poznání o změnách klimatu. S klimatologem a zástupcem ČR v tomto panelu Radimem Tolaszem si povídáme o tom, jak tyto zprávy vznikají a co se nachází v té poslední.
 audioboom:  "8279545"
 guests: [ tolasz ]
+tags:       [ klima, politika ]
 transcript: true
 ---
 IPCC funguje v rámci Organizace spojených národů a kromě zástupců jednotlivých států s ním spolupracuje vždy autorský kolektiv vědců, kteří  zprávy o klimatu sestavují. Vycházejí po částech, nová zpráva se objeví přibližně jednou za 8 let. V epizodě se dozvíte, jak celý proces od tvorby zadání až po výslednou prezentaci vypadá i jaké to je být českým zástupcem v tomto panelu.

@@ -11,6 +11,7 @@ summary:    |
   Součástí tohoto dlouhodobého úsilí je i střednědobý cíl k roku 2030 – do konce této dekády chce EU jako celek snížit své emise o 55 % oproti roku 1990. Jaké konkrétní kroky jsou k dosažení tohoto ambiciózního cíle potřeba, detailně popisuje balíček opatření zvaný „Fit for 55“, z něhož  vám to nejdůležitější představujeme v této epizodě.
 audioboom:  "8022777"
 guests: [ protivinsky ]
+tags:       [ politika ]
 transcript: true
 ---
 

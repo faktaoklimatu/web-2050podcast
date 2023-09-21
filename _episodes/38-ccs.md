@@ -9,6 +9,7 @@ summary:    |
    Zachytávání a ukládání uhlíku (CCS – Carbon Capture and Storage) je proces, při kterém je zachytáván oxid uhličitý, jenž je následně uložen, aby neunikl zpět do atmosféry. Jedná se o důležitý nástroj pro snižování emisí z průmyslu a je součástí většiny scénářů k dosažení klimatické neutrality. Budeme tedy v budoucnu mít „filtr v komíně“ a oxid uhličitý pumpovat zpátky pod zem? To diskutujeme v dnešní epizodě.
 audioboom:  "8239815"
 guests: [ bilek ]
+tags:       [ prumysl ]
 transcript: true
 ---
 

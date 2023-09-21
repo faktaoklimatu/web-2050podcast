@@ -8,6 +8,7 @@ published:  2021-10-20
 summary:    |
   Jak se stane, že se na jednom místě na 14 dní sejde celý svět a dokáže se na něčem dohodnout? Ve třetí epizodě ze série o mezinárodních klimatických jednáních si přiblížíme, jak vůbec taková jednání probíhají, jak to celé funguje.
 audioboom:  "7963928"
+tags:       [ politika ]
 ---
 
 Zeptali jsme se přímo vyjednavačů, kteří na klimatické summity jezdí a reprezentují tam Českou republiku. Kromě pohledu do zákulisí se můžete těšit i na jejich osobní zkušenosti a odpovědi na otázku „Jaké je to být vyjednavačem na půdě OSN a jak vaše práce vlastně vypadá?“

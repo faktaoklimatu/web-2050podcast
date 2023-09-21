@@ -9,6 +9,7 @@ summary:    |
    Podmáčená louka je pro zadržování vody v krajině mnohem lepší než nově vybudovaná vodní nádrž. Při tvorbě adaptačních opatření na změny klimatu, a zejména na stále častější sucho, se toho dá i hodně pokazit. A to i přes nadšení nebo upřímnou snahu obcí či jednotlivců. Jak tedy na to?
 audioboom:  "8056376"
 guests: [ smetana, schneider ]
+tags:       [ krajina ]
 transcript: true
 ---
 

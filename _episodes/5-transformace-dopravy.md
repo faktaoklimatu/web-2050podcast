@@ -9,6 +9,7 @@ summary:    |
   O elektroautech se mluví v poslední době opravdu hodně. My se v páté epizodě zaměříme na detailní srovnání spalovacích motorů a elektromotorů a vyjádříme se ke třem argumentům, které lze v souvislosti s elektromobily často slyšet.
 audioboom:  "7912584"
 guests: [ sklenar ]
+tags:       [ doprava ]
 transcript: true
 ---
 

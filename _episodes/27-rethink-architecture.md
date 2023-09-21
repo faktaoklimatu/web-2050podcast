@@ -9,6 +9,7 @@ summary:    |
   Co kdyby naše budovy byly jako lego? Až poslouží svému účelu, zase bychom je rozebrali a jednotlivé části použili znovu. A jaké by to bylo, kdybychom si před moderní kancelářskou budovou postavenou ze dřeva mohli třeba natrhat rybíz? Kateřina Eklová a Karolína Barič pomáhají šířit povědomí o tom, jak vypadá udržitelná architektura a co konkrétně dělat, pokud chceme udržitelně stavět.
 audioboom:  "8106139"
 guests: [ baric, eklova ]
+tags:       [ prumysl, spolecnost ]
 transcript: true
 ---
 

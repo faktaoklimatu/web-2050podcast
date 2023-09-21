@@ -9,6 +9,7 @@ summary:    |
   Hlavním tématem této epizody (stejně jako celého podcastu) je přechod ke klimatické neutralitě. Abychom zastavili oteplování planety, a zamezili tak zhoršování změn klimatu, musíme do ovzduší vypouštět jen takové množství skleníkových plynů, které jsme schopni z atmosféry odebírat. Tomu se říká klimatická neutralita.
 audioboom:  "7912535"
 guests: [ pribyla, hanzlik, gerslova, jungwirth, tovarkova ]
+tags:       [ klima, spolecnost ]
 transcript: true
 ---
 V první epizodě podcastu si uděláme celkový přehled toho, jaké zdroje emisí skleníkových plynů v České republice máme a co je potřeba udělat k tomu, abychom do roku 2050 klimatické neutrality dosáhli.

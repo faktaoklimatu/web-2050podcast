@@ -9,6 +9,7 @@ summary:    |
    Pokud chcete pochopit téma dekarbonizace českého průmyslu skutečně do hloubky, pusťte si tuto epizodu. Dozvíte se, co je potřeba k tomu, abychom se zbavili emisí skleníkových plynů v odvětvích, která jsou na dekarbonizaci nejnáročnější – tedy v ocelářství a cementárenství.
 audioboom:  "8224225"
 guests: [ voldrich, pribyla ]
+tags:       [ prumysl ]
 transcript: true
 ---
 

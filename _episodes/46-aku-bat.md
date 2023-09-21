@@ -9,6 +9,7 @@ summary:    |
       Vzhledem k čím dál většímu zapojení proměnlivých obnovitelných zdrojů energie, jako jsou slunce nebo vítr, roste naše potřeba energii také uchovávat pro pozdější využití. Jan Fousek z asociace AKU-BAT nám představí technologie, pomocí kterých můžeme energii ukládat a podrobně vysvětlí, proč je rozvoj akumulace v současnosti tak důležitý. Dojde i na to, jaké překážky a bariéry mu v rámci Česka stojí v cestě.
 audioboom:  "8316900"
 guests: [ fousek ]
+tags:       [ energetika ]
 transcript: true
 ---
 Akumulace elektřiny zároveň souvisí s tzv. flexibilitou sítě – souborem nástrojů, s jejichž pomocí je možné podle potřeby zvyšovat či snižovat jak výrobu, tak spotřebu elektřiny. V nové nastupující energetice bude flexibilita zejména kvůli obnovitelným zdrojům důležitým prvkem. Jakými způsoby můžeme flexibilitu zajistit a jak to ovlivní přístup k elektřině v budoucnosti? To se taktéž dozvíte v nové epizodě podcastu 2050.

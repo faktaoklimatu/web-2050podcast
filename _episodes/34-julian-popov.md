@@ -9,6 +9,7 @@ summary:    |
   Jak ovlivní konflikt na Ukrajině evropský Green Deal a balíček opatření Fit for 55? Jakou roli v transformaci na nízkouhlíkovou ekonomiku hraje finanční sektor? A jak na evropské úrovni řešit  rozdíly, které existují mezi jednotlivými regiony?
 audioboom:  "8203883"
 guests: [ popov ]
+tags:       [ politika ]
 transcript: false
 ---
 V této epizodě se ponoříme hlouběji do tématu klimatické neutrality a především transformace, kterou bude Evropa v dalších dekádách procházet. S naším hostem rozebíráme historický kontext a příklady podobných technologicko-společenských změn, jež se v Evropě odehrály už dříve a na společnost měly velký dopad. Z rozhovoru ale získáte i přehled o tom, jak nastartovat sociální změny potřebné k naplnění evropských klimatických cílů, a dozvíte se například také, jak by mohly vypadat energeticky úsporné budovy budoucnosti.
