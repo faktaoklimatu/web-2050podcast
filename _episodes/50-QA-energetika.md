@@ -224,9 +224,9 @@ Tak jedna priorita je určitě, aby v tom zákoně bylo zakotvené sdílení, to
 
 Obce určitě budou chtít se těch projektů účastnit a je to něco, co bude potřeba, aby poslanci potom v Poslanecké sněmovně opravili, no a potom další možná skupinu otazníků bych jmenovala byrokracie, administrativní zátěž, protože ten zákon se snaží chránit spotřebitele a dělá to podle mě velmi dobře, ale tady tahle ta snaha se potom v určitou chvíli překlopila do toho, že na energetická společenství se přidávají další a další povinnosti a další a další postupy, jak se registrovat, jaké informace evidovat o svých členech a tak dál a zdá se to v některých případech až trochu nadbytečné. Takže v tomhle tom je prostor ještě pro zlepšení toho zákona, aby spíš se třeba sankcionovaly velké podniky, které chtějí tu komunitní energetiku zneužít a ne tolik přímo ta společenství skrze nadměrné povinnosti.
 
-{% include 2050/transcript-time.html time="23:20" %}
-
 ### Proč má smysl být na energetické burze v Lipsku a jak vlastně funguje?
+
+{% include 2050/transcript-time.html time="23:20" %}
 
 {% include 2050/transcript-person.html id="holik" %}
 
