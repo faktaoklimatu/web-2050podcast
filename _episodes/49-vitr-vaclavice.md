@@ -9,6 +9,7 @@ summary:    |
       Přestože se v mnoha částech světa staví v poslední dekádě větrné elektrárny ve velkém, v ČR jejich rozvoj prozatím stagnuje. Důvodem je jednak odpor různých vrstev české společnosti a jednak legislativa, která umožňuje jejich výstavbu účinně blokovat. Z větru se sice většina potřebné elektřiny nebude v Česku nejspíš vyrábět nikdy, přesto to může být mnohonásobně více než dnes. Na rozdíl od slunce, které nejvíc svítí v létě, má navíc vítr potenciál po celý rok a jeho důležitost stoupá zejména v zimním období, kdy je produkce ze solárních zdrojů omezená.
 audioboom:  "8336510"
 guests: [ lang, zikmund ]
+tags:       [ energetika ]
 transcript: true
 ---
 

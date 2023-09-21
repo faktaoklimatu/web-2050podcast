@@ -9,6 +9,7 @@ summary:    |
    Jaké příběhy o změně klimatu a transformaci kolují v české společnosti? Co nás na celém tom tématu štve? A je něco, co nás těší? O těchto a dalších otázkách diskutujeme s autorem nově vydané knihy o změnách klimatu, která se více než na popis těchto změn zaměřuje na možnosti jejich řešení a přináší řadu konkrétních tipů, co můžeme jako společnost i jako jednotlivci dělat, abychom změny klimatu zastavili.
 audioboom:  "8269349"
 guests: [ danis ]
+tags:       [ spolecnost ]
 transcript: true
 ---
 Na naše smýšlení o transformaci mají příběhy, které si o ní vyprávíme (často ty stejné stále dokola), zásadní vliv. Stojí tedy za to podívat se na ně víc zblízka. Jádro našeho rozhovoru proto není ani tak o obsahu knihy, spíše nabízí setkání s autorem a diskuzi nad tím, jak kniha vznikala a jaký přístup ke komunikaci změn klimatu za ní stojí.

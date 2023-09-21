@@ -9,6 +9,7 @@ summary:    |
   Na krajinu máme poměrně velké nároky. Kromě toho, že využíváme její produkční funkci, tedy například v ní pěstujeme obilí či využíváme dřevo z lesů, byli bychom rádi, kdyby krajina byla také zdravá a pomáhala nám pohlcovat skleníkové plyny.
 audioboom:  "7912562"
 guests: [ kozminova, kotecky, pokorny ]
+tags:       [ krajina ]
 transcript: true
 ---
 Vzhledem k probíhajícím změnám klimatu je zároveň nutné, abychom měli krajinu odolnou, která dokáže vydržet například delší sucho nebo zvládnout občasné požáry. A v neposlední řadě bychom si přáli, aby byla naše krajina krásná a my mohli dál chodit s rodinami do lesa a na výlety.

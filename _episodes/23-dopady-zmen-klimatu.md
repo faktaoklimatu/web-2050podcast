@@ -9,6 +9,7 @@ summary:    |
    Dobrou zprávou je, že například mnoho firem už dnes nehledí jen na peníze a hodně přemýšlí o tom, jaké riziko klimatická změna představuje pro jejich byznys. Stále více můžeme ve světě pozorovat obrat v přístupu k tomuto riziku a snahu o jeho minimalizaci, přestože to může  krátkodobě znamenat i ekonomické ztráty. Z dlouhodobého hlediska je však toto úsilí důležité nejen environmentálně, ale vyplatí se i finančně.
 audioboom:  "8065768"
 guests: [ pribyla ]
+tags:       [ klima ]
 transcript: true
 ---
 

@@ -8,6 +8,8 @@ published:  2021-10-20
 summary:    |
   Rozhovor s Bárou Kvasničkovou jsme původně chtěli zařadit do prvních pěti dílů série – mezi ostatní hosty. Nakonec jsme ale usoudili, že tento rozhovor bude mít větší hodnotu jako celek.
 audioboom:  "7963943"
+tags:       [ politika, spolecnost ]
+
 ---
 
 Bára v něm totiž do hloubky vysvětluje, jak fungují programy OSN pro mladé lidi, ale mluví i o vztahu její generace ke změnám klimatu. Rozhodli jsme se proto tento rozhovor zveřejnit (trochu experimentálně) v jeho původní, neupravené podobě.

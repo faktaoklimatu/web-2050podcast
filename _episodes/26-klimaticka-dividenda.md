@@ -9,6 +9,7 @@ summary:    |
   Evropský systém pro obchodování s emisemi neznamená jen rostoucí náklady pro ty, kdo emise vypouštějí, ale také výnosy, které se vracejí zpět do státního rozpočtu. Odtud bere stát prostředky například na dotace spojené se zateplením vaší nemovitosti nebo pořízením nového kotle.
 audioboom:  "8094362"
 guests: [ jungwirth, svoboda ]
+tags:       [ politika, ekonomika ]
 transcript: true
 ---
 

@@ -9,6 +9,7 @@ summary:    |
   Červenec 2022 byl v Evropě charakteristický extrémními vlnami veder. S Ondrášem Přibylou vysvětlujeme, jak vlny veder vznikají, jaké měly v poslední době projevy a proč jsou kvůli změnám klimatu dnes čím dál častější a intenzivnější. Dotýkáme se také otázky adaptace naší krajiny a měst na stále teplejší počasí, které nás v následujících desetiletích čeká a rozhodně se mu nevyhneme.
 audioboom:  "8131402"
 guests: [ pribyla ]
+tags:       [ klima ]
 transcript: true
 ---
 

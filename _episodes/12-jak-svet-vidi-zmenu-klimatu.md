@@ -8,6 +8,8 @@ published:  2021-10-20
 summary:    |
   Světový klimatický summit v Glasgow se koná na začátku listopadu a v této  epizodě se zaměříme na to, jak se současný svět na změnu klimatu dívá – jak na jednotlivé státy dopadají její důsledky a co se s tím jednotlivé země pokoušejí dělat.
 audioboom:  "7963929"
+tags:       [ klima, politika, společnost ]
+
 ---
 
 Možná vás překvapí, že Evropská unie není jediná, kdo toto téma hodně řeší, a intenzivně se jím zabývají i státy jako Čína, Indie nebo Velká Británie. Dozvíte se také, jak jsou na tom jednotlivé země s naplňováním cílů Pařížské dohody nebo jak propracované mají plány na přechod ke klimatické neutralitě.

@@ -9,6 +9,7 @@ summary:    |
       ČEPS zajišťuje na území ČR provoz elektrické přenosové soustavy. Znamená to nejen starat se o to, aby byly „všechny dráty v pořádku“, ale hlavně zajistit, aby bylo do sítě v každý okamžik dodáváno právě tolik elektřiny, kolik se spotřebovává. Vyžaduje to pečlivé plánování provozu a zároveň dostatečné rezervy na straně výroby či flexibilitu na straně spotřeby, se kterou ČEPS může podle potřeby pracovat. Na rozdíl od minulosti, kdy v zásadě probíhal přenos elektřiny z několika velkých elektráren směrem ke spotřebitelům, se dnes dostáváme do mnohem složitější reality.
 audioboom:  "8327064"
 guests: [ solc ]
+tags:       [ energetika ]
 transcript: true
 ---
 Vzniká totiž velké množství malých, nezávislých zdrojů, jako jsou např. fotovoltaické elektrárny na střechách rodinných domů nebo v areálech průmyslových provozů, a elektřina tak proudí všemi směry. Jak z velkých zdrojů do domácností, tak i z domácností do sítě apod. S Pavlem Šolcem jsme si povídali o tom, jak se vyvíjí role ČEPSu v kontextu nové energetiky a jaké nároky to má na rozvoj samotné elektrické soustavy. Dozvíte se také, jak funguje propojení české soustavy se zahraničím a na co se musí ČEPS připravit v souvislosti s různými scénáři budoucího vývoje.

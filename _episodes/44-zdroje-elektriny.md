@@ -9,6 +9,7 @@ summary:    |
       Pro dostatečně rychlou dekarbonizaci energetiky v Česku potřebujeme významně posílit bezemisní zdroje elektřiny. V minulé epizodě podcastu jsme se zaměřili na to, jaké scénáře připadají v úvahu a jak jednotlivé zdroje zkombinovat tak, aby byl výsledný energetický mix nejen čistý, ale také spolehlivý a zajistil dostupnost elektřiny pro všechny. V dnešní epizodě se na jednotlivé zdroje elektřiny podíváme podrobněji.
 audioboom:  "8301746"
 guests: [ krcal ]
+tags:       [ energetika ]
 transcript: true
 ---
 Rozdělit se dají do tří kategorií: slunce a vítr, jádro a nízkoemisní flexibilní zdroje. U každého zdroje se díváme na to, kolik elektřiny z něj vyrábíme dnes, kolik by bylo reálné vyrábět v roce 2050, a diskutujeme také o jeho výhodách a nevýhodách. Protože žádný ze zdrojů nemůže pokrýt českou spotřebu elektřiny sám o sobě, bavíme se i o tom, jak spolu jednotlivé zdroje souvisí a jak se mohou navzájem doplňovat (např. v létě bývá více slunce, v zimě více větru, zároveň potřebujeme být připraveni i na situace, kdy právě příliš "nesvítí ani nefouká").

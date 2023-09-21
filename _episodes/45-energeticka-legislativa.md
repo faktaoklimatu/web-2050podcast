@@ -9,6 +9,7 @@ summary:    |
       Jaké změny se aktuálně dějí na poli energetické legislativy? A jak ovlivňují rozvoj obnovitelných zdrojů a další klíčové parametry nové energetiky? Epizodu odpovídající na tyto otázky jsme se chystali natočit v rámci naší „energetické série“, ale zjistili jsme, že stejné téma už dobře zpracoval někdo jiný. Proto vám dnes přinášíme hostující epizodu podcastu Pod proudem.
 audioboom:  "8308935"
 guests: [ novak, doucha, sikola ]
+tags:       [ energetika, politika ]
 transcript: true
 ---
 Jejími hosty jsou Luděk Šikola a Pavel Doucha, partneři právní kanceláře Doucha Šikola advokáti.

@@ -8,7 +8,8 @@ published:  2023-08-23
 summary:    |
       Naši hosté z Nadace Partnerství se dlouhodobě věnují udržitelnosti a komfortu života ve městech v čase postupující klimatické změny. V dnešní epizodě se zaměříme na to, jak konkrétně klimatická změna na městské prostředí dopadá a proč jsou zde vedra větší problém než v otevřené krajině. Probereme principy adaptačních opatření a uvedeme také příklady  jednotlivých adaptačních prvků i příklady fungující adaptace celých měst.
 audioboom:  "8354312"
-guests: [ macekova, ander ]
+guests:     [ macekova, ander ]
+tags:       [ klima ]
 transcript: true
 ---
 

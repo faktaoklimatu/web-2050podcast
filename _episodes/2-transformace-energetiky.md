@@ -9,6 +9,7 @@ summary:    |
   Když se bavíme o energetice v České republice, myslíme tím výrobu elektřiny a tepla. Ta je u nás zodpovědná za 40 % emisí skleníkových plynů, a je tak největším znečišťovatelem. Díky tomu se zde však také můžeme  emisí zbavit poměrně jednoduše.
 audioboom:  "7912537"
 guests: [ madej, rovensky, sklenar ]
+tags:       [ energetika ]
 transcript: true
 ---
 Druhá epizoda srovnává jednotlivé zdroje výroby elektřiny z hlediska jejich produkce v ČR a také podle toho, jak jsou „čisté“ – kolik emisí skleníkových plynů produkují. Rozebíráme tu podrobně obnovitelné zdroje energie, zejména slunce a vítr, které mají v Česku obrovský potenciál.
