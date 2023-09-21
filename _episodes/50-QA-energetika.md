@@ -55,6 +55,8 @@ Pro lepší orientaci přidáváme časy jednotlivých otázek:
 
 {% include 2050/transcript-start.html %}
 
+_Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce._
+
 {% include 2050/transcript-person.html id="vrtalova" %}
 
 Vážení a milí posluchači, dnes zakončujeme sérii o energetice a přinášíme vám proto formát epizody, který jsme dříve nezkoušeli.
