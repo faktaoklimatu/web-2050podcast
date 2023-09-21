@@ -85,6 +85,14 @@ html-beautify:
     - "*.html"
     - "*.md"
 
+jekyll-archives:
+  enabled: [ tags ]
+  layout: tag
+  permalinks:
+    tag: /temata/:name
+  collections:
+    merge_tags: true
+
 # Enable Czech smart quotes
 kramdown:
   smart_quotes: sbquo,lsquo,bdquo,ldquo

@@ -6,6 +6,9 @@
             <p class="text-muted">{% include 2050/date-cs.html date=include.episode.published %}, 
                 {% if include.episode.type %}{{ include.episode.type }}{% else %}epizoda{% endif %}
                 {% if include.episode.number %}{{ include.episode.number }}{% endif %}</p>
+            {% if include.episode.tags %}
+            {% include 2050/tags.html tags=include.episode.tags %}
+            {% endif %}
             <p>{{ include.episode.summary | markdownify }}</p>
             <a class="btn btn-secondary ml-0" href="/epizody/{{ include.episode.slug }}"><i class="fas fa-lightbulb"></i> Podrobnosti a bonusy</a>
             {% if include.episode.transcript %}

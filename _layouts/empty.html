@@ -6,7 +6,7 @@
 
 <body data-spy="scroll" data-target="#navbar" data-offset="100">
   {% include 2050/navigation.html %}
-  <main role="main">
+  <main id="page-{{ page.slug }}" role="main">
     {{ content }}
     {% include 2050/pre-footer.html %}
   </main>
