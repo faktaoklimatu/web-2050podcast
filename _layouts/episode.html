@@ -15,6 +15,9 @@
             <p class="text-muted">{% include 2050/date-cs.html date=page.published %}, 
               {% if page.type %}{{ page.type }}{% else %}epizoda{% endif %}
               {% if page.number %}{{ page.number }}{% endif %}</p>
+            {% if page.tags %}
+            {% include 2050/tags.html tags=page.tags %}
+            {% endif %}
             <div class="lead">
               {{ page.summary | markdownify }}
               {% if page.transcript %}

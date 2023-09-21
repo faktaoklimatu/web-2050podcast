@@ -25,7 +25,12 @@
 <meta property="og:image" content="{{ social_image | absolute_url }}">
 <meta name="twitter:image" content="{{ social_image | absolute_url }}">
 <meta name="twitter:image:alt" content="{{ page.title }}">
-<title>{{ page.title }}</title>
+{% case page.layout %}
+  <title>Epizody k tématu „{{ page.title }}“</title>
+{% when 'tag' %}
+  <title>{{ page.title }}</title>
+{% else %}
+{% endcase %}
 
 {% if jekyll.environment == "production" %}
 <script src="/assets/js/website-analytics.js"></script>

@@ -1,0 +1,52 @@
+# id: používá se v metadatech objektu (tags-scopes, tags-topics)
+# short-name: používá se v zobrazovaných tématech
+# long-name: používá se v nadpisech
+
+- id: klima
+  short-name: klima
+  long-name: klimatická změna
+  description: |
+    Věci týkající se změn klimatu, atmosféry, teplot atd.
+
+- id: energetika
+  short-name: energetika
+  long-name: energetika
+  description: |
+    Věci týkající se energetky, výroby elektřiny, teplárenství atd.
+
+- id: prumysl
+  short-name: průmysl
+  long-name: průmysl
+  description: |
+    Věci týkající se průmyslových odvětví, výroby oceli a dalších kovů, betonu atd.
+
+- id: doprava
+  short-name: doprava
+  long-name: doprava, dokumenty, dohody
+  description: |
+    Věci týkající se dopravy, elektromobility atd.
+
+- id: ekonomika
+  short-name: ekonomika
+  long-name: ekonomika a finance
+  description: |
+    Věci týkající se národního hospodářství, finančních institucí a prostředů atd.
+
+- id: politika
+  short-name: politika
+  long-name: politika a legislativa
+  description: |
+    Věci týkající se politických témat, zákonů atd.
+
+- id: krajina
+  short-name: krajina
+  long-name: krajina a zemědělství
+  description: |
+    Věci týkající se krajiny, zemědělství, vodohospodářství, biodiverzity atd.
+
+- id: spolecnost
+  short-name: společnost
+  long-name: společnost
+  description: |
+    Věci týkající se společenských témat atd.
+
