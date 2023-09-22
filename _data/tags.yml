@@ -6,47 +6,47 @@
   short-name: klima
   long-name: klimatická změna
   description: |
-    Věci týkající se změn klimatu, atmosféry, teplot atd.
+    Fyzikální podstata klimatické změny, informace o trendech, teplotách, extrémech počasí aj.
 
 - id: energetika
   short-name: energetika
   long-name: energetika
   description: |
-    Věci týkající se energetky, výroby elektřiny, teplárenství atd.
+    Transformace a dekarbonizace výroby elektřiny a tepla.
 
 - id: prumysl
   short-name: průmysl
   long-name: průmysl
   description: |
-    Věci týkající se průmyslových odvětví, výroby oceli a dalších kovů, betonu atd.
+    Transformace a dekarbonizace průmyslových odvětví jako např. výroby oceli a cementu.
 
 - id: doprava
   short-name: doprava
   long-name: doprava, dokumenty, dohody
   description: |
-    Věci týkající se dopravy, elektromobility atd.
+    Transformace dopravy, elektromobilita, využití vodíku a jiných alternativních paliv.
 
 - id: ekonomika
   short-name: ekonomika
   long-name: ekonomika a finance
   description: |
-    Věci týkající se národního hospodářství, finančních institucí a prostředů atd.
+    Ekonomické souvislosti klimatických změn, klimatické finance, EU fondy, investice, transformace finančního sektoru aj.
 
 - id: politika
   short-name: politika
   long-name: politika a legislativa
   description: |
-    Věci týkající se politických témat, zákonů atd.
+    Legislativní aspekty klimatické změny, mezinárodní dohody, konference COP, zelená politika EU aj.
 
 - id: krajina
   short-name: krajina
   long-name: krajina a zemědělství
   description: |
-    Věci týkající se krajiny, zemědělství, vodohospodářství, biodiverzity atd.
+    Péče o krajinu, transformace zemědělství, lesnictví a hospodaření s vodou, ochrana přirody a biodiverzity.
 
 - id: spolecnost
   short-name: společnost
   long-name: společnost
   description: |
-    Věci týkající se společenských témat atd.
+    Psychologické, sociologické a spirituální aspekty klimatické změny, klima v umění aj.
 
