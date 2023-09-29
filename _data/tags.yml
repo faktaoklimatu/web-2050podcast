@@ -22,7 +22,7 @@
 
 - id: doprava
   short-name: doprava
-  long-name: doprava, dokumenty, dohody
+  long-name: doprava
   description: |
     Transformace dopravy, elektromobilita, využití vodíku a jiných alternativních paliv.
 

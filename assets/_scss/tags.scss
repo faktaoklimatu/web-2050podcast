@@ -3,3 +3,28 @@
 #page-tag .intro {
     min-height: 10rem;
 }
+
+.badge-tag {
+    --tag-color: $c-black;
+    color: $c-white;
+    background-color: var(--tag-color);
+
+    &.tag-doprava { --tag-color: #ebb577; color: $c-black; }
+    &.tag-ekonomika { --tag-color: #2ea69a; }
+    &.tag-energetika { --tag-color: #4960a6; }
+    &.tag-klima { --tag-color: #bf2c53; }
+    &.tag-krajina { --tag-color: #77cfd9; color: $c-black; }
+    &.tag-politika { --tag-color: #4e3679; }
+    &.tag-prumysl { --tag-color: #6093bf; }
+    &.tag-spolecnost { --tag-color: #7bd6de; color: $c-black; }
+
+    &:hover {
+        color: $c-white;
+        opacity: 0.7;
+    }
+
+    &.tag-doprava:hover, &.tag-krajina:hover, &.tag-spolecnost:hover {
+        color: $c-black;
+    }
+}
+
