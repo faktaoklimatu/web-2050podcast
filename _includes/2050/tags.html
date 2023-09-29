@@ -1,6 +1,6 @@
 <div class="tags">
   {% for tag_id in include.tags %}
   {% assign tag = site.data.tags | find: "id", tag_id %}
-  <a href="/temata/{{ tag_id }}" class="btn btn-sm">{{ tag.long-name }}</a>
+  <a href="/temata/{{ tag_id }}" class="badge badge-tag tag-{{ tag.id }}">{{ tag.long-name }}</a>
   {% endfor %}
 </div>
