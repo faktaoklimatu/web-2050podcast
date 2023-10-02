@@ -97,7 +97,7 @@ No, ty otázky směřují v zásadě k tomu, že výroba obnovitelných zdrojů 
 
 {% include 2050/transcript-person.html id="pribyla" %}
 
-Pojďme se na to podívat. Kdybych měl odpovědět velmi stručně, tak jednoduchá odpověď platí pro větrné elektrárny i pro solární panely. Zhruba za rok, dva nebo tři vyrobí tolik energie, kolik se spotřebovalo na jejich produkci. Z hlediska recyklace je to vlastně poměrně jednoduchý problém, ale pojďme se podívat na to podrobněji. Pojďme se vlastně podívat na to, co to znamená větrná elektrárna z hlediska materiálů, co to znamená solární elektrárna z hlediska materiálů a co je na tom vlastně to energeticky nebo emisně náročné. 
+Pojďme se na to podívat. Kdybych měl odpovědět velmi stručně, tak jednoduchá odpověď platí pro větrné elektrárny i pro solární panely. Zhruba za rok, dva nebo tři vyrobí tolik energie, kolik se spotřebovalo na jejich produkci. Z hlediska recyklace je to vlastně poměrně jednoduchý problém, ale pojďme se podívat na to podrobněji. Pojďme se vlastně podívat na to, co to znamená větrná elektrárna z hlediska materiálů, co to znamená solární elektrárna z hlediska materiálů a co je na tom vlastně to energeticky nebo emisně náročné.
 
 Když bychom se podívali na to, z čeho se skládá fotovoltaický panel, tak z hlediska hmotnosti je nejtěžší část sklo, případně hliníkový rám, který to všechno drží. Jenom velmi malou hmotností toho fotovoltaického panelu jsou ty křemíkové destičky, které reálně produkují elektřinu. Ale zároveň je to ta energeticky nejnáročnější věc na výrobu, protože musíte vytěžit křemík, vyčistit ho, tavit ho tak, aby byl velmi čistý a poté je potřeba ho nařezat na ty tenké plátky a dát do toho fotovoltaického panelu. Když se budete dívat na energetickou návratnost, to znamená, za jak dlouho ty křemíkové plátky vyrobí tolik energie, kolik se spotřebovalo na jejich výrobu, plus tedy na výrobu toho hliníku a skla, tak vám vychází něco mezi jedním až třemi roky podle toho, kam ho umístíte. A to je ta věc, na které to vlastně závisí nejvíc. Když si dáte solární panely někde, kde fakt svítí hodně slunce a teď vezměme ty úplné extrémy, Jižní Afrika, Indie, tak tam vám ta návratnost vyjde menší než rok, dokonce se uvádí někde okolo půl roku, protože tam fakt svítí slunce. Ten solární panel vyrobí spoustu energie za ten rok a tím pádem pokryje tu energetickou náročnost výroby poměrně rychle.
 
@@ -130,7 +130,7 @@ Takže ohledně nějaké energetické efektivity za celý životní cyklus té e
 
 {% include 2050/transcript-person.html id="pribyla" %}.
 
-Co se týče slunce, vítr je na tom řádově lépe. Pak je zde ještě jeden způsob, jak se na to dívat, a to je vlastně emisní náročnost vyrobené kilowatthodiny. Když jsou soláry a větrníky už vyrobeny a máte je na poli nebo na pobřeží instalovány, tak vyrábějí bezemisně. Ale jejich výroba vytvořila nějaké emise."
+Co se týče slunce, vítr je na tom řádově lépe. Pak je zde ještě jeden způsob, jak se na to dívat, a to je vlastně emisní náročnost vyrobené kilowatthodiny. Když jsou soláry a větrníky už vyrobeny a máte je na poli nebo na pobřeží instalovány, tak vyrábějí bezemisně. Ale jejich výroba vytvořila nějaké emise.
 
 {% include 2050/transcript-person.html id="pribyla" %}.
 
