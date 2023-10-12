@@ -137,31 +137,24 @@ A ty najdete právě v té hodnotě CO<sub>2</sub> ekvivalentu tady v naší epi
 Celosvětově každý rok vyprodukujeme nějakých 50 gigatun CO<sub>2</sub> ekvivalentu a 8,9 gigatun náleží dopravě. No a na co se teď můžeme podívat, je, které části dopravy, co patří. Největší podíl náleží právě dopravě po silnicích, to je nějakých 69 %, na druhém místě je lodní přeprava, nějakých 11 %, úplně stejně na tom je letecká, ta je taky 11 %, no a pak je tam zbytek – zbývajících 9 % a z toho teda je jenom 1 % železniční a zbytek ostatní.
 
 {% include 2050/transcript-person.html id="holik" %}
-
 To může být trochu překvapivé. Často se v médiích mluví o tom, jak jsou letadla neekologická nebo nákladní lodě a podobně. Ale tohle chci zdůraznit: to si pojďte všichni zapamatovat. Opravdu více než 2/3 emisí z dopravy se globálně ději na silnicích. Silnice jsou tedy místem, které potřebujeme nejvíce řešit.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 Jenom chci říct, Česko na tom není jinak. Opravdu i u nás dominuje právě v emisích silniční doprava, nějakých 58 %. Jsou z toho navíc jenom osobní automobily.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 Přišel mi takový jeden zajímavý údaj, a sice, že emise osobní nákladní dopravy jsou zhruba půl napůl. To je dobré vědět. Pojďme se teď podívat na tu druhou kapitolu, takže jaké objemy a čeho nebo koho vlastně globálně potřebujeme připravovat?
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 Tak v zásadě přepravujeme lidi, zboží, no a v tomhle to není úplně srovnatelné. Tak chci teď zavést takové dvě jednotky. Když se budeme bavit o osobní dopravě, tak ta jednotka, která se používá v objemu, jsou jakési osobokilometry, tzn. přepravit jednu osobu na vzdálenost 1 km. No a nákladní jsou to tunokilometry, analogicky jedna tuna na vzdálenost 1 km. No a typicky se to udává samozřejmě za nějakou delší jednotku, jako je třeba jeden rok.
 
 {% include 2050/transcript-person.html id="holik" %}
-
 Takže kolik tunokilometrů přepravíme za rok? Například v lodní dopravě a podobně?
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 Přesně tak, u té osobní dopravy se čísla obzvlášť v tom globálu hledají trochu obtížně, už jenom proto, že máme hodně silniční dopravy, hodně osobní dopravy právě v těch autech, a to státy těžko dohledávají, těžko reportují, ale k nákladní dopravě tu nějaká čísla mám. Mezinárodní dopravní fórum udává, že v roce 2020 byla nákladní doprava celosvětově zodpovědná za celkem 140 miliard tunokilometrů. Dovedeš si to číslo představit?
 
 {% include 2050/transcript-person.html id="holik" %}
-
 Vůbec...
 
 Je to hodně, je to hodně, tunokilometrů.
@@ -171,39 +164,30 @@ To si z toho odnáším, je to hodně, no.
 Takže ho připravujeme, přátelé, připravujeme hodně zboží po světě.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 Tak to si z toho taky odnáším. To končí epizoda. A co mi přijde zajímavější, je, který dopravní prostředek právě v té nákladní dopravě dominuje. Máš nějaký typ?
 
 {% include 2050/transcript-person.html id="holik" %}
-
 Jako když řekneš náklad, tak si představím náklaďák, že jo, kamion na silnici, to je takový typický. V Česku, nevím, nákladní vlak, zase jsou tu ty velké zaoceánské lodě, taková ta obrovská kontejnerová plavidla, tak nevím, jedno z nich, no.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 Jsou to právě ty lodě, které zmiňuješ, protože 72 % veškerých těchhle tunokilometrů náleželo právě jim a pak k těm náklaďákům to bylo nějakých 20 %. To byla silniční doprava, no, necelých 8 % měla na svědomí železniční doprava z těch objemů, no a letecká nákladní doprava se zas tolik nevyužívá, takže tam to bylo nějakých 0,2 %, velmi, velmi málo.
 
 {% include 2050/transcript-person.html id="holik" %}
-
 Jo, takže vlastně 3/4 veškerých nákladů. Na světě přepravíme nákladních lodí po oceánech a je to tak asi pětina potom po silnicích, to jsou ty dvě největší čísla.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 No, jako co z toho taky vyplývá, jo, že my víme, že silniční doprava má na svědomí nejvyšší podíl emisí, ale zároveň v tom celosvětovém měřítku jí náleží jenom 20 % všech tunokilometrů, no a naopak ta lodní doprava, která je zodpovědná jenom za těch 11 % emisí, ale pak přepraví v objemu ty 3/4 všech tunokilometrů z těch šílených 140 miliard, no, a co teď jako, k čemu tímhle mířím? Je tam jako výrazně lepší poměr toho vypuštěného CO<sub>2</sub> ekvivalentu, když se to přepočte na ten jeden tunokilometr.
 
 {% include 2050/transcript-person.html id="holik" %}
-
 Jako že zkrátka přepravovat něco velkou nákladní lodí je emisně efektivnější, než to naložit na kamion.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 Přesně, jak říkáš.
 
 {% include 2050/transcript-person.html id="holik" %}
-
 Zároveň říkám, hele, to a není to vždycky volba, že jo. Tam, kde plují velké nákladní lodě, tak nemůžou jezdit kamiony a naopak. Takže je fajn to vědět, jak to vlastně je v té efektivitě emisí na jeden tunu kilometr.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 V nějakým ohledu to není fér srovnání. Ale k tomu srovnávání bych se chtěla podívat trochu blíž na takový žebříček. Jak je to s tou emisní efektivitou nebo vlastně intenzitou.
 
 ### Emisní náročnost jednotlivých dopravních prostředků
@@ -211,80 +195,65 @@ V nějakým ohledu to není fér srovnání. Ale k tomu srovnávání bych se ch
 {% include 2050/transcript-time.html time="12:37" %}
 
 {% include 2050/transcript-person.html id="holik" %}
-
-A to se dostáváme a pojďme to rovnou označit. Přátelé, tohle je ta třetí kapitola. 
+A to se dostáváme a pojďme to rovnou označit. Přátelé, tohle je ta třetí kapitola.
 
 Jaké emise jsou jednotlivých dopravních prostředků, když to přepočítáme na nějakou jejich efektivitu, na nějaký přepravený tunokilometr nebo osobokilometr, takže pojďme začít u té nákladní dopravy.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 Já tady mám před sebou takový graf, kde právě vidím ten žebříček.
 
 {% include 2050/transcript-person.html id="holik" %}
-
-Já ho mám před sebou taky. 
+Já ho mám před sebou taky.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 A jde to takhle sestupně od toho emisně nejnáročnějšího po ten nejméně. No a v nákladní dopravě jsou emisně nejnáročnější u letadla. My jsme teda řekli, že se nepodílí na tom nákladu tolik, ale jsou opravdu emisně nejnáročnější v gramech. Typicky se to uvádí v gramech CO<sub>2</sub> ekvivalentu. Na ten tuno kilometr. Tady máme před sebou číslo 1036 g.
 
 {% include 2050/transcript-person.html id="holik" %}
-
 Což je fakt hodně, je to úplně neproporcionálně hodně vůči těm ostatním přepravním prostředkům, protože třeba kamiony na silnicích mají na tuno kilometr emise osmkrát menší, a když se dívám dál, tak pak následují železnice a ty jsou zase ještě pětkrát menší než ty kamiony (v emisích na tuno kilometr¨). A vůbec nejmenší – pouhých 7 g CO<sub>2</sub> ekvivalentu na přepravený tunokilometr jsou právě ty velké nákladní lodě. Když si srovnám, přepravu tunokilometru lodí nebo kamionem, tak je loď vlastně dvacetkrát emisně výhodnější než ten kamion.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 Pojďme se podívat, jak to vypadá v osobní dopravě. Sice nemáme čísla k objemům, ale máme čísla právě k té emisní intenzitě.
 
 {% include 2050/transcript-person.html id="holik" %}
-
 Máme dokonce další graf.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 Máme dokonce další graf, pojďme se na něj podívat.
 
 {% include 2050/transcript-person.html id="holik" %}
-
 Tak já se začnu dívat, jo, mimochodem tohle jsou data z Our World In Data, dáme to do bonusových materiálů k epizodě, takže se na to určitě můžete mrknout, podívat se na to taky, mají to tam hezky zpracovaný, dá se to dobře proklikat. Nejhorší - a teď se bavíme o gramech CO<sub>2</sub> na osobo kilometr – nejvíc emisí v tomhle ohledu produkují letadla. Okolo nějakých 200 g.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 Hned na druhém místě jsou osobní auta, tam je to nějakých 170, tedy o kousek míň.
 
 {% include 2050/transcript-person.html id="holik" %}
-
 Když se podíváme na další dopravní prostředky, které mě zajímají, tak je tady třeba autobus, průměrný autobus má nějakých 97 g.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 No a takhle dole z nejmíň gramy z těch dopravních prostředků vidím právě železnici s nějakými 35 gramy.
 
 {% include 2050/transcript-person.html id="holik" %}
 Takže když bychom to jenom srovnali, tak řekněme, že když pojedete vlakem, tak spotřebujete zhruba třikrát míň emisí, než byste jeli autobusem, když pojedete autobusem, tak jste zhruba na polovině emisí, jako když pojedete autem, když pojedete autem jako sám jednotlivý řidič, tak na tom nejste o moc jinak, než kdybyste letěli.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 Je to tak.
 
 {% include 2050/transcript-person.html id="holik" %}
 Tady těch dopravních prostředků je víc. Já schválně se dívám na sebe, můžu tady prásknout, já mám motorku, rád na ní jezdím a dívám se, že má nějakých 114 g, to znamená, když jedu na motorce, tak jsem na tom o trošku hůř, než kdybych jel autobusem a zhruba o třetinu líp, než kdybych jel autem.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
-
 A třikrát tak hůř, než kdyby si jel vlakem.
 
 {% include 2050/transcript-person.html id="holik" %}
 Tady už to zní drsně, klidně se na to podívejte do bonusových materiálů. Opravdu, než to tady poslouchat, tak je asi lepší to vidět před sebou. Zároveň v tom grafu vidím třeba i elektrické auto, které má nějakých 47 g. Při současném energetickém mixu, je pořád o hodně výhodnější než nějaké auto na benzín.
 
-
-{% include 2050/transcript-person.html id="vrtalova" %}:
+{% include 2050/transcript-person.html id="vrtalova" %}
 O něco málo hůře je na tom plug-in hybrid, ten má nějakých 68 g.
 
-{% include 2050/transcript-person.html id="holik" %}:
+{% include 2050/transcript-person.html id="holik" %}
 Takže tohle se dá prozkoumat, tohle už vlastně má jako velmi jednoduchou aplikaci do našich životů. Já se můžu podívat na tuhle tabulku a říci OK, tak jo, jak moc tomu pomůžu, když vyměním dieselové auto za elektrické auto, jak moc k tomu pomůžu, když vyměním autobus za vlak a podobně?
 
-{% include 2050/transcript-person.html id="vrtalova" %}:
+{% include 2050/transcript-person.html id="vrtalova" %}
 No, a k tomu se teď trochu dostáváme, k tomu našemu čtvrtému bodu, a to sice, jak tedy můžeme rámcově přemýšlet nad dekarbonizací dopravy?
 
 My jsme se nad tím ve faktech o klimatu zamýšleli, a když se tedy bavíme o tom, jak snižovat emise v dopravě, tak máme v zásadě tři možnosti. První je, že můžeme použít stejný dopravní prostředek, ale pohánět ho jinak než tím fosilním palivem, které právě produkuje emise. Druhý bod je, že můžeme změnit dopravní prostředek na takový, který má menší emisní intenzitu. To je to, o čem jsme se tady před chvílí bavili. Třeba místo auta můžu jet vlakem. No a třetí možností je snížit objem dopravy, jako vůbec nutnost se někam přepravovat.
@@ -293,10 +262,10 @@ My jsme se nad tím ve faktech o klimatu zamýšleli, a když se tedy bavíme o 
 
 {% include 2050/transcript-time.html time="17:24" %}
 
-{% include 2050/transcript-person.html id="holik" %}:
+{% include 2050/transcript-person.html id="holik" %}
 No, když se na to podíváme víc detailněji, tak co to znamená u těch jednotlivých bodů? Bod číslo jedna? Náhrada paliva? Pravděpodobně největším snížením emisí v dopravě je tedy otázka nějakých alternativních paliv, tedy náhrady těch fosilních paliv, jako je benzín, nafta, případně nějaká letecká paliva, jinými typy motorů s nižší emisní stopou. Říkali jsme si, že 60 % emisí dopravy se děje na silnicích a na silnicích je hlavním řešením elektromobilita. Na delší vzdálenosti pak nějaké vodíkové technologie, případně je tu i otázka tzv. syntetických paliv, která se budou používat nejspíš v nějakých specifických případech.
 
-No, tady můžeme rovnou udělat trochu reklamu, protože zrovna na téma alternativních paliv se můžete těšit hnedka v další epizodě s Michalem Hrubým. 
+No, tady můžeme rovnou udělat trochu reklamu, protože zrovna na téma alternativních paliv se můžete těšit hnedka v další epizodě s Michalem Hrubým.
 
 Bod číslo dva, tedy náhrada dopravního prostředku za nějaký méně emisně náročný. Když nad tím přemýšlíme, tak můžeme hledat alternativy v závislosti na tom, na jakou vzdálenost se vlastně potřebujeme přepravovat. Když si vezmete nějakou vzdálenost, například 5 km, tak tady můžeme podporovat více pěší dopravu, cyklodopravu než dopravu osobním automobilem. Na vzdálenosti nějakých 50 km můžeme částečně nahradit osobní automobil hromadnou dopravou, jako jsou třeba vlaky nebo autobusy. Do vzdáleností okolo 500 km pak můžeme zase nahradit auto třeba dálkovými vlaky, dálkovými autobusy, to jsou takové ty cesty přes Českou republiku. A když se bavíme o vzdálenostech okolo nějakých 5000 km, pak už jako dlouhé vzdálenosti, tak tam už typicky auta nejezdíme. A můžeme uvažovat o nahrazení části letecké dopravy dálkovými rychlovlaky, což je něco, co ve světě už často funguje a docela se to vyplácí.
 
