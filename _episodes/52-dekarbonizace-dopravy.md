@@ -32,7 +32,7 @@ V první epizodě se podíváme na 4 oblasti: (1) Z čeho emise v dopravě poch�
 
 {% include 2050/transcript-start.html %}
 
-_Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce. _
+_Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce._
 
 {% include 2050/transcript-person.html id="holik" %}
 Vážení a milí posluchači podcastu 2050. Vítejte po krátké pauze, kterou jsme měli, opět u našeho podcastu.
