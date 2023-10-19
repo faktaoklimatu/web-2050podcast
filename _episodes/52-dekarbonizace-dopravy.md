@@ -22,7 +22,7 @@ V první epizodě se podíváme na 4 oblasti: (1) Z čeho emise v dopravě poch�
 
 <div class="bonus-material" markdown="1">
 
-* **Infografika [emise skleníkových plynů ČR podle sektorů](https://www.adapterraawards.cz)** (_Fakta o klimatu_)\\
+* **Infografika [emise skleníkových plynů ČR podle sektorů](https://faktaoklimatu.cz/infografiky/emise-cr)** (_Fakta o klimatu_)\\
   Rozložení celkových emisí skleníkových plynů (v tunách CO<sub>2</sub> ekvivalentu) v ČR za rok 2021 v jednotlivých sektorech lidské činnosti. Roční objem emisí České republiky je 119,41 mil. tun (údaj z roku 2021). V přepočtu na obyvatele to je 11,38 t CO<sub>2</sub>eq/obyvatele.
 
 * **Article [Which form of transport has the smallest carbon footprint?](https://ourworldindata.org/travel-carbon-footprint)** (_Our World in Data_)\\
