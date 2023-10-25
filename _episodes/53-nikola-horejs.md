@@ -1,18 +1,20 @@
 ---
 layout:     episode
-title:      "Dekarbonizace dopravy"
-number:     52
-slug:       "52-dekarbonizace-dopravy"
-redirect_from: "/epizody/52"
-published:  2023-10-11
+title:      "Nikola Hořejš (STEM): Postoje společnosti k dekarbonizaci"
+number:     53
+slug:       "53-nikola-horejs"
+redirect_from: "/epizody/53"
+published:  2023-10-25
 summary:    |
-      Doprava je třetím největším zdrojem emisí CO<sub>2</sub> v Česku. Zároveň je ale jednou ze základních potřeb dnešní společnosti. V nové sérii se budeme věnovat právě transformaci dopravního odvětví a otázce, jak ji provést takovým způsobem, aby zůstaly naplněny naše požadavky na mobilitu a zároveň jsme co nejméně zatěžovali životní prostředí a nepřispívali ke změně klimatu.
-audioboom:  "8382558"
-guests: []
+      V rámci fóra elektromobility, o němž jsme vydali krátkou aktualitu, jsme „v terénu“ natočili také rozhovor s jedním z přednášejících – Nikolou Hořejšem z agentury STEM.
+audioboom:  "8390063"
+guests: [ horejs ]
 transcript: true
 ---
 
-V první epizodě se podíváme na 4 oblasti: (1) Z čeho emise v dopravě pochází a kolik jich vzniká na úrovni ČR i v globálním měřítku. (2) Jaký objem osob a zboží je celosvětově přepravován a kolik dopravní kapacity (a jakého typu) je tím pádem v současnosti potřeba. (3) Jak jsou jednotlivé dopravní prostředky emisně náročné a jaké k nim existují alternativy. (4) Jak můžeme rámcově přemýšlet nad transformací dopravy a jaké jsou možnosti její dekarbonizace.
+Z průzkumů vyplývá, že je česká společnost ve vztahu k elektromobilitě a dekarbonizaci nerozhodnutá a zároveň poměrně nedůvěřivá. V rozhovoru se bavíme o tom, jaké faktory by napomohly tomu, aby byla transformace na nízkouhlíkovou ekonomiku přijímána kladněji.
+
+Dále zazní, jakou roli v této snaze mohou sehrát spolky a místní komunity, jaký příběh si Češi o své společnosti vyprávějí, jaký příběh by transformaci podpořil, a jací mluvčí působí na různé části společnosti důvěryhodně.
 
 {% include 2050/guest-list.html %}
 
@@ -22,11 +24,7 @@ V první epizodě se podíváme na 4 oblasti: (1) Z čeho emise v dopravě poch�
 
 <div class="bonus-material" markdown="1">
 
-* **Infografika [emise skleníkových plynů ČR podle sektorů](https://faktaoklimatu.cz/infografiky/emise-cr)** (_Fakta o klimatu_)\\
-  Rozložení celkových emisí skleníkových plynů (v tunách CO<sub>2</sub> ekvivalentu) v ČR za rok 2021 v jednotlivých sektorech lidské činnosti. Roční objem emisí České republiky je 119,41 mil. tun (údaj z roku 2021). V přepočtu na obyvatele to je 11,38 t CO<sub>2</sub>eq/obyvatele.
-
-* **Article [Which form of transport has the smallest carbon footprint?](https://ourworldindata.org/travel-carbon-footprint)** (_Our World in Data_)\\
-  If you need to travel – either locally or abroad – what is the lowest-carbon way to do so?
+* **Průzkum [Česká (ne)transformace 2022](https://www.stem.cz/ceska-netransformace-2022/)** (_STEM, Institut 2050_)\\
 
 </div>
 
@@ -34,265 +32,95 @@ V první epizodě se podíváme na 4 oblasti: (1) Z čeho emise v dopravě poch�
 
 _Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce._
 
-{% include 2050/transcript-person.html id="holik" %}
-Vážení a milí posluchači podcastu 2050. Vítejte po krátké pauze, kterou jsme měli, opět u našeho podcastu.
+{% include 2050/transcript-person.html id="horejs" %}
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Dnešní epizodou začínáme novou sérii, které se budeme věnovat během celého podzimu a budeme se v ní bavit o dekarbonizaci dopravy.
+Odpověď na otázku na úvodním slidu: Ne, pro českou společnost elektromobil není ďáblovým výmyslem, není to pekelný stroj. V podstatě je to trochu nudná odpověď. Česká společnost ještě není rozhodnuta, co vlastně ten elektromobil a ta elektromobilita je, což je jak dobrá, tak špatná zpráva.
 
 {% include 2050/transcript-person.html id="holik" %}
-Dnes si chceme nastínit takový celkový rámec, jak nad dopravou vlastně přemýšlet a jak je na tom z pohledu produkce skleníkových plynů. Což je to, co nás v tomhle podcastu často zajímá.
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Když se totiž podíváme na zdroje emisí skleníkových plynů podle sektorů, tak vidíme několik velkých celků. Dvěma z nich jsme se již v minulém roce věnovali, to byly sektory energetiky a průmyslu. Výroba elektřiny a tepla produkuje zhruba 33 % emisí a emise související s průmyslem tvoří přibližně 28 % českých emisí.
+Vážení a milí posluchači, v minulé epizodě jsme zmiňovali, že jsme navštívili Fórum elektromobility 2023 a na něm jsme potkali mimo jiné i Nikolu Hořejše z organizace STEM. Měl jsem možnost ho pak pozvat na chvíli k mikrofonu a chci vám pustit krátký rozhovor, který jsme spolu natočili. Tenhle rozhovor vlastně skoro vůbec není o elektromobilitě. My jsme se totiž bavili o české společnosti jako takové, o tom, co by se v ní muselo stát a jaká jsou ta místa a témata, která, kdyby byla adresována, tak by česká společnost byla nakloněna celé transformaci na nízkouhlíkovou ekonomiku. Pan Hořejš totiž ve své prezentaci mluvil o tom, že česká společnost je hodně konzervativní a budoucnost ji vlastně neláká a už vůbec ne budoucnost plná změn. Tak jsem se schválně ptal na to, co by se muselo změnit, aby to tak bylo. Doufám, že pro vás tenhle rozhovor bude stejně užitečný, jako byl pro mě, a užijte si poslech.
 
-{% include 2050/transcript-person.html id="holik" %}
-No a vzhledem k tomu, že v tomhle podcastu prozkoumáváme možnosti dekarbonizace těchto jednotlivých sektorů, tak v pořadí hned třetím největším producentem emisí je sektor dopravy. V Česku se v dopravě vyprodukuje 19 000 000 tun emisí CO<sub>2</sub> ekvivalentu ročně, což odpovídá přibližně 16 procentům veškerých českých emisí.
+Samozřejmě, vaše práce je popisovat ten současný stav, ale mě by hrozně zajímalo, jak s tím pohnout. A vlastně to nejvíc depresivní pro mě, v uvozovkách, je ta věta, že Češi nevěří v budoucnost, že vlastně v mnoha ohledech spoléháme na to, že svět bude horší. Tak mě napadly ty otázky, začnu tou první. Je možná, kde jsou třeba i z nějakých minulých výzkumů, takové ty pákové body, kde se dá hýbat českou společností? Jestli jsou to sociální sítě nebo naopak lokální komunity typu hasiči? Tak jestli byste mohl tohle trochu okomentovat.
 
-Použil jsem tady jednotku CO<sub>2</sub> ekvivalent. Tak jenom pro připomenutí, co to znamená. Oxid uhličitý CO<sub>2</sub> totiž není jediným skleníkovým plynem. Máme i nějaké další, typicky menší, například oxidy dusíku. Abychom to ale měli všechno v jednom čísle, přepočítáváme ty menší plyny na hodnotu dvojnásobku množství CO<sub>2</sub>, které by mělo stejný oteplující efekt. Takže to je pak ten CO<sub>2</sub> ekvivalent.
+{% include 2050/transcript-person.html id="horejs" %}
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Hele, Péťo, mám tady takový fun fact, můžu?
+Je to velmi komplexní otázka. Když to zúžím na elektromobilitu, tak velmi zjednodušeně řešeno existují dvě skupiny. Jedna se obává ekonomických dopadů celé zelené tranzice. Tam musí přijít někdo, ideálně neexistující sociální demokracie, která řekne: "Nebojte se, nenecháme vás padnout. Zaručíme vám, že i po roce 2035 budete mít čím jezdit do práce a neděláme na vás experiment, jestli budete mít čím jezdit, nebo nebudete mít čím jezdit." To je jedna věc. Takové lídry zde nemáme, kteří by byli dostatečně důvěryhodní pro konzervativní část populace s ekonomickými obavami. Druhá skupina jsou lidé, kteří si možná v budoucnu budou moci dovolit koupit elektromobil, ale mají pocit, že zatím jsme ve fázi, kdy není jisté, jestli elektromobilita převládne. Mají obavy, zda instituce vydrží poskytovat podporu, nebo, jak to bývá v Čechách dobrým zvykem, jestli se za dva roky zjistí, že podpora je moc velká, moc malá, moc šišatá a bude opět změněna. Zde chybí dlouhodobý plán, nebo jak se nyní populárně říká "vize", která by řekla: "Budoucnost je taková, že za 10, 20, 30 let..." Tento plán by měl být český, ne evropský. Protože horší než zelené opatření je zelené opatření z Evropské unie. Ten plán by měl jasně říci: "Nejenže to máme napsané na papíře, ale my, politici, co zde stojíme, zaručujeme, že tento plán bude dodržen. A ideálně bude ještě lepší, nikoli horší, než jsme naplánovali."
 
 {% include 2050/transcript-person.html id="holik" %}
-No, pojď do toho.
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Věděl jsi, že průměrné osobní auto vyprodukuje za rok zhruba tolik emisí oxidu uhličitého, kolik samo váží?
+Takže vy mluvíte hodně o té politické reprezentaci, o absenci leadershipu. Vlastně jsou i jiná místa, protože já si říkám, vzpomenu-li si na své rodiče, oni se prostě moc nekoukají na zprávy, na to, co říkají politici, a spíš je tam vliv těch lokálních komunit. Když to budou mít dvojí sousedi, tak to zabere. To jste vlastně říkali v té přednášce, tak si říkám, jaká je role třeba lokálních samospráv v tomhle? Nebo fakt takových těch spolků, nějakých místních akčních skupin, nevím, takových lidí, kteří fungují více na osobních vazbách. Mohou ti s tím nějak pohnout? Nebo případně, dá se nějak oslovit zvrchu, aby se ty myšlenky propagovaly? A teď už možná zním trochu aktivisticky.
 
-{% include 2050/transcript-person.html id="holik" %}
-Wow, jakože z výfuku vypustím hmotnost svého auta? Každý rok?
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Je to tak, ten plyn nevidíš, ale váhu ano. To vychází opravdu zhruba stejně.
+### Vliv občanské společnosti na zvládání změn
 
-{% include 2050/transcript-person.html id="holik" %}
-To je hodně. No...
+{% include 2050/transcript-time.html time="04:44" %}
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-A taky jedním z dalších problémů dopravy je, že na rozdíl od třeba energetiky a průmyslu, kde emise skleníkových plynů v posledních letech setrvale klesají, tak v dopravě je tomu naopak, tam rostou.
+{% include 2050/transcript-person.html id="horejs" %}
 
-{% include 2050/transcript-person.html id="holik" %}
-Jestliže tedy chceme dekarbonizovat a zastavit postupující klimatickou změnu postupným dosažením klimatické neutrality, musíme zkrátka transformovat.
+Ale ne, to je skvělá otázka. Jako většina společnosti nesleduji aktivně zprávy a nedůvěřuji tomu, že když tam někdo vystoupí a řekne, že to tak bude. To je naprosto přirozený stav společnosti. Vlastně čím má společnost propracovanější občanskou aktivní část, to znamená spolky, sdružení od zahrádkářů přes hasiče až po milovníky knih, tím více může zvládat jakékoliv přechody, změny, šoky, převraty atd. Takže jinde než na těch malých místech se to neudělá. Můžeme to přirovnat k tomu, když se mluvilo o vakcíně, ale obvodní lékaři prostě neměli dost informací nebo sami si nebyli jistí, jak se má nakládat s vakcínou proti covidu, anebo jak se má nakládat s vedlejšími účinky té vakcíny. To také vlastně najednou znejistilo společnost, protože tam, kde se potkávám se státem, což není s prezidentem nebo s premiérem, jsem najednou nevěděl.
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Doprava je ale v dnešním světě základní každodenní potřeba opravdu každého z nás. Těžko si asi dokážeme představit fungující společnost bez možnosti mobility. Potřebujeme prostě jezdit do práce, za lidmi, které máme rádi, a občas i na místa, na která se chceme podívat.
+Takže myslím si, že pokud by stát měl dát peníze do rozvoje elektromobility, tak by to mělo být tak, že podpoří obce, školy, vlastně ty instituce, které jsou nám blízko, se kterými se potkáváme pořád. To je jedna možnost. No a druhá věc je zapojit ty spolky, o kterých jste mluvil, do nějakého dialogu, protože s nimi nejde jednat způsobem: "Tady jsme vám napsali krásnou strategii na 50 stran. Prosím, přečtěte si to a nějak to vysvětlete těm lidem, kteří k vám chodí na hasiče roku." To prostě nejde, takže z těchhle lidí si musí vytvořit ti, kteří to chtějí propagovat, partnera, se kterým vedou dialog. A je to tak opravdu. Ta zkušenost je v tomhle nepřenositelná. Když to přirovnám zase k jinému tématu, protože já nechci věštit budoucnost, ale vidíme to na jiných tématech.
+
+V Německu vyšla data, která jednoznačně ukazují, že tam, kde lidé měli zkušenost s migrací, byli v menší panice než lidé, kteří neměli s migrací zkušenosti. V těch částech, kde fungovaly místní spolky a jakákoliv struktura, která lidem dávala pocit komunity a jistoty, měli lidé menší strach z budoucnosti a z toho, co přichází ze světa, než tam, kde společnost byla atomizovaná a spoléhala se jenom na to, že si možná někdo pustí večer k večeři zprávy, anebo je nepustí. Ptal jste se také, co může změnit tento postoj. Jedna věc, která to může změnit, je určitě to, že se přestane hrát tato hra, kdy se tvrdí, že to nebude drahé a že se všechno nějak zaplatí, ale my vás v tom necháme a uvidíme, jak to dopadne. Myslím si, že se opět vracím k tomu sociálně demokratickému postoji, že tady chybí zelený hlas se silnou sociální konotací, který by tvrdil, že tranzice bude buďto sociálně citlivá, anebo nebude, protože ji společnost odmítne. To je jedna věc. Druhá věc, která může pomoci, je podporovat elektromobilitu v místech, kde to dává největší smysl, a to už nyní, a neříkat, že je to vzdálená budoucnost.
 
 {% include 2050/transcript-person.html id="holik" %}
-To, co se tím snažíme na úvod říct, je, že když se budeme bavit o tom, jaké změny jsou v dopravě možné, tak stále uvažujeme v nějakém realistickém kontextu společnosti a jejích potřeb. Přestat se zcela dopravovat tedy není řešení, takže se díváme na to, jak zachovat potřeby mobility, které máme, a zároveň jak dekarbonizovat.
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Dneska si tady spolu probereme čtyři oblasti. První bude zaměřená na typy emisí, které v dopravě máme, a na jejich množství.
+Třeba města.
 
-{% include 2050/transcript-person.html id="holik" %}
-Druhá oblast se bude týkat objemů osob a zboží, které na světě připravujeme.
+{% include 2050/transcript-person.html id="horejs" %}
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Třetí oblastí bude emisní náročnost jednotlivých dopravních prostředků.
+Přesně, jsou to města, je to veřejná doprava, jsou to věci, kde lidi uvidí, že je to lepší než něco dalšího. Poslední věc je, že se nemáme tvářit, že je to nějaký přirozený všelék, na který musíte, vy občané, zapracovat, abychom něco změnili. Máme tu jasný paradox, naši Hlavu 22, že u nás není dostatečně obnovitelných zdrojů, tudíž lidem nedává smysl utrácet víc za elektromobil, který nejede na obnovitelné zdroje. Není to zodpovědnost každého občana jednotlivě, že by byl moc líný, nebo že nebyl dost aktivní. To je zodpovědnost státu, který nastavuje systém nebo pravidla trhu. A není divu, že lidé nejsou motivováni k tomu, aby sami něco dělali, když vidí, že ti, kteří se tváří, že by něco chtěli dělat nebo měli dělat, tak to nechávají volně plout.
 
-{% include 2050/transcript-person.html id="holik" %}
-A čtvrtá oblast bude základní myšlenkový rámec, jak přemýšlet o dekarbonizaci dopravy. Na to se můžete těšit.
+### Jaké příběhy si vyprávíme o Česku
 
-Pojďme se podívat rovnou na tu první oblast, a sice, kde vlastně emise skleníkových plynů v dopravě vznikají.
-
-### Kde vznikají emise z dopravy
-
-{% include 2050/transcript-time.html time="04:16" %}
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-Emise z dopravy vznikají hned na několika místech. Asi si dovedeš představit, že když dopravní prostředky jako auta a vlaky vyrábíme. Pak když pro ně stavíme nějakou infrastrukturu, ať už jsou to silnice, dálnice nebo železnice, tak tam vznikají emise. No a pak na konci životního cyklu třeba auta ho nějak likvidujeme nebo recyklujeme, tak to je další místo, kde ty emise vznikají. No a pak, a tomu se budeme věnovat nejvíc, když se spalují paliva v dopravních prostředcích. To znamená, když to auto jede na benzín, tak u toho logicky vznikají skleníkové plyny.
+{% include 2050/transcript-time.html time="09:19" %}
 
 {% include 2050/transcript-person.html id="holik" %}
-Možná krátce okomentuju, ať je to jasné, proč se o těch ostatních bavit nebudeme. No, zkrátka, protože je máme zařazené někde jinde. Například emise, které vznikají při výrobě plechů, které se pak použijí pro výrobu auta, máme zařazené v té sekci průmyslu, takže tady se budeme dívat zejména na ty provozní emise, což znamená, že pálíme fosilní palivo v nějakém motoru a z toho výfuku vznikají nějaké skleníkové plyny.
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Ještě možná, když se řekne slovo emise v kontextu auta, tak já si vždycky vzpomenu na to, že musím mít technickou kontrolu. Aby bylo jasno, tak takovéhle emise to nejsou, tam jsou to samozřejmě další emise a znečišťující látky, tak o těch se bavit nebudeme. Já bych se ráda ještě jenom podívala taky na tu dopravu, jako jakési rozšíření sektoru energetiky, protože spousta dat se takhle na ní dívá. Zajímavou věc, kterou jsem našla, je, že v Česku spotřebujeme téměř dvakrát více energie z ropných produktů než energie z elektřiny.
+Ve vašem příspěvku jste mluvil o tom, jaké příběhy jsme si jako Češi zvykli vyprávět. Jeden z nich je ten, že jsme malí, nic nezmůžeme a na nás vůbec nezáleží. Přitom i v těchto byznysových přednáškách se často ozývá názor, že máme zázemí být vlastně velcí. Moje otázka směřuje k tomu, jaké narativy nebo příběhy by podle vás bylo dobré dospělé společnosti prezentovat. Jaký příběh o našem národu bychom si měli vyprávět, abychom přispěli k zelené transformaci? Protože alespoň podle údajů, které mám, nemusí to nutně směřovat k tomu, že to bude katastrofa. Možná opravdu jen potřebujeme přerámovat, jaký příběh vyprávět, aby to dávalo smysl, aby na to lidé nasedli nebo v tom viděli ty výhody, které to objektivně má.
 
-{% include 2050/transcript-person.html id="holik" %}
-Už vlastně doprava spotřebovává hodně energie.
+{% include 2050/transcript-person.html id="horejs" %}
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Je to tak, no, a pokud se někdy chceme bavit o úspoře nejenom emisí, ale taky právě energie, tak doprava je mimochodem skvělé místo, kde začít.
+Ty příběhy opravdu jsou hodně o našem sebevědomí a pocitech, že jsme malá země. A není to tak, že bychom prostě říkali, lidé jsou hloupí, proto tomu věří. Přece jen tady byl průběh globalizace, který postihl jednu část společnosti hůř než druhou část společnosti, nebo ta z toho mohla vydělat. A prostě lidé, kteří pracují v manuálních povoláních, kteří nemají vysokoškolské vzdělání, tak vidí, že otevřenost světu, pokud nemá nějaké pojistky, může pro ně znamenat zhoršení. Nemají pocit, že by z toho země získávala, že sem láká nízko kvalifikované investice atd. Takže to není příběh, který bychom si vycucali z prstu, ten příběh je nějakým přehnáním zkušenosti z devadesátých a nultých let do extrému. My jsme testovali na sociálních sítích nějaké závěry z našich sociologických výzkumů a viděli jsme, že když řekneme, německá firma tady postaví továrnu na baterie a proti tomu, že čeští vědci vynalézají účinnější baterii, tak pro českou společnost je to jako nebe a dudy, to jsou prostě dva světy. Jedno je: "Aha, takže zase zahraniční kapitál využije naši šikovnost a my z toho nic nebudeme mít." A druhé je, což částečně i může nastat: "Ano, konečně vlastně využíváme tu naší šikovnost. Takže my jsme takoví blaničtí rytíři, v nás tady dříme ta šikovnost a máme schopné lidi." Což do velké míry je dáno průmyslovou tradicí, technickou tradicí České republiky a akorát vlastně se prodáváme levně, neumíme vyrobit koncový produkt, neumíme udělat populární značku Czech Made a nejsme lidé, kteří by měli to sebevědomí ve světě přijít někam a říct: "Jsme Česká republika, věci budou takhle a takhle!" Vidíme to ve všem, třeba ve vztahu k Evropské unii, že nedostatek pocitu, že si něco dokážeme říct a mít kontrolu ve světě, znamená, že se radši uzavřeme světu, radši nespolupracujeme a radši si budeme sedět na rukou, dokud se to nějak v tom světě nerozhodne.
 
 {% include 2050/transcript-person.html id="holik" %}
-Pojďme zpátky k těm skleníkovým plynům, jaké teda vznikají, když spálíme fosilní paliva v motoru. Hlavní je CO<sub>2</sub>, jak tohle funguje?
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Hlavní je, jak říkáš, oxid uhličitý, no, a funguje to tak, že když spálím 1 l benzínu, který váží 0,7 kg, tak z toho 0,7 kg vznikne 2,4 kg oxidu uhličitého.
+Já to vnímám hodně ve vztahu k Evropě. Málokdo v Česku řekne: "My, jako Evropská unie, něco chceme." Takové to, že jsme shcopni se přizpůsobit. To jste také zmínil, ale ta ambice, jako "já, Čech, za Česko, tady něco chci udělat, a proto mám nějakou strategii," takovýto leadership tady třeba hodně chybí. A to mi přijde, že vlastně není možná ani o vyprávění příběhu z toho, jak o tom říkáte. Nejde o to, říkat jiné věci, ale spíš... já vlastně nevím, o čem to je. Fakt ty věci dělat? Fakt začít být ambiciózní v tom českém byznysu a dávat přednost českým firmám?
 
-{% include 2050/transcript-person.html id="holik" %}
-To asi není úplně intuitivní, ale jde o to, že při tom hoření se vlastně ten uhlík, který je obsažený v benzínu, spojuje s dvěma kyslíky, aby vzniklo CO<sub>2</sub>. A ten kyslík taky něco váží a dohromady ta sloučenina je tím pádem těžší – více CO<sub>2</sub> než ten samotný benzín.
+{% include 2050/transcript-person.html id="horejs" %}
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Je to tak a zároveň při tom spalování nevzniká jenom oxid uhličitý, ale jsou tam rovněž další skleníkové plyny, jako třeba oxidy dusíku.
+Jde o spojené nádoby, nikdy nemáte jenom... nebo je málo věcí, které by byly čistě virtuální. Tak možná můžeme říct, že to je třeba téma migrace, kde i tam v pozadí je v podstatě nefunkční proces a legislativa kolem azylové politiky v Evropě i ve světě. A takže vždycky je to tak, že se spíš přežene nebo vyžene do nějaké paniky skutečný problém a zapomene se na jiné problémy nebo se něco přestane řešit. Jako nejúčinnější bude o tom mluvit správně, ale zároveň ty věci dělat a zlepšovat je tak, aby veřejnost viděla, že se něco děje a že to nejsou jenom prázdná slova. Bez tohoto spojení to bude hodně těžké. A zároveň vidíme, že ano, čeští podnikatelé, české firmy jsou skvělé, dělají se tady výborné věci, ale není tady kapitál, který by umožnil, že ta firma vyroste do světové úrovně, protože dřív nebo později se ten rozhodne, zůstanu malý, anebo to prodám zahraničnímu partnerovi. Takže jsou tady strukturální věci, které, když s nimi nezačneme hýbat, tak začít si najednou vyprávět, že jsme největší borci na světě, nebude tak úplně fungovat.
 
-### Kolik emisí vzniká v dopravním sektoru
+### Kdo jsou různé části společnosti důvěryhodní mluvčí
 
-{% include 2050/transcript-time.html time="06:53" %}
+{% include 2050/transcript-time.html time="14:46" %}
 
 {% include 2050/transcript-person.html id="holik" %}
-A ty najdete právě v té hodnotě CO<sub>2</sub> ekvivalentu tady v naší epizodě, v našich číslech. Když se bavíme o těch číslech, tak si říkám, pojďme ještě nějaká přidat. My jsme zmiňovali celkový objem emisí v české dopravě, jak je to globálně? Kolik emisí v CO<sub>2</sub> ekvivalentu produkuje doprava? Globálně?
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Celosvětově každý rok vyprodukujeme nějakých 50 gigatun CO<sub>2</sub> ekvivalentu a 8,9 gigatun náleží dopravě. No a na co se teď můžeme podívat, je, které části dopravy, co patří. Největší podíl náleží právě dopravě po silnicích, to je nějakých 69 %, na druhém místě je lodní přeprava, nějakých 11 %, úplně stejně na tom je letecká, ta je taky 11 %, no a pak je tam zbytek – zbývajících 9 % a z toho teda je jenom 1 % železniční a zbytek ostatní.
+Asi poslední věc, která mě napadá, je: Kdo jsou podle vás ti lidé? Jako spíše typicky, kdo by ty věci měl vyprávět nebo kdo by ta témata měl zvedat? Vy jste říkal třeba silný politický lídr, který by byl zároveň pro-zeleně orientovaný a zároveň sociálně orientovaný. Kdo další, jako, kdo třeba i z těch existujících aktérů si říkáte: "Kdyby tenhle člověk, tenhle subjekt toto téma zvedl, tak by to tomu hrozně pomohlo"? A asi to není Greenpeace, že jo, nebo Fakta o klimatu. My toto téma sice nějak zvedáme, ale...
 
-{% include 2050/transcript-person.html id="holik" %}
-To může být trochu překvapivé. Často se v médiích mluví o tom, jak jsou letadla neekologická nebo nákladní lodě a podobně. Ale tohle chci zdůraznit: to si pojďte všichni zapamatovat. Opravdu více než 2/3 emisí z dopravy se globálně ději na silnicích. Silnice jsou tedy místem, které potřebujeme nejvíce řešit.
+{% include 2050/transcript-person.html id="horejs" %}
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Jenom chci říct, Česko na tom není jinak. Opravdu i u nás dominuje právě v emisích silniční doprava, nějakých 58 %. Jsou z toho navíc jenom osobní automobily.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-Přišel mi takový jeden zajímavý údaj, a sice, že emise osobní nákladní dopravy jsou zhruba půl napůl. To je dobré vědět. Pojďme se teď podívat na tu druhou kapitolu, takže jaké objemy a čeho nebo koho vlastně globálně potřebujeme připravovat?
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-Tak v zásadě přepravujeme lidi, zboží, no a v tomhle to není úplně srovnatelné. Tak chci teď zavést takové dvě jednotky. Když se budeme bavit o osobní dopravě, tak ta jednotka, která se používá v objemu, jsou jakési osobokilometry, tzn. přepravit jednu osobu na vzdálenost 1 km. No a nákladní jsou to tunokilometry, analogicky jedna tuna na vzdálenost 1 km. No a typicky se to udává samozřejmě za nějakou delší jednotku, jako je třeba jeden rok.
+Jo, opinion lídrů v té společnosti máme relativně málo a je to zajímavé. Když se na to ptáme veřejnosti, tak oni nejsou schopni vlastně jmenovat moc někoho, kdo by pro ně byl určujícím člověkem. Hodně věříme pořád ještě vědcům, expertům, technikům. Jakmile je odborný mluvčí a dokáže věci vysvětlit jednoduše, tak má velkou šanci stát se uznávanou autoritou. A zároveň česká společnost je fakt extrémně konzervativní, ne ve smyslu náboženském, ne ve smyslu kulturním, ale ve smyslu, jak vlastně přistupuje k změnám a myslím, že tady je problém, že věcí, jako je mezinárodní spolupráce, klimatická politika, ale i dalším, tak často nejhlasitějšími proponenty jsou lidé, kteří jsou spíš kosmopolitní, liberální a lidé, kteří jsou z vysokopříjmových skupin, cestují po světě atd. To je věc, to je skupina, která se nedokáže propojit se zbytkem té společnosti nebo s velkou částí společnosti, která cestuje maximálně jednou do roka s cestovní kanceláří, která opravdu nepotřebuje mít otevřené hranice každý den, která vlastně spíš řeší právě ty příjmové problémy. Takže tady, myslím, že nedochází k propojení těch lidí, kteří by chtěli tu společnost oslovit. Třeba vidíme, že fungují jiné věci, funguje to, když bezpečnostní experti mluví o zelené transformaci, protože to vidí z pohledu těch konzervativních hodnot, jako je bezpečí, jistota a nějaké zachování minimální kvality života a vidíme, že o tématech, jako je migrace a hranice, musí mluvit lidé z bezpečnostní oblasti, jako jsou policisté a další. O technologických tématech bohužel česká veřejnost nevěří ekologům a environmentalistům, protože se zde vedla velká diskreditační kampaň, která přesvědčila mnohé, že za každou zablokovanou dálnicí stojí aktivista. Myslím, že jsme nyní v docela dobré fázi. Když jsme dělali průzkum asi před pěti lety, tak skutečně "ekolog" bylo skoro sprosté slovo, nebo "aktivista" bylo skoro sprosté slovo, které společnost jakoby neuznávala, že ten člověk něčemu rozumí, nebo že by k něčemu mohl mluvit. Takže jsme se docela posunuli a stín Miloše Zemana nás opustil docela rychle. To je dobrá zpráva.
 
 {% include 2050/transcript-person.html id="holik" %}
-Takže kolik tunokilometrů přepravíme za rok? Například v lodní dopravě a podobně?
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Přesně tak, u té osobní dopravy se čísla obzvlášť v tom globálu hledají trochu obtížně, už jenom proto, že máme hodně silniční dopravy, hodně osobní dopravy právě v těch autech, a to státy těžko dohledávají, těžko reportují, ale k nákladní dopravě tu nějaká čísla mám. Mezinárodní dopravní fórum udává, že v roce 2020 byla nákladní doprava celosvětově zodpovědná za celkem 140 miliard tunokilometrů. Dovedeš si to číslo představit?
+Takže vlastně, když bych to měl shrnout, sumarizovat pro sebe. Měl by to být někdo, kdo zastává konzervativní hodnoty a zároveň je dokáže propojit třeba s těmi zelenými politikami. Že to není jenom progresivní, kosmopolitní, hipsterská záležitost, ale opravdu něco, co má hodnotu i pro lidi, co mají kořeny v Česku, kteří chtějí být v Česku, chtějí to dobré pro Česko a tak dál.
 
-{% include 2050/transcript-person.html id="holik" %}
-Vůbec...
+{% include 2050/transcript-person.html id="horejs" %}
 
-Je to hodně, je to hodně, tunokilometrů.
-
-To si z toho odnáším, je to hodně, no.
-
-Takže ho připravujeme, přátelé, připravujeme hodně zboží po světě.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-Tak to si z toho taky odnáším. To končí epizoda. A co mi přijde zajímavější, je, který dopravní prostředek právě v té nákladní dopravě dominuje. Máš nějaký typ?
+Bohužel, to tak je. Neříkám, že by měli mluvit jenom takoví lidé, nebo že ostatní k tomu nemají právo. Ve společnosti vždycky potřebujete nějakou avantgardu, někoho, kdo nastolí ten ideál, kdo říká, kam bychom měli směřovat. A potom potřebujete někoho, kdo dokáže oslovit ten váhavý střed, tu šedou zónu, která vlastně nechce mít žádný vyhraněný názor. Bohužel, média nebo vlastně jakákoliv diskuze vedou k tomu, že hledáte jakoby ty extrémní póly. Takže najednou tady máte někoho, kdo to úplně odmítá, versus někoho, kdo to prosazuje, že to potřebujem hrozně dopředu. Ale když vezmu do úvahy elektromobilitu, tak je jasné, že v datech se ukazuje, že lidé, kteří nejvíce jezdí autem, jsou velmi skeptičtí k elektromobilitě. Takže potřebujeme někoho, kdo hodně jezdí autem, kde je silně spojen s tím, že automobilismus jako takový není a priori negativní věc, že ho potřebujete každý den. Tak to je třeba mluvčí, který tam dokáže udělat nějaký vliv, jo. A to samé podle mě platí u krajiny. U nás chybí hlas zemědělců, kteří by dokázali mluvit o tom, jak chránit krajinu a jaká prevence je důležitá. Vím, že se o to pokouší třeba Dan Pitek nebo další. Ale myslím, že tím, jak máme extrémně konsolidovaný trh zemědělství a vliv agrobaronů, tak ten hlas ve společnosti není. A lidé mimo města ani nemohou jakoby k tomu přičichnout. A když vezmu oblast nějakého udržitelného chování, recyklace atd., tak tam zase musí být lidé, kteří jsou řemeslní a vyrábějí ty věci. Bohužel těch hlasů máme málo a potřebujeme je vždycky v té debatě vyvážit, aby to nebyly z pohledu veřejnosti extrémy. Samozřejmě to nejsou extrémy a není dobré říkat, že diskuze má být pět minut Hitler, pět minut Židé. Ale jediný způsob, jak se s touto tendencí vyrovnat, je aktivně tlačit na jiné mluvčí a jiná dilemata, jiné spory, než jsou ty ideál versus totální pesimismus.
 
 {% include 2050/transcript-person.html id="holik" %}
-Jako když řekneš náklad, tak si představím náklaďák, že jo, kamion na silnici, to je takový typický. V Česku, nevím, nákladní vlak, zase jsou tu ty velké zaoceánské lodě, taková ta obrovská kontejnerová plavidla, tak nevím, jedno z nich, no.
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Jsou to právě ty lodě, které zmiňuješ, protože 72 % veškerých těchhle tunokilometrů náleželo právě jim a pak k těm náklaďákům to bylo nějakých 20 %. To byla silniční doprava, no, necelých 8 % měla na svědomí železniční doprava z těch objemů, no a letecká nákladní doprava se zas tolik nevyužívá, takže tam to bylo nějakých 0,2 %, velmi, velmi málo.
+Posílit ten střed, vlastně něco takovýho.
 
-{% include 2050/transcript-person.html id="holik" %}
-Jo, takže vlastně 3/4 veškerých nákladů. Na světě přepravíme nákladních lodí po oceánech a je to tak asi pětina potom po silnicích, to jsou ty dvě největší čísla.
+{% include 2050/transcript-person.html id="horejs" %}
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-No, jako co z toho taky vyplývá, jo, že my víme, že silniční doprava má na svědomí nejvyšší podíl emisí, ale zároveň v tom celosvětovém měřítku jí náleží jenom 20 % všech tunokilometrů, no a naopak ta lodní doprava, která je zodpovědná jenom za těch 11 % emisí, ale pak přepraví v objemu ty 3/4 všech tunokilometrů z těch šílených 140 miliard, no, a co teď jako, k čemu tímhle mířím? Je tam jako výrazně lepší poměr toho vypuštěného CO<sub>2</sub> ekvivalentu, když se to přepočte na ten jeden tunokilometr.
+Ano, dá se to říct, že česká společnost vlastně není moc polarizovaná, není moc rozdělená do bublin. Ale za prvé, kromě toho, že se bojí budoucnosti, tak si myslí o sobě, že nejsme schopni vést dialog a myslí si, že diskuze neprobíhá svobodně a volně. Takže máme spíše našlápnuto k tomu, že se začneme uzavírat, než že bychom se otevírali. Je šance mít středové mluvčí, není to tady vyloučené, není to jako v jiných zemích, kde jsou silné náboženské spory nebo silné historické spory. Ale samozřejmě jsou otázky, na kterých se štěpíme. Klima k tomu ještě nepatří. A možná mohou přijít evropské volby, kde si někdo vezme téma "zelené šílenství" jako svoji vlajkovou loď a to téma tam virtuálně docpe. Dynamika veřejného mínění funguje tak, že dlouho se nic neděje a najednou se z nějakého tématu stane to extrémní. Když se zase podíváme zpátky na migraci, tak to také trvalo dva roky, tři roky, než se z toho stalo úplné tabu a no-go téma, o kterém se vlastně žádný politik pořádně ani neotře, protože se bojí, jak by to bylo dezinterpretováno.
 
 {% include 2050/transcript-person.html id="holik" %}
-Jako že zkrátka přepravovat něco velkou nákladní lodí je emisně efektivnější, než to naložit na kamion.
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-Přesně, jak říkáš.
-
-{% include 2050/transcript-person.html id="holik" %}
-Zároveň říkám, hele, to a není to vždycky volba, že jo. Tam, kde plují velké nákladní lodě, tak nemůžou jezdit kamiony a naopak. Takže je fajn to vědět, jak to vlastně je v té efektivitě emisí na jeden tunu kilometr.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-V nějakým ohledu to není fér srovnání. Ale k tomu srovnávání bych se chtěla podívat trochu blíž na takový žebříček. Jak je to s tou emisní efektivitou nebo vlastně intenzitou.
-
-### Emisní náročnost jednotlivých dopravních prostředků
-
-{% include 2050/transcript-time.html time="12:37" %}
-
-{% include 2050/transcript-person.html id="holik" %}
-A to se dostáváme a pojďme to rovnou označit. Přátelé, tohle je ta třetí kapitola.
-
-Jaké emise jsou jednotlivých dopravních prostředků, když to přepočítáme na nějakou jejich efektivitu, na nějaký přepravený tunokilometr nebo osobokilometr, takže pojďme začít u té nákladní dopravy.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-Já tady mám před sebou takový graf, kde právě vidím ten žebříček.
-
-{% include 2050/transcript-person.html id="holik" %}
-Já ho mám před sebou taky.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-A jde to takhle sestupně od toho emisně nejnáročnějšího po ten nejméně. No a v nákladní dopravě jsou emisně nejnáročnější u letadla. My jsme teda řekli, že se nepodílí na tom nákladu tolik, ale jsou opravdu emisně nejnáročnější v gramech. Typicky se to uvádí v gramech CO<sub>2</sub> ekvivalentu. Na ten tuno kilometr. Tady máme před sebou číslo 1036 g.
-
-{% include 2050/transcript-person.html id="holik" %}
-Což je fakt hodně, je to úplně neproporcionálně hodně vůči těm ostatním přepravním prostředkům, protože třeba kamiony na silnicích mají na tuno kilometr emise osmkrát menší, a když se dívám dál, tak pak následují železnice a ty jsou zase ještě pětkrát menší než ty kamiony (v emisích na tuno kilometr¨). A vůbec nejmenší – pouhých 7 g CO<sub>2</sub> ekvivalentu na přepravený tunokilometr jsou právě ty velké nákladní lodě. Když si srovnám, přepravu tunokilometru lodí nebo kamionem, tak je loď vlastně dvacetkrát emisně výhodnější než ten kamion.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-Pojďme se podívat, jak to vypadá v osobní dopravě. Sice nemáme čísla k objemům, ale máme čísla právě k té emisní intenzitě.
-
-{% include 2050/transcript-person.html id="holik" %}
-Máme dokonce další graf.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-Máme dokonce další graf, pojďme se na něj podívat.
-
-{% include 2050/transcript-person.html id="holik" %}
-Tak já se začnu dívat, jo, mimochodem tohle jsou data z Our World In Data, dáme to do bonusových materiálů k epizodě, takže se na to určitě můžete mrknout, podívat se na to taky, mají to tam hezky zpracovaný, dá se to dobře proklikat. Nejhorší - a teď se bavíme o gramech CO<sub>2</sub> na osobo kilometr – nejvíc emisí v tomhle ohledu produkují letadla. Okolo nějakých 200 g.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-Hned na druhém místě jsou osobní auta, tam je to nějakých 170, tedy o kousek míň.
-
-{% include 2050/transcript-person.html id="holik" %}
-Když se podíváme na další dopravní prostředky, které mě zajímají, tak je tady třeba autobus, průměrný autobus má nějakých 97 g.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-No a takhle dole z nejmíň gramy z těch dopravních prostředků vidím právě železnici s nějakými 35 gramy.
-
-{% include 2050/transcript-person.html id="holik" %}
-Takže když bychom to jenom srovnali, tak řekněme, že když pojedete vlakem, tak spotřebujete zhruba třikrát míň emisí, než byste jeli autobusem, když pojedete autobusem, tak jste zhruba na polovině emisí, jako když pojedete autem, když pojedete autem jako sám jednotlivý řidič, tak na tom nejste o moc jinak, než kdybyste letěli.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-Je to tak.
-
-{% include 2050/transcript-person.html id="holik" %}
-Tady těch dopravních prostředků je víc. Já schválně se dívám na sebe, můžu tady prásknout, já mám motorku, rád na ní jezdím a dívám se, že má nějakých 114 g, to znamená, když jedu na motorce, tak jsem na tom o trošku hůř, než kdybych jel autobusem a zhruba o třetinu líp, než kdybych jel autem.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-A třikrát tak hůř, než kdyby si jel vlakem.
-
-{% include 2050/transcript-person.html id="holik" %}
-Tady už to zní drsně, klidně se na to podívejte do bonusových materiálů. Opravdu, než to tady poslouchat, tak je asi lepší to vidět před sebou. Zároveň v tom grafu vidím třeba i elektrické auto, které má nějakých 47 g. Při současném energetickém mixu, je pořád o hodně výhodnější než nějaké auto na benzín.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-O něco málo hůře je na tom plug-in hybrid, ten má nějakých 68 g.
-
-{% include 2050/transcript-person.html id="holik" %}
-Takže tohle se dá prozkoumat, tohle už vlastně má jako velmi jednoduchou aplikaci do našich životů. Já se můžu podívat na tuhle tabulku a říci OK, tak jo, jak moc tomu pomůžu, když vyměním dieselové auto za elektrické auto, jak moc k tomu pomůžu, když vyměním autobus za vlak a podobně?
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-No, a k tomu se teď trochu dostáváme, k tomu našemu čtvrtému bodu, a to sice, jak tedy můžeme rámcově přemýšlet nad dekarbonizací dopravy?
-
-My jsme se nad tím ve faktech o klimatu zamýšleli, a když se tedy bavíme o tom, jak snižovat emise v dopravě, tak máme v zásadě tři možnosti. První je, že můžeme použít stejný dopravní prostředek, ale pohánět ho jinak než tím fosilním palivem, které právě produkuje emise. Druhý bod je, že můžeme změnit dopravní prostředek na takový, který má menší emisní intenzitu. To je to, o čem jsme se tady před chvílí bavili. Třeba místo auta můžu jet vlakem. No a třetí možností je snížit objem dopravy, jako vůbec nutnost se někam přepravovat.
-
-### Jak můžeme snižovat emise v dopravě
-
-{% include 2050/transcript-time.html time="17:24" %}
-
-{% include 2050/transcript-person.html id="holik" %}
-No, když se na to podíváme víc detailněji, tak co to znamená u těch jednotlivých bodů? Bod číslo jedna? Náhrada paliva? Pravděpodobně největším snížením emisí v dopravě je tedy otázka nějakých alternativních paliv, tedy náhrady těch fosilních paliv, jako je benzín, nafta, případně nějaká letecká paliva, jinými typy motorů s nižší emisní stopou. Říkali jsme si, že 60 % emisí dopravy se děje na silnicích a na silnicích je hlavním řešením elektromobilita. Na delší vzdálenosti pak nějaké vodíkové technologie, případně je tu i otázka tzv. syntetických paliv, která se budou používat nejspíš v nějakých specifických případech.
-
-No, tady můžeme rovnou udělat trochu reklamu, protože zrovna na téma alternativních paliv se můžete těšit hnedka v další epizodě s Michalem Hrubým.
-
-Bod číslo dva, tedy náhrada dopravního prostředku za nějaký méně emisně náročný. Když nad tím přemýšlíme, tak můžeme hledat alternativy v závislosti na tom, na jakou vzdálenost se vlastně potřebujeme přepravovat. Když si vezmete nějakou vzdálenost, například 5 km, tak tady můžeme podporovat více pěší dopravu, cyklodopravu než dopravu osobním automobilem. Na vzdálenosti nějakých 50 km můžeme částečně nahradit osobní automobil hromadnou dopravou, jako jsou třeba vlaky nebo autobusy. Do vzdáleností okolo 500 km pak můžeme zase nahradit auto třeba dálkovými vlaky, dálkovými autobusy, to jsou takové ty cesty přes Českou republiku. A když se bavíme o vzdálenostech okolo nějakých 5000 km, pak už jako dlouhé vzdálenosti, tak tam už typicky auta nejezdíme. A můžeme uvažovat o nahrazení části letecké dopravy dálkovými rychlovlaky, což je něco, co ve světě už často funguje a docela se to vyplácí.
-
-V nákladní dopravě můžeme na nějaké kratší vzdálenosti uvažovat o posilování kapacity železnice na úkor právě třeba kamionové silniční dopravy. Zároveň většinu materiálu přepravují ty velké zaoceánské lodě, o kterých jsme se bavili, a ty v tuhle chvíli moc nahraditelné nejsou, takže tam by to spíš šlo tím bodem číslo jedna – náhrada paliva. Možnosti, jak vlastně můžeme dopravní prostředek nahradit nějakým jiným, můžou určitě, myslím, emisím z dopravy ulevit. Ale asi je potřeba to brát tak, že jsou ty možnosti omezené, záleží totiž na spoustě dalších faktorů, jestli bude někdo ochotný nahrazovat nějaký dopravní prostředek jiným a jak. Zároveň někdy se to prostě nehodí, nejde to, pokud potřebujete cestovat s rodinou, oběma kočárky, tak asi v tom autobuse by to fakt bylo náročné, prostě auto je velmi praktická věc v tomhle.
-
-Bod číslo tři. Říkali jsme snižování objemu dopravy celkově, takže zkrátka nemusím někam jet. Tak o tom se dá diskutovat vlastně v kontextu nějakého urbanismu, například případně spotřebitelských norem nebo spotřebitelských řetězců nebo nějakých pracovních norem, pokud například budete mít školu pro svoje děti 10 minut od místa, kde bydlíte, tak je tam nebudete muset vozit každé ráno autem a snížíte tím tím pádem objem dopravy. To je nějaké urbanistické řešení. Pokud budeme čtyři z pěti pracovních dnů na home office a nebudeme muset denně dojíždět do práce, tak zase snížíme objem dopravy. Pokud nebudeme muset v zimě jíst ovoce, které je potřeba dopravit letadlem, protože by prostě nevydrželo, tak zase snížíme nějaký objem dopravy. Takže o těch změnách určitě má smysl uvažovat a zase není to až tak o technologiích, tohle to je spíš o tom, jakým způsobem jsme schopni přeskládat naše společnost a naše zvyky tak, aby se to nějak promítlo i právě ve snižování emisí.
-
-### Závěrečné shrnutí
-
-{% include 2050/transcript-time.html time="21:26" %}
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-Pojďme si na závěr shrnout, co jsou ty nejdůležitější věci, co byste měli vědět o dopravě? První z nich, že doprava je v České republice třetí nejvíce emisně náročné odvětví.
-
-{% include 2050/transcript-person.html id="holik" %}
-Nejvíce emisí pochází ze silniční dopravy, a to jak v Česku, tak globálně.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-Jednak samozřejmě záleží na absolutních hodnotách emisí, ale také můžeme jednotlivé dopravní prostředky mezi sebou porovnávat, kolik zboží či osob za ně daný prostředek přepraví.
-
-{% include 2050/transcript-person.html id="holik" %}
-No a poslední bod, který jsme řešili, je, že dekarbonizace dopravy se bude dít na třech úrovních: nahrazení fosilních paliv těmi alternativními, volbou méně emisně náročného dopravního prostředku a snižováním celkového objemu dopravy.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-To je za nás vše. Tímto startujeme dopravní sérii našeho podcastu a těšíme se brzy na slyšenou.
-
-{% include 2050/transcript-person.html id="holik" %}
-Děkujeme za poslech. Ahoj, ahoj.
+Takjo. Mockrát děkuju za váš čas a za rozhovor.
 
 {% include 2050/transcript-end.html %}
