@@ -26,7 +26,7 @@ S Romanou a Barborou jsme v živém vstupu přímo z konference probírali jak a
 * **[Rozhovor Romany Březovské pro Český rozhlas](https://plus.rozhlas.cz/na-klimatickem-summitu-glasgow-pujde-i-o-penize-cesko-do-zeleneho-fondu-ale-8608495)** (_Český rozhlas_)  
   Proč Česko nepřispívá do Zeleného klimatického fondu? Poslechněte si rozhovor s Romanou Březovskou pro Evropu Plus.
 
-* **[Měnící se klima, otřásající se stabilita: mezinárodní organizace v bezpečnostněklimatickém ekosystému](https://www.amo.cz/cs/zmena-klimatickych-politik/menici-se-klima-otrasajici-se-stabilita-mezinarodni-organizace-v-bezpecnostneklimatickem-ekosystemu/)** (_Asociace pro mezinárodní otázky_)  
+* **[Měnící se klima, otřásající se stabilita: mezinárodní organizace v bezpečnostněklimatickém ekosystému](https://www.amo.cz/cs/klimatym/menici-se-klima-otrasajici-se-stabilita-mezinarodni-organizace-v-bezpecnostneklimatickem-ekosystemu/)** (_Asociace pro mezinárodní otázky_)  
   Briefing Paper od Asociace pro mezinárodní otázky ke stažení.
 
 </div>
