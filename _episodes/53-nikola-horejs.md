@@ -121,6 +121,6 @@ Ano, dá se to říct, že česká společnost vlastně není moc polarizovaná,
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Takjo. Mockrát děkuju za váš čas a za rozhovor.
+Tak jo. Mockrát děkuju za váš čas a za rozhovor.
 
 {% include 2050/transcript-end.html %}
