@@ -91,7 +91,7 @@ Já to vnímám hodně ve vztahu k Evropě. Málokdo v Česku řekne: "My, jako 
 
 Jde o spojené nádoby, nikdy nemáte jenom... nebo je málo věcí, které by byly čistě virtuální. Tak možná můžeme říct, že to je třeba téma migrace, kde i tam v pozadí je v podstatě nefunkční proces a legislativa kolem azylové politiky v Evropě i ve světě. A takže vždycky je to tak, že se spíš přežene nebo vyžene do nějaké paniky skutečný problém a zapomene se na jiné problémy nebo se něco přestane řešit. Jako nejúčinnější bude o tom mluvit správně, ale zároveň ty věci dělat a zlepšovat je tak, aby veřejnost viděla, že se něco děje a že to nejsou jenom prázdná slova. Bez tohoto spojení to bude hodně těžké. A zároveň vidíme, že ano, čeští podnikatelé, české firmy jsou skvělé, dělají se tady výborné věci, ale není tady kapitál, který by umožnil, že ta firma vyroste do světové úrovně, protože dřív nebo později se ten rozhodne, zůstanu malý, anebo to prodám zahraničnímu partnerovi. Takže jsou tady strukturální věci, které, když s nimi nezačneme hýbat, tak začít si najednou vyprávět, že jsme největší borci na světě, nebude tak úplně fungovat.
 
-### Kdo jsou různé části společnosti důvěryhodní mluvčí
+### Kdo jsou pro různé části společnosti důvěryhodní mluvčí
 
 {% include 2050/transcript-time.html time="14:46" %}
 
