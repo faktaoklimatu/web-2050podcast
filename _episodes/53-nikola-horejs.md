@@ -7,12 +7,12 @@ redirect_from: "/epizody/53"
 published:  2023-10-25
 summary:    |
       V rámci fóra elektromobility, o němž jsme vydali krátkou aktualitu, jsme „v terénu“ natočili také rozhovor s jedním z přednášejících – Nikolou Hořejšem z agentury STEM.
+
+      Z průzkumů vyplývá, že je česká společnost ve vztahu k elektromobilitě a dekarbonizaci nerozhodnutá a zároveň poměrně nedůvěřivá. V rozhovoru se bavíme o tom, jaké faktory by napomohly tomu, aby byla transformace na nízkouhlíkovou ekonomiku přijímána kladněji.
 audioboom:  "8390063"
 guests: [ horejs ]
 transcript: true
 ---
-
-Z průzkumů vyplývá, že je česká společnost ve vztahu k elektromobilitě a dekarbonizaci nerozhodnutá a zároveň poměrně nedůvěřivá. V rozhovoru se bavíme o tom, jaké faktory by napomohly tomu, aby byla transformace na nízkouhlíkovou ekonomiku přijímána kladněji.
 
 Dále zazní, jakou roli v této snaze mohou sehrát spolky a místní komunity, jaký příběh si Češi o své společnosti vyprávějí, jaký příběh by transformaci podpořil, a jací mluvčí působí na různé části společnosti důvěryhodně.
 
