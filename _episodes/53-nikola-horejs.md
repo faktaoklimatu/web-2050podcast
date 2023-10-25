@@ -6,9 +6,9 @@ slug:       "53-nikola-horejs"
 redirect_from: "/epizody/53"
 published:  2023-10-25
 summary:    |
-      V rámci fóra elektromobility, o němž jsme vydali krátkou aktualitu, jsme „v terénu“ natočili také rozhovor s jedním z přednášejících – Nikolou Hořejšem z agentury STEM.
+    V rámci fóra elektromobility, o němž jsme vydali krátkou aktualitu, jsme „v terénu“ natočili také rozhovor s jedním z přednášejících – Nikolou Hořejšem z agentury STEM.
 
-      Z průzkumů vyplývá, že je česká společnost ve vztahu k elektromobilitě a dekarbonizaci nerozhodnutá a zároveň poměrně nedůvěřivá. V rozhovoru se bavíme o tom, jaké faktory by napomohly tomu, aby byla transformace na nízkouhlíkovou ekonomiku přijímána kladněji.
+    Z průzkumů vyplývá, že je česká společnost ve vztahu k elektromobilitě a dekarbonizaci nerozhodnutá a zároveň poměrně nedůvěřivá. V rozhovoru se bavíme o tom, jaké faktory by napomohly tomu, aby byla transformace na nízkouhlíkovou ekonomiku přijímána kladněji.
 audioboom:  "8390063"
 guests: [ horejs ]
 transcript: true
@@ -24,7 +24,7 @@ Dále zazní, jakou roli v této snaze mohou sehrát spolky a místní komunity,
 
 <div class="bonus-material" markdown="1">
 
-* **Průzkum [Česká (ne)transformace 2022](https://www.stem.cz/ceska-netransformace-2022/)** (_STEM, Institut 2050_)\\
+* **Průzkum [Česká (ne)transformace 2022](https://www.stem.cz/ceska-netransformace-2022/)** (_STEM, Institut 2050_)
 
 </div>
 
@@ -49,7 +49,6 @@ Je to velmi komplexní otázka. Když to zúžím na elektromobilitu, tak velmi 
 {% include 2050/transcript-person.html id="holik" %}
 
 Takže vy mluvíte hodně o té politické reprezentaci, o absenci leadershipu. Vlastně jsou i jiná místa, protože já si říkám, vzpomenu-li si na své rodiče, oni se prostě moc nekoukají na zprávy, na to, co říkají politici, a spíš je tam vliv těch lokálních komunit. Když to budou mít dvojí sousedi, tak to zabere. To jste vlastně říkali v té přednášce, tak si říkám, jaká je role třeba lokálních samospráv v tomhle? Nebo fakt takových těch spolků, nějakých místních akčních skupin, nevím, takových lidí, kteří fungují více na osobních vazbách. Mohou ti s tím nějak pohnout? Nebo případně, dá se nějak oslovit zvrchu, aby se ty myšlenky propagovaly? A teď už možná zním trochu aktivisticky.
-
 
 ### Vliv občanské společnosti na zvládání změn
 
