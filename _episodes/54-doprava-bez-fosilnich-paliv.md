@@ -1,20 +1,20 @@
 ---
 layout:     episode
 title:      "Nikola Hořejš (STEM): Postoje společnosti k dekarbonizaci"
-number:     53
+number:     54
 slug:       "54-doprava-bez-fosilnich-paliv"
 redirect_from: "/epizody/54"
 published:  2023-11-08
 summary:    |
-    V rámci fóra elektromobility, o němž jsme vydali krátkou aktualitu, jsme „v terénu“ natočili také rozhovor s jedním z přednášejících – Nikolou Hořejšem z agentury STEM.
-
-    Z průzkumů vyplývá, že je česká společnost ve vztahu k elektromobilitě a dekarbonizaci nerozhodnutá a zároveň poměrně nedůvěřivá. V rozhovoru se bavíme o tom, jaké faktory by napomohly tomu, aby byla transformace na nízkouhlíkovou ekonomiku přijímána kladněji.
+    Elektřina, vodík a syntetická paliva jsou tři hlavní alternativy, jak v dopravě nahradit paliva vyráběná z ropy. V této epizodě se na ně podíváme podrobně od výroby přes distribuci až po využití v různých typech dopravních prostředků.
 audioboom:  "8390063"
 guests: [ hruby, tengler ]
 transcript: true
 ---
 
-Dále zazní, jakou roli v této snaze mohou sehrát spolky a místní komunity, jaký příběh si Češi o své společnosti vyprávějí, jaký příběh by transformaci podpořil, a jací mluvčí působí na různé části společnosti důvěryhodně.
+Zaměříme se také na srovnání toho, jak efektivně daná alternativa nakládá s energií a na její celkové environmentální dopady. Určitě nezapomeneme, jak v tomto směru vychází porovnání auta se spalovacím motorem a elektromobilu.
+
+Odborným hostem je Michal Hrubý –  vědecký pracovník Škoda Auto Vysoké školy. Kromě výše zmíněného se spolu bavíme také o současné legislativě, která se dekarbonizace dopravy týká a možných motivačních nástrojích, jež by vedly k širšímu využití emisně méně náročných paliv a typů pohonů mezi firmami i jednotlivci. 
 
 {% include 2050/guest-list.html %}
 
