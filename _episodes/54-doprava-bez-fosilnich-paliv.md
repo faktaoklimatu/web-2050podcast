@@ -1,13 +1,13 @@
 ---
 layout:     episode
-title:      "Nikola Hořejš (STEM): Postoje společnosti k dekarbonizaci"
+title:      "Jak pohánět dopravu bez fosilních paliv"
 number:     54
 slug:       "54-doprava-bez-fosilnich-paliv"
 redirect_from: "/epizody/54"
 published:  2023-11-08
 summary:    |
     Elektřina, vodík a syntetická paliva jsou tři hlavní alternativy, jak v dopravě nahradit paliva vyráběná z ropy. V této epizodě se na ně podíváme podrobně od výroby přes distribuci až po využití v různých typech dopravních prostředků.
-audioboom:  "8390063"
+audioboom:  "8396531"
 guests: [ hruby, tengler ]
 transcript: true
 ---
@@ -24,7 +24,11 @@ Odborným hostem je Michal Hrubý –  vědecký pracovník Škoda Auto Vysoké 
 
 <div class="bonus-material" markdown="1">
 
-* **Průzkum [Česká (ne)transformace 2022](https://www.stem.cz/ceska-netransformace-2022/)** (_STEM, Institut 2050_)
+* **Studie: [A clean shift for EU transport fuels?](https://www.transportenvironment.org/wp-content/uploads/2021/11/TE-Briefing-RED-II-review-Autumn-2021-Final-22.11.2021.pdf)** (_Transport & Environment_)
+
+Studie Transport & Environment zkoumající legislativu EU (The Renewable energy Directive) ve vztahu k přechodu na alternativní bezemisní paliva. Zmíněná grafika se nachází na straně 3 v pdf dokumentu.
+
+* **Infografika: [Územní stopa elektřiny ze slunce, větru a biomasy](https://faktaoklimatu.cz/infografiky/uzemni-stopa-oze)** (_Fakta o klimatu_)
 
 </div>
 
@@ -54,7 +58,7 @@ A nebude se o něm bavit jenom my, takže si pojďme představit našeho dnešn�
 
 {% include 2050/transcript-person.html id="hruby" %}
 
-Jmenuji se Michal Hrubý. Dnes jsem ekonomem IFSC, neboli International Sustainable Finance Centre, a zároveň působím jako vědecký pracovník na Škoda Auto Vysoké škole.
+Jmenuji se Michal Hrubý. Dnes působím jako vědecký pracovník na Škoda Auto Vysoké škole.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
