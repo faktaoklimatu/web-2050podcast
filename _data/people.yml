@@ -338,3 +338,8 @@
   name: Nikola
   surname: Hořejš
   description: Agentura STEM
+
+- id: hruby
+  name: Michal
+  surname: Hrubý
+  description: ISFC
