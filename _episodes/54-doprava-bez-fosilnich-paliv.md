@@ -153,7 +153,7 @@ No, my jsme si tady zkusili navrhnout takové dva extrémní scénáře energeti
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Takže kdybychom vyráběli elektřinu pouze z uhlí, tak elektromobil nemá cenu si pořizovat, pokud chcete myslet na emise, protože prostě to nemá šanci vyjít. Když budeme cpát do  elektroauta takhle špinavou elektřinu, tak se to elektroauto prostě emmisně nevrátí.
+Takže kdybychom vyráběli elektřinu pouze z uhlí, tak elektromobil nemá cenu si pořizovat, pokud chcete myslet na emise, protože prostě to nemá šanci vyjít. Když budeme cpát do elektroauta takhle špinavou elektřinu, tak se to elektroauto prostě emmisně nevrátí.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
