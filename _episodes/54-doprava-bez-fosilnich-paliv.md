@@ -14,7 +14,7 @@ transcript: true
 
 Zaměříme se také na srovnání toho, jak efektivně daná alternativa nakládá s energií a na její celkové environmentální dopady. Určitě nezapomeneme, jak v tomto směru vychází porovnání auta se spalovacím motorem a elektromobilu.
 
-Odborným hostem je Michal Hrubý –  vědecký pracovník Škoda Auto Vysoké školy. Kromě výše zmíněného se spolu bavíme také o současné legislativě, která se dekarbonizace dopravy týká a možných motivačních nástrojích, jež by vedly k širšímu využití emisně méně náročných paliv a typů pohonů mezi firmami i jednotlivci. 
+Odborným hostem je Michal Hrubý – vědecký pracovník Škoda Auto Vysoké školy. Kromě výše zmíněného se spolu bavíme také o současné legislativě, která se dekarbonizace dopravy týká a možných motivačních nástrojích, jež by vedly k širšímu využití emisně méně náročných paliv a typů pohonů mezi firmami i jednotlivci.
 
 {% include 2050/guest-list.html %}
 
@@ -31,7 +31,7 @@ Odborným hostem je Michal Hrubý –  vědecký pracovník Škoda Auto Vysoké 
 %}
 
 * **Studie: [A clean shift for EU transport fuels?](https://www.transportenvironment.org/wp-content/uploads/2021/11/TE-Briefing-RED-II-review-Autumn-2021-Final-22.11.2021.pdf)** (_Transport & Environment_)\\
-    Studie Transport & Environment zkoumající legislativu EU (The Renewable energy Directive) ve vztahu k přechodu na alternativní bezemisní paliva. Zmíněná grafika se nachází na straně 3 v pdf dokumentu.
+    Studie Transport & Environment zkoumající legislativu EU (_Renewable Energy Directive_) ve vztahu k přechodu na alternativní bezemisní paliva. Zmíněná grafika se nachází na straně 3 v PDF dokumentu.
 
 * **Infografika: [Územní stopa elektřiny ze slunce, větru a biomasy](https://faktaoklimatu.cz/infografiky/uzemni-stopa-oze)** (_Fakta o klimatu_)
 
@@ -51,7 +51,7 @@ Minule jsme si řekli, že celkově je doprava světově zodpovědná za nějak�
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Z toho nějakých 70 % pochází ze silniční dopravy a většina z toho jsou osobní automobily, takže setu o nich bavíme často, často se o nich bavímluví i v médiích atp. Ale opravdu je to oblast, o které se bavit musíme, protože osobní automobily a silniční doprava jsou hlavní oblastí emisí.
+Z toho nějakých 70 % pochází ze silniční dopravy a většina z toho jsou osobní automobily, takže bavíme se tu o nich často, často se o nich baví i v médiích atp. Ale opravdu je to oblast, o které se bavit musíme, protože osobní automobily a silniční doprava jsou hlavní oblastí emisí.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
@@ -241,11 +241,11 @@ Tímto pomalu končíme právě u toho alternativního pohonu, elektrického. O 
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Otázka, zda je zrovna tento ukazatel ten správný a reprezentativní. Když se podíváme na jiná čísla: Na 100 000 obyvatel máme v České republice necelých 40 dobíjecích bodů. EU má v tomto zase průměr třikrát větší, zároveň v EU průměrně jezdí i více elektromobilů. Otázka tedy zůstává, zda je infrastruktura v České republice nějakou překážkou k většímu rozvoji elektromobility. To může být trochu subjektivní - v některých oblastech určitě ano, v některých možná spíše ne. Ale překážky ve větším rozvoji budou spíše v oblasti společenského přijetí, případně v cenách elektromobilů, které jsou v současnosti stále poměrně vysoké.
+Otázka, zda je zrovna tento ukazatel ten správný a reprezentativní. Když se podíváme na jiná čísla: Na 100 000 obyvatel máme v České republice necelých 40 dobíjecích bodů. EU má v tomto zase průměr třikrát větší, zároveň v EU průměrně jezdí i více elektromobilů. Otázka tedy zůstává, zda je infrastruktura v České republice nějakou překážkou k většímu rozvoji elektromobility. To může být trochu subjektivní – v některých oblastech určitě ano, v některých možná spíše ne. Ale překážky ve větším rozvoji budou spíše v oblasti společenského přijetí, případně v cenách elektromobilů, které jsou v současnosti stále poměrně vysoké.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-Pojďme otevřít další kapitolu: alternativní palivo číslo dva - vodík.
+Pojďme otevřít další kapitolu: alternativní palivo číslo dva – vodík.
 
 {% include 2050/transcript-person.html id="hruby" %}
 
