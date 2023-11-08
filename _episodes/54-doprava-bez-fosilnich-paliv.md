@@ -24,9 +24,14 @@ Odborným hostem je Michal Hrubý –  vědecký pracovník Škoda Auto Vysoké 
 
 <div class="bonus-material" markdown="1">
 
-* **Studie: [A clean shift for EU transport fuels?](https://www.transportenvironment.org/wp-content/uploads/2021/11/TE-Briefing-RED-II-review-Autumn-2021-Final-22.11.2021.pdf)** (_Transport & Environment_)
+{% include 2050/bonus-interview.html
+  title="Michal hrubý: alternativní paliva pro dopravu"
+  audioboom="8396562"
+  spotify="0HWm1VZkAyHoqtjByVlsDl"
+%}
 
-Studie Transport & Environment zkoumající legislativu EU (The Renewable energy Directive) ve vztahu k přechodu na alternativní bezemisní paliva. Zmíněná grafika se nachází na straně 3 v pdf dokumentu.
+* **Studie: [A clean shift for EU transport fuels?](https://www.transportenvironment.org/wp-content/uploads/2021/11/TE-Briefing-RED-II-review-Autumn-2021-Final-22.11.2021.pdf)** (_Transport & Environment_)\\
+    Studie Transport & Environment zkoumající legislativu EU (The Renewable energy Directive) ve vztahu k přechodu na alternativní bezemisní paliva. Zmíněná grafika se nachází na straně 3 v pdf dokumentu.
 
 * **Infografika: [Územní stopa elektřiny ze slunce, větru a biomasy](https://faktaoklimatu.cz/infografiky/uzemni-stopa-oze)** (_Fakta o klimatu_)
 
