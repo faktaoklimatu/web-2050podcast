@@ -28,12 +28,14 @@ Odborným hostem je Michal Hrubý – vědecký pracovník Škoda Auto Vysoké �
   title="Michal hrubý: alternativní paliva pro dopravu"
   audioboom="8396562"
   spotify="0HWm1VZkAyHoqtjByVlsDl"
+  caption="Originální nesestříhaný rozhovor jako bonus k 54. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o alternativách k fosilním palivům a legislativě týkající se dekarbonizace dopravy."
 %}
 
 * **Studie: [A clean shift for EU transport fuels?](https://www.transportenvironment.org/wp-content/uploads/2021/11/TE-Briefing-RED-II-review-Autumn-2021-Final-22.11.2021.pdf)** (_Transport & Environment_)\\
     Studie Transport & Environment zkoumající legislativu EU (_Renewable Energy Directive_) ve vztahu k přechodu na alternativní bezemisní paliva. Zmíněná grafika se nachází na straně 3 v PDF dokumentu.
 
-* **Infografika: [Územní stopa elektřiny ze slunce, větru a biomasy](https://faktaoklimatu.cz/infografiky/uzemni-stopa-oze)** (_Fakta o klimatu_)
+* **Infografika: [Územní stopa elektřiny ze slunce, větru a biomasy](https://faktaoklimatu.cz/infografiky/uzemni-stopa-oze)** (_Fakta o klimatu_)\\
+    Grafika porovnává územní stopu (územní náročnost) obnovitelných zdrojů elektřiny, tedy jak velké území by bylo v ČR potřeba k výrobě 25 TWh elektřiny za rok, což představuje zhruba 40 % současné spotřeby.
 
 </div>
 
