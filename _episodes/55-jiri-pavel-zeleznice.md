@@ -55,6 +55,10 @@ Tak pojďme od toho, čím se správa železnic zabývá.
 
 Tak Správa železnic je ze zákona o drahách manažerem infrastruktury a zabývá se komplexně údržbou infrastruktury, řízením provozu, řízením vlaků na ní a samozřejmě modernizací, investičními akcemi, rozvojem všeho druhu, co s jízdou vlaku souvisí.
 
+### Železniční doprava v číslech
+
+{% include 2050/transcript-time.html time="01:38" %}
+
 {% include 2050/transcript-person.html id="vrtalova" %}
 
 Pojďme se podívat na železniční dopravu v nějakých základních číslech. Ať si to zarámujeme, mě by vlastně zajímaly české železnice, tak jaký objem, ať už osob nebo zboží, se vlastně na českých železnicích přepravuje? Nevím, jak to máte ve svých číslech, jestli za rok nebo v nějakých jiných údajích, ale kdybyste to pro nás takhle mohl zarámovat.
@@ -87,6 +91,10 @@ Takže, pak takováhle železnice je nákladná, je to těžké udržovat.
 
 Myslím si, že ano. S rozsahem infrastruktury roste nákladnost, nebo lépe řečeno finanční náročnost, pro zajištění údržby.
 
+### Specifika železniční infrastruktury v ČR a Evropě
+
+{% include 2050/transcript-time.html time="04:19" %}
+
 {% include 2050/transcript-person.html id="vrtalova" %}
 
 Tak mě by zajímalo, jak si tedy v objemu připraveného zboží stojíme třeba ve srovnání s jinými státy Evropské unie a možná i v porovnání s tou hustotou sítě. Jestliže je česká síť tak hustá, nemusím na to ani mít čísla. Spíš by mě zajímalo obecně, jestli máte představu o tom, jak třeba vypadá železniční síť na území Francie nebo jiného státu?
@@ -106,6 +114,10 @@ Myslím, že železniční doprava a infrastruktura se hodně odvíjí od geogra
 {% include 2050/transcript-person.html id="vrtalova" %}
 
 Charakter naší železnice spočívá v tom, že se vždy musí vyšplhat někam nahoru u těch hranic.
+
+### Co je potřeba pro konkurenceschopnější železnici
+
+{% include 2050/transcript-time.html time="08:13" %}
 
 Jaké jsou v současnosti další místa pro zlepšení železniční přepravy osob nebo zboží? Kde je potřeba navýšit objem nebo flexibilitu přepravy, nebo kde momentálně není železniční přeprava konkurenceschopná?
 
@@ -137,6 +149,10 @@ Vím, že železniční doprava není emisně příliš náročná, ale kdybyste
 
 No, je to velmi, velmi málo ve srovnání s jinými módy dopravy. Mám pocit, že to číslo je něco kolem 0,4 %. V rámci dopravy je tam 70 % silniční dopravy, po 10 procentech pak letecká doprava, námořní doprava a pak je železnice. Ta jako taková už sama o sobě ve vztahu k přepočteným jednotkám na osobu nebo na tunu je vlastně extrémně efektivní. Takže bychom se měli snažit přesunout ten mód silniční dopravy do železnice, abychom byli udržitelnější a ekologičtější. Co se týká elektrizace tratí, tak je to určitě náš směr, kterým bychom chtěli jít. Nejlepší a nejefektivnější je prostě elektrické vozidlo. Je to osvědčený pohon, nejznámější prostě pohon elektromotorem a tímto způsobem je naše snaha vlastně maximalizovat elektrizaci těch tratí, kde to má význam. A význam to má na těch tratích, kde jezdí nákladní doprava, kde jsou nějaké výkony a má to význam na tratích, kde jezdí hodně, řekněme, kapacitně osobní doprava. To znamená, že na chvostu té elektrizace budou tratě, kde jede šest párů vlaků za den, někde do těch hor, z toho údolí, do těch hor a kde tedy je to slabé, už tam nejezdí nákladní doprava, tam není, je tam slabá osobní doprava. Tak to jsou pro nás tratě, které jako celek musíme uvažovat o nějakých alternativách. Co tam bude tedy, když tam nebudou dráty, protože ty jsou neefektivní? Zase nemůžeme dávat dráty všude, elektrizaci, myslím. Takže je velká diskuze a teď probíhá o bateriových vozidlech. To si myslím, že je určitá alternativa v nějaké transformaci, kdy mi tedy vlak jede pod trakcí nějaký počet kilometrů a pak odbočí na nějakou regionální trať a může s těmi bateriemi bez problémů 20, 40 km tam a zpátky dojet a zase se vrátit pod ty dráty. Takže to dává smysl. Na jakých tratích třeba se dožijeme i vodíkových trakcí nebo v podstatě náhrady fosilních paliv – nafty za vodík a tam to dává zase, aspoň co máme zkušenosti třeba při jednání s Moravskoslezským krajem, větší efekt, pokud to propojujete a hledáte ty synergie. To znamená, železnice jako taková na vodík někde v horách izolovaně prostě nedává smysl, ale pokud se bavím o Ostravsku a o jejich vodíkovém klastru a o myšlence vodíkového města, to znamená, kdy mají veřejnou linkovou dopravu, MHD, vlaky a všechno by mělo být transformováno do tohoto módu. Tak to dostává naprosto jiný rozměr. Samozřejmě ušetříte extrémní investiční náklady, protože výrobna vodíku je furt stejná, furt nějaký elektrolyzér, většinou, buď tedy se pálí z energetického mixu, nebo lépe z obnovitelných zdrojů, no a pak ty velké investiční náklady rozpouštíte mezi miliony osobokilometrů, vlakokilometrů v rámci celé dopravy třeba celého kraje. Takže myslím si, že jsme teď v takové fázi. Bych skoro nazval to desetiletím, kdy se hledá, která alternativní cesta bude kdy a kde, v jakém čase třeba efektivnější. Protože si myslím, že se dočkáme i nějakých kombinací, kdy některý region bude spíš takový a jiný region jiný.
 
+### Jaké investice do železnice nás čekají
+
+{% include 2050/transcript-time.html time="21:42" %}
+
 {% include 2050/transcript-person.html id="vrtalova" %}
 
 Ještě nějaké další investice, o kterých jste nemluvil a které vás v nejbližších letech jako správu železnic čekají? To budou ty velké výzvy.
@@ -160,6 +176,10 @@ Mám skoro chuť se zeptat, jestli víte, kolik z těch tratí, protože jste ř
 {% include 2050/transcript-person.html id="jiripavel" %}
 
 Analyzovali jsme 123 tratí, které by měly potenciál k elektrizaci. Pokud by se na nich tedy provedla elektrizace, ušetřilo by to cca 80 000 tun CO2 za rok.
+
+### Vysokorychlostní tratě v ČR
+
+{% include 2050/transcript-time.html time="24:27" %}
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
@@ -233,6 +253,10 @@ To se opravdu pak Brno-Praha výrazně víc vyplatí sednout na ten vlak.
 {% include 2050/transcript-person.html id="jiripavel" %}
 
 Určitě, jako to, potom už ty časy začínají být hodně lukrativní.
+
+### Nové typy pohonů a další železniční projekty
+
+{% include 2050/transcript-time.html time="36:06" %}
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
