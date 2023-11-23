@@ -6,13 +6,13 @@ slug:       "55-jiri-pavel-zeleznice"
 redirect_from: "/epizody/55"
 published:  2023-11-22
 summary:    |
-    Železniční doprava má mnohem menší zátěž na životní prostředí než jiné typy přepravy. Naším cílem v kontextu dekarbonizace proto je přesouvat na koleje větší dopravní objemy a ulevit tak emisně náročnějším typům transportu, zejména silniční dopravě.
+    Železniční doprava má mnohem menší zátěž na životní prostředí než jiné typy přepravy. Naším cílem v kontextu dekarbonizace je proto přesouvat na koleje větší dopravní objemy a ulevit tak emisně náročnějším typům transportu, zejména silniční dopravě.
 audioboom:  "8404726"
 guests: [ jiripavel ]
 transcript: true
 ---
 
-V rozhovoru s Jiřím Pavlem, který působí jako ředitel odboru strategie ve Správě Železnic, se bavíme o tom jak budou vypadat české železniční tratě v roce 2050 a jaké vlaky po nich budou jezdit.
+V rozhovoru s Jiřím Pavlem, který působí jako ředitel odboru strategie ve Správě železnic, se bavíme o tom jak budou vypadat české železniční tratě v roce 2050 a jaké vlaky po nich budou jezdit.
 
 V epizodě mimo jiné zazní, jak se proměnila nákladní i osobní železniční doprava za posledních několik desetiletí a jaké výzvy klade na modernizaci i budování nové infrastruktury její pravděpodobný vývoj do budoucna. Dozvíte se také více o plánovaných vysokorychlostních tratích (VRT) a jak zapadají do širšího konceptu hromadné dopravy u nás i v Evropě.
 
@@ -27,7 +27,7 @@ V epizodě mimo jiné zazní, jak se proměnila nákladní i osobní železničn
 {% include 2050/bonus-interview.html
   title="Jiří Pavel: Dekarbonizace dopravy pohledem železničáře"
   audioboom="8404725"
-  spotify="********0HWm1VZkAyHoqtjByVlsDl"
+  spotify="5lXed8CFTmCZqh3AqFhR12"
   caption="Originální nesestříhaný rozhovor jako bonus k 55. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o budoucí podobě české železnice."
 %}
 
@@ -191,7 +191,7 @@ Už jsme dál, než jsou studie. Už soutěžíme dokumentace pro územní rozho
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-To taky zabere tu hodinku nebo… 
+To taky zabere tu hodinku nebo…
 
 {% include 2050/transcript-person.html id="jiripavel" %}
 
@@ -268,9 +268,7 @@ Dneska hodně diskutujeme o nasazení alternativních pohonů. Známe ceny, ales
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-Vy jste zmínil, že se nějaké propojení v rámci Evropy v kontextu s Českem chystá. Třeba Praha a Drážďany. Jsou nějaké větší spoje a projekty na území EU? Jsou další, o kterých víte, že se chystají?
-
-Další propojení nejen z Čech, ale možná i co se týče železnic v Evropě, kde se teď chystají nějaké velké projekty v rámci evropského plánu propojení železnic.
+Vy jste zmínil, že se nějaké propojení v rámci Evropy v kontextu s Českem chystá. Třeba Praha a Drážďany. Jsou nějaké větší spoje a projekty na území EU? Jsou další, o kterých víte, že se chystají? Další propojení nejen z Čech, ale možná i co se týče železnic v Evropě, kde se teď chystají nějaké velké projekty v rámci evropského plánu propojení železnic.
 
 {% include 2050/transcript-person.html id="jiripavel" %}
 
@@ -291,7 +289,6 @@ Jaký je to nyní pro vás ve správě železnic? Být tady v tomto čase velký
 {% include 2050/transcript-person.html id="jiripavel" %}
 
 Tak, já jsem vystudovaný železničář ze střední školy, takže v tomto prostředí žiju od začátku. Je to krásné, být relativně, když řeknu, u toho, když se to mění a být součástí té změny. Člověk si uvědomuje, že i ovlivňuje tu změnu a je i odpovědný za výsledek některých svých projektů, které realizujeme na strategii. Takže mě to baví hrozně moc.
-
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
