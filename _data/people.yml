@@ -60,13 +60,18 @@
 
 - id: brezovska
   name: Romana
-  surname: Březovská
+  surname: Jungwirth Březovská
   description: Asociace pro mezinárodní otázky
 
 - id: kvasnickova
   name: Barbora
   surname: Kvasničková
   description: „Mladá delegátka“ při Organizaci spojených národů
+
+- id: macurova
+  name: Miriam
+  surname: Macurová
+  description: Greenpeace
 
 - id: mullerova
   name: Hana
