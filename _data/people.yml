@@ -353,3 +353,18 @@
   name: Jiří
   surname: Pavel
   description: Správa železnic
+
+- id: matus
+  name: Rudolf
+  surname: Matúš
+  description: Škoda Auto
+
+- id: houba
+  name: Rostislav
+  surname: Houba
+  description: Škoda Auto
+
+- id: grmela
+  name: Pavel
+  surname: Grmela
+  description: Škoda Auto
