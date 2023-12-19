@@ -368,3 +368,8 @@
   name: Pavel
   surname: Grmela
   description: Škoda Auto
+
+- id: bednar
+  name: Peter
+  surname: Bednár
+  description: Architekt a urbanista
