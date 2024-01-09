@@ -373,3 +373,8 @@
   name: Peter
   surname: Bednár
   description: Architekt a urbanista
+
+- id: miko
+  name: Ladislav
+  surname: Miko
+  description: Půdní biolog
