@@ -14,7 +14,7 @@ transcript: true
 
 Náš host, Ladislav Miko, o sobě říká, že je srdcem především půdním biologem a vysokoškolským pedagogem, ale působil také jako ministr životního prostředí, ředitel Evropské komise pro biodiverzitu nebo poradce prezidenta.
 
-Podle něj jsou jedním z problémů intenzivního zemědělství v posledních 70 letech anorganická hnojiva, která vyživují pěstované plodiny, ale už nedodávají nic dalšího, z čeho by mohly žít půdní mikroorganismy. Ty proto musí složitě rozkládat zásoby uložené v půdě, což jednak vede k chudšímu půdnímu prostředí kvůli nedostatku živin a jednak tento proces uvolňuje dlouhodobě uskladněný CO2.
+Podle něj jsou jedním z problémů intenzivního zemědělství v posledních 70 letech anorganická hnojiva, která vyživují pěstované plodiny, ale už nedodávají nic dalšího, z čeho by mohly žít půdní mikroorganismy. Ty proto musí složitě rozkládat zásoby uložené v půdě, což jednak vede k chudšímu půdnímu prostředí kvůli nedostatku živin a jednak tento proces uvolňuje dlouhodobě uskladněný CO<sub>2</sub>.
 
 Jedním z řešení tohoto problému je využití principů regenerativního zemědělství. Důležité je zejména zabezpečit na poli dostatek organické hmoty (hnůj, meziplodiny, atd.) a také, aby na něm nebyla místa vzdálená víc jak 30 m od okraje nebo remízku, což prospívá znovuoživení půdy. V epizodě se dozvíte také o zkušenostech zemědělců s tímto typem hospodaření.
 
