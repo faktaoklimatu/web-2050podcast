@@ -6,7 +6,7 @@ slug:       "59-ladislav-miko-puda"
 redirect_from: "/epizody/59"
 published:  2024-01-10
 summary:    |
-    Půda je naprosto zásadní „orgán“ planety jak pro fungování života tak pro zachytávání a ukládání uhlíku. Když se řekne „půda“, mnozí si možná představí neživou hmotu, ale půda je ve skutečnosti bohatý ekosystém a sama o sobě živý organismus, díky kterému může existovat vše, co v ní žije a roste. Můžeme na ní nahlížet také jako na důležitý přírodní cyklus, který propojuje organismy s živinami a energií.
+    Půda je naprosto zásadní „orgán“ planety jak pro fungování života, tak pro zachytávání a ukládání uhlíku. Když se řekne „půda“, mnozí si možná představí neživou hmotu, ale půda je ve skutečnosti bohatý ekosystém a sama o sobě živý organismus, díky kterému může existovat vše, co v ní žije a roste. Můžeme na ni nahlížet také jako na důležitý přírodní cyklus, který propojuje organismy s živinami a energií.
 audioboom:  "8427357"
 guests: [ miko ]
 transcript: true
@@ -16,7 +16,7 @@ Náš host, Ladislav Miko, o sobě říká, že je srdcem především půdním 
 
 Podle něj jsou jedním z problémů intenzivního zemědělství v posledních 70 letech anorganická hnojiva, která vyživují pěstované plodiny, ale už nedodávají nic dalšího, z čeho by mohly žít půdní mikroorganismy. Ty proto musí složitě rozkládat zásoby uložené v půdě, což jednak vede k chudšímu půdnímu prostředí kvůli nedostatku živin a jednak tento proces uvolňuje dlouhodobě uskladněný CO<sub>2</sub>.
 
-Jedním z řešení tohoto problému je využití principů regenerativního zemědělství. Důležité je zejména zabezpečit na poli dostatek organické hmoty (hnůj, meziplodiny, atd.) a také, aby na něm nebyla místa vzdálená víc jak 30 m od okraje nebo remízku, což prospívá znovuoživení půdy. V epizodě se dozvíte také o zkušenostech zemědělců s tímto typem hospodaření.
+Jedním z řešení tohoto problému je využití principů regenerativního zemědělství. Důležité je zejména zabezpečit na poli dostatek organické hmoty (hnůj, meziplodiny, atd.) a také, aby na něm nebyla místa vzdálená více než 30 m od okraje nebo remízku, což prospívá znovuoživení půdy. V epizodě se dozvíte také o zkušenostech zemědělců s tímto typem hospodaření.
 
 {% include 2050/guest-list.html %}
 
@@ -33,8 +33,7 @@ Jedním z řešení tohoto problému je využití principů regenerativního zem
     Jsme přímými svědky procesu, kdy život na Zemi s nebývalou rychlostí ztrácí svoji pestrost – navždy mizí různé druhy rostlin, živočichů i hub a kvapem ubývá mnoha dalších. Tempo tohoto vymírání je přitom o jeden až dva řády rychlejší než v posledních deseti milionech let. Co přesně se děje a jaké jsou hlavní příčiny tohoto procesu ve světě i v Česku?
 
 * **Explainer [Jak v následujícím století hospodařit v českých lesích?](https://faktaoklimatu.cz/explainery/hospodareni-lesy)** (_Fakta o klimatu_)\\
-Jak zajistit, aby byl les zdravý, odolný a plný života – a zároveň jsme měli možnost jej dál využívat, ať už k produkci dřeva nebo třeba trávení volného času? Text přibližuje funkce lesa a hlavní výzvy před nimiž stojí lesníci v 21. století.
-
+    Jak zajistit, aby byl les zdravý, odolný a plný života – a zároveň jsme měli možnost jej dál využívat, ať už k produkci dřeva nebo třeba trávení volného času? Text přibližuje funkce lesa a hlavní výzvy před nimiž stojí lesníci v 21. století.
 
 </div>
 
@@ -100,13 +99,7 @@ To je málo, protože ty bakterie a houby jsou drobné, takže my se bavíme, ř
 
 {% include 2050/transcript-person.html id="pribyla" %}
 
-Vy jste mluvil o Buchlovských lesích.
-
-Ty znám taky a pak zase černozemně na Hané. 
-
-Ale to, kde jsem fakt vyrostl, bylo sídliště, které bylo čerstvě vybagrované.
-
-A tam tím pádem jako toho moc nerostlo, občas nějaký podběl nebo tak... Je to jiná půda? Ve smyslu toho bahna sídlištního, v čem se liší?
+Vy jste mluvil o Buchlovských lesích. Ty znám taky a pak zase černozemně na Hané. Ale to, kde jsem fakt vyrostl, bylo sídliště, které bylo čerstvě vybagrované. A tam tím pádem jako toho moc nerostlo, občas nějaký podběl nebo tak... Je to jiná půda? Ve smyslu toho bahna sídlištního, v čem se liší?
 
 {% include 2050/transcript-person.html id="miko" %}
 
@@ -128,9 +121,7 @@ Teď je to úplně vesmír pod nohama.
 
 {% include 2050/transcript-person.html id="miko" %}
 
-No, a to je přesně to, co jste teď trefil, protože ta moje přednáška, s kterou jezdím po republice, se jmenuje Vesmír pod nohama.
-
-Zcela nečekaně, protože přesně tak to vnímám.
+No, a to je přesně to, co jste teď trefil, protože ta moje přednáška, s kterou jezdím po republice, se jmenuje Vesmír pod nohama. Zcela nečekaně, protože přesně tak to vnímám.
 
 {% include 2050/transcript-person.html id="holik" %}
 
@@ -306,7 +297,7 @@ Kytka si krmí bakterie, bakterie, kytku.
 
 Přesně tak. A je to prostě výměnný obchod, normální tržiště, které je kolem každého kořene, a tamhle, a to dělá to samé, dělají houby, akorát, že ty houby ještě umí to, že jsou vláknité, že oni nemusí, jakoby, ty živiny shánět v tom místě u toho kořene, ale oni se na ten kořen napojí, tomu se říká mykorhiza, že jo, to jsme slyšeli, a tím vláknem můžou té květině přitáhnout třeba fosfor z metrové vzdálenosti, a ta květina tam nemusí tahat ten kořen, aby ho získala, takže je to pro ni výhodné, nakrmí tu houbu a výměnou dostane zase ten fosfor, který by jinak chyběl.
 
-Nesmí pod našima nohama. No, je to tak. Je. 
+Nesmí pod našima nohama. No, je to tak. Je.
 
 {% include 2050/transcript-person.html id="holik" %}
 
