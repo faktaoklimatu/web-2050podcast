@@ -31,6 +31,9 @@ Důležitou součástí epizody je povídání o využití baterií poté, co do
   caption="Originální nesestříhaný rozhovor jako bonus k 57. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o dekarbonizaci a udržitelnosti podle zástupců Škoda Auto."
 %}
 
+* **Explainer: [Jaký dopad bude mít elektrifikace dopravy na spotřebu elektřiny v ČR?](https://faktaoklimatu.cz/explainery/elektrifikace-dopravy)** (_Fakta o klimatu_)\\
+    Elektroaut přibývá, celosvětově jejich prodej rychle roste. Explainer vysvětluje, jaké bude mít tento trend dopady na spotřebu elektřiny v Česku.
+
 </div>
 
 {% include 2050/transcript-start.html %}

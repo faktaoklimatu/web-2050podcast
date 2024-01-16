@@ -22,12 +22,14 @@ V první epizodě se podíváme na 4 oblasti: (1) Z čeho emise v dopravě poch�
 
 <div class="bonus-material" markdown="1">
 
+* **Explainer: [Jaký dopad bude mít elektrifikace dopravy na spotřebu elektřiny v ČR?](https://faktaoklimatu.cz/explainery/elektrifikace-dopravy)** (_Fakta o klimatu_)\\
+    Elektroaut přibývá, celosvětově jejich prodej rychle roste. Explainer vysvětluje, jaké bude mít tento trend dopady na spotřebu elektřiny v Česku.
+
 * **Infografika [emise skleníkových plynů ČR podle sektorů](https://faktaoklimatu.cz/infografiky/emise-cr)** (_Fakta o klimatu_)\\
   Rozložení celkových emisí skleníkových plynů (v tunách CO<sub>2</sub> ekvivalentu) v ČR za rok 2021 v jednotlivých sektorech lidské činnosti. Roční objem emisí České republiky je 119,41 mil. tun (údaj z roku 2021). V přepočtu na obyvatele to je 11,38 t CO<sub>2</sub>eq/obyvatele.
 
 * **Article [Which form of transport has the smallest carbon footprint?](https://ourworldindata.org/travel-carbon-footprint)** (_Our World in Data_)\\
   If you need to travel – either locally or abroad – what is the lowest-carbon way to do so?
-
 </div>
 
 {% include 2050/transcript-start.html %}

@@ -24,6 +24,9 @@ Dále zazní, jakou roli v této snaze mohou sehrát spolky a místní komunity,
 
 <div class="bonus-material" markdown="1">
 
+* **Explainer: [Jaký dopad bude mít elektrifikace dopravy na spotřebu elektřiny v ČR?](https://faktaoklimatu.cz/explainery/elektrifikace-dopravy)** (_Fakta o klimatu_)\\
+    Elektroaut přibývá, celosvětově jejich prodej rychle roste. Explainer vysvětluje, jaké bude mít tento trend dopady na spotřebu elektřiny v Česku.
+
 * **Průzkum [Česká (ne)transformace 2022](https://www.stem.cz/ceska-netransformace-2022/)** (_STEM, Institut 2050_)
 
 </div>

@@ -31,6 +31,9 @@ Odborným hostem je Michal Hrubý – vědecký pracovník Škoda Auto Vysoké �
   caption="Originální nesestříhaný rozhovor jako bonus k 54. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o alternativách k fosilním palivům a legislativě týkající se dekarbonizace dopravy."
 %}
 
+* **Explainer: [Jaký dopad bude mít elektrifikace dopravy na spotřebu elektřiny v ČR?](https://faktaoklimatu.cz/explainery/elektrifikace-dopravy)** (_Fakta o klimatu_)\\
+    Elektroaut přibývá, celosvětově jejich prodej rychle roste. Explainer vysvětluje, jaké bude mít tento trend dopady na spotřebu elektřiny v Česku.
+
 * **Studie: [A clean shift for EU transport fuels?](https://www.transportenvironment.org/wp-content/uploads/2021/11/TE-Briefing-RED-II-review-Autumn-2021-Final-22.11.2021.pdf)** (_Transport & Environment_)\\
     Studie Transport & Environment zkoumající legislativu EU (_Renewable Energy Directive_) ve vztahu k přechodu na alternativní bezemisní paliva. Zmíněná grafika se nachází na straně 3 v PDF dokumentu.
 
