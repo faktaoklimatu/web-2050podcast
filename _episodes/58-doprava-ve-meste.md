@@ -31,6 +31,9 @@ Hovoří o způsobech, jak podpořit využívání veřejné dopravy nebo mikrom
   caption="Originální nesestříhaný rozhovor jako bonus k 58. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o tom, jak by měla vypadat moderní a udržitelná městská doprava."
 %}
 
+* **Explainer: [Jaký dopad bude mít elektrifikace dopravy na spotřebu elektřiny v ČR?](https://faktaoklimatu.cz/explainery/elektrifikace-dopravy)** (_Fakta o klimatu_)\\
+    Elektroaut přibývá, celosvětově jejich prodej rychle roste. Explainer vysvětluje, jaké bude mít tento trend dopady na spotřebu elektřiny v Česku.
+
 </div>
 
 {% include 2050/transcript-start.html %}
