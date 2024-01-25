@@ -378,3 +378,18 @@
   name: Ladislav
   surname: Miko
   description: Půdní biolog
+
+- id: brzezyna
+  name: Jáchym
+  surname: Brzezyna
+  description: Český hydrometeorologický ústav
+
+- id: grabovsky
+  name: Matěj
+  surname: Grabovský
+  description: Fakta o klimatu
+
+- id: stajer
+  name: Zbyněk
+  surname: Štajer
+  description: Fakta o klimatu
