@@ -9,6 +9,12 @@ slug: epizody
 
 <p class="lead">Zde najdete přehled všech epizod podcastu 2050.</p>
 
+<div class="tags-overview d-flex flex-column flex-md-row mt-4">
+  <p>Témata, kterým se podcast věnuje:</p>
+  {% assign all-tags = site.data.tags | map: "id" %}
+  {% include 2050/tags.html tags=all-tags link="true" highlighted=tag.id %}
+</div>
+
 </div></div>
 
 {% assign sorted_episodes = site.episodes | sort: 'number' | reverse %}
