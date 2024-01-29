@@ -9,6 +9,7 @@ summary:    |
     Klimatická konference COP 28 se konala ve Spojených arabských emirátech. Obě naše hostky se na konferenci samy nacházely, díky čemuž jsme měli možnost nahlédnout přímo do místa dění.
 audioboom:  "8413452"
 guests: [ brezovska, macurova ]
+tags:       [ politika ]
 transcript: false
 ---
 S Miriam Macurovou (Greenpeace) a Romanou Jungwirth Březovskou (AMO, Czech Globe) jsme v živě vysílaném rozhovoru diskutovali, jakých dohod se zatím na COPu podařilo dosáhnout a jak vůbec vypadá prostředí této významné každoroční konference států celého světa.

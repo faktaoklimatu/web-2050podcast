@@ -9,6 +9,7 @@ summary:    |
     Železniční doprava má mnohem menší zátěž na životní prostředí než jiné typy přepravy. Naším cílem v kontextu dekarbonizace je proto přesouvat na koleje větší dopravní objemy a ulevit tak emisně náročnějším typům transportu, zejména silniční dopravě.
 audioboom:  "8404726"
 guests: [ jiripavel ]
+tags:       [ doprava ]
 transcript: true
 ---
 

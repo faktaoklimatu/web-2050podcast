@@ -9,6 +9,7 @@ summary:    |
     Elektřina, vodík a syntetická paliva jsou tři hlavní alternativy, jak v dopravě nahradit paliva vyráběná z ropy. V této epizodě se na ně podíváme podrobně od výroby přes distribuci až po využití v různých typech dopravních prostředků.
 audioboom:  "8396531"
 guests: [ hruby, tengler ]
+tags:       [ doprava ]
 transcript: true
 ---
 
