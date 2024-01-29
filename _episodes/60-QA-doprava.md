@@ -1,19 +1,19 @@
 ---
 layout:     episode
-title:      "QA na téma Doprava"
+title:      "Q&A na téma Doprava"
 number:     60
 slug:       "60-QA-doprava"
 redirect_from: "/epizody/60"
-published:  2024-01-25
+published:  2024-01-29
 summary:    |
       V závěrečné epizodě dopravní série odpovídáme na vaše dotazy. Zajímala vás témata týkající se elektroaut a související infrastruktury, potenciální překážky v dekarbonizaci dopravy nebo zda elektromobilita nepřináší jiná rizika – třeba v podobě velmi malých prachových částic.
 audioboom:  "8445336"
-guests: [ grabovsky, stajer, brzezina]
+guests: [ grabovsky, stajer, brzezina ]
 transcript: true
 ---
 Zaměřili jsme se zejména na otázky, jejichž zodpovězení může být podle nás přínosné pro většinu posluchačů.
 
-Diskutovat více do hloubky spolu můžeme také v naší Facebookové skupině [„Komunita 2050”](https://www.facebook.com/groups/1384635612450003). Připojte se, budeme rádi, když nás podcast nebude jen jednosměrným vysílacím kanálem.
+Diskutovat více do hloubky spolu můžeme také v naší Facebookové skupině ["Komunita 2050"](https://www.facebook.com/groups/1384635612450003). Připojte se, budeme rádi, když náš podcast nebude jen jednosměrným vysílacím kanálem.
 
 Pro lepší orientaci přidáváme časy jednotlivých otázek:
 
@@ -22,12 +22,12 @@ Pro lepší orientaci přidáváme časy jednotlivých otázek:
 - __07:37__ – Máme v Česku dostatečnou infrastrukturu pro přechod na elektroauta?
 - __12:08__ – Je pravda, že emise z otěru brzd a pneumatik jsou u elektrických vozidel větší?
 - __14:46__ – Co už dnes mohou města dělat, aby nachystala ideální podmínky pro udržitelnou dopravu?
-- __16:55__ – Jaké škodlivé látky produkuje doprava kromě CO2 a co způsobují?
+- __16:55__ – Jaké škodlivé látky produkuje doprava kromě CO<sub>2</sub> a co způsobují?
 - __24:53__ – Není problém s tím, že čím novější motor, tím menší a potenciálně škodlivější prachové částice může mít na svědomí?
 - __26:51__ – Jak je to s měřením čím dál menších částic?
 - __28:14__ – Ovlivňuje množství emisí nebo případně jejich charakter to, jak rychle auto jede?
 - __30:49__ – Jak se liší emise automobilů se spalovacím motorem a elektromobilů?
-- __32:22__ – Byl do výpočtu emisí CO2 z výroby elektroauta zmíněného v jedné z minulých epizod zahrnut fakt, že většina bateriových článků je vyráběna v Číně, kde velký podíl elektřiny pochází z uhlí?
+- __32:22__ – Byl do výpočtu emisí CO<sub>2</sub> z výroby elektroauta zmíněného v jedné z minulých epizod zahrnut fakt, že většina bateriových článků je vyráběna v Číně, kde velký podíl elektřiny pochází z uhlí?
 - __33:22__ – Existují nějaké velké, těžko překonatelné překážky pro kompletní dekarbonizaci dopravy?
 
 {% include 2050/guest-list.html %}
@@ -38,14 +38,14 @@ Pro lepší orientaci přidáváme časy jednotlivých otázek:
 
 <div class="bonus-material" markdown="1">
 
-* **Článek [The race to decarbonize electric-vehicle batteries](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-race-to-decarbonize-electric-vehicle-batteries)** (_McKinsey_)\\
-  Text se zabývá důvody, proč je výroba baterií pro elektromobily emisně náročná a co lze udělat pro snížení její uhlíkové stopy.
+* **Článek [The race to decarbonize electric-vehicle batteries](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-race-to-decarbonize-electric-vehicle-batteries)** (_McKinsey & Company_)\\
+    Text se zabývá důvody, proč je výroba baterií pro elektromobily emisně náročná a co lze udělat pro snížení její uhlíkové stopy.
 
 * **Explainer: [Jaký dopad bude mít elektrifikace dopravy na spotřebu elektřiny v ČR?](https://faktaoklimatu.cz/explainery/elektrifikace-dopravy)** (_Fakta o klimatu_)\\
     Elektroaut přibývá, celosvětově jejich prodej rychle roste. Explainer vysvětluje, jaké bude mít tento trend dopady na spotřebu elektřiny v Česku.
 
-* **Studie [PM10 and PM2.5 emission factors for non-exhaust particles from road vehicles: Dependence upon vehicle mass and implications for battery electric vehicles](https://www.sciencedirect.com/science/article/abs/pii/S1352231020306208)** (_Fakta o klimatu_)\\
-   V dokumentu najdete mimo jiné porovnání aut se spalovacím motorem a elektroaut z hlediska emisí částic PM10 a PM2,5 z oděru (brzdy, pneumatiky a opotřebení povrchu vozovky).
+* **Studie [PM10 and PM2.5 emission factors for non-exhaust particles from road vehicles: Dependence upon vehicle mass and implications for battery electric vehicles](https://www.sciencedirect.com/science/article/abs/pii/S1352231020306208)** (_Atmospheric Environment_)\\
+    V dokumentu najdete mimo jiné porovnání aut se spalovacím motorem a elektroaut z hlediska emisí částic PM<sub>10</sub> a PM<sub>2,5</sub> z otěru (brzdy, pneumatiky a opotřebení povrchu vozovky).
 
 {% include 2050/transcript-start.html %}
 
@@ -201,7 +201,7 @@ Platí to obecně z fyzikálních principů, ale když využíváš tu rekuperac
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Tak jo. Díky moc. 
+Tak jo. Díky moc.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
@@ -245,31 +245,31 @@ A bohužel tedy někdy úplně jako nepotěším. Řekl jim třeba, že to, co t
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Já bych se ještě chtěl zeptat na ty pevné částice a konkrétně, protože se nám to bude hodit k těm dalším otázkám. Viděl jsem nějaké rozlišení: PM1, PM2,5, PM10. Dokázal bys vysvětlit tady tuhle klasifikaci? Co to znamená?
+Já bych se ještě chtěl zeptat na ty pevné částice a konkrétně, protože se nám to bude hodit k těm dalším otázkám. Viděl jsem nějaké rozlišení: PM<sub>1</sub>, PM<sub>2,5</sub>, PM<sub>10</sub>. Dokázal bys vysvětlit tady tuhle klasifikaci? Co to znamená?
 
 {% include 2050/transcript-person.html id="brzezina" %}
 
 Ty částice jsou specifické tím, že na rozdíl od všech těch ostatních znečišťujících látek nejsou definovány nějakou konkrétní chemickou strukturou, to znamená, máme oxid dusičitý NO<sub>2</sub>, oxid siřičitý SO<sub>2</sub>... Částice jsou vlastně definované jakožto nějaký aerosol, to znamená pevná nebo kapalná částečka v ovzduší, a to jejich rozdělení závisí na jejich velikosti, ono striktně řečeno, je to nějaký aerodynamický průměr, což je ale víceméně nějaký koncept, který vyjadřuje velikost, je to z toho důvodu, že vlastně ty zdravotní dopady těch částic se primárně odvíjí od jejich velikosti a potom samozřejmě od jejich složení. Pokud je to částice větší než zhruba nějakých 10 µm, tak se spíše zachytí někde na nějaké sliznici. To si dokážeme představit, když jdeme do nějakého prašného prostředí, začneme slzet, kašlat, smrkat. Ta částice se někde zachytila, tudíž jakoby to naše tělo se jí snaží zbavit a svým způsobem, byť je to v tu chvíli pro nás nepříjemné, tak nám to z nějakého dlouhodobého hlediska nebude škodit, protože i kdyby tam byl nějaký kov na tom zachycený, tak se vlastně do toho těla nedostane.
 
-To, co my měříme, jsou ty největší částice, které jsou označované právě jako PM10, což znamená, že jsou to všechny částice o velikosti do 10 µm, což už je tedy zhruba sedmkrát méně než je průměr lidského vlasu a je to něco, co člověk nevidí, takže laicky řečeno, všechen prach, který vidíme, my už neměříme, všechno, co měříme, není vidět. A potom samozřejmě my můžeme stanovovat ty velikosti jakkoliv, my můžeme říct klidně PM3. Budou to částice do 3 µm, ale obecně se používá tedy nejčastěji PM10, PM2,5 a PM1. Je to z toho důvodu, že tady ty hranice byly zase nějakým způsobem experimentálně zjištěny jako hranice, kdy třeba u PM10 se říká, že se dostávají do horních cest dýchacích, PM2,5 do dolních cest dýchacích, potom můžeme mít úplně ty nejmenší nějaké nanočástice, které třeba pronikají až přímo do krevního oběhu. A až teprve v tu chvíli nás bude vlastně zajímat, co ta částice obsahuje.
+To, co my měříme, jsou ty největší částice, které jsou označované právě jako PM<sub>10</sub>, což znamená, že jsou to všechny částice o velikosti do 10 µm, což už je tedy zhruba sedmkrát méně než je průměr lidského vlasu a je to něco, co člověk nevidí, takže laicky řečeno, všechen prach, který vidíme, my už neměříme, všechno, co měříme, není vidět. A potom samozřejmě my můžeme stanovovat ty velikosti jakkoliv, my můžeme říct klidně PM<sub>3</sub>. Budou to částice do 3 µm, ale obecně se používá tedy nejčastěji PM<sub>10</sub>, PM<sub>2,5</sub> a PM<sub>1</sub>. Je to z toho důvodu, že tady ty hranice byly zase nějakým způsobem experimentálně zjištěny jako hranice, kdy třeba u PM<sub>10</sub> se říká, že se dostávají do horních cest dýchacích, PM<sub>2,5</sub> do dolních cest dýchacích, potom můžeme mít úplně ty nejmenší nějaké nanočástice, které třeba pronikají až přímo do krevního oběhu. A až teprve v tu chvíli nás bude vlastně zajímat, co ta částice obsahuje.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Tak já půjdu rovnou do nějakých konkrétních otázek, které už nám přišly do Q&A epizody a navazuje to právě na to, o čem jsme se bavili. A ta jedna z nich se ptá na tohle: Není problém s tím, že čím novější motor, tím menší prachové částice a tím více škodlivější emise pronikají do krevního řečiště nebo do mozku? Jestli tedy v novějších motorech právě nejsou víc těch jako PM1, jedna nebo těch úplně nejmenších částic.
+Tak já půjdu rovnou do nějakých konkrétních otázek, které už nám přišly do Q&A epizody a navazuje to právě na to, o čem jsme se bavili. A ta jedna z nich se ptá na tohle: Není problém s tím, že čím novější motor, tím menší prachové částice a tím více škodlivější emise pronikají do krevního řečiště nebo do mozku? Jestli tedy v novějších motorech právě nejsou víc těch jako PM<sub>1</sub>, jedna nebo těch úplně nejmenších částic.
 
 {% include 2050/transcript-person.html id="brzezina" %}
 
-Ne, není to tak. Samozřejmě, že je faktem, že byla tady řeč například o těch otěrech brzdových destiček, otěru pneumatik u moderního vozu. Jsou zase na to různé studie, ale obecně se říká, že ty tzv. výfukové emise, to znamená, to jsou právě ty otěry, dělají nějakých 60–80 % u těch, u těch nových automobilů celkového množství těch částic, ale z otěrů jsou to právě primárně spíš ty větší částice nepravidelného tvaru, naopak to, co jde z těch spalovacích procesů, to jsou spíše ty menší. My je sice řadíme do PM2,5, protože jsou to ty malé, ale oni jsou ve skutečnosti ještě mnohem menší než 2,5 mikrometru, proto samozřejmě můžou mít nějaký závažný dopad na zdraví. Takže není to jenom o tom, že když řekneme, že koncentrace byla taková, tak ještě potom právě záleží na tom, co vlastně to za částice, a to složení těch částic, z těch výfukových plynů je odlišné než to, co máme z otěru pneumatik a brzd.
+Ne, není to tak. Samozřejmě, že je faktem, že byla tady řeč například o těch otěrech brzdových destiček, otěru pneumatik u moderního vozu. Jsou zase na to různé studie, ale obecně se říká, že ty tzv. výfukové emise, to znamená, to jsou právě ty otěry, dělají nějakých 60–80 % u těch, u těch nových automobilů celkového množství těch částic, ale z otěrů jsou to právě primárně spíš ty větší částice nepravidelného tvaru, naopak to, co jde z těch spalovacích procesů, to jsou spíše ty menší. My je sice řadíme do PM<sub>2,5</sub>, protože jsou to ty malé, ale oni jsou ve skutečnosti ještě mnohem menší než 2,5 µm, proto samozřejmě můžou mít nějaký závažný dopad na zdraví. Takže není to jenom o tom, že když řekneme, že koncentrace byla taková, tak ještě potom právě záleží na tom, co vlastně to za částice, a to složení těch částic, z těch výfukových plynů je odlišné než to, co máme z otěru pneumatik a brzd.
 
-Třeba, ale v zásadě ten spalovací proces je tam jakoby stejný, tam se mění spíše právě to absolutní množství. Teď od těch nejnovějších emisních norem vlastně se hledí i na počet částic, je to z toho důvodu, že obecně, když udáváme koncentraci, tak je to vlastně nějaké množství váhy na objem. Problém u tých malých částic je, že ony mohou mít relativně malou váhu, protože jsou prostě malé, ale mají třeba velký povrch, což je potom problematické z hlediska těch zdravotních dopadů, takže proto se tam právě zavedlo i nějaký ten limit na ten počet těch částic, protože vlastně 10 malých částic třeba, řekněme, a jedna velká, které mohou mít stejnou hmotnost, tak ten potom dopad tam může být značně odlišný, ale není to tak, že by ty moderní vozy měly menší částice?
+Třeba, ale v zásadě ten spalovací proces je tam jakoby stejný, tam se mění spíše právě to absolutní množství. Teď od těch nejnovějších emisních norem vlastně se hledí i na počet částic, je to z toho důvodu, že obecně, když udáváme koncentraci, tak je to vlastně nějaké množství váhy na objem. Problém u těch malých částic je, že ony mohou mít relativně malou váhu, protože jsou prostě malé, ale mají třeba velký povrch, což je potom problematické z hlediska těch zdravotních dopadů, takže proto se tam právě zavedlo i nějaký ten limit na ten počet těch částic, protože vlastně 10 malých částic třeba, řekněme, a jedna velká, které mohou mít stejnou hmotnost, tak ten potom dopad tam může být značně odlišný, ale není to tak, že by ty moderní vozy měly menší částice?
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Další otázka, která přišla, zní takhle: Jak je to s měřením těchhle čím dál menších částic? Jestli jsou nová zařízení schopná měřit právě i ty částice menší než PM1, nebo ta otázka se ptá, nebo žijeme v nějaké sladké nevědomosti, že emise zdá se klesají, ale je to jenom tím, že neumíme měřit dostatečně malé částice. Tak jestli bys tohle mohl odpovědět.
+Další otázka, která přišla, zní takhle: Jak je to s měřením těchhle čím dál menších částic? Jestli jsou nová zařízení schopná měřit právě i ty částice menší než PM<sub>1</sub>, nebo ta otázka se ptá, nebo žijeme v nějaké sladké nevědomosti, že emise zdá se klesají, ale je to jenom tím, že neumíme měřit dostatečně malé částice. Tak jestli bys tohle mohl odpovědět.
 
 {% include 2050/transcript-person.html id="brzezina" %}
 
-Tak první, co bych na to řekl, je, že vlastně z toho, co jsem již říkal, vyplývá, že vlastně částice PM 2,5 nejsou částice o velikosti 2,5 mikrometru, ale do 2,5 mikrometru, jinými slovy vlastně všechny ty částice, které jsou menší než 2,5 mikrometru, se tam jakoby započítávají, takže kdyby byla částice o velikosti 1 µm, tak by tam byla započítaná, takže to není tak, že to vlastně neměříme navíc, ano, ty technologie jdou dopředu, nějakých 30 let zpátky se víceméně měřil nějaký celkový prach, pak se začaly měřit částice PM10, PM2,5, PM1. Dnes  už máme na ČHMÚ i v rámci nějaké, řekněme, spíše zatím experimentálního výzkumu i stanice, které dokáží detekovat částice o velikosti jednotek nanometrů, což jsou opravdu už ty úplně nejmenší a máme zatím čtyři stanice, takže, takže určitě v tomto směru je ta situace neustále lepší, protože samozřejmě i tohle jde dopředu, ale my tušíme, co se děje a není to úplně tak, že bychom žili v nějaké nevědomosti.
+Tak první, co bych na to řekl, je, že vlastně z toho, co jsem již říkal, vyplývá, že vlastně částice PM<sub>2,5</sub> nejsou částice o velikosti 2,5 µm, ale do 2,5 µm, jinými slovy vlastně všechny ty částice, které jsou menší než 2,5 µm, se tam jakoby započítávají, takže kdyby byla částice o velikosti 1 µm, tak by tam byla započítaná, takže to není tak, že to vlastně neměříme navíc, ano, ty technologie jdou dopředu, nějakých 30 let zpátky se víceméně měřil nějaký celkový prach, pak se začaly měřit částice PM<sub>10</sub>, PM<sub>2,5</sub>, PM<sub>1</sub>. Dnes  už máme na ČHMÚ i v rámci nějaké, řekněme, spíše zatím experimentálního výzkumu i stanice, které dokáží detekovat částice o velikosti jednotek nanometrů, což jsou opravdu už ty úplně nejmenší a máme zatím čtyři stanice, takže, takže určitě v tomto směru je ta situace neustále lepší, protože samozřejmě i tohle jde dopředu, ale my tušíme, co se děje a není to úplně tak, že bychom žili v nějaké nevědomosti.
 
 {% include 2050/transcript-person.html id="holik" %}
 
@@ -295,7 +295,7 @@ Já ti moc děkuju za rozhovor.
 
 {% include 2050/transcript-person.html id="brzezina" %}
 
-Děkuju za pozvání. 
+Děkuju za pozvání.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
