@@ -1,6 +1,6 @@
 <div class="tags">
   {% for tag_id in include.tags %}
-  {% assign tag = site.data.tags | find: "id", tag_id %}
-  <a href="/temata/{{ tag_id }}" class="badge badge-tag tag-{{ tag.id }}">{{ tag.long-name }}</a>
+  {% assign this-tag = site.data.tags | find: "id", tag_id %}
+  <a href="/temata/{{ tag_id }}/" class="badge badge-tag tag-{{ this-tag.id }}{% if include.highlighted == tag_id %} badge-tag-highlight{% endif %}">{{ this-tag.long-name }}</a>
   {% endfor %}
 </div>

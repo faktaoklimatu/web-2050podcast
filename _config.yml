@@ -89,7 +89,7 @@ jekyll-archives:
   enabled: [ tags ]
   layout: tag
   permalinks:
-    tag: /temata/:name
+    tag: /temata/:name/
   collections:
     merge_tags: true
 
