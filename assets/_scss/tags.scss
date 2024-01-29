@@ -1,19 +1,22 @@
 /* Tag link and tag archive page */
 
-#page-tag .intro {
-    min-height: 10rem;
+.tags {
+    margin-bottom: 1rem;
 }
 
 .badge-tag {
     --tag-color: $c-black;
+    padding: 0.25em 0.6em;
     color: $c-white;
     background-color: var(--tag-color);
+    border-radius: 1em;
+    text-decoration: none;
 
     &.tag-doprava { --tag-color: #ebb577; color: $c-black; }
     &.tag-ekonomika { --tag-color: #2ea69a; }
     &.tag-energetika { --tag-color: #4960a6; }
     &.tag-klima { --tag-color: #bf2c53; }
-    &.tag-krajina { --tag-color: #77cfd9; color: $c-black; }
+    &.tag-krajina { --tag-color: #1bac7d; }
     &.tag-politika { --tag-color: #4e3679; }
     &.tag-prumysl { --tag-color: #6093bf; }
     &.tag-spolecnost { --tag-color: #7bd6de; color: $c-black; }
@@ -23,8 +26,22 @@
         opacity: 0.7;
     }
 
-    &.tag-doprava:hover, &.tag-krajina:hover, &.tag-spolecnost:hover {
+    &.tag-doprava:hover, &.tag-spolecnost:hover {
         color: $c-black;
+    }
+}
+
+#page-tag .intro .tags {
+    .badge-tag {
+        font-size: 0.9rem;
+        line-height: 1.2rem;
+        margin-right: 0.4rem;
+        margin-bottom: 0.6rem;
+        padding: 0.4em 0.6em;
+    }
+
+    .badge-tag-highlight {
+        box-shadow: 0 0 .5rem var(--tag-color);
     }
 }
 
