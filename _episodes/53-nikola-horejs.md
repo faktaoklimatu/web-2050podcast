@@ -11,6 +11,7 @@ summary:    |
     Z průzkumů vyplývá, že je česká společnost ve vztahu k elektromobilitě a dekarbonizaci nerozhodnutá a zároveň poměrně nedůvěřivá. V rozhovoru se bavíme o tom, jaké faktory by napomohly tomu, aby byla transformace na nízkouhlíkovou ekonomiku přijímána kladněji.
 audioboom:  "8390063"
 guests: [ horejs ]
+tags:       [ spolecnost, doprava ]
 transcript: true
 ---
 

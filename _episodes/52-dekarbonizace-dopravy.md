@@ -9,6 +9,7 @@ summary:    |
       Doprava je třetím největším zdrojem emisí CO<sub>2</sub> v Česku. Zároveň je ale jednou ze základních potřeb dnešní společnosti. V nové sérii se budeme věnovat právě transformaci dopravního odvětví a otázce, jak ji provést takovým způsobem, aby zůstaly naplněny naše požadavky na mobilitu a zároveň jsme co nejméně zatěžovali životní prostředí a nepřispívali ke změně klimatu.
 audioboom:  "8382558"
 guests: []
+tags:       [ doprava ]
 transcript: true
 ---
 
