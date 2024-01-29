@@ -1,51 +1,43 @@
-# id: používá se v metadatech objektu (tags-scopes, tags-topics)
-# short-name: používá se v zobrazovaných tématech
-# long-name: používá se v nadpisech
+# id: používá se v metadatech objektu (položka "tags")
+# long-name: používá se v textu štítku a v nadpisech
+# description: krátký popis na stránce štítku
 
 - id: klima
-  short-name: klima
   long-name: klimatická změna
   description: |
     Fyzikální podstata klimatické změny, informace o trendech, teplotách, extrémech počasí aj.
 
 - id: energetika
-  short-name: energetika
   long-name: energetika
   description: |
     Transformace a dekarbonizace výroby elektřiny a tepla.
 
 - id: prumysl
-  short-name: průmysl
   long-name: průmysl
   description: |
     Transformace a dekarbonizace průmyslových odvětví jako např. výroby oceli a cementu.
 
 - id: doprava
-  short-name: doprava
   long-name: doprava
   description: |
     Transformace dopravy, elektromobilita, využití vodíku a jiných alternativních paliv.
 
 - id: ekonomika
-  short-name: ekonomika
   long-name: ekonomika a finance
   description: |
     Ekonomické souvislosti klimatických změn, klimatické finance, EU fondy, investice, transformace finančního sektoru aj.
 
 - id: politika
-  short-name: politika
   long-name: politika a legislativa
   description: |
     Legislativní aspekty klimatické změny, mezinárodní dohody, konference COP, zelená politika EU aj.
 
 - id: krajina
-  short-name: krajina
   long-name: krajina a zemědělství
   description: |
     Péče o krajinu, transformace zemědělství, lesnictví a hospodaření s vodou, ochrana přirody a biodiverzity.
 
 - id: spolecnost
-  short-name: společnost
   long-name: společnost
   description: |
     Psychologické, sociologické a spirituální aspekty klimatické změny, klima v umění aj.
