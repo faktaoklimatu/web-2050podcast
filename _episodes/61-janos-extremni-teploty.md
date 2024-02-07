@@ -6,18 +6,17 @@ slug:       "61-janos-extremni-teploty"
 redirect_from: "/epizody/61"
 published:  2024-02-07
 summary:    |
-      V závěrečné epizodě dopravní série odpovídáme na vaše dotazy. Zajímala vás témata týkající se elektroaut a související infrastruktury, potenciální překážky v dekarbonizaci dopravy nebo zda elektromobilita nepřináší jiná rizika – třeba v podobě velmi malých prachových částic.
+      Studie vědců z Masarykovy Univerzity zkoumala vliv extrémních teplot na úmrtnost v ČR a potvrdila světová data o důsledcích neobvykle nízkých i vysokých teplot v podobě zvýšené úmrtnosti.
 audioboom:  "8454091"
 guests: [janos]
 tags:       [ klima, spolecnost ]
 transcript: true
 ---
-Zaměřili jsme se zejména na otázky, jejichž zodpovězení může být podle nás přínosné pro většinu posluchačů.
+Náš host, který na studii pracoval, zmiňuje, že velký problém tkví v tom, že člověk se horku přizpůsobuje hůře než chladu. Protože v ČR přibývá výjimečně teplých dní, zatímco těch extrémně chladných ubývá, dá se očekávat další nárůst s nimi spojených potíží.
 
-Diskutovat více do hloubky spolu můžeme také v naší Facebookové skupině ["Komunita 2050"](https://www.facebook.com/groups/1384635612450003). Připojte se, budeme rádi, když náš podcast nebude jen jednosměrným vysílacím kanálem.
+Bavíme se také o tom, jaké adaptační mechanismy můžeme uplatňovat, abychom mírnili následky čím dál častějších vln veder a jak ochránit skupiny, které jsou extrémními teplotami více ohrožené (např. staré lidi).
 
-Pro lepší orientaci přidáváme časy jednotlivých otázek:
-
+Pokud bychom například zvýšili pokrytí městských ploch zelení na 30%, mohli bychom zabránit až jedné třetině souvisejících úmrtí. Značně by nám pomohl také systém včasného varování pro rizikové skupiny.
 
 {% include 2050/guest-list.html %}
 
@@ -27,14 +26,24 @@ Pro lepší orientaci přidáváme časy jednotlivých otázek:
 
 <div class="bonus-material" markdown="1">
 
-* **Článek [The race to decarbonize electric-vehicle batteries](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-race-to-decarbonize-electric-vehicle-batteries)** (_McKinsey & Company_)\\
-    Text se zabývá důvody, proč je výroba baterií pro elektromobily emisně náročná a co lze udělat pro snížení její uhlíkové stopy.
+* **Infografika: [Jaký vliv má klimatická změna na extrémy počasí](https://faktaoklimatu.cz/infografiky/vliv-klimatu-na-extremy?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
+    V důsledku změny klimatu jsou extrémní meteorologické události v mnoha oblastech světa stále častější a intenzivnější. Pravděpodobnost výskytu však nestoupá u všech extrémů stejně a navíc se v některých částech světa změny projevují více než jinde.
 
-* **Explainer: [Jaký dopad bude mít elektrifikace dopravy na spotřebu elektřiny v ČR?](https://faktaoklimatu.cz/explainery/elektrifikace-dopravy)** (_Fakta o klimatu_)\\
-    Elektroaut přibývá, celosvětově jejich prodej rychle roste. Explainer vysvětluje, jaké bude mít tento trend dopady na spotřebu elektřiny v Česku.
+* **Explainer: [Jak souvisí extrémní počasí v Česku s klimatickou změnou?](https://faktaoklimatu.cz/explainery/vliv-klimatu-na-extremy-cesko?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
+    V tomto textu komentují čeští odborníci příklady extrémních meteorologických jevů z nedávné doby.
 
-* **Studie [PM10 and PM2.5 emission factors for non-exhaust particles from road vehicles: Dependence upon vehicle mass and implications for battery electric vehicles](https://www.sciencedirect.com/science/article/abs/pii/S1352231020306208)** (_Atmospheric Environment_)\\
-    V dokumentu najdete mimo jiné porovnání aut se spalovacím motorem a elektroaut z hlediska emisí částic PM<sub>10</sub> a PM<sub>2,5</sub> z otěru (brzdy, pneumatiky a opotřebení povrchu vozovky).
+* **Infografika: [Jaký vliv má klimatická změna na extrémy počasí](https://faktaoklimatu.cz/infografiky/vliv-klimatu-na-extremy?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
+    V důsledku změny klimatu jsou extrémní meteorologické události v mnoha oblastech světa stále častější a intenzivnější. Pravděpodobnost výskytu však nestoupá u všech extrémů stejně a navíc se v některých částech světa změny projevují více než jinde.
+
+* **Analýza: [Jak se mění počet extrémně teplých a extrémně studených dní v Česku?](https://faktaoklimatu.cz/explainery/teplotni-extremy-cr)** (_Fakta o klimatu_)\\
+    Mění se počet výjimečně teplých dní, nebo je jich víceméně stejně jako dříve? A jak je to s výjimečně chladnými dny?
+
+* **Publikace: [Extrémy počasí a klimatická změna](https://faktaoklimatu.cz/studie/2022-extremy-pocasi-a-klimaticka-zmena?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
+    Příručka pro novináře, jak mluvit a psát o klimatické změně a jakým chybám se při tom vyhnout. Verze ke stažení.
+
+* **Publikace: [EExtrémy počasí a klimatická změna. Jak o nich mluvit a psát](https://faktaoklimatu.cz/explainery/vliv-klimatu-na-extremy-prirucka?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
+    Webová verze výše uvedené příručky.
+
 
 {% include 2050/transcript-start.html %}
 
