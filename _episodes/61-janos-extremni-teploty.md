@@ -32,16 +32,13 @@ Pokud bychom například zvýšili pokrytí městských ploch zelení na 30%, mo
 * **Explainer: [Jak souvisí extrémní počasí v Česku s klimatickou změnou?](https://faktaoklimatu.cz/explainery/vliv-klimatu-na-extremy-cesko?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
     V tomto textu komentují čeští odborníci příklady extrémních meteorologických jevů z nedávné doby.
 
-* **Infografika: [Jaký vliv má klimatická změna na extrémy počasí](https://faktaoklimatu.cz/infografiky/vliv-klimatu-na-extremy?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
-    V důsledku změny klimatu jsou extrémní meteorologické události v mnoha oblastech světa stále častější a intenzivnější. Pravděpodobnost výskytu však nestoupá u všech extrémů stejně a navíc se v některých částech světa změny projevují více než jinde.
-
 * **Analýza: [Jak se mění počet extrémně teplých a extrémně studených dní v Česku?](https://faktaoklimatu.cz/explainery/teplotni-extremy-cr)** (_Fakta o klimatu_)\\
     Mění se počet výjimečně teplých dní, nebo je jich víceméně stejně jako dříve? A jak je to s výjimečně chladnými dny?
 
 * **Publikace: [Extrémy počasí a klimatická změna](https://faktaoklimatu.cz/studie/2022-extremy-pocasi-a-klimaticka-zmena?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
     Příručka pro novináře, jak mluvit a psát o klimatické změně a jakým chybám se při tom vyhnout. Verze ke stažení.
 
-* **Publikace: [EExtrémy počasí a klimatická změna. Jak o nich mluvit a psát](https://faktaoklimatu.cz/explainery/vliv-klimatu-na-extremy-prirucka?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
+* **Publikace: [Extrémy počasí a klimatická změna. Jak o nich mluvit a psát](https://faktaoklimatu.cz/explainery/vliv-klimatu-na-extremy-prirucka?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
     Webová verze výše uvedené příručky.
 
 
