@@ -49,274 +49,218 @@ Pokud bychom například zvýšili pokrytí městských ploch zelení na 30%, mo
 
 _Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce._
 
-{% include 2050/transcript-person.html id="vrtalova" %}
+{% include 2050/transcript-person.html id="holik" %}
 
 Vážení a milí posluchači, vítejte u další epizody podcastu 2050.
 
+{% include 2050/transcript-person.html id="vrtalova" %}
+
+Dnes si budeme povídat o vlivu extrémních teplot na lidské zdraví a o tom, kolik lidí umírá příčinou vln veder, kterých je kvůli změně klimatu čím dál více a jsou intenzivnější než dříve.
+
 {% include 2050/transcript-person.html id="holik" %}
 
-My tady už oficiálně uzavíráme dopravní sérii podcastu a uzavíráme ji epizodou, kterou jste nám pomohli vytvořit vy, protože se sešly otázky, na které my se teďka budeme snažit odpovědět v téhle té Q&A epizodě, která se zabývá dekarbonizací dopravy.
+Možná si říkáte, že epizody s podobným obsahem jsme tu už měli. Tentokrát bude řeč specificky o českém kontextu. A jak zasahují vlny veder českou populaci? Právě na toto téma totiž vědci z brněnské Masarykovy univerzity nedávno dokončili unikátní výzkum.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-Otázek se nám sešla celá řada, my jsme se rozhodli vybrat takové, které si myslíme, že budou zajímat co nejvíce posluchačů, a odpovídat na ně budeme my a několik expertů, které jsme si na to pozvali.
+Řeč bude o tom, jaké skupiny jsou u nás vlivem vysokých nebo i nízkých teplot nejvíce ohroženy, ve kterých regionech Česka je situace nejzávažnější a jaké mechanismy mohou pomoci zmírnit negativní dopady veder na naše zdraví.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Než vám je představíme, chtěli bychom vám ještě jednou mockrát poděkovat, že jste otázky poslali. Pro nás je super jednak ta zpětná vazba, abychom věděli, co vás zajímá, jaká témata, případně to příště pokrývat více, a zároveň také možnost trochu té spolutvorby, protože podcastování je přece jen takový trochu jednosměrný kanál, takže vaše otázky a naše případné odpovědi jsou možností nějakého dialogu, který s vámi rádi budeme vést. Pokud by vás takový dialog zajímal více, tak na Facebooku máme skupinu, která se jmenuje Komunita 2050, tam se můžeme bavit hlouběji, takže kdo tam ještě nejste, najdete odkaz v popisu této epizody, případně na našem instagramovém kanálu, případně na Facebooku Komunita 2050. Tak a teď už si pojďme představit naše dnešní hosty, kteří jsou členy analytického týmu Fakta o klimatu.
+Pojďme si představit našeho dnešního hosta. 
+
+{% include 2050/transcript-person.html id="janos" %}
+
+Jmenuji se Tomáš Janoš a aktuálně působím na výzkumném centru RECETOX v rámci Masarykovy univerzity tady v Brně a zabývám se environmentální epidemiologií obecně, tedy nějakými vztahy, jak životní prostředí ovlivňuje naše zdraví.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-Pozvali jsme si Matěje Grabovského, ahoj Matěji.
+Ahoj Tomáši, vítej v našem podcastu. Co vlastně byla vaše motivace? Vypracovat studii zaměřenou na to, kolik lidí umírá kvůli extrémním teplotám.
 
-{% include 2050/transcript-person.html id="grabovsky" %}
+{% include 2050/transcript-person.html id="janos" %}
 
-Ahoj, Hanko.
+Ve světě to bylo zkoumáno už několikrát, existují nějaké studie na úrovni Evropy, některé i na úrovni světových měst a podobně, ale něco, co by bylo zaměřeno na celou Českou republiku, konkrétně na všech 14 krajů v Česku a za nějaké delší období, nám prozatím chybělo. Tím jsme chtěli jaksi zalepit nějakou tu mezeru. Obecně i ve střední a východní Evropě chybělo něco takového, a myslím si, že z tohoto pohledu je to docela přínosné to studovat tady v této oblasti, protože po pádu komunismu se tady odehrály nějaké takové turbulentní socioekonomické změny, které měly potom nějaký dopad i na zdravotní péči obecně, na prevenci obecně a i na to, jak naše populace je vnímavá nebo citlivá vůči těm vlnám veder či chladu obecně, takže tady v tomto regionu něco takového chybělo.
+
+A co my víme, nebo co jsme i zjistili z té naší studie, tak jednoduše řečeno, vlny veder přinášejí nadúmrtí nebo nějaké vyšší počet úmrtí, ať už konkrétně v ten den, kdy ta vlna veder přijde, nebo několik dní poté, kdy se bavíme o tzv. zpoždění a ty vlny veder tedy přinášejí vyšší počet úmrtí, než který by nastal obecně za nějakých normálních standardních podmínek optimální teploty, při které je, se kterou je naše tělo obecně v pohodě. Nicméně já docela rád nebo často přirovnávám ty nadúmrtí k takové špičce ledovce, možná to znáte, ten fenomén toho ledovce, kdy my v podstatě ledovec plovoucí na hladině, my vidíme tu jeho špičku, ale více než 90 % toho ledovce se nám skrývá pod hladinou.
+
+My to neznáme, nedokážeme to popsat, nevíme, co se tam přesně děje, a tak to funguje i s těmi úmrtími a s ostatními zdravotními dopady. V podstatě ta špička představuje to úmrtí, to, co my sledujeme, to, co my studujeme, my o tom něco víme, stále nám toho ale samozřejmě chybí hodně pochopit, ale pak jsou tady další zdravotní dopady, o kterých my toho ještě moc nevíme a nemáme je prostudované. Typicky mě napadá vyšší množství hospitalizací v nemocnicích, častější výjezdy zdravotnické záchranné služby, častější pracovní úrazy, dopravní nehody nebo i nějaké problémy co se týče mentálního zdraví.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Ty jsi to vlastně popsal v té obecné rovině? Já si říkám, jestli máš v hlavě nebo v poznámkách nějaká data, čísla, co třeba se ze světa dá říct, že ta nadúmrtnost, jako že třeba konkrétně, koho se to vlastně týká, jestli jsou to fakt lidé s nějakými konkrétními zdravotními problémy, nebo je to širší populace, případně, jestli i máme třeba, jak zmínil ty výjezdy zdravotnické záchranné služby, tak jestli třeba o kolik víc se jich vyjede, případně, jestli se někdo snažil třeba vyčíslit ekonomické náklady, které to má, když vlastně přijde vlna veder a které jsou pod tou hladinou toho oceánu, u toho ledovce, protože nejsou možná na první pohled vidět.
+
+{% include 2050/transcript-person.html id="janos" %}
+
+No, přesně tyhle věci, o kterých jsi mluvil, tak nám tady chybí. Tam o tom jakoby tam víme strašně málo, i co se těch ekonomických dopadů týče, ono to není jenom ta mortalita, která má samozřejmě značné ekonomické dopady, ale i zatížení toho zdravotního systému v podobě těch hospitalizací nebo výjezdů zdravotnické záchranné služby, je to velké zatížení, co se těch pracovních úrazů týče, kdy ti lidé dost mají pracovní úraz, potom musí zůstat na nemocenské nějakou dobu, tudíž čerpají zase z těch státních rozpočtů a jakoby těch dopadů je široká škála. My toho víme nejvíc o té mortalitě z několika důvodů, samozřejmě to úmrtí je ten nejfatálnější, nejkritičtější zdravotní dopad, který vůbec teplota může mít, takže proto se tomu věnujeme nejvíce a zároveň ta data o těch úmrtích jsou relativně dobře dostupná. A proč říkám relativně?
+
+Protože ta data existují, my o nich víme, že existují, a u nás je třeba sbírá Ústav zdravotnických informací a statistiky nebo Český statistický úřad, ale dostat se k těm datům je někdy docela náročné a není to tak jednoduché. Každopádně, když se ptal, kolik třeba navíc lidí zemře, tak možná jsme teď někteří z nás nebo i vy jste zaznamenali, že vyšla nějaká studie nebo bylo to i dost medializované, že v létě umřelo nebo obecně horko zabilo více než 60 000 Evropanů. Ty největší dopady nebyly tady v Česku, tady nás ta vlna tolik nezastihla jako například ve Španělsku, Portugalsku nebo Řecku, ale to je nějaká ta kvantifikace toho, jak to vedro může dopadat na zdraví lidí.
+
+Nejčastěji jsou to samozřejmě staří lidé, tam to myslím kvantifikovali i u populace nad 85 let, tuším, ta byla samozřejmě zastoupená nejvíce, ale obecně se dá říct, že to nejvíce může dopadat na lidi 60 plus. Těhotné ženy jsou taky v riziku, obecně ženy jsou ve větším riziku než muži, malé děti nebo ti pracovníci, kteří pracují venku a podobně, takže jsou určitě nějaké rizikové skupiny, na které to vedro dopadá mnohem více a tvoří pak větší část, větší část těch úmrtí napříč Evropou.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Jakým způsobem tady tahle nadúmrtí vlastně souvisí s tím, že tu probíhá nějaká klimatická změna a rostou teploty? Protože dokážu si představit nějaký argument, který by mohl přijít a říct, hele, prostě vlny veder tady v nějaké podobě byly vždycky, vždycky nějací lidé umírali, když bylo vedro, prostě počasí na to má vliv, tak dá se tohle nějak jako kvantifikovat nebo zjistit? Ve světě bez klimatické změny nebo v Evropě bez klimatické změny, kolik na úmrtí bylo versus jak to, jak to vypadá teď?
+
+{% include 2050/transcript-person.html id="janos" %}
+
+Vyšla na to právě jedna krásná studie, která přesně toto kvantifikovala v jednoduchosti. Oni v té studii vzali dva scénáře: jeden reálný, tedy reálný svět, kdy my pozorujeme člověkem způsobenou klimatickou změnu a pozorujeme nějaký nárůst teploty, druhý scénář byl teoretický, ve kterém oni modelovali teploty, které by tady byly bez pozorované klimatické změny člověkem způsobené. V podstatě na základě obou těchto scénářů potom kvantifikovali nadúmrtí a porovnali a došli k závěru, že s tou klimatickou, s člověkem způsobenou klimatickou změnou, je spojeno 37 % všech úmrtí, které jsou spojeny s teplem, tudíž ano, úmrtí s vysokými teplotami nebo s vlnami vede obecně. Tady jsou, budou, ale bez klimatické změny by jich bylo o třetinu méně. Oni to kvantifikovali i konkrétně pro Českou republiku, protože tento odhad byl pro celosvětově a obecně z urbánního prostředí a v České republice to bylo v podstatě asi každé páté úmrtí, které souvisí s klimatickou změnou.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Máme nějaké výzkumy, které na základě toho, jaké jsou třeba klimatické prognózy, které se ptají, které se dívají na to, jak na základě toho, jaké kroky podnikneme pro mitigaci klimatické změny, tak ty teploty porostou buď hodně, nebo méně, že jo, tak jestli i tohle se dá stáhnout potom třeba k těm nadúmrtím, jakože o kolik horší to bude, když ty teploty porostou hodně versus o kolik horší to bude, když teploty třeba porostou trošku.
+
+{% include 2050/transcript-person.html id="janos" %}
+
+To je hodně těžké odhadnout, ale na základě toho, co víme, nebo jaká máme data, takové projekce do budoucnosti existují, někdo se už jimi zabýval a snažil se to spočítat, jak to v podstatě bude vypadat během celého dvacátého prvního století. Teď bych asi nejlépe zdůraznil nebo na tomto místě, že ty chladné teploty, ty extrémní mrazy způsobují stále mnohem více úmrtí než jsou ty vlny veder a horko obecně.
+
+Takže za předpokladu, že se naše planeta bude oteplovat, tak by logicky těch chladem způsobených úmrtí mělo ubývat, zatímco těch horkem způsobených bude přibývat, což je pravda a mohlo by se tedy zdát, že se to vyrovná a celkový počet úmrtí spojených s teplotou tedy bude konstantní. To by byla hezká představa. A mohlo by to tak fungovat, ale dost pravděpodobně nebude naplněna, protože bude záležet na tom, přesně jak jsi říkal, jaká mitigační opatření my použijeme a jak se nám podaří zmírnit či zpomalit tu změnu klimatu?
+
+Protože je předpokládáno nebo odhaduje se, že ty celkové, ty celkové zdravotní dopady spojené jak s chladem, tak s teplem zůstanou konstantní, jenom za předpokladu, že se nám podaří udržet ten nejpřísnější scénář koncentrace skleníkových plynů a tak udržet to globální oteplování pod přibližně jedním a půl až dvěma stupni. Ve všech ostatních případech budeme už od asi druhé poloviny tohoto století, takže už za nějakých 30 let, pozorovat to, že ta úmrtí spojená s horkem nebo příbytek těch úmrtí spojených s horkem přeroste ten úbytek úmrtí spojených s chladem, a celkový počet úmrtí spojených s teplotou bude postupně narůstat. A co nás ještě možná v tomto ohledu znepokojuje, jsou dvě věci, a to extrémní teploty, a teď myslím extrémní teploty nám v obou koncích toho spektra, jak extrémní mrazy, tak extrémní horka, nebo ty vlny veder, protože ty logicky způsobují největší počet těch úmrtí.
+
+U nich se předpokládá, že budou narůstat, očekává se, že budou častější, a to zase na obou těch stranách spektra, takže to je jeden fakt, s kterým ty projekce nepočítají, a druhý fakt je adaptace, tu adaptaci na teploty obecně ty projekce nezohledňují a tam nás to znepokojuje z toho důvodu, že my jako lidé se chladu adaptujeme mnohem snáze než horkým teplotám a je to vidět krásně na těch populačních datech, protože studie, které studovaly nějaké trendy toho rizika úmrtí, tak u chladu pozorují postupně klesající tendenci, což je logické, protože jako společnost se máme stále lépe, žijeme déle, zlepšuje se zdravotní stav, zlepšuje se zdravotní péče, máme lepší domy s izolací a podobně, ale adaptace na ty horké teploty a ty trendy toho rizika u vysokých teplot nejsou tak jednoznačné, v některých státech pozorujeme, že se ty populace adaptují, v některých zase to riziko roste a podobně, takže i z tohoto důvodu by nás to mělo znepokojovat ještě více než ty projekce, které jsem zmiňoval.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Takže jestli to můžu pro sebe nějak shrnout, tak oteplování by nám pomohlo s těmi nadúmrtími v zimě, ale jenom, pokud bychom oteplili planetu o 1,5–2 stupně. Pokud to bude víc, tak bude více lidí umírat na to vlivem toho horka, než by umíralo méně vlivem toho chladu, a navíc jsou tam pak ještě ty další proměnné, jakože se zvyšujícím se počtem extrémů, vlastně na obou těch stranách toho spektra můžeme čekat nadúmrtí a podobně.
+
+{% include 2050/transcript-person.html id="janos" %}
+
+Určitě. Přesně tak. Nevím, jestli bych říkal, že nám to oteplování úplně pomůže, ale ty dopady budou, budou v podstatě konstantní, anebo klesat, přesně tak, pokud udržíme, pokud udržíme to oteplování na té hranici jednoho a půl až dvou stupňů, tak do té míry ty teploty úmrtí zůstanou konstantní, pokud se přehoupneme přes tu hranici, tak se předpokládá, že úmrtí už budou jenom.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-A Zbyňka Štajera.
+Já bych se tě chtěla zeptat na tu vaši studii, která je tedy specifická v tom, že proběhla u nás v Česku a zkoumala vliv vln veder a nízkých teplot na úmrtí, tak mě zajímá, co jste zkoumali a jak.
 
-{% include 2050/transcript-person.html id="stajer" %}
+{% include 2050/transcript-person.html id="janos" %}
 
-Ahoj, Hanko.
+My jsme se v té naší studii zabývali rizikem úmrtí souvisejícími s teplotami obecně, tedy s těmi chladnými, tak s těmi vysokými, tak s těmi vlnami veder tedy. A unikátní je možná v tom, že jsme se zaměřili na všech 14 krajů, tedy pokryli jsme celou Českou republiku a chtěli jsme se hlavně podívat taky na ty trendy v podstatě, jestli se česká populace adaptuje na vysoké či nízké teploty. Co se událo za posledních, dejme tomu, 30 let nebo nějaká tři desetiletí a jak už jsem říkal, my jsme tady za tu poslední dobu v České republice zaznamenali různé změny, které mohly také ovlivnit tu vnímavost české populace vůči vysokým či nízkým teplotám, takže to důvod, proč nás to zajímalo dále, jak jsem taky možná říkal, že tady v rámci Evropy směrem na východ postupně klesá nějaké možná pochopení, připuštění si vážnosti nebo obecně existence klimatické změny, takže z toho pohledu si taky myslím, že oblast střední a východní Evropy je méně prostudovaná.
 
-{% include 2050/transcript-person.html id="vrtalova" %}
-
-Tak já vám dám prostor, abyste se trochu představili, co vlastně ve Faktech děláte, čím se teď zabýváte?
-
-{% include 2050/transcript-person.html id="grabovsky" %}
-
-Ve Faktech působím jako analytik a věnuji se teď primárně energetice a jejímu modelování.
-
-{% include 2050/transcript-person.html id="stajer" %}
-
-Já ve faktech působím jako analytik a poslední dobou se zabývám dopravou.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Tak jo. Vítejte v našem podcastu, tohle je tady vaše premiéra, tak já jsem rád, že vás můžeme zároveň takhle představit našemu publiku a pojďme na otázky, které se sešly.
+A mohl by být kladen větší důraz, a tak jsme i tou naší studií chtěli k tomuto trošku přispět, a my jsme to v podstatě dělali tak, že abychom mohli studovat nějaké tady tyhle závislosti nebo fenomény, tak k tomu jsou potřeba strašně dlouhé časové řady. Na jedné straně data o úmrtí a na druhé straně data o teplotách. A nám se ty dlouhé časové řady podařilo získat jednak nebo respektive z Ústavu zdravotnických informací a statistiky a získali jsme denní počty úmrtí od roku 1987 až do roku 2019, což je nějakých teda 33 let v té studii krát 365 dní pro všech 14 krajů, muži, ženy zvlášť, různé věkové kategorie zvlášť, takže obrovská tabulka dat a pomocí různých statistických metod nebo takového epidemiologického modelu, který zohledňuje na jedné straně ty úmrtí, na druhé straně tu teplotu, se nám podařilo nebo respektive se dá vypočíst ten podíl úmrtí, která jsou nějakým způsobem spojená, ať už s horkem nebo s chladem.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-Otázka, kterou tady máme, se týká toho, jestli je možné stihnout dekarbonizaci dopravy i v rozvojových zemích. Zbyňku, pojď možná nejdřív říct, které jsou ty rozvojové země, o kterých se tu bavíme?
+Můžu se zeptat, jak se z těch dat vyčte, že to bylo právě to vedro nebo ta velká zima, která má vliv na to úmrtí, vlastně, jak jsou ty data podrobná?
 
-{% include 2050/transcript-person.html id="stajer" %}
+{% include 2050/transcript-person.html id="janos" %}
 
-No, je to střed Afriky, bývalé státy Sovětského svazu, Indie.
+Jsou to prostě denní počty, denní počty úmrtí, takže například my víme, nebo já v těch datech dokážu dohledat, že 8. 7., dejme tomu roku 1998, v Jihomoravském kraji zemřeli čtyři lidé. Ten model si to spojí potom s teplotou, která ten den byla, nebo byla i dny předtím, a na základě takových malých odchylek v podstatě on stanoví, kolik přibližně z těch úmrtí bylo spojeno s těmi teplotami, takže on pracuje s nějakou teplotou, která je standardní.
+
+Ale když vidí nějaký výkyv teploty, třeba směrem nahoru, dá si to do souvislosti s těmi úmrtími, a v podstatě teploty jsou jediné, fakt jeden z mála faktorů, který se mění takto na denní bázi. V podstatě ono ano, ty úmrtí můžou souviset s obezitou, s kouřením, a máme spoustu dalších rizikových faktorů, ale ty se nemění ze dne na den, proto nám, jak nijak neovlivňují tu analýzu. Dalším takovým faktorem je ještě znečištěné ovzduší, které by bylo samozřejmě taky dobré do toho zahrnout. Ale to my nejsme schopni sesbírat taková data, denní data na úrovni celé České republiky, a navíc ze studií, ve kterých se jim to podařilo, tak vyplývá, že tam ten vliv toho znečištěného ovzduší nijak neovlivňuje tu závislost, nebo ovlivňuje minimálně tu závislost mezi teplotou a úmrtími.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Takže vlastně můžete být dost jistí, že opravdu ta klíčová proměna je ta teplota, že to nemůže být náhodou tím, že, nevím, víc lidí skáče pod auta, zrovna, když je léto nebo něco takového.
+
+{% include 2050/transcript-person.html id="janos" %}
+
+V podstatě dá se to tak říct, ano. 
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Jaké jsou tedy výsledky, co z té studie vyšlo a možná otázka, jestli to tedy potvrzuje ty trendy nebo ty studie, výsledky, které známe ze světa, z jiných regionů, nebo jestli ta česká data jsou něčím specifická.
+
+{% include 2050/transcript-person.html id="janos" %}
+
+V něčem jsme potvrdili ty výsledky ze světa a z jiných regionů. Tam jsme došli k podobným závěrům, ale v něčem nám tady v Česku vyvstávají takové reflexe, kterým bychom měli určitě dávat větší pozornost, a zaslouží si tedy větší pozornost do budoucna, měli bychom se jim věnovat, ať už z pohledu nějakého dalšího výzkumu, anebo z pohledu nějakých potenciálních adaptačních opatření. A mezi jevy, které tedy jsou pozorovány obecně i v jiných státech, tak je samozřejmě, je to docela jasné, vyšší riziko úmrtí, ať už z důvodu chladných či horkých teplot u lidí ve vyšším věku.
+
+To jsme samozřejmě pozorovali i v té naší studii, a je to jasné, protože s přibývajícím věkem nějakým způsobem dochází k narušení schopnosti termoregulace a dále jsou přítomny častěji nějaké komorbidity, tedy nějaké jiná onemocnění nebo stavy v podstatě, kdy je přítomno více onemocnění najednou, nejčastěji to bývá nějaký diabetes, onemocnění srdce a cév, vysoký krevní tlak a podobně. Takže to dělá ty staré lidi ještě mnohem náchylnější k vysokým teplotám, a dále to jsou ještě i socioekonomické faktory, jako například nižší kvalita bydlení, obecně staří lidé mají nižší ekonomickou úroveň, jsou sociálně nebo fyzicky izolovaní a podobně, takže to je taky dělá náchylnější.
+
+Další věc, kterou jsme třeba pozorovali, je, že ženy jsou mnohem náchylnější nebo jsou tady obecně nějaké velké nerovnosti mezi muži a ženami ve vnímání vysokých teplot nebo těch dopadů vysokých teplot. Dál jsme studovali ještě ty trendy, například, jak jsem říkal, jak se to riziko vyvíjí za posledních 30 let.
+
+Tam v podstatě, co se chladu týče, tak jsme zase potvrdili to, co se pozoruje i v jiných státech, a to tak, že to riziko se v posledních desetiletích snižuje, což je skvělé, protože nějaká vlna mrazu, která přišla před 30 lety, dejme tomu, -10 stupňů, byla mnohem rizikovější pro tehdejší populaci než riziková pro tu populaci, která je teď, a jak už jsem říkal, je to taky logické, protože my se máme jako společnost mnohem lépe, máme lepší domy, lépe izolované, máme lepší zdravotní péči, a proto to riziko postupně snižujeme, kde nám ale vyvstaly ty reflexe? To je to riziko nebo ten trend v riziku související s vysokými teplotami, protože tam ten trend nebyl tak přesvědčivý a já jsem možná, já jsem před chvílí říkal, že vlastně máme některé lidi nebo některé části populace, které jsou citlivější a ty vysoké teploty pro ně jsou mnohem nebezpečnější, jako například lidé vyššího věku a ženy.
+
+A právě u těchto skupin populace, které jsou už nějakým způsobem znevýhodněné, jsme viděli, že to riziko ještě narůstá za těch posledních 30 let. Zatímco u těch skupin populace, které jsou, kde to riziko bylo již tak nízké, například u mužů a osob nižšího věku, tam to riziko bylo klesající, takže nám za těch posledních 30 let nějakým způsobem rostly nějaké genderové a věkové nerovnosti. Vnímavosti nebo v náchylnosti na úmrtí způsobené vysokými teplotami?
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-Takže je reálné stihnout dekarbonizovat dopravu v těchhle rozvojových zemích.
+A můžu se zeptat, proč třeba konkrétně? Proč zrovna ženy jsou náchylnější na vlny veder?
 
-{% include 2050/transcript-person.html id="stajer" %}
+{% include 2050/transcript-person.html id="janos" %}
 
-Je to komplikované, určitě na to bude potřeba nějaký zásah z vnějšku, protože aby ty státy mohly dekarbonizovat svoji dopravu, tak díky tomu, že doprava často je spojena s ekonomickým růstem a oni jsou v ekonomickém růstu, si nemohou dovolit sypat peníze do toho, aby jezdili čistěji, když potřebují sypat peníze do toho, aby měli lepší ekonomiku. Ale z druhé strany je to také velká příležitost, protože díky tomu, že ještě tu infrastrukturu často nemají dobře rozvinutou, tak jim nemusíme dělat, nemusíme retrofitovat, jak to děláme my, ale můžeme rovnou ji postavit dobře s důrazem na sdílenou dopravu, hromadnou dopravu bez priority na auta. Tak, jak to máme my, jak říkal pan Bednár, někdy v padesátých letech, jsme se rozhodli, že budeme prioritizovat auta, takže musíme stavět parkovací místa, všude jsou silnice. Tak poučení z toho, ty rozvojové země vlastně mohou postavit lépe rovnou.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-
-Jaký je tedy vlastně rozdíl mezi tím, kdybychom vzali třeba emise z dopravy na člověka v Česku, třeba v USA nebo v té Indii, kterou jsi na začátku zmiňoval?
-
-{% include 2050/transcript-person.html id="stajer" %}
-
-V Indii je roční emise na člověka něco kolem 0,2 tuny, u nás v České republice je to 1,6 a v USA 5,4, což znamená, že USA ten člověk produkuje pětadvacetkrát víc emisí v dopravě než člověk v Indii a v Česku osmkrát víc než v Indii.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Další otázku, tu máme na Matěje, a je poměrně obecná a týká se něčeho, čím jsme se příliš nezabývali v naší dopravní sérii, a ta otázka zní: Co s leteckou dopravou a její dekarbonizací?
-
-{% include 2050/transcript-person.html id="grabovsky" %}
-
-Tak pro kontext, co se týče oxidu uhličitého, tak letecká doprava má na globálních emisích podíl asi 10–12 %, co se týče emisí z dopravy, to znamená asi 2–3 % z celkových emisí z lidské činnosti. A to, co s tím můžeme dělat, to schéma je hodně podobné napříč různými prostředky, když to trošku zjednodušíme, tak máme v podstatě čtyři možnosti, tou první možností je v první řadě snížit vůbec potřebu létat, to znamená třeba, co se týče turistiky, tak cestovat do nějakých bližších krajin a nelétat, případně, co se týče nějakých pracovních cest, tak zvážit možnost jako práce na dálku nebo videokonferencí, a tak.
-
-Druhá možnost je změnit dopravní prostředek, což není vždy možné, když třeba chceme letět z Londýna do Singapuru nebo z Prahy do New Yorku, tak samozřejmě asi využijeme letadla, ale na nějaké cesty v rámci kontinentu, třeba po Evropě, se dá pohodlně využít vlak na trochu kratší vzdálenosti, autobus nebo nějaké možnosti, třeba spolujízdy v autě nebo v nějakém minibusu, něco takového.
-
-Třetí způsob je využívat paliva, která jsou méně emisně náročná. Tady se mluví o něčem, čemu se říká SAF. Sustainable aviation fuel nebo nějaká syntetická paliva, která se nevyrábí přímo z ropy, ale třeba ze zachyceného uhlíku, a tohle jsou technologie, které nejsou úplně dobře vyvinuté, takže to je spíš něco pro budoucnost.
-
-Čímž se dostávám k tomu čtvrtému způsobu, což jsou nějaké nové technologie pohonu. U letadel se mluví o elektroletadlech nebo třeba o letadlech na vodík, ale jsou to technologie, které jsou ještě hodně v začátcích.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Ale když se teď mluvilo o těch čtyřech možnostech, tak která z nich bude to těžiště dekarbonizace letecké dopravy? Protože z Prahy do New Yorku, jak jsi říkal, se přece jenom jinak nedostaneme. A asi vyrobit elektroletadlo s tou velkou těžkou baterií za současných podmínek vypadá náročně. Tak co myslíš, že bude to hlavní, kudy se bude ubírat letecká doprava v následujících letech?
-
-{% include 2050/transcript-person.html id="grabovsky" %}
-
-To se samozřejmě těžko odhaduje takhle od stolu, v nějaké formě to bude muset být kombinace všech těchto cest. Tam, kam dnes míří letecké společnosti, je spíš ta třetí cesta, to znamená nějaká syntetická nebo udržitelnější paliva, která mohou využívat i v té stávající flotile, kterou už mají.
-
-Zároveň v dopravě převažuje trend elektrifikace, jenom u těch letadel to zatím není úplně jako pokročilá technologie, vodík bude potřeba asi hlavně v průmyslu, takže letectví možná bude mít menší využití, ale jak říkám, těžko předjímat, bude to nějaká kombinace všech těchto věcí.
+Ženy jsou náchylnější na vlny veder z několika důvodů, a není to pozorováno jenom tady v Česku, jak jsem říkal, ale my už jsme zmiňovali tu studii, tu studii na úrovni Evropy, kde za rok nebo za léto 2022 zemřelo více než 60 000 Evropanů. Tak tam oni to i kvantifikovali, tam to kvantifikovali, že umřelo o 63 % více žen než mužů, což je docela dost, a to je odhad na úrovni Evropy. Pokud v té studii oni publikují ta data i na úrovni jednotlivých států, a nebo se nám to podařilo zjistit i v té naší studii, v té naší studii. Je to, nebo v České republice je to procento mnohem vyšší. My pozorujeme, že až o 400 procent více žen umírá než mužů v souvislosti s horkem. A ono to má několik důvodů. Jedním z nich určitě bude, to bude nějaká věková struktura, všeobecně.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-Zbyňku, následující otázka na tebe je, jestli v Česku máme dostatečnou infrastrukturu pro přechod na elektroauta.
+Ženy se dožívají déle.
 
-{% include 2050/transcript-person.html id="stajer" %}
+{% include 2050/transcript-person.html id="janos" %}
 
-Tak pro přechod na elektroauta potřebujeme mít výkon v síti, což víceméně máme. A o tom mluvíme v článku, který můžete najít v popisku epizody. Potřebujeme mít dostatek nabíjecích stanic a aby byly dostupné. Teď jsme trošičku v předstihu, takže máme vybudovaný ty počty jsou lepší, než teď potřebujeme. A potřebujeme vyřešit flexibilitu v síti, což ještě je v řešení, protože předpokládáme, že lidi budou chtít nabíjet v nějakých špičkách a budeme muset vyřešit, jak mít dostatek elektřiny pro všechny, ale to se dá vyřešit prostě zvyšováním ceny v těch špičkách a tak. Ano, a poslední takový typický český problém, a to je legislativa. A na přechod na elektroauta tam moc nejsme připravení, protože máme nějaké závazky vůči Evropské unii, co máme mít vybudované, a ta legislativa v současné době na to nyní ještě není připravená a popravdě nevím, jak rychle bude.
+Ženy se dožívají déle, tudíž v těch vyšších věkových kategoriích bude více žen než mužů obecně. Starší jsou náchylnější, takže to je určitě jedna vysvětlující proměnná, ale další proměnné jsou, jako například nějaké fyziologické stavy, kdy ženám v podstatě kolísá tělesná teplota nebo termoregulační procesy v období menstruace a menopauzy, což může také nějakým způsobem dělat je náchylnějšími vůči vlnám veder.
+
+Ale nejvíce se podle mě i podle ostatních odborníků, kteří se tím zabývají, na tom podepisují zase nějaké nebo podepisují nějaké socioekonomické faktory, to, že ženy obecně jsou třeba znevýhodněné ekonomicky, ať už během života, kdy jsou výdělečně činné, mají nižší platy obecně, což se potom odráží i v těch důchodech, mají nižší platy, mohou si dovolit nižší standard života obecně, nebo to můžou být potom také nějaká ta izolace sociální nebo fyzická, což by potom tady socioekonomické faktory dále mohly vysvětlovat i ty trendy, které jsme pozorovali za těch posledních 30 let, protože v té fyziologické rovině se asi nic za posledních 30 let nezměnilo, ale tady ta ekonomika nebo nějaké sociální soužití může potenciálně vysvětlovat ty trendy.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+To se mi přesně honilo hlavou, že si říkám, že to, že se ženy dožívají déle, se asi nezměnilo, to by se přece neodrazilo v těch trendech, a znamená to tedy, že by se to asi dalo zkoumat jednodušeji odjinud, ale znamená to tedy, že se jako rozevírají nějaké sociální, ekonomické nůžky mezi muži a ženami v naší oblasti, když to pak má i tenhle vliv, že trend je, že čím dál více žen je ohroženo více než třeba muži.
+
+{% include 2050/transcript-person.html id="janos" %}
+
+Může to znamenat toto. Ano, určitě jo, já. V podstatě ty socioekonomické faktory jsou jediné, které nás napadají, že by to mohly vysvětlovat. My jsme se ještě jakoby konkrétně nedívali na nějaké, na ta tvrdá data, která by se s tím mohla nějak spojit, ale ano, nějaká mezera, nějaké rozevírající se nůžky mezi nebo v rámci té socioekonomické úrovně. Za posledních 30 let to dle nás může, může vysvětlovat, ale musíme se na to ještě zaměřit, zkusíme vytipovat nějaké konkrétní faktory, jako je to například ta mezera v těch důchodech nebo něco podobného, kde ty data máme a dokážeme to s tím spojit a dokážeme třeba odhalit potenciálně nějaké významné proměny, které s tím mohou souviset.
+
+Ještě jeden zajímavý fakt, který my tam také docela popisujeme, jsou nějaké významné regionální rozdíly, protože, jak jsem říkal, dělali jsme to na úrovni těch krajů. Ono by, teoreticky, by se dalo jít až na úroveň okresů, ale tam by nám ten model už asi v některých okresech selhával. Ale v těch krajích my jsme pozorovali, například, nebo dříve tady vyšla studie, která se zaměřovala pouze na Prahu, krásná studie, která studovala v podstatě riziko úmrtí související s horkem v rámci Prahy. Ale v rámci té naší studie vidíme, že nějaké to rurální prostředí nebo obecně venkov na tom je úplně jinak než konkrétně třeba to riziko související s horkem bylo, třeba, mnohem vyšší než v nějakých venkovských oblastech, takže v podstatě z toho plyne, že ať už v podstatě ten odhad toho rizika nebo potom i nějaké ty adaptační mechanismy by mohly být mnohem lépe zaměřené na ta konkrétní území, kde je to riziko například vyšší, v rámci jakých populačních skupin je vyšší, a mohly by se zaměřovat jakoby lokálně na úrovni celých států či kontinentu.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Nebo jestli to dobře chápu, tak velká města zabíjejí. V těch venkovských oblstech ta nadúmrtí byla nižší.
+
+{% include 2050/transcript-person.html id="janos" %}
+
+Ano, ano, dá se to tak říct, to riziko úmrtí obecně v těch venkovských oblastech bylo nižší v té naší studii.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Říkám si, že mě to nasedá i na další nějaká data, že prostě typicky téma tepelného ostrova, města a podobně, že v těch městech to horko je obecně větší problém než na venkově, takže chápu, že to vlastně dává smysl, že se to s tím propojuje.
+
+{% include 2050/transcript-person.html id="janos" %}
+
+Ty města to asi táhnou nahoru a zase i nějaké ty rozdíly v těch trendech, v podstatě v tom, že v některém kraji jsme například pozorovali klesající trend v té úmrtnosti, v některém zase rostoucí. Takže, jak říkám, nemám specifické jakoby body, kde se dá říct, tady ten kraj na tom špatně, ten lépe, ale spíše z toho plyne, že je potřeba se na to dívat jako na jednotlivé nějaké územní celky a ne, že říct, že celá Česká republika prostě na tom takto, což nám potom zkreslí v podstatě ty, ty územní rozdíly.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Když vlastně už mluvíš sám o tom, co by se dalo dělat, nebo kam by se ten výzkum třeba posunul dál? Máte nějaké plány už jako konkrétní? Jak by se to dalo dál rozvíjet nebo vůbec? Výzkum na tohleto téma? Určitě.
+
+{% include 2050/transcript-person.html id="janos" %}
+
+Já mám plánu spoustu méně času, ale je jedna z těch cest, kterou bych se chtěl určitě vydat, je v podstatě nějaké ty adaptační mechanismy nebo to, co zapříčiňuje to, že nám někde to riziko klesá, že nám někde to riziko roste, jak jsme se bavili například o té ekonomické situaci, nějaké další sociální rozdíly v některých státech například studují, jestli to, že za posledních 30 let lidé třeba mají nebo více domů má klimatizaci, více domů má topení a podobně, takže v podstatě snažit se nějak ještě dovysvětlit, přidat ještě další dílek té skládačky. Proč vlastně my pozorujeme takové rozdíly?
+
+Proč pozorujeme takové rozdíly mezi muži a ženami? Proč pozorujeme takové rozdíly v adaptaci na chlad a na teplo a podobně? Takže to je určitě jedna z cest, kterou bych se chtěl vydat, a druhá cesta jsou v podstatě ta data o té morbiditě, o které jsem mluvil, už to jsou ty výjezdy záchranek, které bych taky strašně rád studoval. Těch výjezdů záchranek je mnohem více než úmrtí, takže až desetinásobně, takže tam bych se možná mohl dostat až na úroveň těch okresů a studovat to v podstatě tak více cíleně, více se zaměřením na ta jednotlivá území. A my bychom ta data tady v Česku měli mít, měli bychom je mít dostupná, což je výjimečné na úrovni celé Evropy, v rámci Evropy.
+
+Žádná taková studie ještě nikde nevznikla. Anebo potom i ty pracovní úrazy, si myslím, že jsou taky docela ožehavé téma, protože asi každý z nás ví, že v podstatě, když je venku 30 stupňů, tak se moc pracovat nedá, člověk je takový nekoncentrovaný, roztěkaný, a pokud pracujete ve 40 stupních někde venku na stavbě, tak v podstatě se vám docela snadno může stát, že z té nepozornosti se vám stane nějaký úraz, což potom má i sekundární ekonomické dopady a podobně, takže určitě něco takového by mě dále zajímalo rozvíjet.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-Hodně je veřejných dobíjecích bodů, které jsou dostupné a může se tam nabíjet. Ale když si představím, že jsem člověk, který bydlí ve městě nebo třeba na sídlišti, kde těch aut je celá řada, tak jak se vlastně bude řešit tahle situace, kde se můžu na takových velkých parkovištích nebo hodně hustě osídlených místech nabít svůj elektromobil. Máš k tomu nějaké poznatky, nějaká řešení?
+Vlastně už tou cestou to mírně naznačil, ale jestli na základě těch vašich dat a možná nejenom těch vašich, ale i těch světových, bys dokázal zmínit nějaká doporučení, doporučení, jak bychom se mohli na rostoucí riziko vln veder v ČR adaptovat vlastně na různých úrovních, jo, ať už systémových opatřeních nebo právě, co se týče těch výjezdů záchranných služeb nebo i na základě těch jako územních celků.
 
-{% include 2050/transcript-person.html id="stajer" %}
+{% include 2050/transcript-person.html id="janos" %}
 
-Tak určitě, když se na to podívám v České republice a pomineme naši legislativu a problém s flexibilitou v síti, tak je to víceméně nějaký jako plánovací problém, jako kdyby u zubního plánu. A ve světě existují postupy, jak přijít na to, kolik může člověk nebo kolik město může potřebovat dobíjecích míst a na to, aby obsloužila počet elektromobilů. A já jenom trošičku odbočím, protože ono to souvisí s tím, jak je to vyřešené i na ty dlouhé vzdálenosti nebo v regionech vidět ten rozdíl, protože pro cesty na dlouhé vzdálenosti je to prakticky vyřešené. Na místo benzínek budeme mít dobíjecí stanice prostě se solárními panely, kde se ty auta napíchnou. Dáš si kávu, auto nabíjí a jedeš dál.
+Určitě, ale asi teda ne na základě té naší konkrétní studie, protože, jak jsem říkal, to my chceme až v nějakém navazujícím kroku, ale určitě existují nějaké adaptační, adaptační mechanismy z pohledu toho lidského zdraví, které už jsou běžně doporučovány a běžně popsány a mohou být aplikovány i tady v prostředí České republiky a jak jsi říkala, na různých úrovních, teď je docela protlačováno z té nejvyšší úrovně vytvoření nějakého takového systému včasného varování, co tím myslím?
 
-V regionech lidé budou nabíjet doma, to není vůbec žádný problém, no a v těch městech tady ani jedno z těchhle těch jako kdyby není primárním zdrojem toho, kde budeme nabíjet, protože, jak jsi říkal, v sídlištích prostě je vysoká hustota lidí a ne každý bude mít přípojku a no, tam se to řeší pak tak, že se spočítá, kolik těch elektromobilů na těch místech je a kolik přibližně jezdí, na to se používají nějaká otevřená data a uděláme nějakou predikci, co za pár let budeme potřebovat a na základě toho jako naplánujeme tu distribuci těch dobíjecích míst v tom městě, která vlastně jako kopíruje to, odkud kam lidé jako jezdí, takže jako kdyby. Jeden je tam, kde bydlí, druhý je tam, kde pracují nebo v blízkosti a pak někde, kde jsou služby. Takže. U obchoďáku na velkých parkovištích a u hlavního nádraží, prostě ve městě, kde se přirozeně koncentrují ty auta, kde mohou stát a na 20 minut nebo na dvě hodiny a když parkují, se dobít.
+Já mám tím na mysli, že v podstatě všechny tyhle systémy, které teď fungují, jsou založeny pouze na meteorologických datech, ale ne na zdravotních datech, a bylo by super tam do toho vložit i nějakou takovou tu zdravotní složku nebo složku vnímavosti. Ty systémy včasného varování nebo v podstatě ta varování na meteorologických datech už fungují a Český hydrometeorologický ústav to dělá skvěle, a asi každý z nás si potom může třeba večer ve zprávách poslechnout nebo přečíst, že zítra má být 30 stupňů, bude prostě hodně horko. Přizpůsobte tomu nějak své chování, ale kdyby se nám jakoby do toho podařilo vložit ještě nebo v letech se prosazuje ještě nějak zohlednit taky tu vnímavost populace, ta zdravotní data, tak by to mohlo být ještě o to efektivnější, protože jak jsme se bavili, tak jsou některé části populace, které jsou mnohem vnímavější.
 
-{% include 2050/transcript-person.html id="vrtalova" %}
+A asi úplně jinak bude znepokojovat těch 30 stupňů prostě mladého muže než osmdesátiletou ženu ještě s nějakým dalším přidruženým onemocněním. Tady tyhle vnímavé části populace by ta doporučení nebo varování mohly dostávat třeba už při 25 stupních nebo desetkrát častěji obecně třeba než ostatní, a dokážu si představit, že by to bylo i nějak mnohem lépe komunikováno. Dokážu si představit, že třeba dostáváme esemesku s varováním: "Hele, za tři dny tady bude velká vlna veder, prostě bude trvat, dejme tomu, třeba tři dny, tak se na to nějak připravte, zvyšte hydrataci, možná si i nakupte předem, protože to budete potřebovat, bude lepší, když zůstanete doma, nebudete nikam vycházet," nebo ten starý člověk by mohl vědět, že si prostě má přeobjednat doktora, kterého třeba ten den zrovna v jednu odpoledne má, takže bude lepší možná zůstat doma.
 
-Takže říkáš, že součástí toho řešení nebude jenom řešení u těch sídlišť, ale i to, že ty dobíjecí body přibudou na těch místech, kde se lidé typicky s těmi auty zastaví, jako třeba u toho obchodního domu.
+Tím se možná dostávám i k těm dalším, třeba vrstvám, jako jsou například nemocnice nebo ty stanice zdravotnické záchranné služby, nebo třeba domovy důchodců. Oni ta varování často bývají prezentována i ve formě nějakých těch nadúmrtí nad výjezdů a podobně, takže pokud by byly takhle přenesené do nějakých reálných zdravotních dat, tak my budeme třeba vědět, že tady tato vlna veder může způsobit až nějakých 500 výjezdů třeba navíc zdravotnické záchranné služby. A oni už by s tím nějak mohli v podstatě pracovat, třeba posílit směnu nebo být na to připraveni nějakým jiným způsobem. Já jsem už možná někde říkal, že když jsme začínali tady s touto studií, tak jsem se na to ptal právě proto, že jsem vedl nějaké krátké rozhovory se zaměstnanci nevýjezdové skupiny zdravotnické záchranné služby a ptal jsem se jich na to, jestli nějak s tím počítají, že s tou teplotou, že v podstatě vlna veder může představovat to, že budou více v zápřahu, že budou mít více výjezdů.
 
-{% include 2050/transcript-person.html id="stajer" %}
+A oni mi říkali, že bohužel ne, že žádná taková data nemají, že nejsou na to schopni, jak se připravit a že by to ale ocenili, kdyby něco takového věděli. Oni mi teda řekli jenom, že počítají s tím, že v půlce měsíce vždycky po výplatě zaznamenají trošku větší nárůst těch výjezdů, což mi říkali, že asi souvisí s alkoholem, protože je to smutné, ale bohužel většina jejich výjezdů je k lidem v podnapilém stavu, takže to jsou věci, na které oni jsou připraveni, zatímco nějaké reálné ty souvislosti s teplotou to zatím nějak nezohledňují.
 
-Ano, vlastně mnohem víc. Je to o tom vytvoření příležitostí, kde můžu nabíjet snadno a dostupně, než obsloužit to na tom nejpřirozenějším místě, a to tam, kde parkuji.
+Možná ještě, co se těch adaptačních mechanismů týče, tak se ještě často prosazuje nějaká zelená a modrá infrastruktura, obecně nějaké green a blue spaces, v podstatě prvky, vodní prvky a zeleň, ať už nějaké výsadby stromů, trávníků, keřů a něco podobného, zejména ve městech, což je jakoby stokrát omílaná pravda. Všichni to říkají, ale my v podstatě pozorujeme na to nebo máme na to i nějaká tvrdá data, obecně se říká, že ty zelené prvky nějak redukují teplotu, ale kromě toho redukují znečištění ovzduší, možná i nějak podněcují více fyzickou aktivitu. Protože radši se projdu nebo půjdu si zaběhat v parku než po vybetonovaném chodníku kolem čtyřproudé silnice. Že jo, takže ono to nejenom, že to redukuje tu teplotu, ale v podstatě to zlepšuje to zdraví i jinými způsoby. A jak říkám, máme na to i jednu krásnou studii, která se právě zabývala, myslím, že vzali data z, tuším, 90, něco přes 90 evropských měst, kde v podstatě pozorovali ten fenomén toho tepelného ostrova města, kde oni popsali, že v rámci těch měst je teplota zvýšená o nějaký 1–2 stupně oproti tomu okolí.
 
-{% include 2050/transcript-person.html id="holik" %}
-
-Další otázka, kterou tu mám na tebe, Matěji, je hrozně hezky formulovaná. Týká se otěru brzd a pneumatik a emisí z tohoto otěru, typicky u elektrických vozidel, a já tu otázku přečtu, protože mi přijde dobrá, tak, jak je položená. Je pravda, že emise z otěru brzd a pneumatik jsou u elektrických vozidel větší? Nedávno to zaznělo i v našem podcastu, ale je to opravdu tak? Elektrická vozidla hodně brzdí rekuperačně a pneumatiky jsou ze speciálních směsí. Takže, Matěji, jak to je, když tyhle proměny zahrneme do toho výpočtu emisí z otěru brzd a pneumatik?
-
-{% include 2050/transcript-person.html id="grabovsky" %}
-
-Tak je pravda, že obecně platí, že čím těžší je auto, tak tím větší je potom otěr pneumatik, ale taky je pravda, že rekuperace v tomhle hodně pomáhá.
+A snažili se potom kvantifikovat úmrtnost, která s tím souvisí, která souvisí s tím tepelným ostrovem města, a namodelovali v podstatě, že pokud by se nám v těch městech podařilo zvýšit pokrytí zelení alespoň na 30 % území, tak jsme schopni vyvarovat se až nebo přibližně jedné třetině všech těch úmrtí, které s tím souvisí, které souvisí s tím tepelným ostrovem města, což je, což si myslím, že jako zásadní redukce. Pokud se nám podaří vyvarovat jedné třetině úmrtí, které souvisí s nějakým fenoménem, jenom tím, že zvýšíme v podstatě pokrytí zelení v rámci toho města na 30 %, tak je to úžasné. A těch 30 % není zase jako nějaký takový nedosažitelný cíl, protože některá města už těch, v rámci té studie, některá města těch 30 % území dosahovala, například v Praze to bylo nějakých 13 %, tuším, takže ono to není zase tak daleko, a opravdu to může znamenat nějakou zásadní redukci, co se té úmrtnosti související s horkem týče.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Můžeš vysvětlit krátce, co to je, právě rekuperace.
+A vlastně něčím, co má další benefity na další oblasti kvality života. To, že bude jednoznačně víc parků a v létě stín, toto není něco, co si musím odtrpět, aby umíralo méně lidí, ale naopak to asi chceme z mnoha různých důvodů.
 
-{% include 2050/transcript-person.html id="grabovsky" %}
+{% include 2050/transcript-person.html id="janos" %}
 
-Rekuperace v podstatě znamená, že jakoby brzdíš motorem, to znamená, že nevyužíváš brzdění brzdícími destičkami, které při tření, které vzniká při brzdění, se nějak otírají, a z toho vznikají ty pevné částice, ale brzdíš naopak tím, že si necháváš nabíjet baterku tou hybností svého auta. Když jsem si dohledával nějaké studie k tomu problému, tak jsem často narážel na to, že je vlastně těžké kvantifikovat, jak přesně ten vliv třeba hmotnosti nebo různých směsí v pneumatikách se odráží. Odkazuji třeba na jednu studii z roku 2021, kde odhadovali emise z otěru pneumatik, emise pevných částic, a došli k tomu, že u elektroaut, když brzdí s rekuperací, tak jsou ty emise z otěru v městském prostředí, to znamená takové to běžné ježdění po městě.
-
-Zhruba o čtvrtinu menší než u spalovacích aut, tady ten rozdíl je potom menší třeba mezi městy nebo na dálnici, kde přitížíš už míň, takže tam je ten rozdíl třeba 10–5 % a zároveň z té studie vyplývá, že když nepoužíváš rekuperaci u elektroauta, tak ty emise jsou tak zhruba stejné. Případně na dálnici mohou být trošku vyšší.
+Určitě se v tom městě žije příjemněji potom.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-To znamená, že ta úvaha, že elektroauta jsou těžší, takže mají větší emise z otěru, vlastně neplatí, nebo jako ve většině případů neplatí, případně jenom na nějakých specifických příkladech, jako jsou dálnice a podobně.
+Tak jo, ale tím moc děkuju za tenhle rozhovor i za tu práci, kterou děláte. Myslím si, že to má velký přínos pro vůbec pochopení toho, jak ty mechanismy fungují.
 
-{% include 2050/transcript-person.html id="grabovsky" %}
+{% include 2050/transcript-person.html id="janos" %}
 
-Platí to obecně z fyzikálních principů, ale když využíváš tu rekuperaci, tak ti hodně pomáhá, protože vlastně nepoužíváš brzdy k brzdění.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Tak jo. Díky moc.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-
-Další otázka zní, co už dnes mohou města dělat, aby nachystala ideální podmínky pro udržitelnou dopravu.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Já bych na tomhle místě nás asi odkázal na epizodu s Peterem Bednárem, kde jsme se bavili o dopravě ve městech, a to nejenom z pohledu snižování emisí, ale i právě z toho pohledu urbanistického, a pokud bych měl vypíchnout jeden klíčový bod, který on říká, je, tak je to vlastně problém legislativní, když se staví nějaké nové čtvrti nebo nějaké nové stavby ve městech, tak legislativně je vlastně potřeba tam budovat nějaké počty parkovacích míst pro auta, protože jsme si zvolili to, že budeme dávat přednost automobilové dopravě, osobní, automobilové dopravě, a to je pak problém, protože tím typicky trpí urbanistické projekty, které by třeba mohly preferovat nebo naopak podporovat nějaké jiné typy dopravy než jenom ty osobní automobily, takže obecně pro města by ta rada byla nedávat přednost autům, ale upřednostňovat i jiné možnosti.
-
-A na konkrétních místech to pak nejde říct úplně snadno, protože ty případy se liší. Město od města, čtvrť od čtvrti, opravdu ty podmínky jsou různé, už tam existují různé dopravní stavby, jako systémy toho, jak tam vlastně ta doprava ve městě funguje, takže kdybychom chtěli dávat nějaké konkrétní rady konkrétním městům, tak se opravdu musíme bavit o tom, o tom jednom místě, kterého se to týká. Takže těch obecných rad víc asi nebylo. Na tomto místě.
-
-Máme tady skupinu otázek, kterou jste nám poslali, která se týká emisí z dopravy, které jsou ale jiné než CO<sub>2</sub>, protože my se typicky zaměřujeme na to, jak snižovat emise skleníkových plynů v tomhle podcastu, ale doprava produkuje jiné často škodlivé látky než jenom právě CO<sub>2</sub>, takže se o téhle skupině otázek chceme pobavit. A k tomu jsem, k tomu jsme si pozvali našeho dalšího hosta, kterým je Jáchym Brzezina z Českého hydrometeorologického ústavu, který se právě touhletou problematikou zabývá. Tak já vás vítám v našem podcastu.
-
-Já bych tě poprosil na začátek o takové vlastně širší zarámování, protože my tu hodně mluvíme o tom, že snižujeme CO<sub>2</sub> tady a onde, tak jaké další látky produkuje doprava? Kromě toho CO<sub>2</sub>.
-
-{% include 2050/transcript-person.html id="brzezina" %}
-
-Tak tam je vlastně, možná na začátek bych jenom vysvětlil, jaký je vlastně rozdíl mezi skleníkovým plynem a znečišťující látkou. Znečišťující látka je podle zákona definována jako látka, která je nějakým způsobem přímo škodlivá pro lidské zdraví, ale třeba i pro ekosystémy. To znamená, že můžeme mít třeba teoreticky i skleníkový plyn, který je zároveň znečišťující látkou. Konkrétně u toho oxidu uhličitého je to složitější; tam je to opravdu čistě skleníkový plyn, a to z toho důvodu, že pokud bychom tady, teď třeba seděli tady uvnitř, máme tady poměrně vysokou koncentraci CO<sub>2</sub>, určitě mnohem vyšší, než jaká je venku, a jak nám to dlouhodobě stoupá, přesto nám to z pohledu zdraví žádným způsobem neškodí. Ty dopady CO<sub>2</sub> samozřejmě jsou nežádoucí, ale v tom globálním pohledu jsou to spíše ty nepřímé dopady, co potom vlastně ty vysoké koncentrace CO<sub>2</sub> způsobují.
-
-Takže takto vlastně my rozlišujeme ty skleníkové plyny a znečišťující látky. Z těch znečišťujících látek u té dopravy jsou to zejména oxidy dusíku, což je tedy kombinace oxidu dusičitého a oxidu dusnatého, dále je to například oxid uhelnatý. Jsou to samozřejmě prachové částice různých velikostí, různého složení, takže to jsou primárně ty látky, které u té dopravy pozorujeme.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Říká se, že jsou škodlivé, tak v čem jsou škodlivé? Nebo možná ta širší otázka je nejenom na to naše zdraví, ale jak obecně tyhle látky fungují, jak vznikají, kam, kde končí, jako jestli, jak dlouho se třeba drží v tom ovzduší, jak interagují s tím prostředím, které kolem sebe máme, atd.
-
-{% include 2050/transcript-person.html id="brzezina" %}
-
-Tak tím hlavním zdrojem tady těchto látek je vlastně to, že ten spalovací proces v tom spalovacím motoru není stoprocentně efektivní. A právě při tom tzv. nedokonalém spalování tam vlastně dochází ke vzniku různých látek, i potom, co se dostanou vlastně do ovzduší, ty látky, které potom v tom ovzduší pozorujeme, tak nejsou jenom ty látky, které byly přímo tedy emitované například z toho výfuku, ale i třeba z komína, ale tam potom dochází k spoustě dalších reakcí, takže právě například ten oxid dusnatý nám potom oxiduje na oxid dusičitý, takže tam potom ty reakce jsou velmi složité, ty dopady na to zdraví jsou v podstatě na celé tělo.
-
-Když se podíváme, co všechno může způsobit znečištěné ovzduší, tak se bavíme v podstatě o všech soustavách, které jsou pro nás nějakým způsobem důležité, to znamená od nervové soustavy přes kardiovaskulární, dýchací systém, reprodukční systém, dopady na kůži atd. Je to také značně individuální, někdo je třeba citlivější vůči oxidu dusičitému, někdo je citlivější vůči těm částicím, takže se nedá úplně paušálně říct. Jsou samozřejmě nastavené nějaké limity, které vychází jak tedy z doporučení třeba světové zdravotnické organizace, tak potom i z nějakých legislativních požadavků jak Evropské unie, tak třeba nějakých potom českých směrnic.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Můžu se ještě zeptat, jaký podíl na tomhle znečištění má právě doprava? Dokážu si představit, že ve městech to asi bude vyšší než na nějaké vesnici, kde se topí pevnými palivy a jde to spíše z těch komínů, tak klidně takhle rozdíl jako město, venkov nebo obecně jakoby, no, kolik toho dělá právě ta doprava oproti třeba jiným zdrojům těchhle těch látek.
-
-{% include 2050/transcript-person.html id="brzezina" %}
-
-Tam je potřeba říci, jak rozlišovat dvě věci – jedna věc je podíl a druhá věc je potom ta absolutní hodnota. Říkám to proto, že co se týče dopravy, tak v podstatě u dopravy se dnes primárně bavíme o těch oxidech dusíku z toho důvodu, že tam opravdu v celorepublikovém průměru, v těch celorepublikových množstvích emisí, ta doprava je dominantní. Ono se to potom ještě dělí na množství emisí z osobních aut, z nákladní dopravy atd., ale když to sečteme, tak vlastně doprava je zdrojem číslo jedna u oxidu dusíku, na druhém místě potom energetika. Třeba u částic, o kterých tady již byla řeč, tam se dá říct, že ta doprava je v tom celorepublikovém kontextu dosti minoritní zdroj, který opravdu se pohybujeme v nižších jednotkách procent a často lidi překvapuje i to, že se to týká i průmyslu, i ten průmysl se bavíme o třeba jednotkách procent. U těch menších částic, které jsou potenciálně tedy zdraví nebezpečnější, tak nějakých 80 % dneska pochází právě z těch starých kotlů na pevná paliva, ať už je to dřevo, uhlí, což je další ten paradox, že většinou třeba, když děláme nějakou akci, jako je třeba den otevřených dveří, chodí nám tam lidi, říkají nám, že se odstěhovali z Brna nebo z nějakého jiného velkoměsta za město, abychom dýchali čistší vzduch.
-
-A bohužel tedy někdy úplně jako nepotěším. Řekl jim třeba, že to, co teď dýchají, je mnohem horší, takže to, co jsem tím chtěl také říct, je to, že my se ještě potom musíme podívat na to, s čím máme reálně problém, to znamená, kde, u jakých látek jsou ty limity překračované, a tam zjistíme, že teď máme vlastně nejnovější data, která jsme publikovali včera, za rok 2023. Byl to tedy rok historicky nejlepší kvalitou ovzduší, který předčil rok 2020, kdy jsme dosud tedy říkali, že ty koncentrace byly nejnižší. Je to zatím samozřejmě nějaké předběžné hodnocení, ale je to vlastně poprvé, kdy ani ty částice nebyly nikde v České republice překročeny, alespoň ne z těch stanic, které máme zatím vyhodnocené, což se ještě nikdy jako v té historii toho měření od devadesátých let nestalo, ale je tam potřeba si říci, že ani oxidy dusíku už dneska nikde nejsou překročené. Oxid dusičitý byl naposledy překročený před nějakými, řekněme, třemi, čtyřmi roky v centru Prahy 5, šest let zpátky, třeba i v Brně, ale poslední roky vlastně už nikde. Takže jedna věc je to, jaký je podíl. Ale pak máme látky, jako je třeba oxid siřičitý, kde zase je třeba největší podíl, může být třeba průmysl, ale celkově ty koncentrace jsou o několik řádů nižší, než je ten limit. A v podstatě už nás to netrápí.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Já bych se ještě chtěl zeptat na ty pevné částice a konkrétně, protože se nám to bude hodit k těm dalším otázkám. Viděl jsem nějaké rozlišení: PM<sub>1</sub>, PM<sub>2,5</sub>, PM<sub>10</sub>. Dokázal bys vysvětlit tady tuhle klasifikaci? Co to znamená?
-
-{% include 2050/transcript-person.html id="brzezina" %}
-
-Ty částice jsou specifické tím, že na rozdíl od všech těch ostatních znečišťujících látek nejsou definovány nějakou konkrétní chemickou strukturou, to znamená, máme oxid dusičitý NO<sub>2</sub>, oxid siřičitý SO<sub>2</sub>... Částice jsou vlastně definované jakožto nějaký aerosol, to znamená pevná nebo kapalná částečka v ovzduší, a to jejich rozdělení závisí na jejich velikosti, ono striktně řečeno, je to nějaký aerodynamický průměr, což je ale víceméně nějaký koncept, který vyjadřuje velikost, je to z toho důvodu, že vlastně ty zdravotní dopady těch částic se primárně odvíjí od jejich velikosti a potom samozřejmě od jejich složení. Pokud je to částice větší než zhruba nějakých 10 µm, tak se spíše zachytí někde na nějaké sliznici. To si dokážeme představit, když jdeme do nějakého prašného prostředí, začneme slzet, kašlat, smrkat. Ta částice se někde zachytila, tudíž jakoby to naše tělo se jí snaží zbavit a svým způsobem, byť je to v tu chvíli pro nás nepříjemné, tak nám to z nějakého dlouhodobého hlediska nebude škodit, protože i kdyby tam byl nějaký kov na tom zachycený, tak se vlastně do toho těla nedostane.
-
-To, co my měříme, jsou ty největší částice, které jsou označované právě jako PM<sub>10</sub>, což znamená, že jsou to všechny částice o velikosti do 10 µm, což už je tedy zhruba sedmkrát méně než je průměr lidského vlasu a je to něco, co člověk nevidí, takže laicky řečeno, všechen prach, který vidíme, my už neměříme, všechno, co měříme, není vidět. A potom samozřejmě my můžeme stanovovat ty velikosti jakkoliv, my můžeme říct klidně PM<sub>3</sub>. Budou to částice do 3 µm, ale obecně se používá tedy nejčastěji PM<sub>10</sub>, PM<sub>2,5</sub> a PM<sub>1</sub>. Je to z toho důvodu, že tady ty hranice byly zase nějakým způsobem experimentálně zjištěny jako hranice, kdy třeba u PM<sub>10</sub> se říká, že se dostávají do horních cest dýchacích, PM<sub>2,5</sub> do dolních cest dýchacích, potom můžeme mít úplně ty nejmenší nějaké nanočástice, které třeba pronikají až přímo do krevního oběhu. A až teprve v tu chvíli nás bude vlastně zajímat, co ta částice obsahuje.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Tak já půjdu rovnou do nějakých konkrétních otázek, které už nám přišly do Q&A epizody a navazuje to právě na to, o čem jsme se bavili. A ta jedna z nich se ptá na tohle: Není problém s tím, že čím novější motor, tím menší prachové částice a tím více škodlivější emise pronikají do krevního řečiště nebo do mozku? Jestli tedy v novějších motorech právě nejsou víc těch jako PM<sub>1</sub>, jedna nebo těch úplně nejmenších částic.
-
-{% include 2050/transcript-person.html id="brzezina" %}
-
-Ne, není to tak. Samozřejmě, že je faktem, že byla tady řeč například o těch otěrech brzdových destiček, otěru pneumatik u moderního vozu. Jsou zase na to různé studie, ale obecně se říká, že ty tzv. výfukové emise, to znamená, to jsou právě ty otěry, dělají nějakých 60–80 % u těch, u těch nových automobilů celkového množství těch částic, ale z otěrů jsou to právě primárně spíš ty větší částice nepravidelného tvaru, naopak to, co jde z těch spalovacích procesů, to jsou spíše ty menší. My je sice řadíme do PM<sub>2,5</sub>, protože jsou to ty malé, ale oni jsou ve skutečnosti ještě mnohem menší než 2,5 µm, proto samozřejmě můžou mít nějaký závažný dopad na zdraví. Takže není to jenom o tom, že když řekneme, že koncentrace byla taková, tak ještě potom právě záleží na tom, co vlastně to za částice, a to složení těch částic, z těch výfukových plynů je odlišné než to, co máme z otěru pneumatik a brzd.
-
-Třeba, ale v zásadě ten spalovací proces je tam jakoby stejný, tam se mění spíše právě to absolutní množství. Teď od těch nejnovějších emisních norem vlastně se hledí i na počet částic, je to z toho důvodu, že obecně, když udáváme koncentraci, tak je to vlastně nějaké množství váhy na objem. Problém u těch malých částic je, že ony mohou mít relativně malou váhu, protože jsou prostě malé, ale mají třeba velký povrch, což je potom problematické z hlediska těch zdravotních dopadů, takže proto se tam právě zavedlo i nějaký ten limit na ten počet těch částic, protože vlastně 10 malých částic třeba, řekněme, a jedna velká, které mohou mít stejnou hmotnost, tak ten potom dopad tam může být značně odlišný, ale není to tak, že by ty moderní vozy měly menší částice?
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Další otázka, která přišla, zní takhle: Jak je to s měřením těchhle čím dál menších částic? Jestli jsou nová zařízení schopná měřit právě i ty částice menší než PM<sub>1</sub>, nebo ta otázka se ptá, nebo žijeme v nějaké sladké nevědomosti, že emise zdá se klesají, ale je to jenom tím, že neumíme měřit dostatečně malé částice. Tak jestli bys tohle mohl odpovědět.
-
-{% include 2050/transcript-person.html id="brzezina" %}
-
-Tak první, co bych na to řekl, je, že vlastně z toho, co jsem již říkal, vyplývá, že vlastně částice PM<sub>2,5</sub> nejsou částice o velikosti 2,5 µm, ale do 2,5 µm, jinými slovy vlastně všechny ty částice, které jsou menší než 2,5 µm, se tam jakoby započítávají, takže kdyby byla částice o velikosti 1 µm, tak by tam byla započítaná, takže to není tak, že to vlastně neměříme navíc, ano, ty technologie jdou dopředu, nějakých 30 let zpátky se víceméně měřil nějaký celkový prach, pak se začaly měřit částice PM<sub>10</sub>, PM<sub>2,5</sub>, PM<sub>1</sub>. Dnes  už máme na ČHMÚ i v rámci nějaké, řekněme, spíše zatím experimentálního výzkumu i stanice, které dokáží detekovat částice o velikosti jednotek nanometrů, což jsou opravdu už ty úplně nejmenší a máme zatím čtyři stanice, takže, takže určitě v tomto směru je ta situace neustále lepší, protože samozřejmě i tohle jde dopředu, ale my tušíme, co se děje a není to úplně tak, že bychom žili v nějaké nevědomosti.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Ovlivňuje množství emisí nebo případně jejich charakter, to, jak rychle třeba to auto jede, protože se často mluví o třicítce ve městech, nebo teď máme padesátku. Jaký vliv má právě rychlost na tu produkci těchto látek?
-
-{% include 2050/transcript-person.html id="brzezina" %}
-
-To je velice složitá otázka. Jedna věc je, že vždycky, když mluvíme o emisích z dopravy, tak je potřeba si říct, že to není jenom o počtu aut, a typicky se s tímto setkávám často, když někdo třeba říká: "No, ten okruh ničemu nepomůže, když tady bude okruh za městem, tak o to víc lidí bude jezdit autem, protože to bude příjemnější." A to je sice možná pravda, ale vlastně emise z dopravy nekorelují s počtem vozidel, když pominu fakt, že samozřejmě záleží na nějakém vozovém parku, ale budeme předpokládat, že ten se nám tím nezmění, tak je to strašně moc o té plynulosti té dopravy. Pokud budeme mít situaci, kdy na nějaké komunikaci to neustále stojí, jsou tam kolony, tak samozřejmě si dokážeme představit, že auto bude víc brzdit, víc se rozjíždět, to znamená, že při tom rozjezdu ta pneumatika trošku proklouzne, bude tam větší otěr a sami, určitě každý, kdo jezdí autem, tak ví sám, že ve městě má vyšší spotřebu, což samo o sobě už znamená, že spálil víc benzínu na kilometr a tím pádem vzniklo i víc emisí.
-
-My to vidíme krásně na těch stanicích, kdy třeba máme stanici, která opravdu stojí u velice problematické komunikace, která je naprosto nedostačující svojí kapacitou, v podstatě to tam od rána a potom odpoledne stojí a ty koncentrace jsou tam vlastně jedny z nejvyšších v tom městě. Naopak vlastně o kousek dál, kde prostě je to trošičku jinak vyřešené dopravně, tak ty koncentrace jsou výrazně nižší jenom díky tomu, že ty auta tam jedou plynuleji, u té rychlosti je to složité v tom, že samozřejmě potom od určité rychlosti, kdy ta rychlost začne výrazně stoupat, když už se pohybujeme v nějakých velmi vysokých rychlostech, tak zase víme, že nám stoupá spotřeba, ten motor už nefunguje tak efektivně. Tam už zase ty emise budou vyšší. Když jsem se díval na nějaké studie, srovnání čistě 30 km/h, 50 km/h, tak co se týče nějakých těch jako celkových emisí, tak ono to spíš bude vycházet asi nastejno, tam ta účinnost nebude až tak odlišná, ale většinou tam vychází, že třeba při těch 30 km/h ty emise byly spíš vyšší, jenomže to zase souvisí s tím, že tam strašně záleží, jak je to jakoby koncipované, protože pokud je to čistě tak, že máme nějakou silnici, kde to právě stojí, tak dost možná tam povolená padesátka, ale prostě tím, jak ty auta cukají, tak mají průměrnou rychlost třeba 30, tak tam ty emise můžou být vyšší, pokud by to byla situace, že ty auta vlastně jedou plynule, ale jedou 30, protože tam třicítka je povolená, tak už to tak úplně být nemusí.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Já mám asi poslední otázku, kterou si už tak jako po částech trošku zodpověděl, ale chci se na to zeptat napřímo, a sice, jak se liší emise automobilů se spalovacím motorem a teď nově nastupující elektromobility elektromobilu.
-
-{% include 2050/transcript-person.html id="brzezina" %}
-
-Tak jedna věc je, že u těch elektromobilů vlastně zcela odpadají ty výfukové emise. Když samozřejmě budeme teda vycházet z předpokladu, že do toho nebudeme započítávat nějaké emise z výroby té samotné elektřiny, což je samozřejmě otázka, jak vznikla. Tak samozřejmě toto se nám tam jakoby vyruší, jak už tady padlo, zase je tam trošku problematická ta váha toho elektromobilu, která vede k tomu, že ty otěry, obzvláště těch pneumatik a podobně, tam mohou být významnější. Já jsem také četl nějaké studie, kde víceméně u těch částic to vycházelo dost podobně, ale jak jsem říkal, celkově, když to vezmeme, tak ten elektromobil určitě je přínosnější nebo respektive lepší variantou a lepší alternativou než spalovací motor. Jak tedy z toho důvodu, že tam odpadají třeba ty oxidy dusíku? Oxid uhelnatý? To jsou ty výfukové plyny a u těch částic je to zase o tom složení a jako je to zase složité hodnotit, protože to přesné složení pneumatik, brzd se může značně lišit i třeba automobilka od automobilky, ale obecně i to, že z těch otěrů primárně vznikají ty větší částice a z těch výfukových plynů jsou to spíš ty menší, tak už zase je nějaký předpoklad, že už jenom to, že ty částice jsou menší, tak jsou potenciálně zdraví nebezpečnější.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Já ti moc děkuju za rozhovor.
-
-{% include 2050/transcript-person.html id="brzezina" %}
-
-Děkuju za pozvání.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-
-Ještě jednou díky, Jáchymovi, pojďme na další otázky. V jedné z epizod bylo zmíněno množství CO<sub>2</sub> emisí pro výrobu elektroauta a auta se spalovacím motorem. Rozdíl mi přišel relativně malý, byl do výpočtu emisí CO<sub>2</sub> z výroby elektroauta zahrnut fakt, že většina bateriových článků je vyráběna v Číně, kde velký podíl elektřiny pochází z uhlí?
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Na tuto otázku děkujeme za ni. Schopni odpovědět relativně rychle, rychlá odpověď je, ano, je to tam započítané. Kdybychom měli zmínit nějaké konkrétní studie, tak do bonusových materiálů k této epizodě přidáváme studii od McKinsey, kde se přesně můžete podívat na to, o kolik je emisně náročnější vyrobit baterii v Číně než v jiných částech světa. Takže ty studie s tím počítají. Je pravda, že výroba baterie v Číně z těchto důvodů je emisně náročnější než v některých jiných částech světa, třeba v Evropě, ale do toho porovnání to započítané skutečně je.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-
-Existují nějaké velké, těžko překonatelné překážky pro kompletní dekarbonizaci dopravy? Víme například, zda je na světě dostatek vytěžitelných surovin pro všechny baterie do všech očekávatelných elektroaut?
-
-{% include 2050/transcript-person.html id="holik" %}
-
-My jsme tuto otázku konzultovali u nás v našem analytickém týmu, a když odpovím konkrétně na tu druhou část, jestli je dostatek surovin, v žádné studii, na kterou jsme prozatím narazili, nebyl nedostatek surovin komunikovaný jako nějaká reálná překážka mezi ty skutečné překážky, které brání dekarbonizaci dopravy. Typicky třeba, co se týká zavedení většího podílu elektromobility v osobní automobilové dopravě, tak v současnosti je to stále vysoká cena těch elektromobilů, případně flexibilita sítě, případně něco, čemu se říká range anxiety. Je to jako strach z krátkého dojezdu, typicky ten argument je, že elektroauto nedojede tolik, kolik by člověk potřeboval na jedno nabití. Co se týká té ceny a případně i toho nějakého strachu z dojezdu, tak to jsou věci, se očekává, že se vyřeší časem, stejně tak jako flexibilita sítě, takže v současnosti nevíme o tom, že by byly nějaké tvrdé překážky pro kompletní dekarbonizaci, případně elektrifikaci dopravy, tak, jak o ní mluvíme v tomhle podcastu.
-
-{% include 2050/transcript-person.html id="vrtalova" %}
-
-Tak to byla Q&A epizoda týkající se dopravy. My vám strašně moc děkujeme za vaše otázky, těšíme se, až se vrhneme do dalších. Každopádně, kdybyste s námi chtěli zůstat v kontaktu, tak připomínáme, že na Facebooku funguje komunita 2050, kde se můžete dále ptát a můžeme spolu komunikovat. Zároveň, kdyby vás zajímalo více z toho, co tady zaznělo, k některým otázkám máme doplněné i další zdroje, články, studie, které se můžete přečíst na našem webu 2050podcast.cz.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-My vám děkujeme za podporu, za to, že posloucháte nejen tuto sérii, ale i všechny ty ostatní epizody. Kdybyste nás chtěli sledovat, tak můžete typicky na Instagramu, to je naše primární sociální síť, a budeme moc rádi, pokud tento podcast doporučíte lidem ve vašem okolí, pro které si říkáte, že by mohl být užitečný. Děkuji vám za poslech a mějte se krásně.
+Určitě. Já taky moc děkuju, že jsme si mohli takhle o tom popovídat.
 
 {% include 2050/transcript-end.html %}
