@@ -6,9 +6,9 @@ slug:       "61-janos-extremni-teploty"
 redirect_from: "/epizody/61"
 published:  2024-02-07
 summary:    |
-      Studie vědců z Masarykovy Univerzity zkoumala vliv extrémních teplot na úmrtnost v ČR a potvrdila světová data o důsledcích neobvykle nízkých i vysokých teplot v podobě zvýšené úmrtnosti.
+    Studie vědců z Masarykovy Univerzity zkoumala vliv extrémních teplot na úmrtnost v ČR a potvrdila světová data o důsledcích neobvykle nízkých i vysokých teplot v podobě zvýšené úmrtnosti.
 audioboom:  "8454091"
-guests: [janos]
+guests:     [ janos ]
 tags:       [ klima, spolecnost ]
 transcript: true
 ---
@@ -26,19 +26,19 @@ Pokud bychom například zvýšili pokrytí městských ploch zelení na 30%, mo
 
 <div class="bonus-material" markdown="1">
 
-* **Infografika: [Jaký vliv má klimatická změna na extrémy počasí](https://faktaoklimatu.cz/infografiky/vliv-klimatu-na-extremy?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
+* **Infografika: [Jaký vliv má klimatická změna na extrémy počasí](https://faktaoklimatu.cz/infografiky/vliv-klimatu-na-extremy)** (_Fakta o klimatu_)\\
     V důsledku změny klimatu jsou extrémní meteorologické události v mnoha oblastech světa stále častější a intenzivnější. Pravděpodobnost výskytu však nestoupá u všech extrémů stejně a navíc se v některých částech světa změny projevují více než jinde.
 
-* **Explainer: [Jak souvisí extrémní počasí v Česku s klimatickou změnou?](https://faktaoklimatu.cz/explainery/vliv-klimatu-na-extremy-cesko?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
+* **Explainer: [Jak souvisí extrémní počasí v Česku s klimatickou změnou?](https://faktaoklimatu.cz/explainery/vliv-klimatu-na-extremy-cesko)** (_Fakta o klimatu_)\\
     V tomto textu komentují čeští odborníci příklady extrémních meteorologických jevů z nedávné doby.
 
 * **Analýza: [Jak se mění počet extrémně teplých a extrémně studených dní v Česku?](https://faktaoklimatu.cz/explainery/teplotni-extremy-cr)** (_Fakta o klimatu_)\\
     Mění se počet výjimečně teplých dní, nebo je jich víceméně stejně jako dříve? A jak je to s výjimečně chladnými dny?
 
-* **Publikace: [Extrémy počasí a klimatická změna](https://faktaoklimatu.cz/studie/2022-extremy-pocasi-a-klimaticka-zmena?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
+* **Publikace: [Extrémy počasí a klimatická změna](https://faktaoklimatu.cz/studie/2022-extremy-pocasi-a-klimaticka-zmena)** (_Fakta o klimatu_)\\
     Příručka pro novináře, jak mluvit a psát o klimatické změně a jakým chybám se při tom vyhnout. Verze ke stažení.
 
-* **Publikace: [Extrémy počasí a klimatická změna. Jak o nich mluvit a psát](https://faktaoklimatu.cz/explainery/vliv-klimatu-na-extremy-prirucka?q=extr%C3%A9my)** (_Fakta o klimatu_)\\
+* **Publikace: [Extrémy počasí a klimatická změna. Jak o nich mluvit a psát](https://faktaoklimatu.cz/explainery/vliv-klimatu-na-extremy-prirucka)** (_Fakta o klimatu_)\\
     Webová verze výše uvedené příručky.
 
 
@@ -64,7 +64,7 @@ Možná si říkáte, že epizody s podobným obsahem jsme tu už měli. Tentokr
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Pojďme si představit našeho dnešního hosta. 
+Pojďme si představit našeho dnešního hosta.
 
 {% include 2050/transcript-person.html id="janos" %}
 
@@ -150,7 +150,7 @@ Takže vlastně můžete být dost jistí, že opravdu ta klíčová proměna je
 
 {% include 2050/transcript-person.html id="janos" %}
 
-V podstatě dá se to tak říct, ano. 
+V podstatě dá se to tak říct, ano.
 
 {% include 2050/transcript-person.html id="holik" %}
 
