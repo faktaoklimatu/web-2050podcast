@@ -23,7 +23,7 @@
 
     &:hover, &.badge-tag-active {
         color: $c-white;
-        background: color-mix(in hsl, var(--tag-color), black);
+        background: color-mix(in lch, var(--tag-color) 60%, black);
     }
 }
 
