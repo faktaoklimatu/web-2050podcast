@@ -25,7 +25,6 @@ Pokud bychom například zvýšili pokrytí městských ploch zelení na 30%, mo
 ## Bonusové materiály
 
 <div class="bonus-material" markdown="1">
-
 * **Infografika: [Jaký vliv má klimatická změna na extrémy počasí](https://faktaoklimatu.cz/infografiky/vliv-klimatu-na-extremy)** (_Fakta o klimatu_)\\
     V důsledku změny klimatu jsou extrémní meteorologické události v mnoha oblastech světa stále častější a intenzivnější. Pravděpodobnost výskytu však nestoupá u všech extrémů stejně a navíc se v některých částech světa změny projevují více než jinde.
 
@@ -40,7 +39,7 @@ Pokud bychom například zvýšili pokrytí městských ploch zelení na 30%, mo
 
 * **Publikace: [Extrémy počasí a klimatická změna. Jak o nich mluvit a psát](https://faktaoklimatu.cz/explainery/vliv-klimatu-na-extremy-prirucka)** (_Fakta o klimatu_)\\
     Webová verze výše uvedené příručky.
-
+</div>
 
 {% include 2050/transcript-start.html %}
 
