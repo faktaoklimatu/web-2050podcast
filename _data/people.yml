@@ -398,3 +398,12 @@
   name: Tomáš
   surname: Janoš
   description: RECETOX Masarykova Univerzita
+
+- id: krajhanzl
+  name: Jan
+  surname: Krajhanzl
+  description: Masarykova Univerzita, Katedra environmentálních studií
+- id: hlas
+  name: Hlas
+  surname:  
+  description: 
