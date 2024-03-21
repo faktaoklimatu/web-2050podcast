@@ -2,17 +2,17 @@
 layout:     episode
 title:      "Jak se ke klimatu staví česká společnost?"
 number:     62
-slug:       "62-krajhanzl-ceska-spolecnost.md"
+slug:       "62-krajhanzl-ceska-spolecnost"
 redirect_from: "/epizody/62"
 published:  2024-03-21
 summary:    |
     Sociolog Jan Krajhanzl je hostem první epizody nové série podcastu 2050, která se bude zabývat lidmi a společností. Zaměříme se na to, jak se česká společnost staví ke změně klimatu a dalším otázkám životního prostředí, udržitelnosti nebo dekarbonizace. V epizodě diskutujeme, jak se postoj naší společnosti k těmto tématům vyvíjel v čase a do jakých skupin můžeme Čechy a Češky názorově rozdělit.
 audioboom:  "8476257"
-guests:     [ krajhanzl]
+guests:     [ krajhanzl ]
 tags:       [ klima, spolecnost ]
 transcript: true
 ---
-I když to tak v mediálním prostoru nemusí vždy vypadat, v ČR panuje široká společenská shoda na tom, že klima chceme chránit. Podporu mají také některá klimatická opatření s praktickým dopadem na životy lidí – např. obnovitelné zdroje, zateplování, úspory energie apod. Většina společnosti si také myslí, že bychom měli snižovat emise skleníkových plynů nehledě na to, jak se chovají ostatní státy. 
+I když to tak v mediálním prostoru nemusí vždy vypadat, v ČR panuje široká společenská shoda na tom, že klima chceme chránit. Podporu mají také některá klimatická opatření s praktickým dopadem na životy lidí – např. obnovitelné zdroje, zateplování, úspory energie apod. Většina společnosti si také myslí, že bychom měli snižovat emise skleníkových plynů nehledě na to, jak se chovají ostatní státy.
 
 Mezi kontroverznější témata pak patří politické rámce jakým je třeba Green Deal (přestože málokdo ví, co se pod tímto pojmem reálně skrývá) a obecně se v průzkumech ukazuje nízká míra konkrétních vědomostí jakými způsoby lze o klima a krajinu pečovat.
 
@@ -23,7 +23,6 @@ Mezi kontroverznější témata pak patří politické rámce jakým je třeba G
 ## Bonusové materiály
 
 <div class="bonus-material" markdown="1">
-
 * **Infografiky: [České klima 2021 – Mapa českého veřejného mínění v otázkách změny klimatu](https://enviro.fss.muni.cz/vyzkum/ceskeklima2021)** (_Katedra environmentálních studií MU_)\\
     Výsledky rozsáhlého reprezentativního výzkumu veřejného mínění, který podrobně zkoumá vztah obyvatel České republiky ke změně klimatu a jeho ochraně.
 
@@ -32,7 +31,7 @@ Mezi kontroverznější témata pak patří politické rámce jakým je třeba G
 
 * **Web: [Institut 2050](https://institut2050.cz/)** (_Institut 2050_)\\
     Specializuje se na výzkumy a komunikační strategie, které pomáhají stavět mosty k lidem, snižovat emise a chránit přírodu.
-
+</div>
 
 {% include 2050/transcript-start.html %}
 
@@ -108,7 +107,7 @@ No a ta pátá a poslední věc, kterou byste měli vědět a budeme se dneska h
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-To jsou super zprávy. 
+To jsou super zprávy.
 
 {% include 2050/transcript-person.html id="holik" %}
 
@@ -332,7 +331,7 @@ Mám v pokojíčku nad postelí Gretu Thunberg. No, opravdu ne.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Jak se Češi. A teď se možná trochu ptám. 
+Jak se Češi. A teď se možná trochu ptám.
 
 Jak se česká společnost staví k řešení změny klimatu? My teď tak diskutujeme, tak jako občas nadhazujeme, hele, tohle se dělá kvůli klimatu, možná si to s tím nikdo nespojuje, ví vůbec česká společnost, jak klima řešit nebo jak k tomu aktivně přispět? Protože občas přichází takové ty zprávy. Viděl jsem, a to jsem viděl možná zase z USA prostoru, že snad přes 40 % lidí, kteří se chtěli starat o změnu klimatu, si mysleli, že třídění odpadu je to, co to vyřeší. Tak jak je to s tím typem vzdělání v české společnosti?
 
@@ -432,13 +431,13 @@ Sledujte podcast 2050 na Instagramu a podpořte naši tvorbu finančně na webu 
 
 Se dotýkáš otázky, kterou mám v hlavě, a to je, kdo vůbec, jak s tím pracuje, kdo má ty příběhy vyprávět nebo kdo jsou v českém prostoru ti opinion makeři, kteří by s tím pohnuli.
 
-A já jsem, myslím si, že to mám z knížky od Katherine Hayhoe, že o tom psala, jako mluvte o klimatu s lidmi, kteří jsou jako vy, jako že nevím, takže jste prostě řezník, tak mluvte s řezníky, nebo jste prostě řídíte velkou firmu, tak mluvte s řediteli velkých firem, nebo jste zemědělec, tak mluvte k zemědělcům, jste prostě klimatický aktivista, tak nemluvte k zemědělcům, mluvte k dalším klimatickým aktivistům. A tak.
+A já jsem, myslím si, že to mám z knížky od Katharine Hayhoe, že o tom psala, jako mluvte o klimatu s lidmi, kteří jsou jako vy, jako že nevím, takže jste prostě řezník, tak mluvte s řezníky, nebo jste prostě řídíte velkou firmu, tak mluvte s řediteli velkých firem, nebo jste zemědělec, tak mluvte k zemědělcům, jste prostě klimatický aktivista, tak nemluvte k zemědělcům, mluvte k dalším klimatickým aktivistům. A tak.
 
 Z druhé strany asi potřebujeme nějaké osobnosti, které jsou třeba šířeji uznávané, které to tam budou zvedat, ať už je to nějaký politik, ať už je to nějaká veřejná osobnost. Tak tohle jsou moje úvahy nad tím, jací lidé mají teda o tom klimatu mluvit, jaké osobnosti v tom potřebujeme, jestli je to fakt spíš ten soused, nebo ten politik, nebo oba, nebo ještě někdo úplně jiný.
 
 {% include 2050/transcript-person.html id="krajhanzl" %}
 
-No, já, když navážu na Katherine Hayhoe, tak bych řekl, že v tom americkém prostředí rozhodně platí: styly republikánů, mluvte s republikány. To bych řekl, že je ještě důležitější než cokoliv jiného. Vlastně jako my potřebujeme často hledat lidi, vlastně z té druhé skupiny, a vlastně hledat, jako vlastně takhle, i ty opinion makery, kteří jsou mimo ten okruh těch obvyklých podezřelých. Ale pokud dneska jako to téma často vnášejí do veřejného prostoru primárně klimatická hnutí, případně nějaké, řekněme, vědecké kapacity.
+No, já, když navážu na Katharine Hayhoe, tak bych řekl, že v tom americkém prostředí rozhodně platí: styly republikánů, mluvte s republikány. To bych řekl, že je ještě důležitější než cokoliv jiného. Vlastně jako my potřebujeme často hledat lidi, vlastně z té druhé skupiny, a vlastně hledat, jako vlastně takhle, i ty opinion makery, kteří jsou mimo ten okruh těch obvyklých podezřelých. Ale pokud dneska jako to téma často vnášejí do veřejného prostoru primárně klimatická hnutí, případně nějaké, řekněme, vědecké kapacity.
 
 Tak my potřebujeme daleko víc a do toho dostat lidi vlastně z byznysu, kteří budou mluvit o tom, jak potřebujeme dekarbonizaci, co pro to můžeme udělat a jak se nám to vlastně třeba i bude vracet. Potřebujeme do toho dostat podle mě řadu starostů a starostek, jo, jsem jako hluboce přesvědčen, že my, ta česká debata byla úspěšná, tak potřebujeme to téma výrazně regionalizovat, to znamená, výrazně do toho zatáhnout vlastně nové aktéry, kteří jsou vlastně z regionů a kteří vlastně získají nějaký svůj hlas, ať už jako politický, anebo třeba i mediální, aby vlastně, protože to budou autority, které budou mít úplně jiný dosah a jsou schopné přesvědčit úplně jiné cílové skupiny, než jsou dneska právě třeba ty vědci, vědkyně, aktivisté, aktivistky z tohoto hlediska, to znamená, určitě si myslím, že ta debata musí být pluralitnější a řekl bych, že ta česká v tuhle chvíli naráží trošku na nějaký strop, že tím, že se to vlastně točí pořád víceméně v okruhu podobných jmen, kde nám vlastně chybí nějaká velká jména ambasadorů, ambasadorek, kteří by byli populární, známí, důvěryhodní.
 
@@ -498,7 +497,7 @@ Honzo, já ti moc děkuju za rozhovor.
 
 {% include 2050/transcript-person.html id="krajhanzl" %}
 
-Taky děkuju. 
+Taky děkuju.
 
 {% include 2050/transcript-person.html id="hlas" %}
 
@@ -511,10 +510,6 @@ Rádi bychom na tomto místě poděkovali společnosti PPG, která finančně po
 {% include 2050/transcript-person.html id="holik" %}
 
 Možná si říkáte, co má výrobce barev společného s udržitelností, ale v portfoliu má PPG například i nátěry, které prodlužují životnost baterie v elektromobilech, nebo takové, které odolávají růstu bakterií a plísní a pomáhají tak chránit zdraví lidí třeba na operačních sálech.
-
-{% include 2050/transcript-person.html id="hlas" %}
-
-Naším cílem v PPG je chránit a zkrášlovat svět. Zavázali jsme se minimalizovat dopady naší činnosti na životní prostředí a nastavili jsme si vlastní dekarbonizační cíle. Do roku 2030 například plánujeme snížit emise z vlastních provozoven o 50 %. Věříme v budoucnost, ve které budou fakta, porozumění a kolektivní vzdělávání katalyzátorem pozitivních změn. A to vám jde ve Faktech o klimatu a v podcastu 2050 skvěle, přejeme vám spoustu spokojených posluchačů.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 

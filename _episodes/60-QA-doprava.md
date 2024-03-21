@@ -38,7 +38,6 @@ Pro lepší orientaci přidáváme časy jednotlivých otázek:
 ## Bonusové materiály
 
 <div class="bonus-material" markdown="1">
-
 * **Článek [The race to decarbonize electric-vehicle batteries](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-race-to-decarbonize-electric-vehicle-batteries)** (_McKinsey & Company_)\\
     Text se zabývá důvody, proč je výroba baterií pro elektromobily emisně náročná a co lze udělat pro snížení její uhlíkové stopy.
 
@@ -47,6 +46,7 @@ Pro lepší orientaci přidáváme časy jednotlivých otázek:
 
 * **Studie [PM10 and PM2.5 emission factors for non-exhaust particles from road vehicles: Dependence upon vehicle mass and implications for battery electric vehicles](https://www.sciencedirect.com/science/article/abs/pii/S1352231020306208)** (_Atmospheric Environment_)\\
     V dokumentu najdete mimo jiné porovnání aut se spalovacím motorem a elektroaut z hlediska emisí částic PM<sub>10</sub> a PM<sub>2,5</sub> z otěru (brzdy, pneumatiky a opotřebení povrchu vozovky).
+</div>
 
 {% include 2050/transcript-start.html %}
 
