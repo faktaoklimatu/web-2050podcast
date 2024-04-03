@@ -409,3 +409,13 @@
   surname: Sucháček
   description: Nenásilný podcast
 
+- id: hlas
+  name: Hlas
+  surname: Hlas
+  description: Podcast 2050
+
+- id: tesak
+  name: Jaroslav
+  surname: Tesák
+  description: Podcast 2050
+
