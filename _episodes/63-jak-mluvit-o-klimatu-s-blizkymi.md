@@ -23,12 +23,11 @@ Jednotlivé tipy si podrobně rozebereme a na modelových situacích si ukážem
 ## Bonusové materiály
 
 <div class="bonus-material" markdown="1">
+* **Infografika: [Emise skleníkových plynů v EU podle sektorů](https://faktaoklimatu.cz/infografiky/emise-eu-detail)** (_Fakta o klimatu_)\\
+    Rozložení celkových emisí skleníkových plynů (v tunách CO<sub>2</sub> ekvivalentu) v EU v jednotlivých sektorech lidské činnosti.
 
-* **Infografika: [Emise skleníkových plynů v EU podle sektorů ](https://faktaoklimatu.cz/infografiky/emise-eu-detail?q=emise%20eu)** (_Fakta o klimatu_)\\
-    Rozložení celkových emisí skleníkových plynů (v tunách CO<sub>2</sub> ekvivalentu) v EU za rok 2021 v jednotlivých sektorech lidské činnosti. 
-
-* **Infografika: [Emise skleníkových plynů v ČR podle sektorů ](https://faktaoklimatu.cz/infografiky/emise-cr?q=emise%20%C4%8Dr)** (_Fakta o klimatu_)\\
-    Rozložení celkových emisí skleníkových plynů (v tunách CO<sub>2</sub> ekvivalentu) v ČR za rok 2021 v jednotlivých sektorech lidské činnosti. 
+* **Infografika: [Emise skleníkových plynů v ČR podle sektorů](https://faktaoklimatu.cz/infografiky/emise-cr)** (_Fakta o klimatu_)\\
+    Rozložení celkových emisí skleníkových plynů (v tunách CO<sub>2</sub> ekvivalentu) v Česku v jednotlivých sektorech lidské činnosti.
 
 * **Podcast: [Nenásilný podcast](https://www.nenasilnypodcast.cz/)** (_Nenásilný podcast_)\\
     Podcast tvoří Petr Holík a Petr Sucháček se záměrem šířit praxi nenásilné komunikace. Chtějí tím podpořit jednotlivce i organizace v tom, aby svým jednáním a rozhodováním rozvíjeli lepší mezilidské vztahy a společně vytvářeli svět, který pečuje o potřeby všech.
@@ -43,7 +42,7 @@ _Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V p�
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-Ahoj, tady je podcast 2050... 
+Ahoj, tady je podcast 2050...
 
 {% include 2050/transcript-person.html id="suchacek" %}
 
@@ -51,7 +50,7 @@ Ahoj, a tady je Nenásilný podcast.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-A tuhle epizodu děláme společně. 
+A tuhle epizodu děláme společně.
 
 Pro posluchače Nenásilného podcastu je potřeba zmínit, že podcast 2050 se zabývá změnami klimatu a ten hlas, který už jste slyšeli, patří jeho moderátorce Hance Tesák Vrtala.
 
@@ -177,7 +176,7 @@ Vždyť tady to je na obecním, starosta říká jasně, to vyšlo, obec o to st
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Je to dobrá reklama, takže pravda, pokud chcete efektivnější, rychlejší a konsensuálnější diskuze o klimatu, používejte konverzační kotvy, a já bych to možná uzavřel tím, že kdybyste nevěděli, co použít jako kotvu, tak dovolím si udělat reklamu prostě na web, fakta o klimatu, jako je něco, na co si můžete vytisknout grafiku, tak, jak jsem to udělal já dneska, můžete si vytisknout článek, podívat se na něj a prostě je to nějaký obrázek, nad kterým se dá bavit. Za to díky za to sdílení zkušeností.
+Je to dobrá reklama, takže pravda, pokud chcete efektivnější, rychlejší a konsenzuálnější diskuze o klimatu, používejte konverzační kotvy, a já bych to možná uzavřel tím, že kdybyste nevěděli, co použít jako kotvu, tak dovolím si udělat reklamu prostě na web, fakta o klimatu, jako je něco, na co si můžete vytisknout grafiku, tak, jak jsem to udělal já dneska, můžete si vytisknout článek, podívat se na něj a prostě je to nějaký obrázek, nad kterým se dá bavit. Za to díky za to sdílení zkušeností.
 
 Druhá kapitola, kterou jsme se inspirovali v nenásilné komunikaci, kde ten druhý krok jsou pocity, tak tady já bych to trošku přeložil nebo rozšířil do toho, hele. Když se bavíte na těžkých věcech, jako je třeba klimatická změna, buďme v tom osobní, buďte osobní.
 
@@ -313,7 +312,7 @@ Vrací mě to trochu na začátek. Jednak, jak jsi říkal, to mluvení o těch 
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Taková ta argumentační válka jako. 
+Taková ta argumentační válka jako.
 
 {% include 2050/transcript-person.html id="suchacek" %}
 
@@ -341,7 +340,7 @@ No, hlavně od toho jako to není naladění, kde se jako můžeme nějak jako p
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Je to těžký, na týhle úrovni. 
+Je to těžký, na týhle úrovni.
 
 {% include 2050/transcript-person.html id="suchacek" %}
 
@@ -367,7 +366,7 @@ Jo, jo, a dává ti to perspektivu toho, jako třeba zrovna to, co teď řekl, j
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Vlastně. 
+Vlastně.
 
 Co to prožívání?
 
@@ -379,7 +378,7 @@ No, tam se to stává hrozně osobní, jakože tam to pro mě, tam vůbec nemám
 
 Já se přiznám, že jsem trochu zapomněl vlastně na to téma, nebo že jsme to vykopli do toho jako nějaké politické rozhodnutí vlastně, no, jako pak to bylo mnohem víc kámošské, jako sdílení něčeho.
 
-Vlastně bylo i pro mě. Jako. 
+Vlastně bylo i pro mě. Jako.
 
 {% include 2050/transcript-person.html id="holik" %}
 
@@ -407,7 +406,7 @@ No. Myslím si, že ten mix potom má potenciál, buďto se zvýší pravděpodo
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Díky za to. 
+Díky za to.
 
 {% include 2050/transcript-person.html id="holik" %}
 
@@ -449,7 +448,7 @@ Je to strašně klíčový pro ty volby, už jenom, jako, že zase jsme se bavil
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Mě vlastně přijde důležité si fakt jako často uvědomovat, nebo že zvlášť třeba s tou rodinou se mi děje, že někdo, někdo na nějaké rodinné oslavě je prostě nějaký strýček, řekne nějaký prostě názor, který mě jako naštve, vytrigguruje mě a já začnu něco jako mu povídat bez toho, aniž bych byl jako ukotvený v tom, hele, proč já vůbec tuhle konverzaci chci vést a jako fakt možná si i říct, jako je mým záměrem se s tím strýčkem domluvit, proč to vlastně potřebuju, jo.
+Mě vlastně přijde důležité si fakt jako často uvědomovat, nebo že zvlášť třeba s tou rodinou se mi děje, že někdo, někdo na nějaké rodinné oslavě je prostě nějaký strýček, řekne nějaký prostě názor, který mě jako naštve, vytriggeruje mě a já začnu něco jako mu povídat bez toho, aniž bych byl jako ukotvený v tom, hele, proč já vůbec tuhle konverzaci chci vést a jako fakt možná si i říct, jako je mým záměrem se s tím strýčkem domluvit, proč to vlastně potřebuju, jo.
 
 Je to, že je to jako blízký člověk, který by bylo pro mě příjemné, jako, aby blízcí lidé měli stejný názor jako já, nebo je to možná proto, že jako strýček je novinář a vlastně, kdyby psal do toho automobilového týdeníku s tímto vědomím, tak by možná mohl mít nějaký impakt pozitivní a tam mohou být jako různé věci a někdy zjistím, když prozkoumám svůj záměr i to, že vlastně tam žádný záměr nemám, že to je jenom nějaká moje zautomatizovaná reakce na to, že někdo řekl něco, co se mi nelíbí, a tím pádem si možná můžu říct, hele, já to vlastně nemusím vytahovat, ale ty konverzace možná nechci jít.
 
