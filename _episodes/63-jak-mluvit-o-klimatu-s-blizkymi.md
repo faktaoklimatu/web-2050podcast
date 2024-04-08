@@ -9,7 +9,7 @@ summary:    |
     Dozvíte se užitečné tipy, jak o těžkých tématech mluvit s rodinou, přáteli nebo kolegy v práci tak, abychom spíš budovali porozumění než vyvolávali konflikty a napětí. Epizoda vznikla jako spolupráce podcastu 2050 a Nenásilného podcastu, jehož spoluautor – Petr Sucháček – je dnešním hostem.
 audioboom:  "8482971"
 guests:     [ suchacek ]
-tags:       [ klima, spolecnost ]
+tags:       [ spolecnost ]
 transcript: true
 ---
 Společně diskutujeme 4 základní kategorie doporučení. a) Používejme konverzační kotvy jako je např. vytištěný graf, mapa nebo článek. b) Buďme osobní a mluvme o svých zkušenostech a prožívání, nejen o názorech. c) Zabývejme se potřebami zúčastněných – o čem pro ně daná problematika doopravdy je. d) Věnujme v konverzacích pozornost záměrům – svým i ostatních – aneb proč vůbec do konverzace její aktéři vstupují.

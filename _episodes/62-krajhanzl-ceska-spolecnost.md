@@ -9,7 +9,7 @@ summary:    |
     Sociolog Jan Krajhanzl je hostem první epizody nové série podcastu 2050, která se bude zabývat lidmi a společností. Zaměříme se na to, jak se česká společnost staví ke změně klimatu a dalším otázkám životního prostředí, udržitelnosti nebo dekarbonizace. V epizodě diskutujeme, jak se postoj naší společnosti k těmto tématům vyvíjel v čase a do jakých skupin můžeme Čechy a Češky názorově rozdělit.
 audioboom:  "8476257"
 guests:     [ krajhanzl ]
-tags:       [ klima, spolecnost ]
+tags:       [ spolecnost ]
 transcript: true
 ---
 I když to tak v mediálním prostoru nemusí vždy vypadat, v ČR panuje široká společenská shoda na tom, že klima chceme chránit. Podporu mají také některá klimatická opatření s praktickým dopadem na životy lidí – např. obnovitelné zdroje, zateplování, úspory energie apod. Většina společnosti si také myslí, že bychom měli snižovat emise skleníkových plynů nehledě na to, jak se chovají ostatní státy.
