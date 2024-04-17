@@ -17,7 +17,7 @@ transcript: true
 ---
 Umění totiž může být nástrojem pro zvýšení povědomí o klimatických změnách a případnou motivací ke změně chování. Tvůrce například skrze své dílo probouzí emoce a poutá pozornost k věcem, o nichž si následně lze dohledat podrobnější informace. Umělecké dílo také může působit jako prostředník mezi odborníky či aktivisty a širší veřejností.
 
-Jaká umělecká díla (výtvarná, divadelní, hudební) dotýkajících se tématu klimatu vás zaujala? Podělte se s námi ve Facebookové skupině ["Komunita 2050"](https://www.facebook.com/groups/1384635612450003).
+Jaká umělecká díla (výtvarná, divadelní, hudební) dotýkající se tématu klimatu vás zaujala? Podělte se s námi ve Facebookové skupině ["Komunita 2050"](https://www.facebook.com/groups/1384635612450003).
 
 {% include 2050/guest-list.html %}
 
