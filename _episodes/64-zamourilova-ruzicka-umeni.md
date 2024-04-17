@@ -153,7 +153,7 @@ Já mám vlastně dotaz, Alexi, jak se dostává, jak tady Jan říkal, o tom, j
 
 {% include 2050/transcript-person.html id="zamourilova" %}
 
-Do mojí tvorby se, z ní se spíš nemůžou dostat.
+Do mojí tvorby... Spíš se z ní nemůžou dostat.
 
 {% include 2050/transcript-person.html id="holik" %}
 
