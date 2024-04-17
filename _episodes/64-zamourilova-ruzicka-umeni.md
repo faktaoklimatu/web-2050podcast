@@ -1,18 +1,23 @@
 ---
 layout:     episode
-title:      "******"
+title:      "Klima. Tvorba. Umění."
 number:     64
 slug:       "64-zamourilova-ruzicka-umeni"
 redirect_from: "/epizody/64"
 published:  2024-04-17
 summary:    |
-    Dozvíte se užitečné tipy, jak o těžkých tématech mluvit s rodinou, přáteli nebo kolegy v práci tak, abychom spíš budovali porozumění než vyvolávali konflikty a napětí. Epizoda vznikla jako spolupráce podcastu 2050 a Nenásilného podcastu, jehož spoluautor – Petr Sucháček – je dnešním hostem.
-audioboom:  "******"
+    Jakou roli hraje umění v řešení klimatické změny a jak je klimatická změna v uměleckých dílech zobrazována? 
+
+    Hosty této epizody jsou sound designér a muzikant Jan Růžička a ilustrátorka a grafička Alex Zamouřilová. Přemýšlení nad svojí tvorbou sdílí také moderátoři Petr Holík a Hana Tesák Vrtala. Společně diskutují o roli, kterou umělecká tvorba sehrává ve vnímání klimatické krize a jejím přiblížení lidem. 
+
+audioboom:  "8491734"
 guests:     [ zamourilova, ruzicka ]
 tags:       [ spolecnost ]
 transcript: true
 ---
-******************
+Umění totiž může být nástrojem pro zvýšení povědomí o klimatických změnách a případnou motivací ke změně chování. Tvůrce například skrze své dílo probouzí emoce a poutá pozornost k věcem, o nichž si následně lze dohledat podrobnější informace. Umělecké dílo také může působit jako prostředník mezi odborníky či aktivisty a širší veřejností.
+
+Jaká umělecká díla (výtvarná, divadelní, hudební) dotýkajících se tématu klimatu vás zaujala? Podělte se s námi ve Facebookové skupině ["Komunita 2050"](https://www.facebook.com/groups/1384635612450003).
 
 {% include 2050/guest-list.html %}
 
@@ -21,17 +26,9 @@ transcript: true
 ## Bonusové materiály
 
 <div class="bonus-material" markdown="1">
-* **Infografika: [Emise skleníkových plynů v EU podle sektorů](https://faktaoklimatu.cz/infografiky/emise-eu-detail)** (_Fakta o klimatu_)\\
-    Rozložení celkových emisí skleníkových plynů (v tunách CO<sub>2</sub> ekvivalentu) v EU v jednotlivých sektorech lidské činnosti.
 
-* **Infografika: [Emise skleníkových plynů v ČR podle sektorů](https://faktaoklimatu.cz/infografiky/emise-cr)** (_Fakta o klimatu_)\\
-    Rozložení celkových emisí skleníkových plynů (v tunách CO<sub>2</sub> ekvivalentu) v Česku v jednotlivých sektorech lidské činnosti.
-
-* **Podcast: [Nenásilný podcast](https://www.nenasilnypodcast.cz/)** (_Nenásilný podcast_)\\
-    Podcast tvoří Petr Holík a Petr Sucháček se záměrem šířit praxi nenásilné komunikace. Chtějí tím podpořit jednotlivce i organizace v tom, aby svým jednáním a rozhodováním rozvíjeli lepší mezilidské vztahy a společně vytvářeli svět, který pečuje o potřeby všech.
-
-* **Web: [Nenásilná komunikace](https://nenasilnakomunikace.org/)** (_Nenásilná komunikace_)\\
-    Nenásilná komunikace je metoda – či možná spíše umění – komunikace směřující k vytváření porozumění mezi lidmi a k hledání řešení, která fungují pro všechny.
+* **Online encyklopedický projekt: [Klimapedia](https://klimapedia.cz/)** (_Fakta o klimatu_)\\
+    Interaktivní encyklopedie s důrazem na vizuální stránku, jejímž účelem je vzdělávat a informovat širokou veřejnost o změně klimatu.
 </div>
 
 {% include 2050/transcript-start.html %}
@@ -412,7 +409,7 @@ No, no, no, možná, že prostě je to i tím, že jsme s tím nevyrůstali a z�
 
 Pro mě je důležité se podívat na to, co si z toho vlastně chceme vzít. A mně přijde, já vím, že potom byla obrovská taková ta antikampaň, to je možná silné slovo, ale jo, takové ty jako fotka pralesa a "Why don't you save this?" Prostě jako proč do prdele lidi nevyberete peníze na něco, co je jako důležitější, co je větší. A já to trochu chápu, ale zároveň mě to trochu mrzelo, že si z toho vezmeme zrovna tohle, jako že když, protože nemám pocit, že by to lidi motivovalo.
 
-Ale jako že si myslím, že z toho aktu zachraňujeme Notre Dame se dají vzít jako různé, různé věci, různé emoce a jedna z nich je: "Jste kreténi, proč neděláte něco důležitějšího?" Ale další je jako ukázat vlastně lidem, tady je naděje, my jsme schopni se spojit, abychom něco zachránili, good job, vlastně říct jako těm lidem, hej, tohle jste udělali krásně, je podle mě důležitější než jim říct: "Tak se to zase posralo, protože se dali peníze na něco, co není potřeba." Ale říct: "Hele, podívejte se, jak silní umíme být, když se spojíme, a pojďte se." A teď vám zároveň ukážu, že jsou tady další krásné věci ve světě, které by potřebovaly zachránit.
+Ale jako že si myslím, že z toho aktu zachraňujeme Notre Dame se dají vzít jako různé, různé věci, různé emoce a jedna z nich je: "Jste kreténi, proč neděláte něco důležitějšího?" Ale další je jako ukázat vlastně lidem, tady je naděje, my jsme schopni se spojit, abychom něco zachránili, good job, vlastně říct jako těm lidem, hej, tohle jste udělali krásně, je podle mě důležitější než jim říct: "Tak se to zase posralo, protože se dali peníze na něco, co není potřeba." Ale říct: "Hele, podívejte se, jak silní umíme být, když se spojíme." A teď vám zároveň ukážu, že jsou tady další krásné věci ve světě, které by potřebovaly zachránit.
 
 {% include 2050/transcript-person.html id="zamourilova" %}
 
