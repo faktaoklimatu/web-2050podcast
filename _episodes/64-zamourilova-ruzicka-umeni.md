@@ -6,10 +6,9 @@ slug:       "64-zamourilova-ruzicka-umeni"
 redirect_from: "/epizody/64"
 published:  2024-04-17
 summary:    |
-    Jakou roli hraje umění v řešení klimatické změny a jak je klimatická změna v uměleckých dílech zobrazována? 
+    Jakou roli hraje umění v řešení klimatické změny a jak je klimatická změna v uměleckých dílech zobrazována?
 
-    Hosty této epizody jsou sound designér a muzikant Jan Růžička a ilustrátorka a grafička Alex Zamouřilová. Přemýšlení nad svojí tvorbou sdílí také moderátoři Petr Holík a Hana Tesák Vrtala. Společně diskutují o roli, kterou umělecká tvorba sehrává ve vnímání klimatické krize a jejím přiblížení lidem. 
-
+    Hosty této epizody jsou sound designér a muzikant Jan Růžička a ilustrátorka a grafička Alex Zamouřilová. Přemýšlení nad svojí tvorbou sdílí také moderátoři Petr Holík a Hana Tesák Vrtala. Společně diskutují o roli, kterou umělecká tvorba sehrává ve vnímání klimatické krize a jejím přiblížení lidem.
 audioboom:  "8491734"
 guests:     [ zamourilova, ruzicka ]
 tags:       [ spolecnost ]
@@ -27,8 +26,9 @@ Jaká umělecká díla (výtvarná, divadelní, hudební) dotýkající se téma
 
 <div class="bonus-material" markdown="1">
 
-* **Online encyklopedický projekt: [Klimapedia](https://klimapedia.cz/)** (_Fakta o klimatu_)\\
+* **Online encyklopedický projekt: [Klimapedia](https://klimapedia.cz/)**\\
     Interaktivní encyklopedie s důrazem na vizuální stránku, jejímž účelem je vzdělávat a informovat širokou veřejnost o změně klimatu.
+
 </div>
 
 {% include 2050/transcript-start.html %}
@@ -83,7 +83,7 @@ Ahoj, přátelé.
 
 No, o Janovi je důležité říci, že nám stříhá tenhle podcast, je to náš sound designér a hudba, kterou slyšíte v podcastu od kapely Professor Leopard, je z jedné poloviny tady od tohoto pána, to znamená, máme tu hudebního umělce, tvůrce, který se zabývá hudbou, muzikanta, zpěváka, kytaristu a otce.
 
-To hodně definuje tvoji tvorbu. To je pravda. 
+To hodně definuje tvoji tvorbu. To je pravda.
 
 {% include 2050/transcript-person.html id="ruzicka" %}
 
@@ -379,7 +379,7 @@ Ale zároveň máme tady lidi, máme tady národy, máme tady kultury, které js
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Prostě tam žijou od nepaměti. 
+Prostě tam žijou od nepaměti.
 
 {% include 2050/transcript-person.html id="zamourilova" %}
 
