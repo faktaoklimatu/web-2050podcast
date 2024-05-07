@@ -22,17 +22,17 @@ Podcast byl natočen v rámci oslav 20. výročí vstupu České republiky do EU
 
 <div class="bonus-material" markdown="1">
 
-* **Explainer [Jaké cesty mohou dovést Česko k bezemisní elektřině?](https://faktaoklimatu.cz/explainery/bezemisni-energetika-cr-1-scenare)** (_Fakta o klimatu_)  
+* **Explainer [Jaké cesty mohou dovést Česko k bezemisní elektřině?](https://faktaoklimatu.cz/explainery/bezemisni-energetika-cr-1-scenare)** (_Fakta o klimatu_)\\
   Jedním z klíčových kroků k dosažení uhlíkové neutrality je dekarbonizace výroby elektřiny. Nebude snadná ani rychlá – i pro bohaté evropské státy představuje významnou technologickou a ekonomickou výzvu na dalších 20 až 30 let. Proto potřebujeme porozumět nástrahám, které nás na této cestě čekají, a mít jasnější představu, kam vlastně chceme dojít. Jak se má česká a evropská elektroenergetika změnit? Text nabízí základní průzkum tohoto složitého terénu.
 
-* **Explainer [Z čeho můžeme v Česku vyrábět bezemisní elektřinu?](https://faktaoklimatu.cz/explainery/bezemisni-energetika-cr-2-technologie)** (_Fakta o klimatu_)  
+* **Explainer [Z čeho můžeme v Česku vyrábět bezemisní elektřinu?](https://faktaoklimatu.cz/explainery/bezemisni-energetika-cr-2-technologie)** (_Fakta o klimatu_)\\
   Abychom mohli energetiku dekarbonizovat dostatečně rychle, potřebujeme významně posílit bezemisní zdroje elektřiny. Tento text se zaměřuje na možnosti výroby, které jsou dnes technologicky dostupné a dají se v ČR využít.
 
-* **Infografika [Elektřina v ČR: výroba, spotřeba a emise](https://faktaoklimatu.cz/infografiky/elektrina-cr)** (_Fakta o klimatu_)  
-  Přehled výroby elektřiny podle zdrojů, souvisejících emisí CO<sub>2</sub>eq a spotřeby elektřiny podle sektorů. 
+* **Infografika [Elektřina v ČR: výroba, spotřeba a emise](https://faktaoklimatu.cz/infografiky/elektrina-cr)** (_Fakta o klimatu_)\\
+  Přehled výroby elektřiny podle zdrojů, souvisejících emisí CO<sub>2</sub>eq a spotřeby elektřiny podle sektorů.
 
-* **Infografika [Podíl zdrojů na výrobě elektřiny v EU a Británii](https://faktaoklimatu.cz/infografiky/elektrina-mix-eu)** (_Fakta o klimatu_)  
-  Výroba elektřiny ve státech Evropské unie a ve Velké Británii v roce 2021 podle podílu jaderných, fosilních a obnovitelných zdrojů. 
+* **Infografika [Podíl zdrojů na výrobě elektřiny v EU a Británii](https://faktaoklimatu.cz/infografiky/elektrina-mix-eu)** (_Fakta o klimatu_)\\
+  Výroba elektřiny ve státech Evropské unie a ve Velké Británii podle podílu jaderných, fosilních a obnovitelných zdrojů.
 
 </div>
 
@@ -82,11 +82,11 @@ Rozhodně spousta dalších zemí má ambice snižovat emise. Není to jenom Evr
 
 {% include 2050/transcript-person.html id="sedlak" %}
 
-Možná k tomu tak trochu jako skeptickému přístupu České republiky k ochraně klimatu a rozvoje obnovitelných zdrojů, tak je dobré připomenout české předsednictví, během kterého byl docela významně posunutý balíček fit for fifty five a věcí, které určují to, jak dekarbonizovat evropskou, a tedy i českou energetiku. Do roku 2030 byl třeba dokončený rámec rozšiřování emisních povolenek i o další segmenty, jako je vytápění domů, anebo doprava. Takže vlastně ta česká stopa se tam začíná propisovat a než náš podcast začali, tak jsme se bavili o úspěchu Honzy Dusíka a bývalého českého ministra životního prostředí, potom náměstka, který měl na starosti řadu environmentálních věcí v rámci českého předsednictví, který se stává dvojkou pro Green Deal, tedy zelenou dohodu v rámci Evropské komise, tak i tady si myslím, že tu českou stopu budeme cítit.
+Možná k tomu tak trochu jako skeptickému přístupu České republiky k ochraně klimatu a rozvoje obnovitelných zdrojů, tak je dobré připomenout české předsednictví, během kterého byl docela významně posunutý balíček Fit for 55 a věcí, které určují to, jak dekarbonizovat evropskou, a tedy i českou energetiku. Do roku 2030 byl třeba dokončený rámec rozšiřování emisních povolenek i o další segmenty, jako je vytápění domů, anebo doprava. Takže vlastně ta česká stopa se tam začíná propisovat a než náš podcast začali, tak jsme se bavili o úspěchu Honzy Dusíka a bývalého českého ministra životního prostředí, potom náměstka, který měl na starosti řadu environmentálních věcí v rámci českého předsednictví, který se stává dvojkou pro Green Deal, tedy zelenou dohodu v rámci Evropské komise, tak i tady si myslím, že tu českou stopu budeme cítit.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Přátelé, já vítám nově příchozí tady v sále. Bavíme se o energii budoucnosti, a tam bych chtěl rovnou směřovat další otázkou, než půjdeme do těch konkrétních kroků, co se teda mají stát v nějakém horizontu příštích, nevím, 5, 10, 15, 20 let atp. Tak bych se chtěl trošičku dotknout jako velké vize nebo té představy, jak ten svět energetiky a tím pádem i náš svět, jako ona ta energetika je tak nějak prolnutá do spousty oblastí našeho života, jak by mohl vypadat, protože mně se hrozně líbila jedna kapitola v knížce od Kristiany Figueres, která se jmenuje "Let Go of the Old World", jako "nechte odejít ten starý svět". Zrovna v té energetice ta transformace je opravdu velká, a myslím si, že s tím, že něco, co známe, odchází, nebo možná si jenom představujeme, že to známe, a něco, co neznáme, přichází, tak s tím můžou být spojené i nějaké pravé emoce, obavy, strachy, jak to bude fungovat, jestli někdo ví, jak to bude vypadat atp. Tak mi přijde hrozně užitečné se snažit vykreslovat tu představu toho, jak teda bude vypadat ta energetika v roce 2040, 50, 70. Dokázali byste nějaké takové představy nám tady ukázat?
+Přátelé, já vítám nově příchozí tady v sále. Bavíme se o energii budoucnosti, a tam bych chtěl rovnou směřovat další otázkou, než půjdeme do těch konkrétních kroků, co se teda mají stát v nějakém horizontu příštích, nevím, 5, 10, 15, 20 let atp. Tak bych se chtěl trošičku dotknout jako velké vize nebo té představy, jak ten svět energetiky a tím pádem i náš svět, jako ona ta energetika je tak nějak prolnutá do spousty oblastí našeho života, jak by mohl vypadat, protože mně se hrozně líbila jedna kapitola v knížce od Christiany Figueres, která se jmenuje "Let Go of the Old World", jako "nechte odejít ten starý svět". Zrovna v té energetice ta transformace je opravdu velká, a myslím si, že s tím, že něco, co známe, odchází, nebo možná si jenom představujeme, že to známe, a něco, co neznáme, přichází, tak s tím můžou být spojené i nějaké pravé emoce, obavy, strachy, jak to bude fungovat, jestli někdo ví, jak to bude vypadat atp. Tak mi přijde hrozně užitečné se snažit vykreslovat tu představu toho, jak teda bude vypadat ta energetika v roce 2040, 50, 70. Dokázali byste nějaké takové představy nám tady ukázat?
 
 {% include 2050/transcript-person.html id="sedlak" %}
 
@@ -168,7 +168,7 @@ Ještě když Jan dodal tu výzvu toho doplnění, tak ono to samozřejmě v tom
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Já jsem dneska, když jsem ráno jel do Prahy, tak jsem poslouchal nějaký podcast a byla tam Hanna Ritchie, myslím, že se jmenuje, z Our World in Data, ale říkala hrozně zajímavou věc. A vy o tom vlastně nepřímo mluvíte taky, že dlouhou dobu tady byla otázka ochrany klimatu vnímána v takovém kontextu, jako potřebujeme něčeho dělat výrazně méně, abychom jako ochránili životní prostředí, a teď se vlastně dostáváme do takové hodně konstruktivní fáze, kdy potřebujeme něčeho hodně postavit a hodně rychle vlastně potřebujeme velké investice, potřebujeme jako nalít hodně betonu do základů těch věží.
+Já jsem dneska, když jsem ráno jel do Prahy, tak jsem poslouchal nějaký podcast a byla tam Hannah Ritchie, myslím, že se jmenuje, z Our World in Data, ale říkala hrozně zajímavou věc. A vy o tom vlastně nepřímo mluvíte taky, že dlouhou dobu tady byla otázka ochrany klimatu vnímána v takovém kontextu, jako potřebujeme něčeho dělat výrazně méně, abychom jako ochránili životní prostředí, a teď se vlastně dostáváme do takové hodně konstruktivní fáze, kdy potřebujeme něčeho hodně postavit a hodně rychle vlastně potřebujeme velké investice, potřebujeme jako nalít hodně betonu do základů těch věží.
 
 Teď to myslím dobrým způsobem, že potřebujeme postavit, vybudovat nějakou novou infrastrukturu se stejným cílem, vlastně ochranou klimatu, což mi přišlo jako hrozně zajímavý úhel pohledu. Vlastně se nedostáváme do něčeho, jako pojďme méně jezdit autem, ale pojďme víc stavět solární panely, větrníky namísto nějakých zdrojů, které třeba využíváme teď.
 
@@ -190,7 +190,7 @@ A druhým problémem, který nám současně řeší, je problém změny klimatu
 
 {% include 2050/transcript-person.html id="krcal" %}
 
-Já jsem si tady vytáhl jednu stránku z každoročního reportu od think tanku Amber o evropské energetice, jenom první stránku manažerského rozhodnutí. A řeknu pár čísel z toho, která podle mě to hezky ilustrují.
+Já jsem si tady vytáhl jednu stránku z každoročního reportu od think tanku Ember o evropské energetice, jenom první stránku manažerského rozhodnutí. A řeknu pár čísel z toho, která podle mě to hezky ilustrují.
 
 Je potřeba říct, jak říkal Martin, že teď jsme měli za sebou dvě teplé zimy, které jako ty statistiky ovlivňují, ale co se stalo v uplynulých letech? No. Příšerně. Zdražil zemní plyn kvůli ruské agresi, takže se zvedla výroba elektřiny z uhlí, protože to uhlí se to netýká, že jo, a klesla výroba elektřiny z plynu. Teď od té doby vlastně plyn zlevnil, takže jakoby ta potřeba vyrábět tolik elektřiny z uhlí klesá, ale to neznamená, že nám stoupá výroba elektřiny z plynu, která by to uhlí substituovala, protože mezitím za ty poslední dva roky tady nastoupilo velké množství nových obnovitelných zdrojů. Takže co se stalo v uplynulém roce, v roce 2023, že výroba z uhlí klesla o 26 %?
 
@@ -224,7 +224,7 @@ Co to znamená pro Česko? Už tady jednou padlo, že Česko není tím hráčem
 
 K tomu mě jako napadá řada odpovědí, těžko říct, kterou říct jako první, a můžeme se na to podívat z pohledu fungování českého státu. Všechno nám hrozně dlouho trvá. My jsme některé z evropských směrnic, které fungují jako zajímavý impuls pro dekarbonizaci a potom i soběstačnost v energetice, měly mít dávno implementovány, ale třeba směrnice o akumulaci, agregaci, flexibilitě i v Poslanecké sněmovně teprve letos, přitom už tam mohla být v roce 2019.
 
-Shodou okolností za minulé Poslanecké sněmovny ten návrh navrhoval tehdejší opoziční poslanec Marian Jurečka, dnes ve vládě, ale i tak se vláda k těmhle věcem dostala poměrně pozdě. Komunitní energetika měla také zpoždění a mohla být implementována poměrně rychleji. Tak to je ten rámec a potom ještě je samotný přístup často ministerstev, které se na to dívají, že budou implementovat jenom evropskou směrnici tak, aby si odškrkli, že všechny body, které mají být zaneseny do českého právního řádu, jsou splněny. Ale už se nedívají na to, jestli to třeba nemůže fungovat pro širší spektrum věcí, které by se pro rozvoj obnovitelných zdrojů usnadnily i ohledně národní legislativy, to je ještě věc zefektivnění státní správy, která určitě Českou republiku čeká.
+Shodou okolností za minulé Poslanecké sněmovny ten návrh navrhoval tehdejší opoziční poslanec Marian Jurečka, dnes ve vládě, ale i tak se vláda k těmhle věcem dostala poměrně pozdě. Komunitní energetika měla také zpoždění a mohla být implementována poměrně rychleji. Tak to je ten rámec a potom ještě je samotný přístup často ministerstev, které se na to dívají, že budou implementovat jenom evropskou směrnici tak, aby si odškrtli, že všechny body, které mají být zaneseny do českého právního řádu, jsou splněny. Ale už se nedívají na to, jestli to třeba nemůže fungovat pro širší spektrum věcí, které by se pro rozvoj obnovitelných zdrojů usnadnily i ohledně národní legislativy, to je ještě věc zefektivnění státní správy, která určitě Českou republiku čeká.
 
 A potom je tady to, co jste, Petře, zmiňoval v druhé části odpovědi, jestli nám tak trochu neujíždí vlak ve chvíli, kdy bychom nechytli rozvoj obnovitelných zdrojů, který je teď konečně po letech stagnace začíná být zajímavý. Renesance solární energetiky je tady od roku 2022 a začínám vnímat, že přichází i oživování rozvoje větrné energetiky do České republiky. To jsou jako zajímavé první vlaštovky, jak nastartovat po tom minulém desetiletí, kdy se obnovitelné zdroje de facto skoro vůbec nestavěly, zase zpátky zelenou energetiku v Česku. Ale když ten vlak nechytneme, tak to ohrožuje reálně konkurenceschopnost českého byznysu. Český byznys bude muset naplňovat ESG reporty, zejména tedy z tohoto pohledu klimatické změny, tu stránku týkající se environmentálních řešení a dekarbonizace energetiky a už dneska se některé firmy jsou dotazovány v rámci svých subdodavatelských řetězců od německých anebo francouzských společností, které od nich odebírají produkty, jestli řeší klimatickou stopu svých výrobků a pokud ji nebudou řešit, tak mohou vypadnout z těch řetězců a mohou se ty firmy přestěhovat někam jinam.
 
@@ -322,7 +322,7 @@ Jestli bychom možná pro jakýkoliv, jako všechny složky té společnosti, mo
 
 {% include 2050/transcript-person.html id="sedlak" %}
 
-To na další hodinu.
+To je na další hodinu.
 
 {% include 2050/transcript-person.html id="holik" %}
 
