@@ -2,11 +2,11 @@
 layout:     episode
 title:      "Jak se cítíš, když se řekne ‚klima’? Environmentální distres jako fenomén nejen mezi mladými."
 number:     66
-slug:       "66-environmentální-distres"
+slug:       "66-environmentalni-distres"
 redirect_from: "/epizody/66"
 published:  2024-05-15
 summary:    |
-    Zdenka Voštová se dlouhodobě zabývá lidským prožíváním environmentálních témat jako psychoterapeutka a lektorka. V rozhovoru představuje data a trendy toho, jak lidé po celém světě i v Česku tato témata prožívají. Ve vlastní terapeutické praxi se setkává se skupinami i jednotlivci, na které doléhají témata spojená se změnou klimatu, a emocionálně je tímto procesem doprovází. 
+    Zdenka Voštová se dlouhodobě zabývá lidským prožíváním environmentálních témat jako psychoterapeutka a lektorka. V rozhovoru představuje data a trendy toho, jak lidé po celém světě i v Česku tato témata prožívají. Ve vlastní terapeutické praxi se setkává se skupinami i jednotlivci, na které doléhají témata spojená se změnou klimatu, a emocionálně je tímto procesem doprovází.
 audioboom:  "8504863"
 guests:     [ vostova ]
 tags:       [ spolecnost ]
