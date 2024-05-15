@@ -41,9 +41,7 @@ Ahoj. Tady podcast 2050. Jedním z faktů, který jsme v úvodu našich epizod u
 
 Když však máme dojem, že se to neděje, tak to může v některých z nás ale vyvolávat dost nepříjemné pocity. Možná jste někdy slyšeli i pojem klimatický žal nebo úzkost.
 
-No, a právě o tom je i dnešní rozhovor. Já u tohoto rozhovoru nebyla, ale když jsem ho poslouchala, tak mě zaujalo, že jsem nejen slyšela pohled člověka, který běžně pracuje s lidmi, kteří podobné náročné emoce zažívají.
-
-Ale zároveň mě zaujaly i zajímavosti a data z oblasti psychologické vědy, kterými je celý rozhovor protkán.
+No, a právě o tom je i dnešní rozhovor. Já u tohoto rozhovoru nebyla, ale když jsem ho poslouchala, tak mě zaujalo, že jsem nejen slyšela pohled člověka, který běžně pracuje s lidmi, kteří podobné náročné emoce zažívají. Ale zároveň mě zaujaly i zajímavosti a data z oblasti psychologické vědy, kterými je celý rozhovor protkán.
 
 Pojďme si tedy rovnou představit dnešní hostku.
 
