@@ -29,6 +29,24 @@ Téměř třetina Čechů prožívá ve spojitosti s klimatickou změnou bezmoc.
   caption="Originální nesestříhaný rozhovor jako bonus k 66. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o pocitech, které lze zažívat v souvislostí s klimatickou změnou."
 %}
 
+* **Výzkum [České klima 2021 – Mapa českého veřejného mínění v oblasti změny klimatu](https://webcentrum.muni.cz/media/3331473/czklima2021.pdf)** (_Katedra environmentálních studií FSS MU, Green Dock, z.s_)\\
+  Na datových analýzách založená typologie pěti cílových skupin české veřejnosti ve vztahu ke klimatu. Jaké narativy ochrany klimatu v nich vyvolávají největší důvěru a sympatie, nebo co nejvíce ovlivňuje české veřejné mínění v oblasti klimatických politik.
+
+* **Kniha [Aktivní naděje](https://www.databazeknih.cz/knihy/aktivni-nadeje-454602)** (_Joanna Macy_)\\
+  Jak se vyrovnávat se změnou klimatu, mizejícími přírodními zdroji, ekonomickými kolapsy a environmentálním žalem.
+
+* **Kniha [Návrat do života](https://www.databazeknih.cz/knihy/navrat-do-zivota-478370)** (_Joanna Macy , Molly Young Brown_)\\
+  Kniha ukazuje, že žal, hněv a strach jsou zdravou odpovědí na současnou nepříjemnou realitu a že pokud je budeme respektovat, mohou nás posunout k tvořivému jednání.
+
+* **Kniha [Svět nenásilí](https://www.databazeknih.cz/knihy/svet-nenasili-496542)** (_Miki Kashtan_)\\
+  Seznámení s nenásilnou komunikací.
+
+* **Kniha [Generation Dread: Finding Purpose in an Age of Climate Crisis](https://www.goodreads.com/cs/book/show/58678656)** (_Britt Wray_)\\
+  Autorka spojuje vědecké poznatky s emocionálním vhledem a ukazuje, jak jsou tyto intenzivní pocity zdravou reakcí na znepokojivý stav světa.
+
+* **Kniha [Emotional Resiliency in the Era of Climate Change: A Clinician's Guide](https://www.goodreads.com/book/show/33980535-emotional-resiliency-in-the-era-of-climate-change)** (_Leslie Davenport, Lise Van Susteren_)\\
+  Kniha představuje komplexní teorii, strategie a zdroje pro řešení klíčových klinických témat souvisejících s psychologickým dopadem klimatických změn.
+
 </div>
 
 {% include 2050/transcript-start.html %}
