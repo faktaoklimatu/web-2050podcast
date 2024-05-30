@@ -438,3 +438,13 @@
   name: Zdenka
   surname: Voštová
   description: Psychoterapeutka a lektorka
+
+- id: mikova
+  name: Taťána
+  surname: Míková
+  description: Klimatoložka a meteoroložka
+
+- id: kaliba
+  name: Jan
+  surname: Kaliba
+  description: Klimatický zpravodaj Českého rozhlasu
