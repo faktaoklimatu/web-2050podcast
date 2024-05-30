@@ -7,7 +7,7 @@ redirect_from: "/epizody/66"
 published:  2024-05-15
 summary:    |
     Taťána Míková a Jan Kaliba se řadí mezi mediální osobnosti, které se reportováním o klimatu a dekarbonizaci v Česku zabývají. Z naší společné diskuze se dozvíte, jak se mediální obraz klimatické změny v průběhu času vyvíjel a s jakými překážkami se muselo toto téma vypořádat, aby se mu ‚ve zprávách’ začalo postupně dostávat více prostoru. 
-audioboom:  "8504863"
+audioboom:  "8512888"
 guests:     [ mikova, kaliba ]
 tags:       [ spolecnost ]
 transcript: true
@@ -15,7 +15,6 @@ transcript: true
 Diskutujeme nad možnostmi, jak téma klimatu efektivně dostat do médií. Uvažujeme především nad jeho provázaností s jinými náměty či nad omezeními, která brání odborníkům reagovat na otázky klimatu tak, jak si média žádají – tedy rychle a bezprostředně. 
 
 Také probereme zda se zdají jako vhodnější třicetiminutové vzdělávací pořady, nebo spíš jedna věta, vhodně umístěná do rozhovoru, který se tématem klimatu přímo nezabývá. V neposlední řadě se dozvíte, jak se k těmto věcem staví některé mediální instituce a proč na Harvardu nedávno vyšel článek s názvem ‚V dnešní době je každý z novinářů klimatickým novinářem’.
-
 
 {% include 2050/guest-list.html %}
 
@@ -27,28 +26,16 @@ Také probereme zda se zdají jako vhodnější třicetiminutové vzdělávací 
 
 {% include 2050/bonus-interview.html
   title="Jak se cítíš, když se řekne ‚klima’? Environmentální distres jako fenomén nejen mezi mladými"
-  audioboom="8504857"
-  spotify="2kIsoIN6Wy6zeWlDirEgdD"
-  caption="Originální nesestříhaný rozhovor jako bonus k 66. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o pocitech, které lze zažívat v souvislostí s klimatickou změnou."
+  audioboom="8512853"
+  spotify="1pwKgHGBUI2NPk44e4pRq4"
+  caption="Originální nesestříhaný rozhovor jako bonus k 67. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o komunikaci klimatické změny v médiích."
 %}
 
-* **Výzkum [České klima 2021 – Mapa českého veřejného mínění v oblasti změny klimatu](https://webcentrum.muni.cz/media/3331473/czklima2021.pdf)** (_Katedra environmentálních studií FSS MU, Green Dock, z.s_)\\
-  Na datových analýzách založená typologie pěti cílových skupin české veřejnosti ve vztahu ke klimatu. Jaké narativy ochrany klimatu v nich vyvolávají největší důvěru a sympatie, nebo co nejvíce ovlivňuje české veřejné mínění v oblasti klimatických politik.
+* **Článek [V sázce je hořkost i aroma. Proč se v eurovolbách hraje i o budoucnost českého piva](https://www.irozhlas.cz/zpravy-domov/v-sazce-je-horkost-i-aroma-proc-se-v-eurovolbach-hraje-i-o-budoucnost-ceskeho_2405240500_ksp)** (_iRozhlas_)\\
+  Jaké jsou vyhlídky odvětví pěstování chmele s ohledem na klimatickou změnu a jakou roli v tom může hrát Zelená dohoda i blížící se evropské volby.
 
-* **Kniha [Aktivní naděje](https://www.databazeknih.cz/knihy/aktivni-nadeje-454602)** (_Joanna Macy_)\\
-  Jak se vyrovnávat se změnou klimatu, mizejícími přírodními zdroji, ekonomickými kolapsy a environmentálním žalem.
-
-* **Kniha [Návrat do života](https://www.databazeknih.cz/knihy/navrat-do-zivota-478370)** (_Joanna Macy , Molly Young Brown_)\\
-  Kniha ukazuje, že žal, hněv a strach jsou zdravou odpovědí na současnou nepříjemnou realitu a že pokud je budeme respektovat, mohou nás posunout k tvořivému jednání.
-
-* **Kniha [Svět nenásilí](https://www.databazeknih.cz/knihy/svet-nenasili-496542)** (_Miki Kashtan_)\\
-  Seznámení s nenásilnou komunikací.
-
-* **Kniha [Generation Dread: Finding Purpose in an Age of Climate Crisis](https://www.goodreads.com/cs/book/show/58678656)** (_Britt Wray_)\\
-  Autorka spojuje vědecké poznatky s emocionálním vhledem a ukazuje, jak jsou tyto intenzivní pocity zdravou reakcí na znepokojivý stav světa.
-
-* **Kniha [Emotional Resiliency in the Era of Climate Change: A Clinician's Guide](https://www.goodreads.com/book/show/33980535-emotional-resiliency-in-the-era-of-climate-change)** (_Leslie Davenport, Lise Van Susteren_)\\
-  Kniha představuje komplexní teorii, strategie a zdroje pro řešení klíčových klinických témat souvisejících s psychologickým dopadem klimatických změn.
+* **Článek [Co bude s mým autem? Vše o magickém roku 2035 a vlivu eurovoleb na budoucnost naší dopravy](https://www.irozhlas.cz/zpravy-domov/greendeal-auto_2405270620_pek)** (_iRozhlas_)\\
+  Co jsou hlavní výzvy pro automobilový průmysl a jak bude vypadat naše silniční doprava za deset let?
 
 </div>
 
@@ -58,396 +45,294 @@ _Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V p�
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-Ahoj. Tady podcast 2050. Jedním z faktů, který jsme v úvodu našich epizod už zmínili, je, že v české společnosti panuje široká shoda na tom, že klima je potřeba chránit.
-
-Když však máme dojem, že se to neděje, tak to může v některých z nás ale vyvolávat dost nepříjemné pocity. Možná jste někdy slyšeli i pojem klimatický žal nebo úzkost.
-
-No, a právě o tom je i dnešní rozhovor. Já u tohoto rozhovoru nebyla, ale když jsem ho poslouchala, tak mě zaujalo, že jsem nejen slyšela pohled člověka, který běžně pracuje s lidmi, kteří podobné náročné emoce zažívají. Ale zároveň mě zaujaly i zajímavosti a data z oblasti psychologické vědy, kterými je celý rozhovor protkán.
-
-Pojďme si tedy rovnou představit dnešní hostku.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Moje jméno je Zdenka Voštová, jsem gestalt terapeutka, mediátorka a lektorka a součástí mé práce je práce s environmentálním žalem a ekologickou úzkostí, takže provázím lidi a zároveň se snažím toto téma nějakým způsobem vnášet do veřejné debaty.
+Ahoj, tady podcast 2050.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Když jsme se se Zdenkou potkali, tak jsem se ptal na to, jak se vlastně dostala k tomuhle tématu, o kterém se bavíme, prožívání klimatické krize a těch souvisejících věcí. No a říkala, že osobně to na ni doléhalo už delší dobu, třeba mi sdílela nějaké svoje zkušenosti, že má ráda nějaká místa v přírodě a v jednu chvíli tam třeba potkala studánku, která byla vyschlá, do které byla zvyklá chodit pro vodu, nebo když viděla pokácené kůrovcové lesy. No a profesně původem je právnička a v minulosti se zabývala korupcí v organizacích a popisovala mi právě princip práce, který se tam naučila a který jí přijde užitečný i v oblasti prožívání okolo klimatu.
+Schválně, než se pustíme do dnešní epizody, Hani, tak kdy jsi naposledy viděla v médiích nějakou zprávu, která se týkala klimatu, klimatické změny nebo dekarbonizace? Jak to vypadalo?
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="vrtalova" %}
 
-Když mi přijde důležité kombinovat práci s jednotlivci, poskytovat jim nějakou emoční podporu, provázet je tím jejich vlastním procesem, transformovat jejich prožitky tak, aby pro ně přestaly být jako zavalující, zaplavující, ale aby spíše jim pomohly se posunout někam dál, ale zároveň.
-
-Nějakým způsobem působit na změnu systému jako takového.
+Jako je pravda, že já poslední dobou spíš koukám na YouTube videa, než že bych sledovala média, ale poslední, co jsem zaznamenala, tak bylo asi, že zemědělci jedou traktory do Prahy, aby protestovali proti Green Dealu.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Já myslím, že se asi dotkneme obou těch úrovní v tom tématu.
+Vždycky, když se objeví v médiích slovo Green Deal, tak to bývá napínavé. Já jsem nedávno právě viděl zprávu, která mi přišla taková poetická. Nadpis byl: "Za 100 let se zima změnila z ladovských obrázků na něco mezi jarem a podzimem," říká vědec.
 
-Já, když se řekne klimatické prožívání, tak to, co jako slýchám kolem sebe, ať už v médiích, nebo… Nejspíš asi v médiích nebo jako v nějakých komunitách, které se tím trochu víc zabývají, tak jsou právě pojmy jako klimatický žal, klimatická deprese, klimatická úzkost, případně někdy se mluví o tom, že třeba mladí lidé nechtějí mít děti kvůli tomu, že.
+{% include 2050/transcript-person.html id="vrtalova" %}
 
-Prostě jim přijde, že do tohoto světa ty děti nechtějí přinést.
-
-Mohla bys tady to téma, jako já jsem to na začátku řekl, prožívání environmentální krize a k tomu se možná pojí spousta nějakých termínů nebo nějaká psychologická věda se na to možná nějak dívá, tak bych chtěl poprosit o vhled tohoto typu, jako nejdřív možná, než se dostaneme k nějakým jednotlivcům, k tomu, jak třeba ty s tím máš osobní zkušenosti v té své terapeutické praxi, tak se fakt podívat na ten svět toho tématu, jako jak lidé vlastně prožívají změnu klimatu?
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Možná ještě k té terminologii úplně na začátek, v současné psychologii převládá termín environmentální distres, který je takovým zastřešujícím pojmem pro všechny ty emoce, které lidi prožívají v souvislosti s klimatickou a environmentální krizí, obecně.
-
-To může pokrývat žal, jak se někdy tomu říká u nás, environmentální žal, ale taky různé formy úzkostí, bezmoci, vzteku, strachu, nějakého fatalismu, pocit, že nic nemá smysl, zkrátka všechny emoce, které nám působí nějakou formu stresu a brání nám v tom žít spokojeně a nějak se uvolnit do toho, že ten svět je bezpečný a že je to všechno v pořádku.
+Přemýšlím co si pod tím představit.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Proč je vlastně tak náročné vůbec prožívat klimatickou změnu, je něčím specifická oproti třeba jiným těžkým situacím, které člověk v životě zažívá?
+Ale já si pod tím představuju tu zimu, jak teďka vypadá, takže ten mi přijde vlastně docela trefný. Ale média jsou právě téma, o kterém se nějakým způsobem dneska chceme bavit.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="vrtalova" %}
 
-Je to moc hezky pojmenované profesorkou (Mary Ethan), která mluví o tom, že oproti nějakým jiným ztrátám, které zažíváme v našem životě, třeba když nám někdo zemře, tak klimatická environmentální krize nás jako velmi konfrontujeme s vlastními pocity viny, protože my vlastně tím, jak žijeme, tím, jaké volby činíme jako spotřebitelé a jako občané, tak vlastně neustále narážíme na to, že tu krizi nějakým způsobem spoluvytváříme tím, kam jdeme na dovolenou, jestli někam jedeme autem, co jíme, koho volíme a je jako velmi těžké v tomhle systému žít nějaký environmentální dokonalý život, ani to není z mého pohledu možné, možná ani žádoucí se o to snažit, protože pak se dostaneme do hrozné jako pasti nějaké vlastní úzkosti.
-
-Ale zároveň to je vlastně náročné, jako kdybychom byli, kdybychom truchlili za to, že nám umírá vlastní máma, ale zároveň byli tak trošku sami jejími vrahy.
-
-Že to je jeden důvod, další důvod potom je ten.
-
-Tomu faktu, že dochází k bezprecedentní environmentální změně, ztrátě biodiverzity, změně klimatu a dalším aspektům toho, co se děje, že naše planeta je zaplavená plasty a mikroplasty atd., čelíme vlastně neustále, když otevřeme noviny, internet, když jdeme ven do přírody, když se o tom bavíme s lidmi, když jdeme teď možná i ani ne do přírody, ale ven na ulici. Cítíme, že ještě v březnu, 15. března, už je takové teplo a svítí sluníčko a po sněhu ani památky.
-
-Je hrozně těžké si od toho odpočinout, když v životě zažíváme nějaké přirozené ztráty ve smyslu, že mě hodili z práce, nebo jsem ztratila nejlepšího kamaráda, něco takového, tak je to těžké, je to náročné, často to přinese nějaké temnější období do našich životů, ale zpravidla poté nastane zase nějaké období klidu, spokojenosti, kdy zažíváme, že si nějak máme fajn a že ten život je dobrý.
+Je to tak. My už jsme se dřív bavili o tom, že k těm konverzacím, když se bavíme o klimatu, s kýmkoliv, je super mít nějaká data, nějaké podklady, ale pravda je taková, že ne vždy máme po ruce vytištěnou krásnou infografiku nebo tabulky, nad kterými se můžeme bavit. A mám dojem, že spoustu těch informací, na kterých ty konverzace zakládáme, pochází právě z médií a někdy jsou trochu útržkovité, někdy jsou trochu zkratkovité, protože přesně zachytíme možná jenom nějaký titulek nebo si tam pamatujeme pár větiček z nějakého článku, který jsme četli, takže média dost vlastně formují to, jak o tom přemýšlíme, myslím, o změně klimatu a dekarbonizaci.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Jednou to skončí.
+Z nějakých zahraničních zdrojů jsem i četl, že jsou vlastně klíčová v dekarbonizaci, že pokud chceme transformovat společnost, tak prostě musíme nějak transformovat média, to, jaký je mediální obraz dekarbonizace v tomhle sektoru, no, a proto jsme si pozvali zástupce médií do dnešní epizody, konkrétně České televize a Českého rozhlasu, se kterými se chceme bavit o tom, jakým způsobem se o klimatu reportovalo dřív, jak to vypadá dneska, jaké jsou třeba jejich záměry do budoucna a co jsou ty hlavní klíčové body, se kterými je potřeba pohnout, aby byla změna klimatu třeba lépe pokrytá právě v různých médiích.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="vrtalova" %}
 
-Jednou to skončí. A tady čelíme tomu, že to jako nekončí, že je to neustálé a musíme si spíš jako vědomě hledat chvíle, kdy se zpátky dostaneme do kontaktu sami se sebou s těma zdrojema, tomu, že můžeme vydechnout, dělat to jako vědomě, možná, kdy si taky odpojíme třeba od těch informací z médií a tak, abychom to nekonzumovali jako neustále, nenechávali se tím zahltit. No, a potom třetí rozdíl, možná ten nejpodstatnější, který doléhá.
+Tak jdem na to. Pojďme si představit dnešní hosty.
 
-Možná to nejvíce ovlivňuje tu nejmladší generaci, ale vlastně i ty ostatní, a to je ten, že.
+{% include 2050/transcript-person.html id="mikova" %}
 
-Ta krize se dotýká nejenom nás a našich dětí, ale potažmo i všech budoucích generací, že už ten život zkrátka nikdy nebude takový jako dřív a je toto, co se děje, zcela mimo nějaký přirozený cyklus zrození a umírání, tak, jak jsme ho historicky zažili. Jasně, byly nějaké války, byla nějaká období, kdy se věci proměňovaly a svět se měnil, ale myslím si, že lidé v každé týhle epoše mohli mít nějaký kus naděje, že jednou to zase bude jako dřív a jednou budeme žít zase v dobrém, bezpečném a prosperujícím světě. Ale tady jako kdyby bylo těžké tuhle naději si někdy nějak jako podržet a nějak ji mít přítomnou, protože zkrátka lidé, včetně mě, zažívají jako strach, že možná už nikdy nebude nic jako dřív a možná už ten svět, i podle těch průzkumů, vyplývá, že velmi vysoké procento současných mladých lidí.
+Jsem Taťána Míková, česká klimatoložka, meteoroložka a taky moderátorka zpráv o počasí.
 
-Nevěří tomu, že by žili v tak dobrém světě, jako jejich rodiče, že zkrátka věří tomu, že jejich život už bude.
+{% include 2050/transcript-person.html id="kaliba" %}
 
-{% include 2050/transcript-person.html id="holik" %}
-
-Environmentální témata samozřejmě nepřinášejí jenom negativní nebo nepříjemné pocity, ale můžou přicházet taky pocity nejenom bezmoci, ale třeba taky zážitek toho, že mám na nějaké věci vliv, nejenom toho, že se cítím osaměleji v tom, že to nikoho nezajímá, ale taky třeba zažívám podporu, když se spojím s lidmi, kteří mají podobné hodnoty v tom tématu a nějak se tam angažují, nejenom nějaké frustrace z toho, že se na politické scéně neděje to, co si myslím, že by se dít mělo, ale zároveň třeba nějaká velká naděje, když se zrovna věci dobře pohnou kupředu.
-
-My jsme se se Zdeňkou bavili v tomhle rozhovoru zejména o tématu environmentálního stresu, kam ty příjemné pocity neřadíme, takže se jim tady nebudeme tolik věnovat, a já jsem se jí ptal na to, jak velkého množství lidí se tohle náročné prožívání vlastně týká.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Je to tak, že v Čechách ta nejvíce dominantní emoce, kterou Češi prožívají, je bezmoc.
-
-Jestli si pamatuju správně, tak je to zhruba něco mezi 20 a 30 procenty lidí, kteří prožívají silně ve chvíli, kdy pomyslí na klimatickou krizi. Následují emoce jako smutek nebo vztek, úzkost. A co bylo taky zajímavé na tom výzkumu, je, že víc než půlka lidí prožívá nezájem nebo nějakou lhostejnost.
-
-Proč říkám, že to je zajímavé? Protože paradoxně z hlediska psychologických teorií to někdy může být vlastně stejný typ psychologické reakce na nějaký pocit ohrožení, jako je právě třeba extrémní bezmoc nebo vztek.
+Já jsem Jan Kaliba, klimatický zpravodaj Českého rozhlasu, to je pozice, kterou jsme v Českém rozhlase zřídili nedávno.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Protože to spíše připomíná odpojení od tématu než silné prožívání.
+Asi úplně na takový jako odstartování. My jsme vás poprosili, kdybyste se mohli trošku představit a teď, jak jste se k tomu vlastně dostali a jak to téma změny klimatu žije ve vašem profesním životě? Možná i osobním? Jestli můžete trochu nás pozvat do toho vašeho světa.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="mikova" %}
 
-Přesně tak.
+Tak asi začnu. Tak vlastně moje profese byla úplně původně klimatologie. Já jsem vystudovala matematiku, fyziku a potom tedy specializaci meteorologie a klimatologie a vlastně to moje první umístění v Českém hydrometeorologickém ústavu bylo právě v oddělení klimatologie, takže jsem klimatologií začínala v době, kdy když jsme se zeptali našich učitelů, co si vlastně myslí o možnosti, že se klima mění v důsledku toho, že lidé opravdu vypouštějí do ovzduší spalováním fosilních paliv hodně skleníkových plynů.
 
-A že ta lhostejnost nemusí být jako skutečná lhostejnost, ale může to být reakce naší autonomní nervové soustavy. V souvislosti s faktem, že čelíme něčemu, co nemáme kapacitu v tu chvíli přijmout.
+Tak naši učitelé na to raději moc nechtěli odpovídat, protože v té době už sice existovaly první noty Světové meteorologické organizace, které naznačovaly, že tady určitá změna být může, ale vlastně nikdo ji nechtěl kvantifikovat a spíš se všichni stavěli k té věci velmi rezervovaně. No, a ještě v té době já jsem vlastně začínala na klimatologii těmi základními úkoly, to znamená posoudit, jestli někde byly opravdu takové bouřky, jak je pojišťovna dostala nahlášené, nebo jestli opravdu počasí se někde vyvíjelo takovým způsobem, že mohlo třeba poškodit úrodu nebo udělat velké problémy. Takže to byly moje první úkoly a já jsem začínala s tou klimatologií opravdu od těchhle maličkých krůčků a taky jsem tehdy sledovala, jaké klima v té době bylo a měla jsem tu příležitost opravdu pomocí objektivních čísel vidět, jakým způsobem se v těch desetiletích vyvíjí.
 
-Protože je to pro nás příliš ohrožující, příliš potenciálně zavalující, příliš možná nekonečné. A možná se slyšel o takových čtyřech instinktivních reakcích, které, do kterých nás vlastně žene naše nižší, vývojově nižší centra mozku, to je bojuj, uteč, zamrzni, anebo potěš, ten nezájem může být právě tou formou toho uteč, to znamená, já radši se budu zabývat jinýma věcma, řešit jiná témata, v hospodě se nebudu bavit o klimatu, budu se radši bavit o tom, co kdo zrovna vyhrál ve fotbalu, to všechno jsou jako formy, jak se vyhnout konfrontaci s tím, co se reálně děje a u čeho mám třeba pocit, že na to nemám žádný vliv.
+My jsme vlastně už v devadesátých letech, v roce 95, 96 měli první projekce toho, jak se klima může za příštích 20, 30 let změnit, a taky jsme na ně měli navazující studie, třeba lesníků nebo zemědělců, dokonce i expertů z oblasti zdraví, kteří vyhodnocovali, jak tahle změna klimatu, pokud by se zrealizovala, protože to byly opravdu první projekce, my jsme nevěděli, jestli nám tyhle projekce vyjdou nebo nevyjdou, ale oni se měli vyjádřit k tomu, pokud vyjdou, tak co to udělá s lidmi, jak to na ně bude působit a co to pro ně bude znamenat. A musím říct, že dneska ve světle těch desetiletí, které mezitím uplynuly, tak jsem až překvapená, jak vlastně tyhle velice jednoduché úvahy hodně vycházejí.
 
-{% include 2050/transcript-person.html id="holik" %}
+{% include 2050/transcript-person.html id="kaliba" %}
 
-Dá se to nějak víc prozkoumat? Protože já si říkám jako teď, a teď se fakt dívám na nějaký rozměr prostě policy makingu třeba, nebo jako když bych měl na základě veřejného mínění nějak jednat, tak je vlastně strašně důležité, jestli teda opravdu 60 % Čechů říká, hele, vím o tom dost a nezáleží mi na tom, anebo jestli jako 50 % z nich je jako vlastně spíš odpojených z bezpečnostních důvodů, protože je to prostě jako jejich psychologická sebeobrana a říkám si, i z druhé strany to vlastně nebezpečné, jako když někdo řekne, mně na klimatu nezáleží, tak abych já si řekl, jo, tak tobě určitě ve skutečnosti záleží, akorát je to tvoje psychologická obrana, tak to taky není asi úplně dobrý přístup jako k člověku, že jo, nějaký důstojný nebo tak, dá se to vůbec zjistit jako jinak než prostě půl rokem individuální psychoterapie nebo případně, jestli nějaké ty výzkumy mají ty ambice vlastně to víc jako prozkoumat.
+Děkuju. Já si někdy říkám, nebo představuju tu svoji roli, že jsem taková chodící mainstreamizace toho tématu. Když se ohlédnu nějakých 10 let zpátky, tak vlastně ne, že bych to téma nevnímal, ale nepovažoval jsem ho za nějak jako urgentní, považoval jsem ho za jedno z více problémů lidstva, které se musejí řešit. Narážel jsem na to vlastně i ve své profesi, protože jsem začínal jako sportovní novinář a dělal jsem třeba hodně lyžování, alpské lyžování, a tam samozřejmě rok za rokem byly ty změny vidět, ale vlastně jsem jako neměl nějaké nástroje k tomu, jak to úplně do té práce promítnout. O to se hodně snažím teď. No, a pak jsem se stal americkým zpravodajem, washingtonským zpravodajem Českého rozhlasu, a to bylo v roce 2017, a mně se tam slilo vlastně víc efektů dohromady.
 
-{% include 2050/transcript-person.html id="vostova" %}
+Jednak to byla doba, kdy po tom roce 2018 vyšla ta, můžeme říct, asi přelomová zpráva IPCC, která aspoň pro mě změnila úplně všechno, změnila nazírání na to téma, když jsem pochopil, že to je prostě meta, téma, které je hrozně urgentní, důležitější nebo nechci říct důležitější než ty ostatní krize, které prožíváme, ale že každou tu krizi vlastně jako zhoršuje a když nevyřešíme tohle, tak nevyřešíme ani ty ostatní. Zároveň se nám s manželkou rychle po sobě v té době narodily dvě děti. Člověk taky začne jako přemýšlet o světě trošku jinak a ještě navíc vlastně tou jako mojí profesní rolí jsem začal jako natáčet na místech a s lidmi.
 
-To je velmi dobrá otázka. Díky za ni. Já jsem obecně odpůrcem psychoanalyzování lidí na dálku, tak spíše tedy představuji nějaké teoretické koncepty, ale rozhodně se zdráhám někomu určovat, co on vlastně prožívá, protože já to nevím. To bychom možná mohli společně zkoumat, kdybych měla dostatek prostoru, být s ním v dobrém dialogu a zároveň by mi ten člověk dost důvěřoval, aby se mi otevřel.
+A hlavně tedy na místech, kde prostě se dalo na tu změnu klimatu sáhnout, což je jako její problém, že jo, i v médiích, že to je takové abstraktní téma, ale já jsem prostě přijel třeba na ostrov, který se jmenuje [tenžír], je to vlastně jako vzdušnou čarou, řekněme, 150 km od Bílého domu, a to je ostrov, kde vlastně zmizelo za posledních 150 let 2/3 té půdy, na které ti lidé žijí, odřízlo jim to vlastně část toho ostrova, oni museli opustit a stáhnout se na ten největší, co zbyl. Tam to zanechalo domy, prostě lidé tam kopali kosti svých předků a odváželi je na ten hlavní ostrov, aby je nějak důstojně pohřbili, než to pohltí moře a zároveň teda nevěřili ve změnu klimatu, mluvili jako 90 %, volila Donalda Trumpa, který změnu klimatu popírá.
 
-A to, jak to zjistit, je právě to, že vytvoříme tenhle prostor nejenom na nějaké úrovni individuálních psychoterapií, ale možná na celospolečenské úrovni budeme vytvářet dost dobrý bezpečný prostor, abychom mohli jít trošku dál. Za tu, za tu pozici, za tu pozici toho mám vztek a štve mě to, že vláda nic nedělá, nebo za tu pozici, ale mě to nějak nezajímá. Klima, to vlastně všechno, lidstvo, všechno jako vyřeší, to je dobré vlastně, jak jsem tady mluvila o té naší autonomní nervové soustavě, když se na to dívám z pohledu psychologie, traumatu umožňovat naší nervové soustavě. Byla dostatečně zregulovaná, to znamená dostatečně jí zazdrojovat na to, abychom mohli pobýt v tom šedém poli nejistoty a nějak tu nejistotu víc zkoumat, co to vlastně je, i když čelíme nejistotě, tak to myslím z hlediska toho, co se dozvídáme za fakta třeba z vašeho podcastu.
+A oni to všechno přičítali erozi, pouze erozi, takže vlastně přes tyhle příběhy a hlavně výjevy, které prošly člověku před očima, když jsem si pospojoval tyhle vlastně tři vlivy, tak jsem si došel k tomu, že změna klimatu je prostě téma, které navíc mě zajímá - samozřejmě to mediální prostředí. Zjistil jsem, že v zahraničí začínají vznikat klimatické redakce a že se tomu opravdu začínají poctivě věnovat, nakonec z nějaké naší debaty vyplynulo, že ano, pojďme teda zavést roli klimatického zpravodaje, kterým jsem se teda stal. A zkoušíme vlastně dosáhnout toho, aby to téma prostupovalo tím vysíláním, aby to bylo napojené.
 
-Co to vlastně je, co se v nás děje, když to slyšíme, jak se ohledně toho cítím, co to se mnou dělá, co mi to přináší za obrazy.
+Abychom změnu klimatu jednak drželi v tom vysílání, ale způsobem, který bude vyhovovat mediální rutině, který bude odpovídat tomu, jak publikum, co publikum vnímá za důležitá témata, protože se to opravdu, jak víme, týká všech vrstev našich životů a dá se o tom určitě referovat zajímavě a napojovat na témata, která jsou důležitá, aktuální a lidem i nějak emočně blízká. Tak prostě pracovat na tom, aby změna klimatu nebyla dlouhodobým tématem, které vlastně nikdo nevíme moc, jak uchopit, a když už, tak se pohybujeme na těch pólech: katastrofa nebo naděje, až falešná naděje. Zkusit být co nejkonkrétnější a umět to dostávat do veřejného prostoru na praktických příkladech, které jsou lidem blízké.
 
-Mám ohledně toho nějaké pocity, mám ohledně toho nějaké myšlenky, co se mi děje v těle. Proto, abychom se mohli dostat k tomuhle, potřebujeme nejdřív mít fakt dobré zdroje, abychom s tím mohli být bezpečně v kontaktu tak, aby nás to nevedlo právě k tomu odpojení a naopak k tomu, že nás to jako úplně zaplaví, nebo že se paralyzujeme.
+{% include 2050/transcript-person.html id="vrtalova" %}
 
-{% include 2050/transcript-person.html id="holik" %}
+Vy už jste na to trochu narazil, ale mě by zajímalo, jak se z vašeho pohledu z dvou různých pohledů vlastně vyvíjí to reportování o klimatu, protože už máte nějaký pohled, ať už ze zahraničí nebo i dlouhodobější, tedy v Česku, tak jak to vlastně vypadá a co se mění.
 
-Možná přemýšlíte nad tím, co je myšleno tím slovíčkem zdroje, které tu opakujeme. Taky jsem nevěděl, tak jsem se Zdenky na to ptal a vysvětlila mi, že se jedná o nějaké vnitřní nebo i vnější věci, které mi zkrátka dávají sílu, které mi dávají naději, o které se můžu opřít. Může to být někdo, o koho se můžu opřít, jako jsou přátelé, rodina, může to být kontakt s přírodou, zároveň to můžou být třeba i nějaké vnitřní kvality nebo vlastnosti, které mi pomáhají nějakým způsobem zažívat to, že zvládnu si poradit v náročných situacích, může to být nějaká moje spiritualita, můžou to být nějaké zkušenosti, které jsem měl v minulosti, které mi dokazují, že hele, mám na to projít něčím, co třeba nebude jednoduché?
+{% include 2050/transcript-person.html id="mikova" %}
 
-{% include 2050/transcript-person.html id="vostova" %}
+Tak kolega už do jisté míry některé věci z toho naznačil. Já bych to možná shrnula trochu z dlouhodobějšího pohledu, protože si vzpomínám, když jsem v těch devadesátých letech přišla do České televize, tak když jsme mluvili o změně klimatu, tak to bylo, tuším, mezi rokem 94 a 2000 jednou jedinkrát, když jsem dostala za úkol udělat krátkou zprávičku do událostí, jak je to vlastně se změnou klimatu a co si o ní kdo myslí a co ti klimatologové vlastně vyzkoumali? A musím říct, že když si uvědomím, jak jsem tehdy vlastně mluvila o věcech, které dneska dokážeme vyjádřit úplně běžnými slovy, jak vnímají věci lidé, které potkáme na ulici, tak to bylo strašně šroubované a strašně komplikované.
 
-Čím dál tím víc dospívám k tomu, že nejlíp zazdrojovaný jsme, když jsou dobře propojený, všechny naše úrovně bytí. Jak ta mentální, analytická, tak tělesná, tak emocionální, když jsem s nimi všemi v dobrém kontaktu tady a teď, což je možná někomu může znít jako klišé, takové to buď přítomnosti, buď a teď, ale ono to dává vlastně ohromný smysl, protože často ty naše reakce, jak jsme tady mluvili o tom pocitu ohrožení, tak často ty naše reakce…
+{% include 2050/transcript-person.html id="vrtalova" %}
 
-Pokud nemáme dostatečně dobrou kapacitu s tím jako bejt, tak nás to hází zpět, že jednáme opravdu více pudově, více instinktivně. Cítíme se jako hrozně ohrožení, ale většina těch situací, kterým čelíme, nás neohrožuje na životě tady a teď, pokud to tedy opravdu není přírodní katastrofa, že by nám třeba hořel dům, ale je to spíš nějaký otisk nějaké starší zkušenosti na to, co v minulosti bylo ohrožující, když nás třeba někdo neposlouchal. Teď se snažíme tady sdělovat lidem fakta o klimatu, ale vlastně narážíme na nějaký nezájem nebo dokonce bagatelizaci, devalvaci, a to může být otisk, otisk starší zkušenosti mnoha různých druhů, a ten kontakt s tělem, s emocemi, to, že já se jako zpřítomním, mi pomůže si uvědomit, že tady a teď se žádné ohrožení neděje, že tady máme nějakou situaci, kterou je potřeba řešit. Pravděpodobně na to řešení nezvládnu sám, nestačím sám nebo sama, je potřeba se spojit s ostatními a pojďme společně.
+Mě spíš šokuje, že mezi roky 1994 a 2000, jako za těch šest let, je jenom jedna zmínka u vás v České televizi z vašeho pohledu.
 
-Podívat se, co to s námi dělá a jaké jsou možné způsoby, jak se k tomu stavět a co bychom možná mohli udělat, co můžu udělat já sama za sebe, jaké jsou mé jedinečné dary a schopnosti a kompetence, abych možná přispěla nějak k tomu většímu celku, ale zároveň takovým způsobem, aby mě to moc nevyčerpávalo, aby to nebyla jako oběť.
+{% include 2050/transcript-person.html id="mikova" %}
 
-Protože ve chvíli, kdy jsem v dobrém kontaktu se svýma fakt jako dramaty, tak je to, je to, že dělám něco, co je mi vlastně nějak jako přirozené.
+Takhle, já bych nemohla říct, že se o tom nezmiňovali kolegové reportéři, to asi ne, ale v té době opravdu nebyla změna, nebyla změna klimatu nijak preferované téma. I z hlediska toho, že ta média, a to řeknu teď obecně, si musela dávat pozor, aby si v politické sféře nerozkmotřila lidi, které potřebovala k úplně běžným každodenním informacím, které se v politice dějí.
 
-A zároveň se na to může dívat i jako společnost, co my jako společnost můžeme dělat v tom, aby se ta situace nějak proměnila, a to právě i na té systémové úrovni, o které tady taky asi hodně mluvíte v podcastu.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-My jsme se se Zdenkou bavili o tom, jak je vlastně zásadní být nějak dobře v kontaktu sám se sebou a napojený na vlastní prožívání a tak, tak jsem mu upřímně propadal docela skepsi, protože třeba mám z vlastní zkušenosti, z vlastní praxe, když třeba učím nenásilnou komunikaci, tak vidím, jak je to pro lidi těžké a jak je náročné dokázat si třeba jenom odpovědět fakt upřímně na otázku, jak se teď mám, co cítím, co se ve mně děje, co prožívám, tak jsem si říkal, wow, tak to fakt teda nevím, jestli se v tomhle dokážeme jako společnost nějak výrazně posunout tak, aby to pomohlo třeba i tomu klimatu, ale Zdeňka to tak černě neviděla.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Já věřím, že ty trendy jsou a zesilují u nás ve společnosti a nejenom v Čechách, ale všeobecně.
-
-Když vezmu takový úplně příklad ode mě z rodiny, moje děti chodily do takové velmi respektující, ekologicky zaměřené školky celé své dětství a aniž bych já to jakkoliv tlačila z pozice toho, že jsem terapeutka, nebo aniž bychom to doma nějak cíleně praktikovali, tak mě vlastně fascinuje, s jakou samozřejmostí a s jakou lehkostí jsou zvyklí mluvit o tom, co cítí, co prožívají a jak to prostě úplně bez zábran pojmenují, anebo taky co potřebují. A myslím si, že tyhle kvality můžeme nějakým způsobem kultivovat v té společnosti, právě to, jak se vztahujeme k dětem, jaké vychováváme, jak je vzděláváme, ale i na úrovni těch dospělých jednotlivců.
-
-Jaké klima, prostředí budeme mít ve firmách, jak moc vzájemného respektu v nich můžeme zažívat, jak moc se v médiích a vůbec ve veřejném prostoru mluví o emocích, o prožívání.
-
-Já věřím tomu, že ta transformace je nějakým způsobem možná, ale to samozřejmě neznamená, že je možná rychle. Možná, že tohle všechno jsou kroky, které zabere delší čas.
+A musím říct, že přinejmenším ta devadesátá léta, ale po roce 2000 určitě aspoň 45 let to trvalo, než si média vůbec dovolila říct něco o změně klimatu, co odpovídalo tehdy současným znalostem a vědomostem, které už klimatologové měli. Ta média prostě postupovala tak, aby mohla svoji práci dělat, a to musím ŝíct, že hlavně v té politice, protože tohle téma v té době všichni považovali za velmi okrajové. Já jsem vlastně řekla, že ještě v osmdesátých letech ani naši učitelé na vysoké škole se tomu moc nechtěli věnovat. V těch devadesátých letech už to bylo jinak, ti, co studovali 10 let po nás, to měli opravdu jinde, ale ve stejné době se tomu nechtěli věnovat ani politici a ani moc média, aby si je nerozkmotřili.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Řekla bys v tomhle kontextu, že je nějaká jako klimatická transformace vlastně tím pádem úzce souvisí s nějakou, já nevím, jak to říct, jako spirituální nebo duševní, jako společenskou transformací, něco takovýho.
+Já si vlastně dokážu představit jakousi paralelu, že pokud ta změna klimatu opravdu je okrajové téma, já potřebuji s tím člověkem vést každodenní rozhovor o důležitých politických otázkách, tak přece si ten vztah nerozhodím tím, že se ho zeptám na to, proč jednou špatně zaparkoval. Když to je prostě ministr vnitra, se kterým potřebuji řešit důležité otázky ohledně celého státu, tak to jako vynechám z toho rozhovoru. Vlastně jako postoj těch třeba reportérů tomu rozumím.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="mikova" %}
 
-Já o tom nepochybuji, to nepochybuji. Četla jsem moc hezkou knížku Svět nenásilí od lektorky nenásilné komunikace Miki Kashtan.
+Trefil jste hřebíček na hlavičku. Tak to skutečně v té době bylo, a to téma změny klimatu v té době nebylo považováno za důležité.
 
-A ona tam píše, že ta transformace vlastně není tak, že by spočívala v tom, že my jako jednotlivci budeme pracovat sami na sobě, uděláme nějakou velkou duševní a spirituální práci a skrze to se změní celá společnost a celý systém ekonomický, ale ani to není tak, že tady teda změníme ty zákony a změníme.
+{% include 2050/transcript-person.html id="kaliba" %}
 
-Společenské, politické uspořádání a skrze to se teda promění ti lidi a že tohle jsou vlastně procesy, které ani nepředcházejí jeden druhému, ale běží paralelně a nevyhnutelně se doplňují. My někdy v terapii jako léčíme lidi, ale vlastně vracíme do nemocného světa, proto si myslím, že je dobré působit zároveň na změnu té společnosti, ale zároveň těžko dosáhneme změny společnosti, pokud nějakým způsobem se neproměníme sami, takže podle mě je potřeba zkrátka působit na oboje.
+A zároveň si myslím, že tam hraje roli sebevědomí a že se mohou o něco fakticky opřít a v té reportáži nebo v tom rozhovoru to použít. Myslím, že to v tom veřejném prostoru chybí i proto, že to ještě není součástí nějakého obecného novinářského minima. Když jsem fotbalový reportér, měl bych asi znát pravidla fotbalu; když jsem parlamentní zpravodaj, asi bych měl vědět, jak funguje sněmovna. Ale u té změny klimatu si myslím, že v dnešní době vlastně existuje článek z novinářského institutu Harvardovy univerzity z roku 2022, jehož titulek zní: "V dnešní době je každý z nás novinářů klimatickým novinářem."
 
-{% include 2050/transcript-person.html id="holik" %}
+Protože se to týká, opravdu to prostupuje natolik vším a je ta perspektiva důležitá od prostě domácí i zahraniční politiky, vědy, přes kulturu až po sport, že by měl to minimum jako každý znát a že to není nutně tím, že by 90 % novinářů byli popírači změny klimatu, ale prostě potřebují nějakou jistotu, že tam mohou tu větu říct, že když dělají desátý rok po sobě reportáž o tom, že nám jako na začátku dubna všechno rozkvetlo a je tropický den, to trošku přeháním, ale prostě se to opakuje čím dál častěji, takže tam jako ten kontext té změny klimatu se mohou odvážit dát.
 
-To mi přijde i hezky, jako nevím, jestli apel, ale taková zpráva pro lidi, co chtějí třeba klimatu nějak pomoct, takže to je vlastně celá další oblast, která vlastně klimatu pomůže. Jako pokud snad zrovna posloucháte, jste prostě mladí a rozhodujete se, co studovat, tak si říkám, jo, vlastně studium psychologie je úplně stejně důležité pro klimatickou volbu jako studium na nějaké technické škole proto, abych mohl instalovat fotovoltaické elektrárny třeba.
+A často říkám, a mi to odpusťte jako autoři podcastu, ale že kolikrát jedna správně zařazená věta na správném místě nebo správně položená otázka ve správný okamžik ve správném rozhovoru je cennější než další třicetiminutový pořad o klimatu. Že ta konfrontace těch politiků, anebo ten kontext v těch třeba jako regionálních, lokálních reportážích z toho terénu o těch brzy probuzených včelách a rozkvetlých jabloních, je klíčová pro propojování toho publika, aby si to ty lidi spojili s tím problémem celkovým.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="mikova" %}
 
-Nepochybně. A jsou i psychologové, kteří si toto velmi dobře uvědomují.
-
-Celosvětově byla někdy v roce 2018 nebo 19 vydána deklarace psychologických asociací, kde se píše o tom, že klimatickou změnu vnímají psychologické asociace z celého světa jako velmi závažný problém a nějakým způsobem apelují na ty své členské organizace a jejich členy, aby využívali své psychologické vzdělání k tomu, aby pomáhali komunikovat environmentální témata směrem k veřejnosti, protože to jsou právě často naše obranné mechanismy, které nám jako zabraňují to vstřebat, co už věda ví.
-
-A zároveň ale apelují také na psychology a psychoterapeuty po celém světě, aby používali všechny své kvality a kompetence, které mají k tomu, aby pomáhali lidem emocionálně doprovázet tím, že čelí následkům klimatických změn, nebo že čelí jakoby té nejistotě, o které jsme tady mluvili.
+S tím, jestli můžu teda určitě souhlasila. Doba se hodně vyvíjí, to znamená, že ta informovanost obecně je trochu lepší než bývala, ale lidé dnes jsou přesně zvyklí žít těmi příběhy a rádi mají, když se jim prostě vlastně všechno, co vidí kolem sebe, přes ty příběhy sděluje, lépe si to zapamatují a myslím, že právě v dnešní době tu změnu klimatu těmi příběhy mnohem lépe poznávají, ovšem kdy přijde ta generace, která už s těmihle věcmi bude přicházet, to bude ještě asi chviličku trvat.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-To mi úplně přijde jako paralela, jak se mluví často v těch klimatických opatřeních o nějaké adaptaci a mitigaci, takže tohle je jako psychologická vlastně zase adaptace a mitigace, jako jak s tím něco dělat a zároveň, jak doprovázet v tom, jak s tím jenom možná být, to je ta adaptační část toho, hele, ono už se to děje a je to těžké a my prostě s tím potřebujeme být.
+Já jsem se chtěl zeptat, protože jak to popisujete tu historii, tak to tam fakt zní jako velký posun od toho. Opatrně jsme si možná odvážili jednou někde to jako zmínit, a teď nedávno jsme se koukali na nějaký pořad, jako v České televizi, snad 20:5 minut jako věnovaných přímo změnám klimatu. Vlastně dost do hloubky. I jako já, člověk, který je do toho hodně ponořený, tak jsem si říkal, tohle je dobré, jako to je, to je jako poctivě tomu věnovaný čas, poctivě odpracovaná jako novinářská práce. Tak dokážete pojmenovat možná nejenom kdy, ale jako jak se tohle začlo měnit, že najednou i v médiích cítím teď jako mnohem větší, řekněme, jako odvahu nebo prostor. Máme tady pozici klimatického reportéra a podobně. Tak co byly ty prvky, které to jako změnily, že teď už vlastně to je téma, o kterém se dá mluvit, o kterém se mluví, kterému se věnuje jako mnohem větší čas.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="kaliba" %}
 
-Ano, je to tady. A ještě k tomu teda řeknu, že ve chvíli, kdy jsem se před šesti lety začala tímto tématem zabývat, tak americká psychologická asociace tehdy vydala rozsáhlou zprávu o tom, jak dopadá změna klimatu na naše duševní zdraví.
-
-A zhruba v půlce té zprávy psali o tom, ne, jako, jak dopadají nějaké naše představy o tom, jaký ten svět jednou bude, až teda to klima na nás víc dolehne, tak, jak tyhle představy v nás teďka vzbuzují velký pocit strachu, nejistoty, úzkosti, bezmoci, ale i to, že to, že se reálně takhle klimatická změna už probíhá tady a teď, máme tady ty hurikány a ty povodně a ty požáry, jak pomáhat lidem vlastně snášet i psychologicky tyhle krizové situace. A já, když jsem si to tehdy četla tady z pozice naší dobré, příjemné, bezpečné České republiky, tak jsem si říkala, no, tak pro mě a mou práci tohle zatím jako není aktuální aspekt, přestože jsem věděla, že někde na světě se to již děje.
-
-Ale bohužel teda, jak ty roky postupujou, tak mně připadá, že to začíná přicházet vlastně i sem, že už i tady zažíváme občas krizové situace, které ve skutečnosti souvisejí se změnou klimatu, kde je potřeba v tom ty lidi podpořit i jako krizově, kdy to není jenom... Třeba ta americká psychologická asociace mluví o tzv. pretraumatické stresové poruše.
-
-Což je nějaký stav, který odpovídá projevům posttraumatické stresové poruchy v tom smyslu, že, možná to znáš, takové to, když lidé zažijí nějakou těžkou událost jako dopravní nehodu, přírodní pohromu nebo znásilnění, válku, tak potom mívají takové těžké stavy nějakých flashbacků, velkých úzkostí, nespavosti, že je to pro ně emočně těžké zvládat. No, a ta americká psychologická asociace mluví o tom, že tomhle prožívání v souvislosti se změnou klimatu v tom smyslu, že my můžeme mít podobné typy reakcí i ve chvíli, kdy jsme to ještě neprožili něco takhle jako těžkého, závažného, ale kdy máme představu o tom, že bychom to v budoucnosti prožít mohli, vlastně promítáme do naší hlavy ty možné potenciální scénáře těch obrovských migračních vln, hladomoru, válek o zdroje, a to u nás může vyvolat takovéhle reakce.
-
-To je tedy jeden aspekt, se kterým můžeme pracovat, ale pak je tady ten skutečný krizový scénář, kdy my musíme vlastně nějak se zkompetentnit v tom, poskytovat krizovou intervenci pro ty lidi, kteří už tady reálně čelí třeba tornádu, a to může, jim to smetlo dům, a to se děje i u nás.
+Získalo to i jakousi, řekněme, relevance tím, že to vidíme fakt všude kolem sebe, takže logicky jako novinář, který má popisovat, co se děje, na to musí reagovat. Takže myslím.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Jo, zároveň si dokážu představit, že nevím, jako požáry, sucha, kůrovcové kalamity, jako to jsou, to jsou ty extrémní jevy, které u nás můžeme vlastně pozorovat už docela běžně, a taky si dokážu představit, že to může být až jako krizový nebo jako traumatický, jo, jako já, kdybych žil na té Vysočině, kde bych prostě chodil celý život do lesa a ten les tam najednou není, protože ho prostě sežrali za dvě sezóny brouci, tak.
+Text obsahuje několik nejasností a nedostatků, ale bez dalšího kontextu a přesného záměru autora je obtížné text opravit. Nicméně pokusím se o nápravu tak, aby věta měla smysl:
 
-To s tebou něco udělá, že jo.
+"Teď je jakoby sucho, kůrovec, není sníh na horách. Všechny tyhle." 
 
-{% include 2050/transcript-person.html id="vostova" %}
+Tento text je stále poněkud neúplný a vyžaduje dodatečné informace pro plnou gramatickou korekci.
 
-Přesně tak, a to se vlastně snažím říct, že tehdy před těma šesti lety mi to přišlo ještě takové vzdálené, ale za těch šest let se ta situace, aspoň teda z hlediska toho, jak já to vnímám, taky nějak proměnila, posunula. Čím dál tím víc tomu čelíme i tady v té naší české kotlině.
+{% include 2050/transcript-person.html id="kaliba" %}
 
-{% include 2050/transcript-person.html id="holik" %}
+To i ty managementy začínají asi chápat, že potom i poptávka.
 
-Ty jsi mluvila o tom, že nějakých 20 až 30 % Čechů zažívá nějakou formu toho environmentálního stresu. A chtěl bych se tě zeptat ještě trošku k těm číslům, jako na srovnání třeba s jinými částmi světa, jestli jsou jako takhle geograficky nějaké rozdíly a jestli jsou nějaké jako demografické rozdíly, jakože trochu čekám, že řekneš, hele, mladší generace jako zažívají třeba silněji než starší nebo něco takového. Jestli se to v těch datech ukazuje, případně nevím, jestli to koreluje s něčím dalším jako nějaká socioekonomická situace nebo vzdělání, nebo kdo ví, co.
+A získal tím možná, řekněme, i nějakou jako prestiž. Washington Post získal Pulitzera v roce 2020 za sérii klimatických reportáží. Jo, že tam možná v tom mixu to taky hraje nějakou roli.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="mikova" %}
 
-Já myslím, že opravdu tak, jak znám ty zahraniční studie, které pokrývají jednak severní Ameriku, ale i je tady jedna studie, která oslovila 10 000 respondentů po celém světě v zemích Evropy, Asie, Afriky, Severní Ameriky, Jižní Ameriky, tak tam opravdu ten největší rozdíl nakonec ani není tak mezi těmi jednotlivými zeměmi nebo mezi vzděláním, ale mezi tím, kolik je těm respondentům let.
+Myslím, že jak se to více projevovalo v těch sférách hospodářství, které byly důležité, a dotýkalo se to i každodenního lidského života, tak média si toho více a více všímala. Já si vzpomínám na jednu reportáž, kterou jsme skončily, byly to vánoční svátky, ale nechci říkat přesně ten rok, protože si ho úplně nepamatuji, ale tam končili opravdu tím, že podnikatelé se tomu přizpůsobili a protože není vůbec žádný sníh, tak místo lyží půjčují kola. Tak nějakým způsobem takovými jako opravdu reálnými případy, které se odehrávaly, jsme i my třeba dostávali potom daleko častěji slovo, co si myslíte o těch změnách klimatu a jak je máme vnímat? A tohle se, řekla bych, postupně začalo vyvíjet i v tom, že všichni si uvědomili, že to, že klima třeba v zimě není zimní, na jaře je bláznivé, střídají se prostě extrémy, které jednou vypadají jako zima a za dva dny už zase skoro jako léto, tak už potřebovali vyprávět i něco jiného, než že je zase to samé, co loni na jaře a chtěli k tomu ten komentář těch klimatologů, takže vlastně se čím dál více i ta slova odborníků začala objevovat v médiích.
 
-Ve věkový kategorii 15 až myslím, že to bylo 25 let to, jak moc to na lidi doléhá, jak moc to emočně zasahuje do opravdu desítek procent, a taky desítky procent lidí odpověděly, že v souvislosti se změnou klimatu zvažují, jestli vůbec budou mít děti, popřípadě už jsou rozhodnutí, že děti mít nebudou.
+{% include 2050/transcript-person.html id="kaliba" %}
 
-Když bychom šli do té dospělejší populace, tak třeba v Severní Americe je to, myslím, 7 % dospělých Američanů, kteří pociťují aspoň mírnou formu environmentálního distresu, takže tam to číslo postupně jako víc klesá, ale pořád ještě 7 % populace není zas tak málo.
+Vypustit klimatology z jejich, z jejich klecí a nechat je mluvit v těch reportážích, které se týkají těch jablek, vleků a tak dále, to je, myslím, klíčové a možná i pro ta média.
 
-{% include 2050/transcript-person.html id="holik" %}
+Jako. Ta musela nutně reagovat i na nějaké vlny, jako, řekněme, zvýšeného povědomí mezi lidmi, nějaké vlny manifestací v roce 2019. Hodně potom na tom, že to začíná řešit jako byznys. A když vám to v rozhovoru sám někdo zmíní, což se asi v Česku tolik jako nedělo, ale v zahraničí ano, no, tak logicky se jako novinář vlastně musíte pak pídit o tom, co on to vlastně jako říkal, a pak se o to upřímně zajímáte, tak narazíte na to, že to je asi jako vážný problém, který.
 
-To je furt hodně.
+Kterým se profesně musíte zabývat. No, tak si myslím, že to už je pak dílo těch posledních let, kdy se to, myslím, jako dramaticky mění i v Česku.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="vrtalova" %}
 
-To je furt hodně.
+Mě by také zajímalo, jak to vlastně vypadá v českých mediálních domech. Už jsme měli nějakou perspektivu z historie, tak jak to vypadá dnes, kdo nebo kde se rozhoduje, co jsou ty klíčové pozice o tom, co tedy bude reportováno. Především nás to samozřejmě zajímá z hlediska toho klimatu.
 
-Takže proto mi to přijde jako fenomén, kterému je důležité věnovat nějakou pozornost, a teď ne jen jako jenom, abych osvětlila víc tu svoji misi, nejenom jako pozornost ve smyslu, jak tedy pomoct těmto sedmi procentům lidí, aby to jako necítili, aby to neprožívali, aby jim tedy bylo zase dobře, aby si vedli ten svůj byznys.
+{% include 2050/transcript-person.html id="mikova" %}
 
-{% include 2050/transcript-person.html id="holik" %}
+Jsou to, řekla bych, za Českou televizi určitě hlavně editoři, kteří ovlivňují, jak často a v kterých pořadech se právě tahle témata budou objevovat.
 
-Prášky proti bolesti prostě na klimatickou krizi.
+{% include 2050/transcript-person.html id="kaliba" %}
 
-{% include 2050/transcript-person.html id="vostova" %}
+Myšlenka klimatického zpravodaje byla ta, abychom to dokázali držet v těch krátkých formátech, což samozřejmě zvláště u toho klimatu, když se začne člověk jako jde natáčet s klimatologem nebo s ovocnářem, většinou má materiálu na dokument. Jo, ale, ale já jsem říkal jako pro nás důležité držet to v tom radiožurnálovém, dvouminutovém prostě zpravodajství, aby tam to klima prostě bylo, takže já se snažím napojovat se vlastně na život těch agend těch redakcí, spolupracovat s lidmi v těch redakcích, zkoumat, jako jaké téma vlastně, jo, co schvaluje Evropská unie.
 
-Přesně tak. Někdy dostávám od novinářů otázku, jak pomáháte lidem zbavit se environmentálního žalu?
+Týká se to zrovna klimatu, tak prostě se bavím s bruselskou zpravodajkou nebo se zahraničáři, co se děje na české vládě, jestli zrovna schvaluje nějaký strategický dokument, jako se teď v těchto měsících děje tak, abychom to měli podchycené, jestli to teda udělají oni z toho parlamentu nebo jim mám nějak jako přispěchat na pomoc, protože na to mám kapacitu, anebo se sporťáky, tak byl jsem jeden z nich, takže k tomu mám jako hodně vztah. 
 
-{% include 2050/transcript-person.html id="holik" %}
+Takže když jste zmiňovali to lyžování, tak samozřejmě letos zrušená Jizerská padesátka, a pak na konci zimy jsem si to vzal jako téma, které jsem udělal na větší ploše, jaká je vlastně budoucnost organizovaného zimního sportu v Česku, kde jsem se bavil kromě jako expertů klimatologických, tak s těmi pořadateli, kteří už to taky velmi silně vnímají, pojišťoven, pojistitelnost těch akcí a tak dál, a vlastně se pak ukázalo, že potom, když ta textová verze, která se pak objevila na webu, na irozhlase, tak byla nejčtenější za celý den, tak Jizerská padesátka měla mít zhruba 10 000 účastníků, to asi tak 1 ‰ populace, takže to je zrovna, to je zrovna to klimatické mango.
 
-Možná pojďte pomáhat tomu světu, co zažívá tu klimatickou krizi, odstraníte ten zdroj.
+Bavil jsem se s kolegy ze zahraničí a řešili jsme najednou semináře, jako jakým způsobem, tak ty klimatické změny vlastně odvyprávět nejvíc, co funguje vlastně, jo, co ti lidi, co to publikum jako na co reaguje? A začala jako kolegyně z Kolumbie, která řekla, no, když my jsme měli sucha a zdražili nám tady skokově mango, tak to byl ten moment, kdy se lidi začali zajímat o klima v médiích, takže jsme pak řešili, co v které zemi je to mango, takže u nás si myslím, že je to třeba to rekreační lyžování.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="vrtalova" %}
 
-Přesně tak. Takže když jsi se ptal na to, jak se k tomu staví psychologická teorie, tak já jsem moc vděčná za to, že čím dál tím více na západě, a všímám si toho, že už i u nás v Čechách se tam přístup proměňuje. To základní paradigma, ze kterého vycházíme, není, že je to taková trochu jako patologie, pojďme těm lidem rychle dát nějaký recept, aby to teda zase jako necítili, nebo možná jsou takoví všeobecně trošku úzkostní. A budeme zatím hledat ten jejich individuální příběh, ale spíš jako se posouváme směrem k tomu přístupu, že, cítit environmentální distres je velmi zdravá a legitimní reakce na nezdravou situaci, která se zkrátka děje, a mnoho výzkumů potvrzuje, že je to ve skutečnosti adaptivní reakce a zároveň pro environmentální, to znamená, že ona nám vlastně pomáhá se nějakým způsobem ta naše reakce vnitřní, emocionální se nějak adaptovat na tu realitu, ve které žijeme a pomáhá nám.
+Jizerská padesátka.
 
-Nezůstat jako v tom pasivním přihlížení, ale nějakým způsobem přispívat k proměně světa, ve kterém žijeme. Ale jenom ještě pro mě, Petře, jenom ještě dodám, že tohle platí za předpokladu, že v tom neuvízneme, v těch svých vlastních emocích, že se nám podaří se jimi nenechat jako zaplavit, zavalit, nedostat se do té paralýzy toho, že to je příliš, nebo že neuvízneme třeba v tom vzteku a že potom nekřičíme na každého, že to prostě dělá úplně hrozně zle a nevyvoláváme jako zase polaritu ve společnosti. My musíme vlastně si pomáhat, vzájemně se natolik podpořit a sebe podpořit, abychom to naše prožívání uměli posunout někam dál do nějaké širší perspektivy, aby ty naše akce byly skutečně efektivní a účinné.
+{% include 2050/transcript-person.html id="mikova" %}
 
-{% include 2050/transcript-person.html id="holik" %}
+No, ale já bych k tomu navázala, když už se o těch lyžích bavíme, vezměme to trochu i šířeji. Málokdo si uvědomoval a možná ani klimatologové tohle úplně vždycky nenapadlo, byť k té extrémitě už teď směřujeme a uvědomujeme si to. Tak na začátku sezóny bylo několik pohárů svět, několik závodů Světového poháru v lyžování zrušeno kvůli počasí a nebylo to kvůli tomu, že by třeba neměli v Alpách sníh, ale tam prostě bylo takové počasí, že buď se ten sníh nedal upravit na ty závodní podmínky, anebo tak strašně fučelo, že si je netroufli na tu trať pustit. A to jsou prostě najednou takové spousty efektů, které v tom mohou hrát roli, že vlastně ten sport, jako hlavně ten zimní, asi se jeví dost ohrožený.
 
-Takže to, co říkáš, můžu si to přeložit jako, hele, pokud zažíváte environmentální distress, tak to neznamená, že jste špatně. Naopak, je to zdravá reakce na něco, co je ohrožující, asi když někomu na Ukrajině spadne bomba na dům, ve kterém bydlel, tak nám také nepřijde jako nezdravá reakce, když je z toho traumatizovaný, že jo.
+{% include 2050/transcript-person.html id="kaliba" %}
 
-Ale říkáš, je tam, ale, ale jako nezamrznout v těch těžkých emocích, vlastně jako to, co pomůže světu, je jako naopak najít zdroje, jak to prožívat nějak konstruktivně, to je to, o čem přemýšlíš.
+A když se vrátím k té původní otázce, tak tohle je teda vlastně ten úkol spíš těch médií, si to zorganizovat tak, aby třeba i ti sportovní reportéři to minimum znali a uměli tam tu souvislost říct. To je jedna rovina, a potom jste se vy zeptal na to jako vysvětlování.
 
-{% include 2050/transcript-person.html id="vostova" %}
-
-Přesně tak, ale já bych to zase posunula ještě od toho individuálního k tomu společenskému, tohle by byl příliš velký nárok, kdybychom to kladli na ty jednotlivce samotné, jako zpracujte si to nějak teda sami.
+Nehysterizování toho tématu, tak to asi je ta role třeba i těch delších formátů, a myslím si, že jako třeba Český rozhlas Plus se tomuhle docela hodně věnuje a že se objevují často rozhovory, kde na větší ploše se dají ty problémy.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Vydělej dost peněz, zaplať si dost terapií.
+Mě v tomhle zajímá i třeba s ohledem na tu Českou televizi, jak funguje nebo tak, protože si nějak představuji, že teď veřejnoprávní média v tom asi mají ještě specifickou roli, ale i tak si myslím, že je potřeba prostě mluvit o něčem, co někoho zajímá, co někdo bude sledovat, jinak ten pořad se třeba asi neudrží. A tak, jak vy trošku naznačujete, co bývá čtené, co nebývá čtené, ale jak to vlastně, jak do médií dostávat právě třeba témata, která nejsou tak populární, nebo která opravdu jako vyžadují trošku víc vysvětlení, jako že kdyby měl být pořad o tom, jak funguje skleníkový efekt, tak to už se možná nedá tak úplně snadno navléknout na to, že zrovna teď není někde sníh nebo je sucho nebo zmrzlé meruňky, tak je tohle reálně bariéra, že prostě je potřeba, nevím, snažit se to něčím jako opepřit aktuálním vůbec? Bylo možné to třeba do toho prostoru dostat?
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="mikova" %}
 
-A pak teda přijď jako zpátky.
+Jestli můžu za Českou televizi, tak tady my samozřejmě máme některé pořady, které dávají větší prostor, a i když k některým dáváme podnět třeba i my z meteorologické redakce nebo redakce vědy, která se tomu věnuje zase spíš ve chvílích, kdy vyjde nějaká světová zpráva o klimatu a něco se hodnotí, tak přicházíme s náměty, že nějaké téma by stálo za to rozšířit, a třeba v Devadesátce nebo v Událostech, komentářích, ale tam je to vždycky už přece jenom kratší komentář, takže ta Devadesátka je asi pro nás optimální. Formát můžeme rozebrat nejenom tak, že dostanou slovo ti, kteří něco zažili a můžou to vyprávět, nebo prostřednictvím reportérů ukázat, ale dostáváme tam slovo i třeba my meteorologové, kdy můžeme některé ty věci vysvětlit, a ta Česká televize se snaží právě tyhle komplikovanější věci i s pomocí grafiky a nějaké popularizace, které se snažíme dosáhnout, už s tím máme určité zkušenosti, takže snažíme se je tam vysvětlit i s tím pozadím respondentů.
 
-{% include 2050/transcript-person.html id="holik" %}
+{% include 2050/transcript-person.html id="kaliba" %}
 
-Za náma a buď užitečnej.
+Kteří umějí jako velmi jednoduše, srozumitelně a ještě jako tam vypíchnout nějaké jako titulkové slovo, tak si myslím, že jsou potřeba jako sůl v tomhle tom jako komunikačně, byť rozumím tomu, že z pohledu experta se pak jako drbu všude možně a ošívám, že to není jako exaktně přesné, ale pokud vezmeme ten příklad toho skleníkového efektu, tak asi opravdu jako každý týden odvysílat pořad o skleníkovém efektu, to by asi jako nikdo úplně nesledoval, ale jak říkala Taťána, dostat to vlastně tam, kde je to jako důležitý kontext, tak to občas dostat do toho konkrétního příběhu, který zrovna vyprávím. Ono je to, když dělám 30 sekundovou zprávu zpráv na Radiožurnál. Tak jako je to složité, ale.
 
-{% include 2050/transcript-person.html id="vostova" %}
+Jako někdy je to tam vlastně i nezbytné, jo, a říct teda, že když se někde otvírá, zase v Americe, otvírají nové jako LNG terminály, tak tam tak zmínit, že prostě.
 
-Já myslím, že jsme v tom všichni nějak na stejné lodi a že to, co můžeme dělat, je posilovat nejenom na té individuální úrovni, ale na té společenské naše zdroje k tomu, abychom těmahle, tímto procesem mohli nějak dobře a zdravě procházet, a pak říkám procházet a ne projít, protože já to vnímám jako spirálu nebo cyklus, kdy se stále znovu a znovu dostáváme do kontaktu s tím, co je těžké a bolavé, a stále znovu a znovu je potřeba se nějakým způsobem zdrojovat a získávat možná nějaký jiný náhled, jiný postoj a hledat si svou vlastní jedinečnou cestu, nějakou, nějaké mé místo ve světě, v tom systému a v mém životě, kde já můžu dělat něco, co mi přijde smysluplné, ale to se nějak proměňuje, že?
+Podle vědců a podle zprávy IPCC, pokud chceme udržet klima pod oteplením do, řekněme, dvou stupňů, nemůžeme si dovolit otevírat novou fosilní infrastrukturu. A tím vlastně, když to dokážete jako do jedné věty nějak jako zformulovat a dodržíte tu stopáž, no, tak tam vlastně dostanete zprávu IPCC ještě nějakou dobu po jejím vydání. Ale kdybyste chtěli udělat pořad o zprávě IPCC, tak to každý vypne, že jo. Takže si myslím, že znát tu podstatu a umět ji použít v ten správný okamžik, je asi cesta, jak tyhle základy prostě předávat a upevňovat to i v nějakém mentálním otisku toho publika.
 
-Možná za nějakou dobu zase dospěji do bodu, kdy budu si možná potřebovat oplakat něco, co mě bolí, nebo se vyvztekat, ideálně za podpory lidí okolo mě a zase znovu. A to, že to je takový jako spirální cyklus, je moc hezké, o tom mluví Joanna Macy ve své knize Aktivní naděje a návrat do života, kde ono tam zmiňuje opravdu spirálu a nikdo z nás, ani já, když už jsem s tím tématem jako v kontaktu dlouho i odborně.
+{% include 2050/transcript-person.html id="vrtalova" %}
 
-To nemá podle mě tak, že bychom tím prošli nějak lineárně. A pak už jsme to měli vyřešené. A už jsme to vyřešili, už si to vyřešili, už nás nic nebolelo.
+Skleníkový jev je velké téma, masivní, a dovedu si představit, že se nedá dostat do krátkého formátu. Ale mě by vlastně zajímalo, jaká témata vy sami nejčastěji možná reportujete nebo o nich nejčastěji mluvíte, a možná už jich trochu máte plné zuby, protože o nich mluvíte dost často, a naopak teda si myslíte, že jsou podreportovaná. Chápu, že určitě je to často to větší téma, které se možná nevleze do toho menšího formátu, ale která témata? Klidně myslíte, že by mohla být reportovaná více, ale nejsou.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="mikova" %}
 
-Netrápilo, byli jsme s tím úplně v pohodě.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Bavili jsme se o tom, že dominantní emoce spojená s environmentální krizí v České republice je bezmoc. Co tedy s tím, jak nad tím přemýšlet i z toho pohledu, co si z toho vzít? Nejenom jak se toho zbavit.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Určitě.
-
-Já vnímám každou emoci jako nějakou zprávu, jako nějakého posla, který nám nese nějaké důležité poselství, a přijde mi dobré tomu, tomu poselství, naslouchat, jako když si dáme ruku na horká kamna, tak to sice bolí, ale je dobré tomu naslouchat, protože bychom se spálili, kdybychom to nebudeme poslouchat, tak. Stejně tak, pokud cítíme bezmoc.
-
-Možná je to zpráva o tom, že se potřebujeme spojit, o tom, že na tu změnu nestačíme sami, ale možná spojit jak vnitřně, sami se sebou, s tím, co teda, jak se máme v těle a co prožíváme, ale jako spojit na úrovni komunit a celé společnosti, abychom dosáhli třeba nějaké systémové změny, která bude mít zásadní dopad a stejně tak každá jiná emoce, která nám přichází v souvislosti s tím, co se děje v našem vnitřním prožívání, tak možná nějaké důležité poselství, smutek, žal třeba o tom, že je potřeba se zastavit a možná adaptovat na to, co se děje a možná i přehodnotit to, co se dělo doteď, nějak to zreflektovat, protože smutek nás vlastně brzdí v té horečnaté aktivitě, ke které jsme v naší společnosti tak jako vedeni a vychováváni, a vztek jako zase.
-
-Informuje o tom, že něco už nějak naráží na naše vlastní hranice, že je potřeba začít chránit, že je potřeba se začít chránit.
-
-Ono vlastně to, že prožívají nějaký emoce.
-
-V souvislosti se zániky v přírodě mluvili biologové už v šedesátých letech, když sledovali zánik jednotlivých ekosystémů.
-
-Vím, že třeba jedna vědkyně, teď si nevzpomenu její jméno, se rozplakala při svém rádiovém rozhovoru, když mluvila o tom, čeho je svědkyní. A tehdy jsme se k tomu stavěli jako společnost tak, že emoce jsou něco, co je potřeba od toho akademického uvažování oddělit, že to možná není důležité. Pojďme radši mluvit o těch faktech.
-
-A když už někdo čelil nějakým emocím, tak až do nedávné doby si myslím, že se dělo primárně to, že jsme mu tak trochu říkali: "Hele, tak běž někam na terapii nebo do lesa, tam si to jako vyřeš a pak se vrať zpátky, to je vlastně tvůj osobní problém."
+Tak já začnu tím prvním, čeho si asi obecně meteorologové u nás v televizi určitě všimli. A myslím, že i jinde mají plné zuby. To jsou extrémy, samozřejmě překonáváme nejvíc extrémů, těch, co jsou směrem nahoru, prostě překonaná maxima rostou, rostou do nebe, ale v důsledku toho, co už jsme tady trochu zmínili, protože máme velké výkyvy, tak máme i skutečně překonaná minimální extrémy, to znamená, ten rozkyv se nám zvětšuje a myslím, že meteorologové už by rádi mluvili o některých dalších věcech, ale bohužel se nám to vlastně v těch médiích trošičku scukává na to, že my musíme vysvětlovat to, co se děje, a ony se ty extrémní situace podepisují prostě na tom každodenním životě lidí, to znamená, že ty reportáže prostě o tom, co lidé žijí, jsou, je to v nich, a je na nás, abychom to znovu a znovu vysvětlovali, byť už asi musím říct, že spousta, spousta z nás by o tom radši nemluvila, ale to se nedá.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Oprav se, oprav se a pak se vrať do normální společnosti.
+Je jedenáctý nebo dvanáctý nejteplejší měsíc v historii měření.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="kaliba" %}
 
-Přesně tak.
+Už se to hraje jako noční můra i klimatických zpravodajů, protože co chcete jedenáctý měsíc za sebou udělat? O tom, že zase byl rekordní, a udělat to po jedenácté jinak, a ono vlastně není důležité, že ten jeden měsíc byl rekordní, ale asi děláme zase potom rozhovory s klimatology a ptáme se, nebo letní horka zase přijdou a zase budeme dělat ty samé rozhovory, takže vlastně být inovativní a trošku.
 
-Moc se mi líbí a moc přijde inspirativní v tomhle ohledu přístup některých domorodých kmenů třeba v Brazílii. Moc hezky o tom mluví i neurovědec (Eduard Schoenberg), který tam za těmi kmeny jezdí a nějak s nimi rozmlouvá a on si povšiml takového rozdílu, jak oni se vztahují k tomu, když někdo z jejich společenství prožívá nějaké trápení, ať už na fyzické nebo na duševní úrovni, oni to nikdy nepovažují jenom za záležitost toho jednotlivce, oni to vždy berou jako zprávu o celém společenství, protože příčiny toho utrpení zpravidla nějakým způsobem přesahují toho jednotlivce, takže oni se na to dívají víc systémově. My se možná v tomhle můžeme inspirovat.
-
-To, že tady teď máme tak ohromné množství lidí, kteří prožívají environmentální úzkost, nastraženost, cokoliv, tak vlastně je možná zpráva o tom, že my jako společnost se fakt potřebujeme zastavit a vzít to jako nějakou důležitou zprávu, že je něco potřeba začít dělat.
-
-To vědomí krize, které teď čelíme na náš život, může jako nějakým způsobem i obohatit, a dost často to zmiňují účastníci mých workshopů nebo nějakých kurzů, že právě to vědomí třeba změny klimatu nebo nějakých jiných aspektů environmentální krize jim taky nějakým způsobem, kromě toho, že to bolí, vlastně proměnilo život k lepšímu, že si třeba víc váží svých vztahů, které žijou tady a teď, které se vlastně netýkají nějak jako vzdálené budoucnosti, ale které už tady a teď máme k dispozici a jsou krásné, jsou bohaté.
-
-Že je nějakým způsobem jinak nakládají se svým časem, už je třeba nebaví jako nakupovat celé odpoledne někde v obchodáku, ale raději jdou ven do přírody, do lesa, který je teda taky velkým zdrojem, že už jsme u toho.
-
-Dost často se taky lidi posunou profesně v kontaktu s tímto tématem, rozhodnou se, že budou natáčet podcasty, vidět stejný a co jim dává smysl?
-
-My tomu říkáme posttraumatický růst, psychologická teorie.
-
-Je to způsob, jak nějakým způsobem vyrůst z toho těžkého a bolestného, posunout se někam dál, dát tomu hlubší význam, hlubší smysl té naší zkušenosti.
+Myslet si, jako myslet jinak v těch stále se opakujících situacích, tam si myslím, že je velké pole pro, jako specialisty, klimatické, klimatické novináře.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Zdeňka má zároveň vlastní psychoterapeutickou praxi, takže se přímo potkává s lidmi, kteří sami ty enviro temata nějak prožívají a mluvila o takových třech skupinách lidí, kteří k ní chodí. Ta první skupina je prý docela pestrá a jsou to často angažovaní lidé v tom tématu, jako jsou učitelé nebo ochranáři přírody, lidé z neziskových organizací nebo třeba umělci, kteří o přírodě píšou nebo točí.
+A teď úplně cítím, co zažíváte, když o tom oba mluvíte, že to je výzva reportovat o tom samém, aby to nebylo pořád to samé. A ještě to někoho zajímalo, že stále je tady změna klimatu a zase je kvůli ní vlna veder a zase máme změnu klimatu a kvůli ní veder.
 
-Druhou skupinou jsou lidé, kteří se pracovně v tom tématu neangažují, ale téma klimatu na ně emočně hodně doléhá.
+{% include 2050/transcript-person.html id="kaliba" %}
 
-{% include 2050/transcript-person.html id="vostova" %}
+Téma nemáte jako breaking news, ale vlastně je to breaking news, 365 dní jako v roce, ale mediální svět takhle nefunguje. To nemůžete dát poprvé každý den prostě už teďka vlastně po zbytek našich životů na první místo ve zprávách.
 
-Já jsem třeba paní, která za mnou přišla a kterou nějak hodně zasáhla po vědomí toho, co se děje ve chvíli, kdy na její vlastní chatě, kam jezdí, najednou přestala téct voda, protože prostě byla vyschlá studna a najednou ona prostě neměla vodu a v tu chvíli nebyla tím samozřejmě ohrožená, ona měla ještě svůj byt v Praze, všechno v pohodě, donesla si vodu v kanystru, ale najednou to vědomí, že by se taky mohla dostat do bodu, kdy nemáme prostě vodu, ji fakt jako vlastně ochromilo a ocitla se ve stadiu té environmentální úzkosti, která pro ni byla jako velmi těžko integrovatelná, potřebovala k tomu vnější pomoc.
+{% include 2050/transcript-person.html id="mikova" %}
 
-{% include 2050/transcript-person.html id="holik" %}
+Ale na druhou stranu já z České televize mám tu zkušenost, že lidé počasí sledují, to znamená, i nám se osvědčuje, když ta témata, která dáváme jednou za týden, třeba přímo do událostí, když se tam obměňují i nějaké aktualizované věci, nejenom čistá předpověď, ale i prostě vysvětlení některých věcí, zvlášť když se jedná o extrémy nebo o nějaké důsledky toho, co se dělo v nějakých měsících předtím, tak lidé u toho vydrží a vůbec neodcházejí jako diváci. To znamená, že na druhou stranu asi se nám daří je zaujmout a snad to není pořád to samé, ale měli bychom asi využít toho, že lidi to zajímá a vysvětlovat jim víc a víc. No.
 
-A třetí skupinou, se kterou Zdeňka pracuje, jsou mladí lidé z nastupující generace.
+{% include 2050/transcript-person.html id="kaliba" %}
 
-{% include 2050/transcript-person.html id="vostova" %}
+Taky, taky na to myslím kolikrát při našem.
 
-Americká vědkyně Britt Wray, která se tímto fenoménem environmentální úzkosti zabývá, na akademické půdě tak mluví o tom, že mladá generace často prožívá pocit takové institucionální zrady. To znamená, že my jsme se narodili do tohoto světa a dřív, než vůbec můžeme něco udělat, tak nás ty instituce, které měly za úkol nás vlastně chránit a vytvářet nám dobré podmínky pro naši budoucnost, aby jsme mohli prosperovat, rodit své děti a žít si své životy, tak nás vlastně zradily. Vy jste o tom věděli celé ty desítky let, co se děje, a nic jste s tím neudělali a pokračovali jste v tom a dále v tom pokračujete. A my už s tím teď nic dělat nemůžeme a myslím si, že to je jeden z důvodů, proč vlastně potom v těch výzkumech vychází, že právě na tu mladou generaci to doléhá ještě s větší intenzitou, protože ten pocit bezmoci je u nich ještě posílený.
+Našich relacích o počasí, že možná i od České televize se můžeme někdy v tomhle učit, ale vlastně tady si myslím, že je třeba jako výhoda proudového vysílání i třeba toho Radiožurnálu, kdy přesně tenhle efekt, že lidi to nevypnou a neodejdou, jo, když uděláte téma, které je navázané na nějakou aktuální věc z domácí politiky nebo ze sportu a uděláte to z té klimatické perspektivy, když je tam důležitá.
 
-Tímto aspektem, oproti třeba nynějším padesátníkům, šedesátníkům, kteří to nějakým způsobem celý život spoluvytvářeli, a teď to vůbec nemyslím tak, že bych chtěla někoho nějak zaviňovat, ale jsou přece jenom v trochu jiné pozici a u nich zase ale může potom právě ten pocit viny spouštět ty silnější obranné mechanismy, které to nějak jako popírají nebo vytěsňují, protože je to vlastně těžké čelit tomu faktu, že jako my jsme tohle spolu vytvořili, to není jednoduché psychologicky tohle unést.
+Tak když o tom uděláte dvouminutový příspěvek na Radiožurnál mezi písničkami do té hodiny, kde ale těch témat je víc a jsou tam dvoje zprávy a lidi prostě to poslouchají kontinuálně, no tak to nevypnou a vlastně to propichuje tu bublinu a dostane se to i k lidem, kteří klima jako i v roce 2024 míjí. Nezajímá je to nebo je to otravuje. Kdežto půlhodinový pořad si nezapnou nebo v novinách prostě tu stránku přeskočí, takže si myslím, že to je takové kouzlo.
 
-{% include 2050/transcript-person.html id="holik" %}
-
-Já si teď úplně jako si to představuju, fakt se na mě doléhá taková, jako, takové sevření, že… nebo jenom, když si představím, že jsem prostě, že mi je 60, tak si říkám, já jsem možná spoluvytvářel transformaci, která byla úspěšná, jako od totality k demokracii v Česku konkrétně, jo, si říkám, a to je...
-
-Takže mám vlastně, možná se nemusím cítit bezmocný, nebo jsem zažil v životě aspoň období, kdy jsme prostě něco dokázali, něco, někam jsme se posunuli, třeba jako společnost, nebo mám za sebou prostě, nevím, úspěšný byznys, kariéru, rodinu, jako že už vlastně stojím na zdrojích, které jsem si vybudoval během života. Samozřejmě jsou lidé, kteří to tak třeba nemají, to štěstí, a když si představím opravdu to jako, že se narodím do světa, který...
-
-Jak říkáš, no. Že já na něm nemám žádnou moc, protože mám povinnou školní docházku, musím poslouchat rodiče, nemám volební právo a zároveň mám velice pestrý přístup k internetu a k informacím, které mi říkají, jak tenhle svět je rozbitej, máme envirokrizi, jako je jedna z nich z těch krizí, se kterýma se můžu potýkat.
-
-To je hrozná situace, že. To je fakt hrozný, nezávidím to, mám velký soucit s touhle generací. Já jsem se nějak hlouběji se změnou klimatu setkal během svých vysokoškolských studií, a to spíš z té akademické roviny, která je velmi odpojená od prožívání, takového, tady se dějou tyto trendy, tady stoupají teploty, OK, a pak nějak víc emočně nebo komplexněji až s prací pro Fakta a klimatu. A mně je teď přes 30, takže to, že už to je také v dospělém životě a potkalo mě to spíš jako kariérní volbu, jako že jo, já se rozhoduji teď dělat něco tímto směrem, takže vlastně jako zmocňující element.
-
-Představa, že tohle to potkám, když mi je 13.
-
-Když s tím fakt nemůžu nic dělat, protože to, co se ode mě očekává ve společnosti, je učit se na test, nevím, z dějepisu. Au, to bolí.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-No jo, je to tak, já jsem třeba dělala workshop na pedagogické fakultě pro budoucí učitele, protože,
-
-I oni se budou často potkávat s tím, že to bude na ty děti doléhat. Budou o tom učit, a jedna z těch studentek, když jsem se ptala, co vlastně prožívají, tak říkala: "Já už vlastně ani neprožívám nic."
-
-My jako naše generace čelíme tolika krizím na tolika různých úrovních, a zdaleka nejenom té environmentální, ale krizi bydlení, krizi toho, že tady je jako válka, tady prostě rostou nerovnosti, a je toho vlastně jako tolik věcí, co bychom vlastně mohli jako řešit, ale vlastně nemáme jak řešit, že si už ani jako nemůžu dovolit být s tím v kontaktu, protože by to bylo příliš. Tak to je ten jeden přístup, a potom ten druhý přístup, ono to není jako vědomá volba často, ale to, co se potom děje, často taky jako na té druhé straně těch dvou polarity, že to na ty lidi doléhá tolik, že si tím fakt nechají zaplavit, a možná ani nemají jako na výběr, ale prostě nemají dost jako podpory, zdrojů, aby to nějak dobře integrovali.
-
-Je podstatné nás směřovat zpátky k nějakému biocentrálnímu postoji, kdy se vztahujeme k přírodě nebo obecně k většímu celku, ve kterém žijeme. Jako k něčemu, jehož jsme součástí, co nás přesahuje, kde čerpáme z prvků vzájemné souzvětlosti, kdy ani jenom nebereme, ani nedáváme, ale je to taková vzájemná výměna.
-
-A přijde mi moc užitečný taky přitom respektovat princip nějaké pulsace, kdy já jdu jakoby ven do té akce, směrem ven, do toho světa, kdy jdu do kontaktu s tím, co je pro mě zrovna důležité, a zároveň potom zpátky dovnitř, zpátky k sobě, zpátky ke svým zdrojům, zpátky k tomu, co vlastně prožívám a co potřebuji. Někdy v gestalt terapii tomu říkáme fáze plodné prázdnoty, právě v té plodné prázdnotě, kdy já se stáhnu z toho kontaktu, se může zjevit to, co je skutečně podstatné, kdežto když.
-
-Jsme aktivističtí natolik, že si nedovolíme to spočinutí, to stáhnutí se, a jdeme stále znovu a znovu a znovu do další akce, tak to paradoxně někdy může vyústit v to, že ty akce nejsou jako užitečné, protože my v tom. Jednak to vyčerpává nás, my se nedosycujeme zpátky, neregenerujeme, ale zároveň tím, jak to jako někdy potom už ani nevychází z té naší skutečné jako dobré podstaty, z toho nějakého dobrého místa, z našeho dobrého středu, tak tu environmentální práci můžeme dělat způsobem, který je třeba i kontraproduktivní a který vyvolává právě ve společnosti třeba odpor.
-
-Ještě k tomu dodám jeden aspekt, týkající se záchranářské pozice. Možná jsi někdy slyšel o takovém psychologickém trojúhelníku – oběť, zachránce. Myslím, že lidé, kteří se snaží něco změnit nebo pozitivně ovlivnit, někdy můžou malinko naskakovat na tu pozici zachránce, někdy míň a někdy víc ve smyslu: "Já tady teď prožívám nějaký pocit vlastní moci tím, že něco spravím k lepšímu." Ale jde o to, že pokud je to dělané v té trochu extrémnější podobě, tak to právě není užitečné, protože to nevytváří tu dobrou, když to tak řeknu, regenerativní kulturu v tom smyslu, že každý z nás má nějakou moc a každý z nás možná taky moc nemá, každý z nás má na něco vliv a na něco už narážíme na nějaké své limity, ale jsme v tom nějak spolu a není až tak důležité, jestli jsem to právě já, ten, kdo to zachrání a ten, kdo to všechno spraví.
-
-V tomhle ohledu mi přijde moc užitečné, abychom se mohli jako dobře zpátky vrátit k sobě, zazdrojovat se a uvědomit si ty vlastní jako hlubší motivace a tendence, jestli taky nepřeskakujeme nějaké fáze toho možná uvědomění, když to vezmu z pohledu gestalt teorie, jestli vím, co dělám a proč to vlastně dělám, co přitom cítím, jestli mám dostatek prostoru pro svoje potřeby, nebo si jenom neplním jakoby nějaké introjekty ve smyslu, co bych měl dělat, co se ode mě očekává, abych něco, abych si třeba dokázal, že tady mám nějaké dobré své místo na tom světě, nebo že mám taky nějakou hodnotu. Ta realita je taková, že každý z nás má nějakou hodnotu nezávisle na tom, co zrovna děláme nebo neděláme, a každý z nás tady máme nějaké svoje místo.
-
-A mým cílem je vytvářet takovou společnost, kde každý z nás nějak může být viděn, slyšen, přijímán právě s těmi našimi jedinečnými dary, o kterých jsme mluvili.
-
-Abychom to potom nemuseli takhle snažit urvat skrze nějakou akci, která je možná už příliš.
+Jako proudového rozhlasového vysílání v tomhle tom.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Mám asi poslední otázku, a to je velmi praktická. Ty jsi během toho našeho rozhovoru zmiňovala několik knih, tak jestli bys mohla doporučit třeba.
+Co tedy na té druhé straně té mince, nebo když otočíme stránku, na to, čeho byste vlastně rádi viděli víc v médiích, a je to třeba těžké tam dostat, nebo možná nevíte, jak to udělat, aby to někdo poslouchal, aby to bylo sledovatelné, když říkáte, jako extrému bylo dost.
 
-Tři knížky, čtyři, které máš fakt ráda, které se vážou k tomu tématu, o kterém jsme se tady dneska bavili.
+{% include 2050/transcript-person.html id="mikova" %}
 
-{% include 2050/transcript-person.html id="vostova" %}
+No, vlastně to pozadí by se mohlo objevovat u velké spousty reportáží, ale my asi taky nemáme u nás v redakci šanci, abychom vlastně všechno, co tou redakcí prochází a co se vysílá, abychom ke všemu mohli dodat ten svůj dodatek, který bychom rádi, a není to jenom časovým hlediskem. Oni někdy by třeba kolegové z redakcí z krajů byli rádi, kdybychom jim tam nějaký doplněk dali, ale ne vždycky se to dá stihnout jaksi v tom kontextu toho, že musíte připravit všechno vysílání, které se připravuje pravidelně, a ještě byste rádi něco udělali navíc, co vlastně. Ne pokaždé se prostě dá stihnout.
 
-Určitě. Co se týče knih, které byly přeložené do češtiny, tak já mám moc ráda pracuji s principy ekofilozofky, kterou jsem tady už zmínila - Joanny Macy.
+{% include 2050/transcript-person.html id="kaliba" %}
 
-Zejména tedy dvě její knížky, Aktivní naděje a Návrat do života, které tedy ona ještě vydala spolu s dalšími autory, abych je tady neopomenula, tak.
+Tam jako smířit. Vlastně ten biorytmus toho zpravodajského a vědeckého života je trošku náročný, protože snad nejrychlejší atribuční studii, co jsem zaznamenal, byla za čtyři dny, to byla teda jako extrémní rychlost z toho vědeckého hlediska, ale z hlediska zpravodajství ještě se to týkalo nějaké zahraniční země, tak kdybych tady přišel za editory po čtyřech dnech, ale už vím už jako, jestli to bylo nebo nebylo, nakolik to bylo tou změnou klimatu, tak za čtyři dny u zahraničního tématu už to, a to se to týkalo, myslím, New Yorku, nějakého hurikánu v New Yorku, který tam spustil záplavy, ale stejně prostě už je to, dá se to zmínit někde, když je pak příležitost, že jo, jako třeba v následujícím jako období, jestli vzpomenete, že se vám to jako hodí, když o tom vysíláte, ale jako že by to byla zpráva, to samozřejmě není, ale pro tu vědeckou komunitu to bylo vlastně jako wow, čtyři dny, jako níž už se možná jako nedostaneme, ale když mám dát jako konkrétní příklad, tak třeba když byly ty hrozné záplavy v Derně v Libyi.
 
-Ty jsou pro mou práci nějak jako zásadní. A jsou velmi obohacující a moc vám je i doporučuji. Aktivní naděje všeobecně na tom fenoménu environmentálního žalu. A jak s tím pracovat? Návrat do života už je víc takový metodologický vysloveně pro facilitátory. Obsahuje řadu konkrétních cvičení, jak třeba provázet skupiny. No a potom v angličtině velmi sleduju a doporučuji autorku Britt Wray.
+Minulý rok byly zpracované nějaké atribuční studie. Samozřejmě už bylo pozdě. Tady jsem to ani nenabízel, ale teď, když byly ty deště a záplavy v Dubaji, tak jsem o tom dělal příspěvek, kde jsem samozřejmě nemohl říct u tohoto příkladu, ale aspoň jsem na tom pozadí vysvětlil, jak vlastně ty atribuční studie fungují, jaký je obecný princip u těchto jevů, co klimatická věda říká, a pak jsem se vrátil vlastně k té Libyi a řekl jsem, že atribuční studie následně ukázala, že loni, jak si vzpomenete, když bylo těch 5000 mrtvých v Libyi, tak se ukázalo podle atribuční studie, že změna klimatu to zesílila.
 
-Která zkoumá tento fenomén na akademické půdě, vydala o tom knížku Generation Dread.
+Nebo zpravděpodobnila o tolik a o tolik, takže se s tím dá jako různě pracovat, provazovat, vracet se k tomu.
 
-A také natočila řadu podcastů a vydává pravidelný měsíční newsletter.
+Aby to jako v tom veřejném prostoru zaznívalo a byli jsme si jistí, protože samozřejmě naopak, když to budeme jako akcentovat i tam, kde se ukáže, že pak ta souvislost není, tak je to jenom kontraproduktivní a je to samozřejmě chyba. Jako klimatická žurnalistika musí vycházet z faktů a důvěryhodnost je velmi jako křehká věc. A na této musí být postavené, byť samozřejmě, a to je vlastně jako taky v tom mediálním prostředí trošku problém, že pracuje trošku s tou futurologií, jak to tady Taťána naznačovala, že máme jako pravděpodobnostně víme, kam směřujeme, ale prostě neumíme to úplně přesně a hlavně jakoby v konkrétních lokalitách jako předpovídat, takže zároveň musíme s tím pracovat. Novinařina většinou doteď popisovala věci, co se staly nebo právě dějí a teďka pracuje i s těmito předpověďmi klimatologů a je to vlastně zásadní, protože kdybychom to ignorovali, tak vlastně.
 
-Velmi se mi líbí, jak ona to zkoumá skutečně s takovou jakousi akademickou analytičností, ale zároveň do toho se nebojí vložit i své vlastní osobní prožitky, protože ona má za to, že právě je načase, abychom i v té akademické sféře vědecké se nebáli být trochu osobnější a zranitelnější a neoddělovali tak ten rozum od těch emocí, což je jeden z příčin environmentální krize možná.
+Se změnou klimatu nic neděláme, protože si řekneme: „Okay, nemůžeme si troufnout předpovídat budoucnost.“
 
-No a potom ještě na takové víc jako spirituální rovině mě velmi oslovila knížka Když ztrácíme půdu pod nohama od Pemy Chödrön, což je buddhistická autorka, která píše o tom, jak dobře být s nejistotou, jak proměnit tyhle své jako prožitky a stavět do něčeho možná krásnějšího, bohatšího.
+Ale my se prostě musíme vztahovat k budoucnosti a kam míříme, ale zároveň s tím nakládat velmi opatrně, takže tohle je prostě jako strašně i pro tu novinářskou obec tenký led a komplikovaná, komplikovaná věc.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Díky moc za tyhle doporučení, díky moc za celý rozhovor a vůbec za přivítání mě tady u tebe doma k natáčení. Jsem moc rád, že jsme si takhle mohli popovídat. Díky moc a měj se krásně.
+Já se vás asi chci zeptat na poslední otázku, nebo tak jako pomalu přistáváte i s tím rozhovorem. A to, jestli vy dva máte teď nějaké konkrétní plány, to, co byste třeba chtěli zpracovat, jestli chystáte nějaký nový příspěvek nebo nějaké téma, které vás táhne, na které se chystáte, nebudu se ptát na to, jak se připravujete na letní vlny veder.
 
-{% include 2050/transcript-person.html id="vostova" %}
+Ale něco takového, jaké jsou vaše plány do budoucna.
 
-Ahoj, díky, Petře, za pozvání, díky za to, že děláte tenhle podcast.
+{% include 2050/transcript-person.html id="kaliba" %}
+
+Tak zrovna u těch letních vln veder, tam je to třeba zajímavé.
+
+Olympijské hry v Paříži, tam prostě je hrozba toho, že to na ně dopadne, a jsem jako fakt zvědav. A třeba i porovnání českých a zahraničních médií, jak budou ti, co pokrývají olympijské hry na místě, na tohle připravení a kdo tam bude umět ten kontext dát? A.
+
+To si myslím, že je jako relevantní téma, na které se člověk může připravit a na pozadí těch olympijských her taky ledacos, ledacos odvyprávět. Teď nevím, kdy se vysílá přesně podcast, ale jsou evropské volby a téma zelené dohody nám tady jako rezonuje. A jak říká Jan Krejník, tak se u nás o něm buď křičí, nebo mlčí, takže jsem si vymyslel takový projekt, kdy chci vlastně znovu vysvětlit, jako, proč ten dokument vznikl a co v něm vlastně je, protože to povědomí není úplně jako silné a je deformované jako těmi politickými výkřiky, takže ho znovu vysvětlit přes dva ikonické české motivy, přes auto a pivo.
+
+Takže vlastně trošku jít na to obráceně. Ne, tohle je Green Deal a je v něm to, a to, tohle je pivo, tohle je auto a na tomhle produktu a kulturním symbolu a toho prostředí kolem něj se to projevuje. Na něm se zelená dohoda projevuje tak a tak, takže asi tohle, no.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Díky.
+
+{% include 2050/transcript-person.html id="mikova" %}
+
+Tak my bychom rádi v České televizi samozřejmě na tu tradici toho, že představujeme změnu klimatu a toho, co za ní vidět, pokračovali. Musím říct, že léto je tradičně u nás období, kdy počasí prostě dostává velké slovo, ono nás v létě bude hodně zajímat, co se vlastně změní, až opravdu dozní tohle aktuální El Niňo. Jestli to bude mít na ty globální údaje, které pak budeme o světě dostávat, nějaký vliv a jak případně, jestli vůbec, nám ty teploty budou klesat, alespoň jeho odeznění, jestli skutečně budeme moci říct: "Ano, těch 12 nebo možná to bude dokonce nakonec 15 měsíců, kdy bylo opravdu nejtepleji v historii, končí a teď se přece jenom dostaneme zase někam níž," anebo jestli se posun neposuneme a možná, že těch 12–15 měsíců bude sice nejteplejších, ale budeme se třeba pohybovat těsně pod nimi a vydržíme tam zase dlouho.
+
+Takže to jsou pro nás otázky, které nás čekají teď a budeme se snažit o nich samozřejmě divákům vyprávět. Já bych možná zmínila i třeba Českou meteorologickou společnost, která se čím dál víc snaží v těchto věcech angažovat a třeba v nějakých i populárních cyklech, třeba jako bylo České počasí, naši odborníci vykládají o tom, jak oni vidí některé pohledy toho, co nás v každodenním životě potkává, když se to proloží takovými zajímavými pokusy, jak lidé třeba v sauně vnímají horko a následně v kryogenní komoře zimu, tak ono to lidem vytvoří takové prostředí a vjemy, které jim dovolí, že si vlastně to, co jim ten odborník sděluje, možná lépe představit nebo zapamatovat.
+
+{% include 2050/transcript-person.html id="vrtalova" %}
+
+Tak jo. My moc děkujeme za rozhovor.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Děkuji, že jste přijali pozvání. A myslím si, že moc rádi. Určitě. Pokud do podcastu vydržíme a vy vydržíte ve vašich pracích, tak si myslím, že by to bylo zajímavé. Vzhledem k tomu, jak tady doba je teď dynamická, tak se třeba někdy ozvat, zeptat se po dvou letech tak, jak se teď změnila situace, co se týká reportování klimatické změny, kde jsou ty posuny, protože třeba za poslední dva roky, za posledních pět let i v tom českém prostoru ty změny byly velké. Takže moc děkujeme ještě jednou, že jste přijali pozvání.
+
+{% include 2050/transcript-person.html id="mikova" %}
+
+Bylo to příjemné povídání, tak jestli se někdy potkáme, budeme rádi.
+
+{% include 2050/transcript-person.html id="kaliba" %}
+
+Děkujeme za něj, za to pozvání a teď se vám daří.
 
 {% include 2050/transcript-end.html %}
