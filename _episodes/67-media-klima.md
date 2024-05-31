@@ -4,7 +4,7 @@ title:      "Jak média reportují o klimatu a dekarbonizaci?"
 number:     67
 slug:       "67-media-klima"
 redirect_from: "/epizody/67"
-published:  2024-05-15
+published:  2024-05-31
 summary:    |
     Taťána Míková a Jan Kaliba se řadí mezi mediální osobnosti, které se reportováním o klimatu a dekarbonizaci v Česku zabývají. Z naší společné diskuze se dozvíte, jak se mediální obraz klimatické změny v průběhu času vyvíjel a s jakými překážkami se muselo toto téma vypořádat, aby se mu ‚ve zprávách’ začalo postupně dostávat více prostoru. 
 audioboom:  "8512888"
