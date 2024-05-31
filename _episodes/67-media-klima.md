@@ -6,7 +6,7 @@ slug:       "67-media-klima"
 redirect_from: "/epizody/67"
 published:  2024-05-31
 summary:    |
-    Taťána Míková a Jan Kaliba se řadí mezi mediální osobnosti, které se reportováním o klimatu a dekarbonizaci v Česku zabývají. Z naší společné diskuze se dozvíte, jak se mediální obraz klimatické změny v průběhu času vyvíjel a s jakými překážkami se muselo toto téma vypořádat, aby se mu ‚ve zprávách’ začalo postupně dostávat více prostoru. 
+    Taťána Míková a Jan Kaliba se řadí mezi mediální osobnosti, které se reportováním o klimatu a dekarbonizaci v Česku zabývají. Z naší společné diskuze se dozvíte, jak se mediální obraz klimatické změny v průběhu času vyvíjel a s jakými překážkami se muselo toto téma vypořádat, aby se mu 've zprávách' začalo postupně dostávat více prostoru. 
 audioboom:  "8512888"
 guests:     [ mikova, kaliba ]
 tags:       [ spolecnost ]
@@ -14,7 +14,7 @@ transcript: true
 ---
 Diskutujeme nad možnostmi, jak téma klimatu efektivně dostat do médií. Uvažujeme především nad jeho provázaností s jinými náměty či nad omezeními, která brání odborníkům reagovat na otázky klimatu tak, jak si média žádají – tedy rychle a bezprostředně. 
 
-Také probereme zda se zdají jako vhodnější třicetiminutové vzdělávací pořady, nebo spíš jedna věta, vhodně umístěná do rozhovoru, který se tématem klimatu přímo nezabývá. V neposlední řadě se dozvíte, jak se k těmto věcem staví některé mediální instituce a proč na Harvardu nedávno vyšel článek s názvem ‚V dnešní době je každý z novinářů klimatickým novinářem’.
+Také probereme zda se zdají jako vhodnější třicetiminutové vzdělávací pořady, nebo spíš jedna věta, vhodně umístěná do rozhovoru, který se tématem klimatu přímo nezabývá. V neposlední řadě se dozvíte, jak se k těmto věcem staví některé mediální instituce a proč na Harvardu nedávno vyšel článek s názvem 'V dnešní době je každý z novinářů klimatickým novinářem'.
 
 {% include 2050/guest-list.html %}
 
