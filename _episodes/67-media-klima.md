@@ -25,7 +25,7 @@ Také probereme zda se zdají jako vhodnější třicetiminutové vzdělávací 
 <div class="bonus-material" markdown="1">
 
 {% include 2050/bonus-interview.html
-  title="Jak se cítíš, když se řekne ‚klima’? Environmentální distres jako fenomén nejen mezi mladými"
+  title="Jak média reportují o klimatu a dekarbonizaci?"
   audioboom="8512853"
   spotify="1pwKgHGBUI2NPk44e4pRq4"
   caption="Originální nesestříhaný rozhovor jako bonus k 67. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o komunikaci klimatické změny v médiích."
@@ -91,6 +91,8 @@ Já jsem Jan Kaliba, klimatický zpravodaj Českého rozhlasu, to je pozice, kte
 
 Asi úplně na takový jako odstartování. My jsme vás poprosili, kdybyste se mohli trošku představit a teď, jak jste se k tomu vlastně dostali a jak to téma změny klimatu žije ve vašem profesním životě? Možná i osobním? Jestli můžete trochu nás pozvat do toho vašeho světa.
 
+### Představení
+{% include 2050/transcript-time.html time="02:43" %}
 {% include 2050/transcript-person.html id="mikova" %}
 
 Tak asi začnu. Tak vlastně moje profese byla úplně původně klimatologie. Já jsem vystudovala matematiku, fyziku a potom tedy specializaci meteorologie a klimatologie a vlastně to moje první umístění v Českém hydrometeorologickém ústavu bylo právě v oddělení klimatologie, takže jsem klimatologií začínala v době, kdy když jsme se zeptali našich učitelů, co si vlastně myslí o možnosti, že se klima mění v důsledku toho, že lidé opravdu vypouštějí do ovzduší spalováním fosilních paliv hodně skleníkových plynů.
@@ -115,6 +117,8 @@ Abychom změnu klimatu jednak drželi v tom vysílání, ale způsobem, který b
 
 Vy už jste na to trochu narazil, ale mě by zajímalo, jak se z vašeho pohledu z dvou různých pohledů vlastně vyvíjí to reportování o klimatu, protože už máte nějaký pohled, ať už ze zahraničí nebo i dlouhodobější, tedy v Česku, tak jak to vlastně vypadá a co se mění.
 
+### Vývoj reportování o klimatu
+{% include 2050/transcript-time.html time="09:39" %}
 {% include 2050/transcript-person.html id="mikova" %}
 
 Tak kolega už do jisté míry některé věci z toho naznačil. Já bych to možná shrnula trochu z dlouhodobějšího pohledu, protože si vzpomínám, když jsem v těch devadesátých letech přišla do České televize, tak když jsme mluvili o změně klimatu, tak to bylo, tuším, mezi rokem 94 a 2000 jednou jedinkrát, když jsem dostala za úkol udělat krátkou zprávičku do událostí, jak je to vlastně se změnou klimatu a co si o ní kdo myslí a co ti klimatologové vlastně vyzkoumali? A musím říct, že když si uvědomím, jak jsem tehdy vlastně mluvila o věcech, které dneska dokážeme vyjádřit úplně běžnými slovy, jak vnímají věci lidé, které potkáme na ulici, tak to bylo strašně šroubované a strašně komplikované.
@@ -149,9 +153,11 @@ A často říkám, a mi to odpusťte jako autoři podcastu, ale že kolikrát je
 
 S tím, jestli můžu teda určitě souhlasila. Doba se hodně vyvíjí, to znamená, že ta informovanost obecně je trochu lepší než bývala, ale lidé dnes jsou přesně zvyklí žít těmi příběhy a rádi mají, když se jim prostě vlastně všechno, co vidí kolem sebe, přes ty příběhy sděluje, lépe si to zapamatují a myslím, že právě v dnešní době tu změnu klimatu těmi příběhy mnohem lépe poznávají, ovšem kdy přijde ta generace, která už s těmihle věcmi bude přicházet, to bude ještě asi chviličku trvat.
 
+### Posun v mediálním pokrytí
+{% include 2050/transcript-time.html time="15:23" %}
 {% include 2050/transcript-person.html id="holik" %}
 
-Já jsem se chtěl zeptat, protože jak to popisujete tu historii, tak to tam fakt zní jako velký posun od toho. Opatrně jsme si možná odvážili jednou někde to jako zmínit, a teď nedávno jsme se koukali na nějaký pořad, jako v České televizi, snad 20:5 minut jako věnovaných přímo změnám klimatu. Vlastně dost do hloubky. I jako já, člověk, který je do toho hodně ponořený, tak jsem si říkal, tohle je dobré, jako to je, to je jako poctivě tomu věnovaný čas, poctivě odpracovaná jako novinářská práce. Tak dokážete pojmenovat možná nejenom kdy, ale jako jak se tohle začlo měnit, že najednou i v médiích cítím teď jako mnohem větší, řekněme, jako odvahu nebo prostor. Máme tady pozici klimatického reportéra a podobně. Tak co byly ty prvky, které to jako změnily, že teď už vlastně to je téma, o kterém se dá mluvit, o kterém se mluví, kterému se věnuje jako mnohem větší čas.
+Já jsem se chtěl zeptat, protože jak to popisujete tu historii, tak to tam fakt zní jako velký posun od toho. Opatrně jsme si možná odvážili jednou někde to jako zmínit, a teď nedávno jsme se koukali na nějaký pořad, jako v České televizi, snad 25 minut jako věnovaných přímo změnám klimatu. Vlastně dost do hloubky. I jako já, člověk, který je do toho hodně ponořený, tak jsem si říkal, tohle je dobré, jako to je, to je jako poctivě tomu věnovaný čas, poctivě odpracovaná jako novinářská práce. Tak dokážete pojmenovat možná nejenom kdy, ale jako jak se tohle začlo měnit, že najednou i v médiích cítím teď jako mnohem větší, řekněme, jako odvahu nebo prostor. Máme tady pozici klimatického reportéra a podobně. Tak co byly ty prvky, které to jako změnily, že teď už vlastně to je téma, o kterém se dá mluvit, o kterém se mluví, kterému se věnuje jako mnohem větší čas.
 
 {% include 2050/transcript-person.html id="kaliba" %}
 
@@ -159,11 +165,7 @@ Získalo to i jakousi, řekněme, relevance tím, že to vidíme fakt všude kol
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Text obsahuje několik nejasností a nedostatků, ale bez dalšího kontextu a přesného záměru autora je obtížné text opravit. Nicméně pokusím se o nápravu tak, aby věta měla smysl:
-
-"Teď je jakoby sucho, kůrovec, není sníh na horách. Všechny tyhle." 
-
-Tento text je stále poněkud neúplný a vyžaduje dodatečné informace pro plnou gramatickou korekci.
+Teď je jakoby sucho, kůrovec, není sníh na horách. Všechny tyhle...
 
 {% include 2050/transcript-person.html id="kaliba" %}
 
@@ -191,6 +193,8 @@ Mě by také zajímalo, jak to vlastně vypadá v českých mediálních domech.
 
 Jsou to, řekla bych, za Českou televizi určitě hlavně editoři, kteří ovlivňují, jak často a v kterých pořadech se právě tahle témata budou objevovat.
 
+### Klimatický zpravodaj
+{% include 2050/transcript-time.html time="19:29" %}
 {% include 2050/transcript-person.html id="kaliba" %}
 
 Myšlenka klimatického zpravodaje byla ta, abychom to dokázali držet v těch krátkých formátech, což samozřejmě zvláště u toho klimatu, když se začne člověk jako jde natáčet s klimatologem nebo s ovocnářem, většinou má materiálu na dokument. Jo, ale, ale já jsem říkal jako pro nás důležité držet to v tom radiožurnálovém, dvouminutovém prostě zpravodajství, aby tam to klima prostě bylo, takže já se snažím napojovat se vlastně na život těch agend těch redakcí, spolupracovat s lidmi v těch redakcích, zkoumat, jako jaké téma vlastně, jo, co schvaluje Evropská unie.
@@ -219,22 +223,24 @@ Nehysterizování toho tématu, tak to asi je ta role třeba i těch delších f
 
 Mě v tomhle zajímá i třeba s ohledem na tu Českou televizi, jak funguje nebo tak, protože si nějak představuji, že teď veřejnoprávní média v tom asi mají ještě specifickou roli, ale i tak si myslím, že je potřeba prostě mluvit o něčem, co někoho zajímá, co někdo bude sledovat, jinak ten pořad se třeba asi neudrží. A tak, jak vy trošku naznačujete, co bývá čtené, co nebývá čtené, ale jak to vlastně, jak do médií dostávat právě třeba témata, která nejsou tak populární, nebo která opravdu jako vyžadují trošku víc vysvětlení, jako že kdyby měl být pořad o tom, jak funguje skleníkový efekt, tak to už se možná nedá tak úplně snadno navléknout na to, že zrovna teď není někde sníh nebo je sucho nebo zmrzlé meruňky, tak je tohle reálně bariéra, že prostě je potřeba, nevím, snažit se to něčím jako opepřit aktuálním vůbec? Bylo možné to třeba do toho prostoru dostat?
 
+### Jak to funguje v ČT
+{% include 2050/transcript-time.html time="25:55" %}
 {% include 2050/transcript-person.html id="mikova" %}
 
-Jestli můžu za Českou televizi, tak tady my samozřejmě máme některé pořady, které dávají větší prostor, a i když k některým dáváme podnět třeba i my z meteorologické redakce nebo redakce vědy, která se tomu věnuje zase spíš ve chvílích, kdy vyjde nějaká světová zpráva o klimatu a něco se hodnotí, tak přicházíme s náměty, že nějaké téma by stálo za to rozšířit, a třeba v Devadesátce nebo v Událostech, komentářích, ale tam je to vždycky už přece jenom kratší komentář, takže ta Devadesátka je asi pro nás optimální. Formát můžeme rozebrat nejenom tak, že dostanou slovo ti, kteří něco zažili a můžou to vyprávět, nebo prostřednictvím reportérů ukázat, ale dostáváme tam slovo i třeba my meteorologové, kdy můžeme některé ty věci vysvětlit, a ta Česká televize se snaží právě tyhle komplikovanější věci i s pomocí grafiky a nějaké popularizace, které se snažíme dosáhnout, už s tím máme určité zkušenosti, takže snažíme se je tam vysvětlit i s tím pozadím respondentů.
+Jestli můžu za Českou televizi, tak tady my samozřejmě máme některé pořady, které dávají větší prostor, a i když k některým dáváme podnět třeba i my z meteorologické redakce nebo redakce vědy, která se tomu věnuje zase spíš ve chvílích, kdy vyjde nějaká světová zpráva o klimatu a něco se hodnotí, tak přicházíme s náměty, že nějaké téma by stálo za to rozšířit, a třeba v Devadesátce nebo v Událostech, komentářích, ale tam je to vždycky už přece jenom kratší komentář, takže ta Devadesátka je asi pro nás optimální formát. Můžeme rozebrat nejenom tak, že dostanou slovo ti, kteří něco zažili a můžou to vyprávět, nebo prostřednictvím reportérů ukázat, ale dostáváme tam slovo i třeba my meteorologové, kdy můžeme některé ty věci vysvětlit, a ta Česká televize se snaží právě tyhle komplikovanější věci i s pomocí grafiky a nějaké popularizace, které se snažíme dosáhnout, už s tím máme určité zkušenosti, takže snažíme se je tam vysvětlit i s tím pozadím respondentů.
 
 {% include 2050/transcript-person.html id="kaliba" %}
 
 Kteří umějí jako velmi jednoduše, srozumitelně a ještě jako tam vypíchnout nějaké jako titulkové slovo, tak si myslím, že jsou potřeba jako sůl v tomhle tom jako komunikačně, byť rozumím tomu, že z pohledu experta se pak jako drbu všude možně a ošívám, že to není jako exaktně přesné, ale pokud vezmeme ten příklad toho skleníkového efektu, tak asi opravdu jako každý týden odvysílat pořad o skleníkovém efektu, to by asi jako nikdo úplně nesledoval, ale jak říkala Taťána, dostat to vlastně tam, kde je to jako důležitý kontext, tak to občas dostat do toho konkrétního příběhu, který zrovna vyprávím. Ono je to, když dělám 30 sekundovou zprávu zpráv na Radiožurnál. Tak jako je to složité, ale.
 
-Jako někdy je to tam vlastně i nezbytné, jo, a říct teda, že když se někde otvírá, zase v Americe, otvírají nové jako LNG terminály, tak tam tak zmínit, že prostě.
-
-Podle vědců a podle zprávy IPCC, pokud chceme udržet klima pod oteplením do, řekněme, dvou stupňů, nemůžeme si dovolit otevírat novou fosilní infrastrukturu. A tím vlastně, když to dokážete jako do jedné věty nějak jako zformulovat a dodržíte tu stopáž, no, tak tam vlastně dostanete zprávu IPCC ještě nějakou dobu po jejím vydání. Ale kdybyste chtěli udělat pořad o zprávě IPCC, tak to každý vypne, že jo. Takže si myslím, že znát tu podstatu a umět ji použít v ten správný okamžik, je asi cesta, jak tyhle základy prostě předávat a upevňovat to i v nějakém mentálním otisku toho publika.
+Jako někdy je to tam vlastně i nezbytné, jo, a říct teda, že když se někde otvírá, zase v Americe, otvírají nové jako LNG terminály, tak tam tak zmínit, že prostě podle vědců a podle zprávy IPCC, pokud chceme udržet klima pod oteplením do, řekněme, dvou stupňů, nemůžeme si dovolit otevírat novou fosilní infrastrukturu. A tím vlastně, když to dokážete jako do jedné věty nějak jako zformulovat a dodržíte tu stopáž, no, tak tam vlastně dostanete zprávu IPCC ještě nějakou dobu po jejím vydání. Ale kdybyste chtěli udělat pořad o zprávě IPCC, tak to každý vypne, že jo. Takže si myslím, že znát tu podstatu a umět ji použít v ten správný okamžik, je asi cesta, jak tyhle základy prostě předávat a upevňovat to i v nějakém mentálním otisku toho publika.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
 Skleníkový jev je velké téma, masivní, a dovedu si představit, že se nedá dostat do krátkého formátu. Ale mě by vlastně zajímalo, jaká témata vy sami nejčastěji možná reportujete nebo o nich nejčastěji mluvíte, a možná už jich trochu máte plné zuby, protože o nich mluvíte dost často, a naopak teda si myslíte, že jsou podreportovaná. Chápu, že určitě je to často to větší téma, které se možná nevleze do toho menšího formátu, ale která témata? Klidně myslíte, že by mohla být reportovaná více, ale nejsou.
 
+### Výzvy reportování o extrémech
+{% include 2050/transcript-time.html time="29:22" %}
 {% include 2050/transcript-person.html id="mikova" %}
 
 Tak já začnu tím prvním, čeho si asi obecně meteorologové u nás v televizi určitě všimli. A myslím, že i jinde mají plné zuby. To jsou extrémy, samozřejmě překonáváme nejvíc extrémů, těch, co jsou směrem nahoru, prostě překonaná maxima rostou, rostou do nebe, ale v důsledku toho, co už jsme tady trochu zmínili, protože máme velké výkyvy, tak máme i skutečně překonaná minimální extrémy, to znamená, ten rozkyv se nám zvětšuje a myslím, že meteorologové už by rádi mluvili o některých dalších věcech, ale bohužel se nám to vlastně v těch médiích trošičku scukává na to, že my musíme vysvětlovat to, co se děje, a ony se ty extrémní situace podepisují prostě na tom každodenním životě lidí, to znamená, že ty reportáže prostě o tom, co lidé žijí, jsou, je to v nich, a je na nás, abychom to znovu a znovu vysvětlovali, byť už asi musím říct, že spousta, spousta z nás by o tom radši nemluvila, ale to se nedá.
@@ -271,6 +277,8 @@ Tak když o tom uděláte dvouminutový příspěvek na Radiožurnál mezi písn
 
 Jako proudového rozhlasového vysílání v tomhle tom.
 
+### Co je těžké do médií dostat
+{% include 2050/transcript-time.html time="33:23" %}
 {% include 2050/transcript-person.html id="holik" %}
 
 Co tedy na té druhé straně té mince, nebo když otočíme stránku, na to, čeho byste vlastně rádi viděli víc v médiích, a je to třeba těžké tam dostat, nebo možná nevíte, jak to udělat, aby to někdo poslouchal, aby to bylo sledovatelné, když říkáte, jako extrému bylo dost.
@@ -333,6 +341,6 @@ Bylo to příjemné povídání, tak jestli se někdy potkáme, budeme rádi.
 
 {% include 2050/transcript-person.html id="kaliba" %}
 
-Děkujeme za něj, za to pozvání a teď se vám daří.
+Děkujeme za něj, za to pozvání a ať se vám daří.
 
 {% include 2050/transcript-end.html %}
