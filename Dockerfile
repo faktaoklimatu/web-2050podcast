@@ -1,7 +1,7 @@
-FROM ubuntu:focal
+FROM ubuntu:jamy
 
 LABEL name="2050 podcast" \
-      summary="Jekyll deployment with Inkscape and ImageMagic for the 2050podcast.cz website" \
+      summary="Jekyll deployment with Inkscape and ImageMagick for the 2050podcast.cz website" \
       usage="docker run --name 2050web -p 4000:4000 -v $PWD/..:/srv/jekyll -it 2050podcast"
 
 ARG DEBIAN_FRONTEND=noninteractive
