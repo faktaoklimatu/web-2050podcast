@@ -6,7 +6,7 @@ slug:       "68-pohled-zenoveho-ucitele"
 redirect_from: "/epizody/68"
 published:  2024-06-14
 summary:    |
-    V epizodě hovoříme se zenovým učitelem Jirkou Hazlbauerem o spiritualitě a ochraně klimatu. Diskutujeme, jak zen přistupuje k environmentální krizi a klimatickým změnám nebo jak může spiritualita pomoci lépe zvládat environmentální žal a stres. Jirka sdílí také praktické rady, jak se ukotvit ve vlastní spiritualitě pro každodenní život. Epizodu završuje autorská hudba od Ondreje Kalužáka, který vytvořil skladbu tomuto rozhovoru na míru.  
+    V epizodě hovoříme se zenovým učitelem Jirkou Hazlbauerem o spiritualitě a ochraně klimatu. Diskutujeme, jak zen přistupuje k environmentální krizi a klimatickým změnám nebo jak může spiritualita pomoci lépe zvládat environmentální žal a stres. Jirka sdílí také praktické rady, jak se ukotvit ve vlastní spiritualitě pro každodenní život. Epizodu završuje autorská hudba od Ondreje Kalužáka, kterou vytvořil tomuto rozhovoru na míru.
 audioboom:  "8522957"
 guests:     [ hazlbauer ]
 tags:       [ spolecnost ]
@@ -21,11 +21,10 @@ transcript: true
 
 <div class="bonus-material" markdown="1">
 
-* **Web [Kwan Um Zen](https://kwanumzen.cz )** (_Kwan Um Zen_)\\
+* **Web [Kwan Um Zen](https://kwanumzen.cz)** (_Kwan Um Zen_)\\
   Zenová škola, jejímuž učení se Jirka Hazlbauer věnuje.
 
-
-* **Skladba [A Moment In Between](https://https://soundcloud.com/machula/a-moment-in-between)** (_Ondrej Kalužák_)\\
+* **Skladba [A Moment In Between](https://soundcloud.com/machula/a-moment-in-between)** (_Ondrej Kalužák_)\\
   Elektroakustická skladba Ondreje Kalužáka vytvořená speciálně pro tento rozhovor.
 
 </div>
@@ -40,7 +39,7 @@ Nacházíme se v Zenovém centru ve Vrážném a sedíme tu s Hankou a Jirkou Ha
 
 {% include 2050/transcript-person.html id="hazlbauer" %}
 
-Ano. 
+Ano.
 
 {% include 2050/transcript-person.html id="holik" %}
 
