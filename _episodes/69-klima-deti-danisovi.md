@@ -6,7 +6,7 @@ slug:       "69-klima-deti-danisovi"
 redirect_from: "/epizody/69"
 published:  2024-06-26
 summary:    |
-    V této epizodě se s rodinou Danišových ponoříme do tématu, jak o klimatické změně mluvit s dětmi a jak je vychovávat s ohledem na výzvy, jež přináší. Hosty jsou Justina a Petr Danišovi, odborníci na klimatické vzdělávání a zároveň rodiče, kteří sdílejí své zkušenosti z pracovní praxe i rodinného života.  
+    V této epizodě se s rodinou Danišových ponoříme do tématu, jak o klimatické změně mluvit s dětmi a jak je vychovávat s ohledem na výzvy, jež přináší. Hosty jsou Justina a Petr Danišovi, odborníci na klimatické vzdělávání a zároveň rodiče, kteří sdílejí své zkušenosti z pracovní praxe i rodinného života.
 audioboom:  "8529545"
 guests:     [ danis, danisova ]
 tags:       [ spolecnost ]
@@ -14,7 +14,7 @@ transcript: true
 ---
 Justina a Petr zmiňují konkrétní kroky, které aplikují při výchově svých dětí v kontextu klimatické krize. Především vysvětlují, proč je důležité nejprve budovat vztah dětí k přírodě od útlého věku, a teprve na tomto základě se pustit do výuky o klimatu.
 
-V rozhovoru nabízí praktické tipy a užitečné rady nejen pro současné rodiče, ale i pro pedagogy nebo kohokoliv, kdo rodičovství plánuje někdy v budoucnu. 
+V rozhovoru nabízí praktické tipy a užitečné rady nejen pro současné rodiče, ale i pro pedagogy nebo kohokoliv, kdo rodičovství plánuje někdy v budoucnu.
 
 {% include 2050/guest-list.html %}
 ---
@@ -24,7 +24,7 @@ V rozhovoru nabízí praktické tipy a užitečné rady nejen pro současné rod
 <div class="bonus-material" markdown="1">
 
 * **Kniha [Klima je příležitost](https://klimajeprilezitost.cz/)** (_Petr Daniš_)\\
-  Knížka Petra Daniše vyvrací časté mýty o změně a ochraně klimatu a představuje “big picture”, kde se propojují související lidské činnosti. Také se zabývá praktickým řešením klimatických změn a nabízí konkrétní tipy jak uspořit energie, zodpovědně nakupovat nebo jak být aktivním občanem. Najdete v ní také inspirativní příběhy jedinců, firem nebo měst, které mění své chování ve prospěch ochrany přírody a klimatu.
+  Knížka Petra Daniše vyvrací časté mýty o změně a ochraně klimatu a představuje "big picture", kde se propojují související lidské činnosti. Také se zabývá praktickým řešením klimatických změn a nabízí konkrétní tipy jak uspořit energie, zodpovědně nakupovat nebo jak být aktivním občanem. Najdete v ní také inspirativní příběhy jedinců, firem nebo měst, které mění své chování ve prospěch ochrany přírody a klimatu.
 
 
 * **Kniha [Svobodná hra](https://svobodnahra.cz/)** (_Justina a Petr Danišovi_)\\
@@ -57,6 +57,7 @@ Jako já se toho bojím, ale věřím, že se to vyřeší.
 Tohle byly hlasy dětí rodiny Danišových, za kterými jsme se vydali, abychom se zkusili podívat na téma, na které často slyšíme otázky, a to sice, jak se o klimatické změně, tak vážném tématu, dá bavit s dětmi. V rozhovoru hlavně uslyšíte jejich rodiče Justinu a Petra, kteří se dlouhodobě věnují tématu komunikace, klimatu i pedagogice. No, ať už jste rodič nebo se třeba kolem dětí pohybujete nebo je třeba plánujete, tak já věřím, že tahle epizoda pro vás může být velmi užitečná. Já osobně jsem si z ní odnesla to, že k takhle velkým tématům se nedá skočit hned a že klimatické vzdělávání začíná u fakt malých krůčků, jako je seznámení s mravenci v lese, no a teprve pak se dá jít k celým ekosystémům a velkým globálním tématům. Teď už si ale pojďte užít poslech.
 
 ### Představení
+
 {% include 2050/transcript-time.html time="02:01" %}
 {% include 2050/transcript-person.html id="holik" %}
 
@@ -74,11 +75,12 @@ Díky moc.
 
 {% include 2050/transcript-person.html id="danis" %}
 
-Ukáže se tady, že jsme ze stejné organizace. Já jsem taky vlastně relativně mladý přišel do vzdělávacího centra Tereza, nejdřív jsem tam vedl nějaké projekty, programy, začínal jsem s ekoškolou, třeba v Česku, mezinárodní ekoškolu jsem sem tehdy přinášel a pak se v Tereze hledal ředitele a nikdo lepší se nenašel, takže jsem tam už teď skoro 20 let dělám v Tereze ředitele a vedle toho jsem se snažil vždycky angažovat jako v nějakých širších platformách, že mi přijde, že pokud se má stát nějaká změna, ať už v životním prostředí nebo ve vzdělávání, tak to nikdy nezpůsobí jedna organizace, takže jsem se snažil působit jako tu, ve, což je stálá konference Asociací ve vzdělávání, jednu dobu jsem dělal v boardu mezinárodní organizace Foundation for Environmental Education, kde jsem byl členem, Tereza je členem, já jsem byl pak jako zvolený v boardu a teď posledních asi 10 let dělám předsedu Pavučiny. To je síť středisek ekologických výchov, kde je asi 50 organizací, jako je Tereza, tak zase se jako snažím angažovat takhle nějak společně, jo, a nechci jenom ředitelovat, vždycky mě baví jako tam dělat nějaká témata, která jsou, která mě prostě baví a začínalo to tím, že jsme právě se věnovali tomu tématu děti venku, proč musí být děti venku, a to jsme se snažili nějak přinést. 
+Ukáže se tady, že jsme ze stejné organizace. Já jsem taky vlastně relativně mladý přišel do vzdělávacího centra Tereza, nejdřív jsem tam vedl nějaké projekty, programy, začínal jsem s ekoškolou, třeba v Česku, mezinárodní ekoškolu jsem sem tehdy přinášel a pak se v Tereze hledal ředitele a nikdo lepší se nenašel, takže jsem tam už teď skoro 20 let dělám v Tereze ředitele a vedle toho jsem se snažil vždycky angažovat jako v nějakých širších platformách, že mi přijde, že pokud se má stát nějaká změna, ať už v životním prostředí nebo ve vzdělávání, tak to nikdy nezpůsobí jedna organizace, takže jsem se snažil působit jako tu, ve, což je stálá konference Asociací ve vzdělávání, jednu dobu jsem dělal v boardu mezinárodní organizace Foundation for Environmental Education, kde jsem byl členem, Tereza je členem, já jsem byl pak jako zvolený v boardu a teď posledních asi 10 let dělám předsedu Pavučiny. To je síť středisek ekologických výchov, kde je asi 50 organizací, jako je Tereza, tak zase se jako snažím angažovat takhle nějak společně, jo, a nechci jenom ředitelovat, vždycky mě baví jako tam dělat nějaká témata, která jsou, která mě prostě baví a začínalo to tím, že jsme právě se věnovali tomu tématu děti venku, proč musí být děti venku, a to jsme se snažili nějak přinést.
 
 To téma je vlastně živé v zahraničí a v Čechách jako moc živé nebylo, ale před těma zhruba 10 lety jsme se jako začali rozhlížet, to bylo takové první velké téma, které jsem i zpracovával nějakou publikaci o tom, proč musí bět děti venku, jinak jim něco bude chybět, a to druhé velké téma, do kterého jsme se pustili vlastně na úrovni rodiny, tady společně s Justinou byla svobodná hra. To s tím trochu souvisí, jo, že oni nestačí, jako aby ty děti byly venku a je dobré, aby tam něco dělaly a úplně to nejlepší věc, kterou tam můžou malé děti dělat, je, když si jako jen tak hrají a my jim do toho zas tolik nezasahujeme. Tak to byla jako druhá věc, jsme psali knížku o svobodné hře, no, a pak se mi stalo, že jsem jako získal potřebu, že je doba, kdy bychom měli více učit o klimatu a posledních pět let už jsem se ponořil jenom do tématu klimatu a teď jsem o tom napsal i nějakou knížku, teda zase jako nejenom jak učit o klimatu, ale spíš co máme společně udělat, abychom měli budoucnost, která nebude tím klimatem nějak negativně ovlivněná, tak to jsou naše témata. Asi.
 
 ### Proč se jako rodič zabývat environmentálním vzděláváním
+
 {% include 2050/transcript-time.html time="07:07" %}
 {% include 2050/transcript-person.html id="vrtalova" %}
 
@@ -109,10 +111,11 @@ Já navážu na Justinu, že mám pocit, že ta společnost se tady tak rychle z
 Takže to první, že je dobré se vracet s dětmi a my sami k tomu, že jsme nakonec živočišný druh jako všechny ostatní a ta příroda je naším domovem, no, a to druhé, a to už jsou ty environmentální témata jako takové a změna klimatu, tak dneska samozřejmě jsou nějaké globální výzvy, společenské výzvy a změna klimatu je jednou z největších takových výzev současnosti a jaké zvládneme nebo nezvládneme, ovlivní nejenom osud tady nás lidí na téhle planetě, ale v mnoha ohledech i osud mnoha jiných živočišných druhů. Jo, a přijde mi, že tady je jako obrovské pole, co můžeme odpracovat, aby to dopadlo co nejlíp. Tak a nějak jsem slyšel volání, že se mám přidat k tomuhle tématu.
 
 ### Kdy začít
+
 {% include 2050/transcript-time.html time="12:31" %}
 {% include 2050/transcript-person.html id="holik" %}
 
-Otázku, kterou mám napsanou ve své přípravě, je, v jakém věku jaká témata přicházejí na řadu a kdy je na něco naopak třeba brzo. Jo, jakože jednou jsem tě, Petře, myslím, někde slyšel říct větu „žádné katastrofy před čtvrtým rokem“ nebo něco takového.
+Otázku, kterou mám napsanou ve své přípravě, je, v jakém věku jaká témata přicházejí na řadu a kdy je na něco naopak třeba brzo. Jo, jakože jednou jsem tě, Petře, myslím, někde slyšel říct větu "žádné katastrofy před čtvrtým rokem" nebo něco takového.
 
 {% include 2050/transcript-person.html id="danis" %}
 
@@ -130,13 +133,13 @@ Dává určitě smysl.
 
 Mně právě přijde, a možná je to můj naivní pohled, že zase ta příroda nám to může obrovsky zjednodušit, protože já mám zkušenost, že nezáleží, jak staré jsou děti, když je vezmete do přírody, ale jak moc mají zkušeností v kontaktu s přírodou. A vlastně někdy vám čtyřleté dítě v terénu se pohybuje mnohem jistěji než sedmák, protože ten sedmák tam do té doby v té divočině nebo v trošku divočejší přírodě vůbec nebyl.
 
-Vlastně neví, jak má jít v nerovném terénu. Neví, kam si má dojít na záchod. Jo. Vlastně to jsou takové dovednosti, které my jsme trošku ztratili a současná generace dětí bude první pravděpodobně tzv. Indoor Generation, že budou víc času trávit uvnitř než venku, což se v historii lidství nikdy nestalo. A prostě my jsme pořád fyziologicky opice, jak to říkal Petr, a ten prales nám jako fakt chybí, takže proto mi přijde moc fajn vzít ty děti do přírody a samozřejmě, když vezmu ideální stav, tak to nejmenší dítě vyrážím, nechám ho tak jako si objevovat. A oni jsou to objevitelé, takže ochutnávají, beru je na místa, kde mohou ochutnávat, testují, co přežijí, oni testují, co přežijí přírodniny a vlastně jako maminka to mám mnohem jednodušší, protože v té přírodě nemusím uklízet. 
+Vlastně neví, jak má jít v nerovném terénu. Neví, kam si má dojít na záchod. Jo. Vlastně to jsou takové dovednosti, které my jsme trošku ztratili a současná generace dětí bude první pravděpodobně tzv. Indoor Generation, že budou víc času trávit uvnitř než venku, což se v historii lidství nikdy nestalo. A prostě my jsme pořád fyziologicky opice, jak to říkal Petr, a ten prales nám jako fakt chybí, takže proto mi přijde moc fajn vzít ty děti do přírody a samozřejmě, když vezmu ideální stav, tak to nejmenší dítě vyrážím, nechám ho tak jako si objevovat. A oni jsou to objevitelé, takže ochutnávají, beru je na místa, kde mohou ochutnávat, testují, co přežijí, oni testují, co přežijí přírodniny a vlastně jako maminka to mám mnohem jednodušší, protože v té přírodě nemusím uklízet.
 
 Jo, to máte, najednou máte ateliér, máte laboratoř na jednom místě, ty přírodniny, tam je vlastně, když máte víc dětí, tak najednou nejsou boje o zdroje, protože ty kostičky tam prostě jako nejsou v omezeném množství a vy tam prostě trávíte ten čas a to dítě si samo objeví a častá otázka je právě jako kdy začít s tím klimatickým vzděláváním. A pro mě tam není, že určitě je dobré obecně říct, že desátý věk nebo léta života jsou něco, kdy ty děti většinou už jsou schopné vnímat ty globální souvislosti a hlavně pracovat se svými emocemi, aby je to nezhroutilo, ale když si to promítnete do své třídy, tak třeba, nebo do svých dětí, tak tam vždycky budete mít dvanáctileté dítě, které je mnohem zralejší a ty otázky vám budou pokládat a já jako učitel nebo rodič si nemůžu říct ne, počkej.
 
 Až ti bude 10, pak ti dám svolení, pak si dám svolení, abych o tom s tebou hovořila, vidím to i u našich dětí. Některé typy osobností se ptají mnohem dříve, třeba Rozárka se ptala mnohem dříve. Některé se vlastně zeptají až později, a třeba u Vítka, který to jako plynule prostě nasává, tak u něj ten environmentální žal nebo ty děsy někdy přijdou jako, ale někdy jsou úplně v pohodě a vidím tam to odhodlání, takže pro mě to je.
 
-Moc hezky popisovala Rebecca Wild, když říkala: „Poslouchejte otázky dětí a jakmile se začnou ptát, ale dávejte si pozor, některé děti zjistily, že se vás budou ptát, aby získaly vaši pozornost, protože my je často rádi vzděláváme, takže některé děti vlastně nechtějí ani vidět, co to je za ptáka, ale zeptají se, protože teď mají pozornost té maminky a ona nekouká do toho telefonu nebo taťka neřeší něco s tím druhým sourozencem. Ale ve chvíli, kdy se vás ptají opakovaně a chtějí vědět ty souvislosti, chtějí vědět ty konkrétní věci, tak v té chvíli jsou připravené na to, abyste jim jako řekli, třeba řeknete něco málo a oni se doptají, a vy sledujete pořád, co to s nimi dělá, a vlastně napojujete se na tu citlivost rodičovskou nebo učitelskou.“
+Moc hezky popisovala Rebecca Wild, když říkala: "Poslouchejte otázky dětí a jakmile se začnou ptát, ale dávejte si pozor, některé děti zjistily, že se vás budou ptát, aby získaly vaši pozornost, protože my je často rádi vzděláváme, takže některé děti vlastně nechtějí ani vidět, co to je za ptáka, ale zeptají se, protože teď mají pozornost té maminky a ona nekouká do toho telefonu nebo taťka neřeší něco s tím druhým sourozencem. Ale ve chvíli, kdy se vás ptají opakovaně a chtějí vědět ty souvislosti, chtějí vědět ty konkrétní věci, tak v té chvíli jsou připravené na to, abyste jim jako řekli, třeba řeknete něco málo a oni se doptají, a vy sledujete pořád, co to s nimi dělá, a vlastně napojujete se na tu citlivost rodičovskou nebo učitelskou."
 
 A v té chvíli mi přijde, že jste ten dobrý průvodce tím tématem, ale určitě bych doporučila chodit ven, aby si tam mohlo zažít to prostředí, pak aby tam kladlo ty badatelské otázky a zjistilo, jak ty systémy a ekosystémy fungují, protože pak na to nádherně navážete, proč je země současného zemědělství Achillova pata a v čem je problém.
 
@@ -152,7 +155,7 @@ Počkej, no, já vím, vymažu polovinu toho.
 
 {% include 2050/transcript-person.html id="danisova" %}
 
-Ne, tak příště, budeš začínat ty, jo? 
+Ne, tak příště, budeš začínat ty, jo?
 
 {% include 2050/transcript-person.html id="danis" %}
 
@@ -163,6 +166,7 @@ Mně přijde, že pak je ale těžší už ta druhá fáze, že jako je dobré, 
 A pak už je fakt ta třetí jako nejabstraktnější oblast, jako je změna klimatu, že jo, ona nějak jako prostupuje i k tomu, co bylo předtím, ale, ale je mnohem těžší a tam už nějaké jako znalosti se vlastně hodí, ale stejně jednak můžeme čekat na ty otázky dětí, že jo, každé dítě má ty otázky, jindy má jiné otázky a jednak můžeme čekat, jako, jaká témata se nám sama nabídnou tím, že je zrovna potkáme na našich toulkách přírodou nebo po poli nebo potkáme větrník nebo solární panel nebo co zrovna se nabídne jako to téma? No.
 
 ### Jak k tématu přistoupit
+
 {% include 2050/transcript-time.html time="22:20" %}
 {% include 2050/transcript-person.html id="vrtalova" %}
 
@@ -209,6 +213,7 @@ Jo, mně přijde, že ještě v tom pomáhá, když zkusíte o něco malého v t
 Jasně.
 
 ### Rozvoj kritického myšlení
+
 {% include 2050/transcript-time.html time="32:55" %}
 {% include 2050/transcript-person.html id="danisova" %}
 
