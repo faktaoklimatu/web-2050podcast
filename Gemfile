@@ -8,8 +8,8 @@ gem 'jekyll'
 gem 'jekyll-last-modified-at'
 gem 'jekyll-redirect-from'
 gem 'jekyll-sitemap'
-gem 'nokogumbo'
 gem 'htmlbeautifier'
+gem 'nokogiri', '~> 1.13'
 
 # The plugin in the gem repository is ccurrently not maintained.
 # Temporarity provided locally.
