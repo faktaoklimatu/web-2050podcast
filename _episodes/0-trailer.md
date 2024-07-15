@@ -17,7 +17,6 @@ Chcete vědět, co se chystá a jak projekt postupuje? Dejte nám lajk na Instag
 Jestli se už těšíte na první sérii, sledujte nás na vaší oblíbené platformě!
 
 <a class="btn btn-primary" href="{{ site.spotify }}">Spotify</a>
-<a class="btn btn-secondary" href="{{ site.google-podcasts }}">Google podcasts</a>
 <a class="btn btn-secondary" href="{{ site.apple-podcasts }}">Apple Podcasts</a>
 <a class="btn btn-secondary" href="{{ site.youtube }}">YouTube</a>
 
