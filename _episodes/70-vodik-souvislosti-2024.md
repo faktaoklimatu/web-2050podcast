@@ -9,7 +9,7 @@ summary:    |
     S Martinem Tenglerem navazujeme na epizodu ze začátku roku 2023 a probíráme, co je kolem vodíku nového.
 audioboom:  "8550938"
 guests:     [ tengler ]
-tags:       [ prumysl, doprava ]
+tags:       [ prumysl ]
 transcript: true
 ---
 Důležitý pro dekarbonizaci je zejména tzv. zelený vodík, jehož cena se příliš nezměnila. 
