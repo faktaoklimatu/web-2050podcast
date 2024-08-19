@@ -463,3 +463,8 @@
   name: Dětský hlas
   surname: 
   description: hlas
+
+- id: zapal
+  name: Jan
+  surname: Zápal
+  description: CERGE-EI
