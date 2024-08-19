@@ -1,18 +1,20 @@
 ---
 layout:     episode
-title:      "Jak se cítíš, když se řekne ‚klima’? Environmentální distres jako fenomén nejen mezi mladými."
+title:      "Proč jsou ekonomické externality zásadní pro ochranu klimatu?"
 number:     71
 slug:       "71-ekonomicke-externality"
 redirect_from: "/epizody/71"
 published:  2024-08-21
 summary:    |
-    Zdenka Voštová se dlouhodobě zabývá lidským prožíváním environmentálních témat jako psychoterapeutka a lektorka. V rozhovoru představuje data a trendy toho, jak lidé po celém světě i v Česku tato témata prožívají. Ve vlastní terapeutické praxi se setkává se skupinami i jednotlivci, na které doléhají témata spojená se změnou klimatu, a emocionálně je tímto procesem doprovází.
-audioboom:  "8504863"
+    S hostem Janem Zápalem z CERGE-EI se bavíme o environmentální ekonomii a zaměříme se na klíčový pojem „ekonomické externality“ a jaký je jejich význam pro ochranu klimatu. Externalitou se rozumí dopad na lidi, přírodu nebo společnost, který je způsobený jednáním aktérů na trhu. Pokud například vlastním uhelnou elektrárnu, z prodeje elektřiny mám zisk, ale dopad znečištění nese celá společnost – to je právě externalita. Na příkladech si vysvětlíme, jak vypadají pozitivní i negativní externality, objasníme, jak v základu fungují trhy a proč v některých případech klasické ekonomické poučky neplatí. 
+audioboom:  "8558149"
 guests:     [ zapal, pribyla ]
 tags:       [ ekonomika ]
 transcript: true
 ---
-Téměř třetina Čechů prožívá ve spojitosti s klimatickou změnou bezmoc. Jedná se v tomto ohledu o nejčastější pocit. Prožívat nepříjemné emoce ovšem není jakási nemoc, ze které je potřeba lidi léčit. Podle současné psychologické vědy se často jedná o smysluplnou, adaptivní reakci na bezprecedentní situaci. Proč je zrovna změna klimatu pro mnohé tak tíživým tématem a jakým způsobem s prožíváním pracovat na úrovni jednotlivce i celé společnosti probíráme v dnešní epizodě.
+Důležitým aspektem práce s externalitami je jejich internalizace – tedy pokud bereme v potaz potenciální důsledky našeho jednání na někoho jiného. Řešení problémů externalit pak do určité míry spočívají právě v jejich internalizaci. Tedy jak zajistit, aby (zejména firmy) nesly náklady, které jejich externality způsobí.
+
+Jak lze s externalitami pracovat, jak je internalizovat a jaký dopad to má na udržitelný rozvoj a klimatickou politiku? I to je součástí naší diskuze.
 
 {% include 2050/guest-list.html %}
 
@@ -22,30 +24,24 @@ Téměř třetina Čechů prožívá ve spojitosti s klimatickou změnou bezmoc.
 
 <div class="bonus-material" markdown="1">
 
+* **Video verze podcastu [Proč jsou ekonomické externality zásadní pro ochranu klimatu?](https://youtu.be/wcT2LsEviEE)** (_Fakta o klimatu a podcast 2050_)\\
+  Video verze tohoto podcastu z našeho nového studia. Sledujte náš kanál na youtube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
+
 {% include 2050/bonus-interview.html
-  title="Jak se cítíš, když se řekne ‚klima’? Environmentální distres jako fenomén nejen mezi mladými"
-  audioboom="8504857"
-  spotify="2kIsoIN6Wy6zeWlDirEgdD"
-  caption="Originální nesestříhaný rozhovor jako bonus k 66. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o pocitech, které lze zažívat v souvislostí s klimatickou změnou."
+  title="Proč jsou ekonomické externality zásadní pro ochranu klimatu?"
+  audioboom="8558143"
+  spotify="1dOPdJyjbgxxDsUljJlCxO"
+  caption="Originální nesestříhaný rozhovor jako bonus k 71. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o ekonomických externalitách a jejich souvislostech s ochranou klimatu."
 %}
 
-* **Výzkum [České klima 2021 – Mapa českého veřejného mínění v oblasti změny klimatu](https://webcentrum.muni.cz/media/3331473/czklima2021.pdf)** (_Katedra environmentálních studií FSS MU, Green Dock, z.s_)\\
-  Na datových analýzách založená typologie pěti cílových skupin české veřejnosti ve vztahu ke klimatu. Jaké narativy ochrany klimatu v nich vyvolávají největší důvěru a sympatie, nebo co nejvíce ovlivňuje české veřejné mínění v oblasti klimatických politik.
+* **Studie [Sternova zpráva](https://faktaoklimatu.cz/studie/2006-sternova-zprava)** (_Fakta o klimatu_)\\
+  Shrnutí tzv. Sternovy zprávy, která je ekonomickou analýzou dopadů klimatických změn a nákladů a přínosů opatření na snížení emisí skleníkových plynů z roku 2006. Ukazuje, že přínosy silných a včasných opatření výrazně převyšují jejich náklady a ignorování klimatických změn povede ke snížení hospodářského růstu.
 
-* **Kniha [Aktivní naděje](https://www.databazeknih.cz/knihy/aktivni-nadeje-454602)** (_Joanna Macy_)\\
-  Jak se vyrovnávat se změnou klimatu, mizejícími přírodními zdroji, ekonomickými kolapsy a environmentálním žalem.
+* **Explainer [Jak fungují evropské emisní povolenky?](https://faktaoklimatu.cz/explainery/emisni-povolenky-ets)** (_Fakta o klimatu_)\\
+  Evropské emisní povolenky jsou účinným prostředkem při snižování emisí a jsou klíčové pro dosažení budoucích emisních cílů EU. Jak systém pro obchodování s emisemi skleníkových plynů funguje?
 
-* **Kniha [Návrat do života](https://www.databazeknih.cz/knihy/navrat-do-zivota-478370)** (_Joanna Macy , Molly Young Brown_)\\
-  Kniha ukazuje, že žal, hněv a strach jsou zdravou odpovědí na současnou nepříjemnou realitu a že pokud je budeme respektovat, mohou nás posunout k tvořivému jednání.
-
-* **Kniha [Svět nenásilí](https://www.databazeknih.cz/knihy/svet-nenasili-496542)** (_Miki Kashtan_)\\
-  Seznámení s nenásilnou komunikací.
-
-* **Kniha [Generation Dread: Finding Purpose in an Age of Climate Crisis](https://www.goodreads.com/cs/book/show/58678656)** (_Britt Wray_)\\
-  Autorka spojuje vědecké poznatky s emocionálním vhledem a ukazuje, jak jsou tyto intenzivní pocity zdravou reakcí na znepokojivý stav světa.
-
-* **Kniha [Emotional Resiliency in the Era of Climate Change: A Clinician's Guide](https://www.goodreads.com/book/show/33980535-emotional-resiliency-in-the-era-of-climate-change)** (_Leslie Davenport, Lise Van Susteren_)\\
-  Kniha představuje komplexní teorii, strategie a zdroje pro řešení klíčových klinických témat souvisejících s psychologickým dopadem klimatických změn.
+* **Explainer [Jak bude fungovat zpoplatnění emisí skleníkových plynů z dopravy a budov](https://faktaoklimatu.cz/explainery/emisni-povolenky-ets-2)** (_Fakta o klimatu_)\\
+  Nový systém tzv. ETS 2 naváže od roku 2027 na stávající systém obchodování s emisními povolenkami (ETS 1), pod nějž spadaly velké elektrárny, teplárny, těžký průmysl nebo letecká a námořní doprava. EU Emissions Trading System tak bude rozšířen také o emise ze silniční dopravy a budov, které do té doby na celoevropské úrovni zpoplatněny nebyly. Jaké cíle z hlediska snížení emisí si nový systém klade? Jak chce ošetřit možné potíže domácností a malých podniků? 
 
 </div>
 
@@ -53,398 +49,353 @@ Téměř třetina Čechů prožívá ve spojitosti s klimatickou změnou bezmoc.
 
 _Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce._
 
-{% include 2050/transcript-person.html id="vrtalova" %}
+{% include 2050/transcript-person.html id="holik" %}
 
-Ahoj. Tady podcast 2050. Jedním z faktů, který jsme v úvodu našich epizod už zmínili, je, že v české společnosti panuje široká shoda na tom, že klima je potřeba chránit.
+Vážení přátelé, vítejte u dalšího dílu Podcastu 2050. Dneska tady sedíme v novém studiu ve třech, takže pokud se na nás ještě nedíváte na YouTube, určitě se na nás podívejte na YouTube, protože si nás můžete prohlídnout a vidět, jak se tváříme u toho, co si povídáme a nejenom nás slyšet. A dnes máme epizodu s naším hostem Janem Zápalem z CERGE-EI. Je to ekonom, my se budeme bavit o ekonomii, o environmentální ekonomii, o tom, jak vlastně ekonomické aspekty, řekněme, vstupují do toho velkého tématu změny klimatu a dekarbonizace, kterému je věnován tento podcast, tak to je jenom takový úplně jako široký rámec. Kromě Jana, tady se mnou sedí Ondráš Přibyla, ředitel, zakladatel fakta o klimatu. Tak pánové, vítejte v podcastu.
 
-Když však máme dojem, že se to neděje, tak to může v některých z nás ale vyvolávat dost nepříjemné pocity. Možná jste někdy slyšeli i pojem klimatický žal nebo úzkost.
+{% include 2050/transcript-person.html id="zapal" %}
 
-No, a právě o tom je i dnešní rozhovor. Já u tohoto rozhovoru nebyla, ale když jsem ho poslouchala, tak mě zaujalo, že jsem nejen slyšela pohled člověka, který běžně pracuje s lidmi, kteří podobné náročné emoce zažívají. Ale zároveň mě zaujaly i zajímavosti a data z oblasti psychologické vědy, kterými je celý rozhovor protkán.
+Ahoj, děkuju za pozvání.
 
-Pojďme si tedy rovnou představit dnešní hostku.
+### Co je to ekonomie
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-time.html time="01:00" %}
+{% include 2050/transcript-person.html id="holik" %}
 
-Moje jméno je Zdenka Voštová, jsem gestalt terapeutka, mediátorka a lektorka a součástí mé práce je práce s environmentálním žalem a ekologickou úzkostí, takže provázím lidi a zároveň se snažím toto téma nějakým způsobem vnášet do veřejné debaty.
+Děkujeme za přijetí pozvání. Já bych možná chtěl začít od toho, když jsem říkal, že jsi ekonom, tak vlastně mám rád, když se v tom podcastu dokážeme opřít do jako potenciálně základních věcí typu, jako co to je teda ekonomie, protože já jsem z přírodovědy a vím, že Ekonomická fakulta existuje a představuju si, že to je něco možná okolo byznysu a okolo jako teda peněz a tak, ale vlastně nevím, jestli je to spíš teda o tom, co se děje v bance, anebo spíš o tom, co se děje v obchodě, anebo spíš o tom, co dělají spotřebitelé, tak kdybys mohl trošku zarámovat vlastně, jako co to ta ekonomie je a když ty si teda ekonom, tak čím se vlastně zabýváš? To jsou třeba tvoje jako výzkumné otázky. A tak.
+
+{% include 2050/transcript-person.html id="zapal" %}
+
+Je to všechno to, co jsi říkal, a ještě něco navíc. Každá instituce a každý člověk klade trochu jiný důraz. To znamená, že ekonomie je úplně v základu vědní disciplína, společenská věda o tom, jak se... Já nechci úplně dávat definici ekonomie, protože každý má svoji, kterou má rád, ale já vnímám ekonomii jako vědu.
+
+O tom, jak se lidé rozhodují, typicky se k té definici dodává za nedostatku, protože když můžeme zvolit vlastně cokoliv a nemáme žádné omezení, tak to rozhodování nemá velký vliv. Takže to je věda o tom, jak se lidé rozhodují, co si volí. Můžou to být byznys rozhodnutí o tom, jaký budeme vyrábět produkt ve firmě, ale také to může být rozhodnutí o tom, jakou studovat vysokou školu. Například jako vědní disciplína, to má několik částí, velká část lidí si myslí o ekonomii, že jsou to účetní, tak jsou to také účetní, ale nejenom účetní. Část ekonomie je byznys administrativa, nevím, jak bych tomu říkal, to je prostě vzdělávání studentů nebo věda o tom nebo přemýšlení o tom, jak vést firmy, jak být dobrý manažer, jak posouvat firmy tak, aby vyráběly to, co spotřebitelé chtějí.
+
+Je to vlastně disciplína, která je hodně rozkročená. Nezajímá nás jenom témata kolem peněz, ale také kolem důležitých životních rozhodnutí. Říkal jsem, kam jít na vysokou školu. Zajímají nás otázky ohledně životního prostředí, ohledně třeba nerovnosti ve společnosti, ohledně genderových otázek a podobně.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Když jsme se se Zdenkou potkali, tak jsem se ptal na to, jak se vlastně dostala k tomuhle tématu, o kterém se bavíme, prožívání klimatické krize a těch souvisejících věcí. No a říkala, že osobně to na ni doléhalo už delší dobu, třeba mi sdílela nějaké svoje zkušenosti, že má ráda nějaká místa v přírodě a v jednu chvíli tam třeba potkala studánku, která byla vyschlá, do které byla zvyklá chodit pro vodu, nebo když viděla pokácené kůrovcové lesy. No a profesně původem je právnička a v minulosti se zabývala korupcí v organizacích a popisovala mi právě princip práce, který se tam naučila a který jí přijde užitečný i v oblasti prožívání okolo klimatu.
+Honza nám během natáčení vyprávěl příběh o tom, jak vyučuje ekonomii, a já vám ho tady chci převyprávět, protože je to příklad, na který se v průběhu podcastu potom budeme dál odkazovat. On říkal, že základní fungování trhů vysvětluje na takovém cvičení se studenty.
 
-{% include 2050/transcript-person.html id="vostova" %}
+Studentům rozdá dva lístečky, na jednom lístku mají napsané nějaké číslo, které určuje velikost jejich hlavy, na druhém lístku pak mají napsané druhé číslo, které určuje velikost masky, kterou vlastní. No, a oni pak chodí po třídě a směňují si tyhle lístečky tak, aby se dostali co nejblíže k tomu, aby číslo jejich hlavy odpovídalo číslu té masky, kterou vlastní. No, a na tomhle příkladu vlastně ukazuje princip jedné ze základních pouček ekonomie, že směňování vlastně vede k tomu, že se lidé mají lépe, že existence trhu může umožnit to, že se lidé budou mít lépe.
 
-Když mi přijde důležité kombinovat práci s jednotlivci, poskytovat jim nějakou emoční podporu, provázet je tím jejich vlastním procesem, transformovat jejich prožitky tak, aby pro ně přestaly být jako zavalující, zaplavující, ale aby spíše jim pomohly se posunout někam dál, ale zároveň.
+Tahle poučka ovšem neplatí vždy, protože je založená na nějakých předpokladech, a k tomu se postupně dostaneme v průběhu dalšího.
 
-Nějakým způsobem působit na změnu systému jako takového.
+{% include 2050/transcript-person.html id="pribyla" %}
 
-{% include 2050/transcript-person.html id="holik" %}
+Já si spíš říkám, jestli na tom příkladu dokážeme ukázat i ty nedokonalosti nějakým způsobem.
 
-Já myslím, že se asi dotkneme obou těch úrovní v tom tématu.
+Směřujeme k externalitám, takže tam bych měl jednu otázku, ale možná jsou tam další nedokonalosti, které na tom jdou.
 
-Já, když se řekne klimatické prožívání, tak to, co jako slýchám kolem sebe, ať už v médiích, nebo… Nejspíš asi v médiích nebo jako v nějakých komunitách, které se tím trochu víc zabývají, tak jsou právě pojmy jako klimatický žal, klimatická deprese, klimatická úzkost, případně někdy se mluví o tom, že třeba mladí lidé nechtějí mít děti kvůli tomu, že.
+### Co jsou externality
 
-Prostě jim přijde, že do tohoto světa ty děti nechtějí přinést.
+{% include 2050/transcript-time.html time="04:38" %}
+{% include 2050/transcript-person.html id="zapal" %}
 
-Mohla bys tady to téma, jako já jsem to na začátku řekl, prožívání environmentální krize a k tomu se možná pojí spousta nějakých termínů nebo nějaká psychologická věda se na to možná nějak dívá, tak bych chtěl poprosit o vhled tohoto typu, jako nejdřív možná, než se dostaneme k nějakým jednotlivcům, k tomu, jak třeba ty s tím máš osobní zkušenosti v té své terapeutické praxi, tak se fakt podívat na ten svět toho tématu, jako jak lidé vlastně prožívají změnu klimatu?
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Možná ještě k té terminologii úplně na začátek, v současné psychologii převládá termín environmentální distres, který je takovým zastřešujícím pojmem pro všechny ty emoce, které lidi prožívají v souvislosti s klimatickou a environmentální krizí, obecně.
-
-To může pokrývat žal, jak se někdy tomu říká u nás, environmentální žal, ale taky různé formy úzkostí, bezmoci, vzteku, strachu, nějakého fatalismu, pocit, že nic nemá smysl, zkrátka všechny emoce, které nám působí nějakou formu stresu a brání nám v tom žít spokojeně a nějak se uvolnit do toho, že ten svět je bezpečný a že je to všechno v pořádku.
+Ukázat tak přesně. Já jenom, abych, abych, nevím, jestli je to potřeba, ale tenhle výsledek, že trhy fungují tak nebo výsledkem působení trhu, je něco, čemu ekonomové říkají pareto optimální alokace. To znamená, že to je alokace, kdy já už nemůžu přijít na další obchod, směnu, která by zlepšila užitek obou, obou aktérů. Tak tomu se říká pareto optimální alokace, a ten základní výsledek nebo jeden ze základních výsledků ekonomie, řekněme, ze sedmdesátých let, je, že trhy vedou k pareto optimální alokaci něčemu, co je v průměru dobré, řekněme, když to budeme říkat takhle, tak takhle trošičku vágně. Ale ten výsledek má řadu předpokladů, a jeden velký předpoklad je, že neexistují externality. Já nejdřív zkusím definovat externality a pak vysvětlit ty na příkladu externality.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Proč je vlastně tak náročné vůbec prožívat klimatickou změnu, je něčím specifická oproti třeba jiným těžkým situacím, které člověk v životě zažívá?
+Já možná ještě tak možná pro posluchače, pro diváky chci říct, že externalita už je slovo, které se v tomto kontextu dekarbonizace, změny klimatu, environmentální krize skloňuje velmi často, tak proto se o něm chceme bavit. Možná to bude klíčové slovo tohoto podcastu, tak proto se k němu dostáváme. Ať vás nenecháme jenom čekat, jako že. Tak, a teď už mám poslouchat, už to je relevantní, tak je to velmi relevantní koncept, tak právě proto se o něm bavíme, takže děkuji. Klidně uvést příklady, vysvětlit to, co se vlastně jedná.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="zapal" %}
 
-Je to moc hezky pojmenované profesorkou (Mary Ethan), která mluví o tom, že oproti nějakým jiným ztrátám, které zažíváme v našem životě, třeba když nám někdo zemře, tak klimatická environmentální krize nás jako velmi konfrontujeme s vlastními pocity viny, protože my vlastně tím, jak žijeme, tím, jaké volby činíme jako spotřebitelé a jako občané, tak vlastně neustále narážíme na to, že tu krizi nějakým způsobem spoluvytváříme tím, kam jdeme na dovolenou, jestli někam jedeme autem, co jíme, koho volíme a je jako velmi těžké v tomhle systému žít nějaký environmentální dokonalý život, ani to není z mého pohledu možné, možná ani žádoucí se o to snažit, protože pak se dostaneme do hrozné jako pasti nějaké vlastní úzkosti.
+Externalita je situace, kdy já něco dělám a má to dopad na vás. To je základní definice. Externalitu musím ještě trošičku rozvést, protože tohle, když spolu lidé interagují, tak vždycky jednání jednoho má dopad na druhého, a to je naprosto běžné. Externalitou se to stává v okamžiku, kdy do toho působení nastupuje trh, takže já na příkladu lístečku uvedu příklad, představte si, a to je druhý experiment, který děláme na té přednášce, představte si, že každá ta směna, když vy si vyměníte masku, tak nějakým způsobem ublíží mně, jako proč by vaše směna měla ubližovat mně?
 
-Ale zároveň to je vlastně náročné, jako kdybychom byli, kdybychom truchlili za to, že nám umírá vlastní máma, ale zároveň byli tak trošku sami jejími vrahy.
+Třeba vy nebydlíte úplně hned vedle sebe, musíte si zavolat, pak se někde setkáte, pojedete tam, nepojedete tam MHD, ale pojedete tam autem. Bude to kouřit a já půjdu náhodou kolem a nějakým způsobem to, že vy se něco směňujete, bude mít negativní dopad, dopad na mě, prostě bude tam zakořeno nebo tam bude dopravní zácpa nebo něco podobného.
 
-Že to je jeden důvod, další důvod potom je ten.
-
-Tomu faktu, že dochází k bezprecedentní environmentální změně, ztrátě biodiverzity, změně klimatu a dalším aspektům toho, co se děje, že naše planeta je zaplavená plasty a mikroplasty atd., čelíme vlastně neustále, když otevřeme noviny, internet, když jdeme ven do přírody, když se o tom bavíme s lidmi, když jdeme teď možná i ani ne do přírody, ale ven na ulici. Cítíme, že ještě v březnu, 15. března, už je takové teplo a svítí sluníčko a po sněhu ani památky.
-
-Je hrozně těžké si od toho odpočinout, když v životě zažíváme nějaké přirozené ztráty ve smyslu, že mě hodili z práce, nebo jsem ztratila nejlepšího kamaráda, něco takového, tak je to těžké, je to náročné, často to přinese nějaké temnější období do našich životů, ale zpravidla poté nastane zase nějaké období klidu, spokojenosti, kdy zažíváme, že si nějak máme fajn a že ten život je dobrý.
+Tak potom tahle základní poučka ekonomie, že působení trhu vede k tomu, že je něco v průměru dobré, neplatí, protože já ještě dokážu najít. Možná by bylo lepší, kdybyste si nesměňovali ty masky a tím pádem mi neublížili, protože možná to, o kolik získáte směnou těch masek, je menší, než to, o kolik mi dokážete ublížit.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Jednou to skončí.
+Což vede k přemýšlení, kdy má tedy smysl ještě dále obchodovat a kdy má smysl nad tím obchodem víc přemýšlet, jestli to stojí za to.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="zapal" %}
 
-Jednou to skončí. A tady čelíme tomu, že to jako nekončí, že je to neustálé a musíme si spíš jako vědomě hledat chvíle, kdy se zpátky dostaneme do kontaktu sami se sebou s těma zdrojema, tomu, že můžeme vydechnout, dělat to jako vědomě, možná, kdy si taky odpojíme třeba od těch informací z médií a tak, abychom to nekonzumovali jako neustále, nenechávali se tím zahltit. No, a potom třetí rozdíl, možná ten nejpodstatnější, který doléhá.
+Přesně tak. A zároveň to otevírá možnosti, respektive možnosti nějakým způsobem intervenovat do toho trhu, protože možná, když budeme mít 1000 lidí, tak nebude úplně optimální, když si budou směňovat masky a těch obchodů bude, prostě směníte masku a tu pak směníš dál a podobně, ale možná ten obchod jde nějak naplánovat tak, abychom všichni nemuseli pořád jezdit autem. Ale, ale prostě pojedeme jenom jednou, směme si to rovnou tak, jak to dopadne na konci, tak tohle možná lepší, tohle je možná lepší.
 
-Možná to nejvíce ovlivňuje tu nejmladší generaci, ale vlastně i ty ostatní, a to je ten, že.
+{% include 2050/transcript-person.html id="pribyla" %}
 
-Ta krize se dotýká nejenom nás a našich dětí, ale potažmo i všech budoucích generací, že už ten život zkrátka nikdy nebude takový jako dřív a je toto, co se děje, zcela mimo nějaký přirozený cyklus zrození a umírání, tak, jak jsme ho historicky zažili. Jasně, byly nějaké války, byla nějaká období, kdy se věci proměňovaly a svět se měnil, ale myslím si, že lidé v každé týhle epoše mohli mít nějaký kus naděje, že jednou to zase bude jako dřív a jednou budeme žít zase v dobrém, bezpečném a prosperujícím světě. Ale tady jako kdyby bylo těžké tuhle naději si někdy nějak jako podržet a nějak ji mít přítomnou, protože zkrátka lidé, včetně mě, zažívají jako strach, že možná už nikdy nebude nic jako dřív a možná už ten svět, i podle těch průzkumů, vyplývá, že velmi vysoké procento současných mladých lidí.
+Takže přesně, takže vlastně jo, a to by bylo o tom přijít na to. V tomhle případu by to bylo přijít na to, jak můžu dojít k tomu nejlepšímu výsledku, že všichni budeme mít blízká čísla hlavy a masky, ale udělat při tom co nejmíň transakcí.
 
-Nevěří tomu, že by žili v tak dobrém světě, jako jejich rodiče, že zkrátka věří tomu, že jejich život už bude.
+{% include 2050/transcript-person.html id="zapal" %}
+
+Přesně tak, přesně tak. To je jeden z možných, to je jedna otázka, která je vlastně relevantní v tomhle kontextu. Velká část toho kurzu, já vím, že se dostávám zpátky k tomu kurzu, je vlastně o tom, co se stane, když tahleta základní poučka ekonomie neplatí. Ta poučka je, tomu se říká první teorém ekonomie blahobytu, je to přibližně ze sedmdesátých let, je to důvod, proč spousta ekonomů říká: "Nechte trhy působit, oni to zařídí." Toto tvrzení má dva problémy, jednak to, že teorém neplatí vždycky a pro mě osobně začíná zajímavá ekonomie tam, kde tento teorém přestává platit, protože do té doby prostě to můžeme nechat na trhy, nemusíme vůbec intervenovat, nejsou tam vlastně jako zajímavé výzkumné otázky, nemusíme se nad tím zamýšlet. Druhý problém s tímto teoriemi je ten, že říká, budeme na tom v průměru všichni dobře, ale už neřeší redistribuci, to znamená to, že výsledkem působení trhu budou rodiny, které jsou velmi chudé, které jsou velmi bohaté, tak se nám nemusí líbit a potom s tím můžeme něco dělat. To je vlastně jako další důvod, proč intervenovat.
+
+{% include 2050/transcript-person.html id="pribyla" %}
+
+Mně se tenhle přístup strašně líbí, říkám si, že se takhle učit ekonomii by možná vedlo k tomu, že bych nešel studovat fyziku. A mně se líbí...
+
+{% include 2050/transcript-person.html id="zapal" %}
+
+To beru jako kompliment.
+
+{% include 2050/transcript-person.html id="pribyla" %}
+
+Mně se líbí ta abstraktnost toho, že vlastně jako ukážeš model, na který je jasný, že když teda za každou transakci platíme, respektive si pak všichni odečteme nějaké číslo, tak to je jasný, že ten model pak nedojde k nějakému dobrému výsledku. Nicméně zajímalo by mě ještě jako pojďme to napojit trošku víc na reálný svět. Tady máme model masky, hlavy a nějaký jako poplatek za transakci, když se bavíme v reálném světě o externalitách, co to jsou za příklady? My mluvíme o životním prostředí, kde si vlastně říkáme, nikdo z nás neplatí za to, že má čistý vzduch, ale čistý vzduch je externalita, případně všichni můžeme znečišťovat a když za to nikdo neplatí, tak je to negativní externalita. Pojďme uvést ještě pár takových příkladů a ukázat na nich nějaké parametry, které ty externality mohou mít.
+
+{% include 2050/transcript-person.html id="zapal" %}
+
+Úplně standardní příklad externalit je někdo, kdo má včely, přiveze včelín vedle sadu s jabloněmi a neplatí za to, a ten, kdo má ty opylené jabloně, potom benefituje z toho, že tam byl ten včelín. To je jako pozitivní externalita, externality mohou být negativní a pozitivní, takže tohle je příklad pozitivní externality.
+
+{% include 2050/transcript-person.html id="pribyla" %}
+
+Takže ani jeden z nich za to neplatí a oba mají benefit.
+
+{% include 2050/transcript-person.html id="zapal" %}
+
+Přesně tak, přesně tak. Příklad negativní externality. Například doprava, kdy já, když jedu do křižovatky, tak se tam pletu všem ostatním, to znamená, že oni pak nepojedou tak rychle, nebo budu muset čekat a podobně. A také za to neplatím.
+
+### Internalizace externalit
+
+{% include 2050/transcript-time.html time="11:18" %}
+{% include 2050/transcript-person.html id="holik" %}
+
+Když si říkal vlastně, že základní rozdělení externalit může být na pozitivní a negativní, když se teda pomalu začne bavit konkrétně o tom, o změně klimatu, o dekarbonizaci, o životním prostředí, tak jako velké negativní externality, o kterých se mluví, je vypouštění emisí skleníkových plynů. Řekněme, že mám stádo krav a já v tuhle chvíli neplatím peníze za to, že vypouštíme tam do ovzduší, řekněme, že mám doma kotel, ve kterém topím uhlím.
+
+Tak z komína mi jde nějaký kouř, neplatím za to, že mi jde z komína ten kouř. Negativní externalita, v tom kontextu právě ochrany klimatu se hovoří hodně o internalizaci externalit, tedy já to chápu, ten výraz, jako jak ty externality a možná jednoduché slovo by bylo zpoplatnit, anebo jako vlastně jak ten náklad, který oni vlastně vytvářejí pro společnost, vztáhnout k těm aktérům, kteří z toho vlastně benefitují, protože když já mám stádo krav, tak za ten metan neplatím, ale mám, když ty krávy pak prodám nebo z nich mám mléko, tak z toho vlastně benefituju.
+
+Tak, jak vlastně, no, jak tohle ekonomický, já si to představuju jako takové narovnání, jakože vlastně, vlastně některé věci, které já způsobuju a které nesou, přenáším nějaké náklady na společnost, ale benefity sobě, tak je potřeba dost jako narovnat, aby to bylo vlastně, vlastně fér, tak, tak vnímám tenhle ten termín, možná, klidně dovysvětlit, co to znamená, internalizace, externalit ty oblasti životního prostředí a co v tom poli, tak jako jsou nějaké významné body, o kterých bychom se měli bavit.
+
+{% include 2050/transcript-person.html id="zapal" %}
+
+Když se řekne internalizovat externalitu, tahle terminologie naráží na to, že když si budete vyměňovat masky, přestože víte, že když pojedete si vyměnit tu masku, ublížíte všem ostatním, ve většině případů budete ignorovat tento efekt na ostatní lidi.
+
+Pakliže budete brát v potaz jenom svůj užitek, tak problém je v tom, že vlastně neberete v potaz ty externality, a kdybyste to dělali, kdybyste je měli internalizované, tak možná ten obchod nebudete provádět, protože si řeknete, já budu mít benefit z té masky, řekněme tomu, 20 nějakých abstraktních jednotek, ale ublížím tady Honzovi 40, tak se mi to nevyplatí. A všechny řešení problémů externalit jsou nějakým způsobem do určité míry o internalizaci těch externalit, o tom donucení vás, abyste brali v potaz, že vaše chování má dopad na mě.
+
+Úplně nejjednodušší je regulace.
+
+{% include 2050/transcript-person.html id="pribyla" %}
+
+To znamená zákaz třeba.
+
+{% include 2050/transcript-person.html id="zapal" %}
+
+To znamená zákaz.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Environmentální témata samozřejmě nepřinášejí jenom negativní nebo nepříjemné pocity, ale můžou přicházet taky pocity nejenom bezmoci, ale třeba taky zážitek toho, že mám na nějaké věci vliv, nejenom toho, že se cítím osaměleji v tom, že to nikoho nezajímá, ale taky třeba zažívám podporu, když se spojím s lidmi, kteří mají podobné hodnoty v tom tématu a nějak se tam angažují, nejenom nějaké frustrace z toho, že se na politické scéně neděje to, co si myslím, že by se dít mělo, ale zároveň třeba nějaká velká naděje, když se zrovna věci dobře pohnou kupředu.
+Jdou posílat pouze poštou a nesmí se kvůli nim jezdit.
 
-My jsme se se Zdeňkou bavili v tomhle rozhovoru zejména o tématu environmentálního stresu, kam ty příjemné pocity neřadíme, takže se jim tady nebudeme tolik věnovat, a já jsem se jí ptal na to, jak velkého množství lidí se tohle náročné prožívání vlastně týká.
+{% include 2050/transcript-person.html id="zapal" %}
 
-{% include 2050/transcript-person.html id="vostova" %}
+Například nebo se nesmí směňovat, to je také, jako jsou věci, které se nesmí prodávat. Často to je z jiných důvodů, například prostě jako drogy a podobně, ale můžeme zakázat nebo můžeme omezit, pakliže, pakliže továrna vypouští 100 tun CO2 ročně, tak můžeme říct, může to dělat jenom, může vypouštět jenom 50. No, to je jako úplně nejjednodušší způsob nebo jeden z nejjednodušších způsobů, takže jedno je regulace, druhé zdanění. Já můžu říct, že za každou směnu, kterou uděláte, musíte zaplatit 30. No, to je, to je další způsob. A potom vy víte, Ondráš ví, že když si chce směnit tu masku, tak za to musí něco zaplatit, takže tenhle ten, to, co musí zaplatit, bude odečítat od toho užitku, který bude mít z té směny a možná dojde k tomu, že si řekne, tak mě to zase za to nestojí.
 
-Je to tak, že v Čechách ta nejvíce dominantní emoce, kterou Češi prožívají, je bezmoc.
+{% include 2050/transcript-person.html id="pribyla" %}
 
-Jestli si pamatuju správně, tak je to zhruba něco mezi 20 a 30 procenty lidí, kteří prožívají silně ve chvíli, kdy pomyslí na klimatickou krizi. Následují emoce jako smutek nebo vztek, úzkost. A co bylo taky zajímavé na tom výzkumu, je, že víc než půlka lidí prožívá nezájem nebo nějakou lhostejnost.
+Anebo budu hledat tak dlouho, až najdu někoho, s kým můžu směnit, abych to měl přesně tak na jednu směnu, velký, velký výsledek, abych to neměl na mnoho směn.
 
-Proč říkám, že to je zajímavé? Protože paradoxně z hlediska psychologických teorií to někdy může být vlastně stejný typ psychologické reakce na nějaký pocit ohrožení, jako je právě třeba extrémní bezmoc nebo vztek.
+{% include 2050/transcript-person.html id="zapal" %}
+
+Anebo budeš hledat někoho, kdo je blíž k tobě, jo, jako nepojedeš prostě přes celé Brno, ale pojedeš, jako půjdeš pěšky do vedlejšího bloku, kde možná ten člověk, který má tu masku, není tak perfektní, ale ta směna se vyplatí, protože nemusíš platit, ty nemusíš platit za to, že za to, že jedeš.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Protože to spíše připomíná odpojení od tématu než silné prožívání.
+Takže si říká vlastně, co se dá dělat. Regulace, dá se dělat zdanění.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="zapal" %}
+
+A to třetí, ten třetí způsob řešení, vlastně naráží na to, že externality jsou způsobené nedostatkem trhu, to, že vy si můžete něco změnit a mně to ublíží, a vlastně absence trhu. Proto moje ublížení. No a teď já můžu dělat to, že můžu říct, tak definujeme trh, protože mi můžete ubližovat. Nutnou podmínkou fungování trhu je, že víme, co čí je. My si můžeme začít směňovat tenhle hrníček, protože patří mně nebo vám, pak se teprve můžeme směňovat, takže musíme na tom trhu nadefinovat vlastnická práva, musíme říct, buď můžeme říct, já mám právo na to, abyste mi neubližovali, takže já mám kus papíru, na kterém bude napsáno, a Honzovi se nemůže ubližovat a když vy mi ublížíte, tak já můžu jít k soudu, vyžaduje to nějaký stát a fungování právního státu, a můžu jít k soudu a říct, já chci, abyste mi zaplatili tak, jak jste mi ublížili, a vy to víte, že půjdete k soudu, tak tu směnu možná neuděláte.
+
+Alternativa je, že vy budete mít papír, na kterém je napsáno, my si můžeme směňovat, což vlastně je tam napsáno, my můžeme Honzovi ubližovat, záleží, jak si to naformuluje. A v obou těchto případech, kdy buď vy máte papír, který vám umožňuje obchodovat, nebo já mám papír, který mi říká, že já mám právo na, řekněme, čistý vzduch, tak já ten papír můžu začít směňovat, to znamená, vezme si ten první příklad, já mám papír, na kterém je napsáno, já mám právo na čistý vzduch a vy tam můžete přijít a říct, prodáš nám ten papír a když mi nabídnete cenu, která je vyšší, než kolik mně ublížíte, já si myslím, že mi ublížíte, tak já vám ten papír rád prodám.
+
+{% include 2050/transcript-person.html id="pribyla" %}
+
+A my jim možná rádi zaplatíme tehdy, když nám to přinese větší užitek.
+
+{% include 2050/transcript-person.html id="zapal" %}
 
 Přesně tak.
 
-A že ta lhostejnost nemusí být jako skutečná lhostejnost, ale může to být reakce naší autonomní nervové soustavy. V souvislosti s faktem, že čelíme něčemu, co nemáme kapacitu v tu chvíli přijmout.
+{% include 2050/transcript-person.html id="pribyla" %}
 
-Protože je to pro nás příliš ohrožující, příliš potenciálně zavalující, příliš možná nekonečné. A možná se slyšel o takových čtyřech instinktivních reakcích, které, do kterých nás vlastně žene naše nižší, vývojově nižší centra mozku, to je bojuj, uteč, zamrzni, anebo potěš, ten nezájem může být právě tou formou toho uteč, to znamená, já radši se budu zabývat jinýma věcma, řešit jiná témata, v hospodě se nebudu bavit o klimatu, budu se radši bavit o tom, co kdo zrovna vyhrál ve fotbalu, to všechno jsou jako formy, jak se vyhnout konfrontaci s tím, co se reálně děje a u čeho mám třeba pocit, že na to nemám žádný vliv.
+Tím vlastně jako vyvážíš ten nedostatek.
 
-{% include 2050/transcript-person.html id="holik" %}
+{% include 2050/transcript-person.html id="zapal" %}
 
-Dá se to nějak víc prozkoumat? Protože já si říkám jako teď, a teď se fakt dívám na nějaký rozměr prostě policy makingu třeba, nebo jako když bych měl na základě veřejného mínění nějak jednat, tak je vlastně strašně důležité, jestli teda opravdu 60 % Čechů říká, hele, vím o tom dost a nezáleží mi na tom, anebo jestli jako 50 % z nich je jako vlastně spíš odpojených z bezpečnostních důvodů, protože je to prostě jako jejich psychologická sebeobrana a říkám si, i z druhé strany to vlastně nebezpečné, jako když někdo řekne, mně na klimatu nezáleží, tak abych já si řekl, jo, tak tobě určitě ve skutečnosti záleží, akorát je to tvoje psychologická obrana, tak to taky není asi úplně dobrý přístup jako k člověku, že jo, nějaký důstojný nebo tak, dá se to vůbec zjistit jako jinak než prostě půl rokem individuální psychoterapie nebo případně, jestli nějaké ty výzkumy mají ty ambice vlastně to víc jako prozkoumat.
+Přesně tak, pakliže to, kolik mi ublížíte, je větší než kolik vy benefitujete z té směny, tak mi nebudete schopni, ochotni nabídnout cenu takovou, aby se vám to ještě vyplatilo a mně to odškodnilo, takže já si nechám papír, vy si ho nekoupíte a nezobchodujete spolu masky. Krásou tohoto řešení je to, že vlastně nemusí přijít stát a říct, já si myslím, že bychom měli regulovat ze 100 tun co dva roky na 50 nebo mít stokrát, ale ne 200. Nemusí vlastně být nikdo, kdo vymyslí, jakou přesně úroveň, ale ta úroveň, na kterou se zreguluje vlastně ten trh, je zase rozdistribuovaná, je daná nějakým způsobem endogenně.
 
-{% include 2050/transcript-person.html id="vostova" %}
+Stejně tak u těch daní, jak máme moc danit. To, že vy si jedete něco směnit, má být koruna dvě, má být, má být daň na cigarety 50 Kč, 70 Kč, 100 Kč a někde jsou to odhady, dá se to odhadovat, jsou příklady, kdy to je těžké odhadovat, ale tohleto řešení, přestože my se vlastně dohodneme, tak do toho nemusí nikdo zasahovat a my se dohodneme na nějaké úrovni, která je vlastně, která je vlastně odráží ty naše konkrétní, tu naší konkrétní situaci a možná existuje nějaká jiná trojice, která má úplně jiné, v úplně jiné životní situaci.
 
-To je velmi dobrá otázka. Díky za ni. Já jsem obecně odpůrcem psychoanalyzování lidí na dálku, tak spíše tedy představuji nějaké teoretické koncepty, ale rozhodně se zdráhám někomu určovat, co on vlastně prožívá, protože já to nevím. To bychom možná mohli společně zkoumat, kdybych měla dostatek prostoru, být s ním v dobrém dialogu a zároveň by mi ten člověk dost důvěřoval, aby se mi otevřel.
+Ten druhý Honza mu moc neublíží, když si ty druzí něco smění a potom vlastně oni se smění a my si nesměníme a odráží to nějakou prostě jako, jako realitu. Na Zemi. Ještě dokončím, pakliže vy máte papír, který říká, my si můžeme směňovat, tak já k vám můžu přijít a říct, já ho koupím a já vám budu ochoten nabídnout cenu, která možná bude až tak veliká, o kolik mu blížíte. Ne víc, že jo, to pro mě nedávalo smysl a vy si řeknete, tak pro nás ta směna má nějaký benefit a pakliže ta cena, kterou jsem vám nabídl, vlastně bude větší, tak řeknete, tak my to prodáme, jako si nesměníme a ten papír prodáme, pak si nesměníte, pakliže ta cena pro vás, kterou já vám nabídnu, si řeknete, tak to si radši směníme, tak si směníte, ten papír mi neprodáte.
 
-A to, jak to zjistit, je právě to, že vytvoříme tenhle prostor nejenom na nějaké úrovni individuálních psychoterapií, ale možná na celospolečenské úrovni budeme vytvářet dost dobrý bezpečný prostor, abychom mohli jít trošku dál. Za tu, za tu pozici, za tu pozici toho mám vztek a štve mě to, že vláda nic nedělá, nebo za tu pozici, ale mě to nějak nezajímá. Klima, to vlastně všechno, lidstvo, všechno jako vyřeší, to je dobré vlastně, jak jsem tady mluvila o té naší autonomní nervové soustavě, když se na to dívám z pohledu psychologie, traumatu umožňovat naší nervové soustavě. Byla dostatečně zregulovaná, to znamená dostatečně jí zazdrojovat na to, abychom mohli pobýt v tom šedém poli nejistoty a nějak tu nejistotu víc zkoumat, co to vlastně je, i když čelíme nejistotě, tak to myslím z hlediska toho, co se dozvídáme za fakta třeba z vašeho podcastu.
+A vlastně ten výsledek toho, že se obchoduje, jenom když je to jako když je to správné, tak nezáleží na tom, jestli ten papírek mám já nebo vy. Co to ovlivňuje, je to, že když si my ten papírek vyměňujeme, tak jsou tam nějaké peněžní toky a možná na tom benefituji já, možná na tom benefitujete vy. Takže to, kdo dostane ten papírek, má dopad na to, kdo je bohatý, kdo chudý.
 
-Co to vlastně je, co se v nás děje, když to slyšíme, jak se ohledně toho cítím, co to se mnou dělá, co mi to přináší za obrazy.
+{% include 2050/transcript-person.html id="pribyla" %}
 
-Mám ohledně toho nějaké pocity, mám ohledně toho nějaké myšlenky, co se mi děje v těle. Proto, abychom se mohli dostat k tomuhle, potřebujeme nejdřív mít fakt dobré zdroje, abychom s tím mohli být bezpečně v kontaktu tak, aby nás to nevedlo právě k tomu odpojení a naopak k tomu, že nás to jako úplně zaplaví, nebo že se paralyzujeme.
+To jsem se právě chtěl zeptat, protože já si říkal, že ten příklad se mi líbí v tom, že na něm já krásně vidím, že když řekneš, že my od tebe musíme koupit papír, tak je to vlastně jiný, protože my musíme zaplatit, když ty od nás kupuješ papír, tak ty musíš zaplatit, a to rozhodnutí, kdo z nás teda má platit, to bude mít sakra dopad na to, kdo bude bohatnout a kdo bude chudnout.
 
-{% include 2050/transcript-person.html id="holik" %}
+{% include 2050/transcript-person.html id="zapal" %}
 
-Možná přemýšlíte nad tím, co je myšleno tím slovíčkem zdroje, které tu opakujeme. Taky jsem nevěděl, tak jsem se Zdenky na to ptal a vysvětlila mi, že se jedná o nějaké vnitřní nebo i vnější věci, které mi zkrátka dávají sílu, které mi dávají naději, o které se můžu opřít. Může to být někdo, o koho se můžu opřít, jako jsou přátelé, rodina, může to být kontakt s přírodou, zároveň to můžou být třeba i nějaké vnitřní kvality nebo vlastnosti, které mi pomáhají nějakým způsobem zažívat to, že zvládnu si poradit v náročných situacích, může to být nějaká moje spiritualita, můžou to být nějaké zkušenosti, které jsem měl v minulosti, které mi dokazují, že hele, mám na to projít něčím, co třeba nebude jednoduché?
+Ano, ano, ano.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="pribyla" %}
 
-Čím dál tím víc dospívám k tomu, že nejlíp zazdrojovaný jsme, když jsou dobře propojený, všechny naše úrovně bytí. Jak ta mentální, analytická, tak tělesná, tak emocionální, když jsem s nimi všemi v dobrém kontaktu tady a teď, což je možná někomu může znít jako klišé, takové to buď přítomnosti, buď a teď, ale ono to dává vlastně ohromný smysl, protože často ty naše reakce, jak jsme tady mluvili o tom pocitu ohrožení, tak často ty naše reakce…
+To, co říkáš, je tedy, že v obou případech dojde k dopadu do toho optimálního stavu, ale redistribuce ve smyslu, kdo bude mít kolik, velmi záleží na tom, jestli platíš ty nebo.
 
-Pokud nemáme dostatečně dobrou kapacitu s tím jako bejt, tak nás to hází zpět, že jednáme opravdu více pudově, více instinktivně. Cítíme se jako hrozně ohrožení, ale většina těch situací, kterým čelíme, nás neohrožuje na životě tady a teď, pokud to tedy opravdu není přírodní katastrofa, že by nám třeba hořel dům, ale je to spíš nějaký otisk nějaké starší zkušenosti na to, co v minulosti bylo ohrožující, když nás třeba někdo neposlouchal. Teď se snažíme tady sdělovat lidem fakta o klimatu, ale vlastně narážíme na nějaký nezájem nebo dokonce bagatelizaci, devalvaci, a to může být otisk, otisk starší zkušenosti mnoha různých druhů, a ten kontakt s tělem, s emocemi, to, že já se jako zpřítomním, mi pomůže si uvědomit, že tady a teď se žádné ohrožení neděje, že tady máme nějakou situaci, kterou je potřeba řešit. Pravděpodobně na to řešení nezvládnu sám, nestačím sám nebo sama, je potřeba se spojit s ostatními a pojďme společně.
-
-Podívat se, co to s námi dělá a jaké jsou možné způsoby, jak se k tomu stavět a co bychom možná mohli udělat, co můžu udělat já sama za sebe, jaké jsou mé jedinečné dary a schopnosti a kompetence, abych možná přispěla nějak k tomu většímu celku, ale zároveň takovým způsobem, aby mě to moc nevyčerpávalo, aby to nebyla jako oběť.
-
-Protože ve chvíli, kdy jsem v dobrém kontaktu se svýma fakt jako dramaty, tak je to, je to, že dělám něco, co je mi vlastně nějak jako přirozené.
-
-A zároveň se na to může dívat i jako společnost, co my jako společnost můžeme dělat v tom, aby se ta situace nějak proměnila, a to právě i na té systémové úrovni, o které tady taky asi hodně mluvíte v podcastu.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-My jsme se se Zdenkou bavili o tom, jak je vlastně zásadní být nějak dobře v kontaktu sám se sebou a napojený na vlastní prožívání a tak, tak jsem mu upřímně propadal docela skepsi, protože třeba mám z vlastní zkušenosti, z vlastní praxe, když třeba učím nenásilnou komunikaci, tak vidím, jak je to pro lidi těžké a jak je náročné dokázat si třeba jenom odpovědět fakt upřímně na otázku, jak se teď mám, co cítím, co se ve mně děje, co prožívám, tak jsem si říkal, wow, tak to fakt teda nevím, jestli se v tomhle dokážeme jako společnost nějak výrazně posunout tak, aby to pomohlo třeba i tomu klimatu, ale Zdeňka to tak černě neviděla.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Já věřím, že ty trendy jsou a zesilují u nás ve společnosti a nejenom v Čechách, ale všeobecně.
-
-Když vezmu takový úplně příklad ode mě z rodiny, moje děti chodily do takové velmi respektující, ekologicky zaměřené školky celé své dětství a aniž bych já to jakkoliv tlačila z pozice toho, že jsem terapeutka, nebo aniž bychom to doma nějak cíleně praktikovali, tak mě vlastně fascinuje, s jakou samozřejmostí a s jakou lehkostí jsou zvyklí mluvit o tom, co cítí, co prožívají a jak to prostě úplně bez zábran pojmenují, anebo taky co potřebují. A myslím si, že tyhle kvality můžeme nějakým způsobem kultivovat v té společnosti, právě to, jak se vztahujeme k dětem, jaké vychováváme, jak je vzděláváme, ale i na úrovni těch dospělých jednotlivců.
-
-Jaké klima, prostředí budeme mít ve firmách, jak moc vzájemného respektu v nich můžeme zažívat, jak moc se v médiích a vůbec ve veřejném prostoru mluví o emocích, o prožívání.
-
-Já věřím tomu, že ta transformace je nějakým způsobem možná, ale to samozřejmě neznamená, že je možná rychle. Možná, že tohle všechno jsou kroky, které zabere delší čas.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Řekla bys v tomhle kontextu, že je nějaká jako klimatická transformace vlastně tím pádem úzce souvisí s nějakou, já nevím, jak to říct, jako spirituální nebo duševní, jako společenskou transformací, něco takovýho.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Já o tom nepochybuji, to nepochybuji. Četla jsem moc hezkou knížku Svět nenásilí od lektorky nenásilné komunikace Miki Kashtan.
-
-A ona tam píše, že ta transformace vlastně není tak, že by spočívala v tom, že my jako jednotlivci budeme pracovat sami na sobě, uděláme nějakou velkou duševní a spirituální práci a skrze to se změní celá společnost a celý systém ekonomický, ale ani to není tak, že tady teda změníme ty zákony a změníme.
-
-Společenské, politické uspořádání a skrze to se teda promění ti lidi a že tohle jsou vlastně procesy, které ani nepředcházejí jeden druhému, ale běží paralelně a nevyhnutelně se doplňují. My někdy v terapii jako léčíme lidi, ale vlastně vracíme do nemocného světa, proto si myslím, že je dobré působit zároveň na změnu té společnosti, ale zároveň těžko dosáhneme změny společnosti, pokud nějakým způsobem se neproměníme sami, takže podle mě je potřeba zkrátka působit na oboje.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-To mi přijde i hezky, jako nevím, jestli apel, ale taková zpráva pro lidi, co chtějí třeba klimatu nějak pomoct, takže to je vlastně celá další oblast, která vlastně klimatu pomůže. Jako pokud snad zrovna posloucháte, jste prostě mladí a rozhodujete se, co studovat, tak si říkám, jo, vlastně studium psychologie je úplně stejně důležité pro klimatickou volbu jako studium na nějaké technické škole proto, abych mohl instalovat fotovoltaické elektrárny třeba.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Nepochybně. A jsou i psychologové, kteří si toto velmi dobře uvědomují.
-
-Celosvětově byla někdy v roce 2018 nebo 19 vydána deklarace psychologických asociací, kde se píše o tom, že klimatickou změnu vnímají psychologické asociace z celého světa jako velmi závažný problém a nějakým způsobem apelují na ty své členské organizace a jejich členy, aby využívali své psychologické vzdělání k tomu, aby pomáhali komunikovat environmentální témata směrem k veřejnosti, protože to jsou právě často naše obranné mechanismy, které nám jako zabraňují to vstřebat, co už věda ví.
-
-A zároveň ale apelují také na psychology a psychoterapeuty po celém světě, aby používali všechny své kvality a kompetence, které mají k tomu, aby pomáhali lidem emocionálně doprovázet tím, že čelí následkům klimatických změn, nebo že čelí jakoby té nejistotě, o které jsme tady mluvili.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-To mi úplně přijde jako paralela, jak se mluví často v těch klimatických opatřeních o nějaké adaptaci a mitigaci, takže tohle je jako psychologická vlastně zase adaptace a mitigace, jako jak s tím něco dělat a zároveň, jak doprovázet v tom, jak s tím jenom možná být, to je ta adaptační část toho, hele, ono už se to děje a je to těžké a my prostě s tím potřebujeme být.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Ano, je to tady. A ještě k tomu teda řeknu, že ve chvíli, kdy jsem se před šesti lety začala tímto tématem zabývat, tak americká psychologická asociace tehdy vydala rozsáhlou zprávu o tom, jak dopadá změna klimatu na naše duševní zdraví.
-
-A zhruba v půlce té zprávy psali o tom, ne, jako, jak dopadají nějaké naše představy o tom, jaký ten svět jednou bude, až teda to klima na nás víc dolehne, tak, jak tyhle představy v nás teďka vzbuzují velký pocit strachu, nejistoty, úzkosti, bezmoci, ale i to, že to, že se reálně takhle klimatická změna už probíhá tady a teď, máme tady ty hurikány a ty povodně a ty požáry, jak pomáhat lidem vlastně snášet i psychologicky tyhle krizové situace. A já, když jsem si to tehdy četla tady z pozice naší dobré, příjemné, bezpečné České republiky, tak jsem si říkala, no, tak pro mě a mou práci tohle zatím jako není aktuální aspekt, přestože jsem věděla, že někde na světě se to již děje.
-
-Ale bohužel teda, jak ty roky postupujou, tak mně připadá, že to začíná přicházet vlastně i sem, že už i tady zažíváme občas krizové situace, které ve skutečnosti souvisejí se změnou klimatu, kde je potřeba v tom ty lidi podpořit i jako krizově, kdy to není jenom... Třeba ta americká psychologická asociace mluví o tzv. pretraumatické stresové poruše.
-
-Což je nějaký stav, který odpovídá projevům posttraumatické stresové poruchy v tom smyslu, že, možná to znáš, takové to, když lidé zažijí nějakou těžkou událost jako dopravní nehodu, přírodní pohromu nebo znásilnění, válku, tak potom mívají takové těžké stavy nějakých flashbacků, velkých úzkostí, nespavosti, že je to pro ně emočně těžké zvládat. No, a ta americká psychologická asociace mluví o tom, že tomhle prožívání v souvislosti se změnou klimatu v tom smyslu, že my můžeme mít podobné typy reakcí i ve chvíli, kdy jsme to ještě neprožili něco takhle jako těžkého, závažného, ale kdy máme představu o tom, že bychom to v budoucnosti prožít mohli, vlastně promítáme do naší hlavy ty možné potenciální scénáře těch obrovských migračních vln, hladomoru, válek o zdroje, a to u nás může vyvolat takovéhle reakce.
-
-To je tedy jeden aspekt, se kterým můžeme pracovat, ale pak je tady ten skutečný krizový scénář, kdy my musíme vlastně nějak se zkompetentnit v tom, poskytovat krizovou intervenci pro ty lidi, kteří už tady reálně čelí třeba tornádu, a to může, jim to smetlo dům, a to se děje i u nás.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Jo, zároveň si dokážu představit, že nevím, jako požáry, sucha, kůrovcové kalamity, jako to jsou, to jsou ty extrémní jevy, které u nás můžeme vlastně pozorovat už docela běžně, a taky si dokážu představit, že to může být až jako krizový nebo jako traumatický, jo, jako já, kdybych žil na té Vysočině, kde bych prostě chodil celý život do lesa a ten les tam najednou není, protože ho prostě sežrali za dvě sezóny brouci, tak.
-
-To s tebou něco udělá, že jo.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Přesně tak, a to se vlastně snažím říct, že tehdy před těma šesti lety mi to přišlo ještě takové vzdálené, ale za těch šest let se ta situace, aspoň teda z hlediska toho, jak já to vnímám, taky nějak proměnila, posunula. Čím dál tím víc tomu čelíme i tady v té naší české kotlině.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Ty jsi mluvila o tom, že nějakých 20 až 30 % Čechů zažívá nějakou formu toho environmentálního stresu. A chtěl bych se tě zeptat ještě trošku k těm číslům, jako na srovnání třeba s jinými částmi světa, jestli jsou jako takhle geograficky nějaké rozdíly a jestli jsou nějaké jako demografické rozdíly, jakože trochu čekám, že řekneš, hele, mladší generace jako zažívají třeba silněji než starší nebo něco takového. Jestli se to v těch datech ukazuje, případně nevím, jestli to koreluje s něčím dalším jako nějaká socioekonomická situace nebo vzdělání, nebo kdo ví, co.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Já myslím, že opravdu tak, jak znám ty zahraniční studie, které pokrývají jednak severní Ameriku, ale i je tady jedna studie, která oslovila 10 000 respondentů po celém světě v zemích Evropy, Asie, Afriky, Severní Ameriky, Jižní Ameriky, tak tam opravdu ten největší rozdíl nakonec ani není tak mezi těmi jednotlivými zeměmi nebo mezi vzděláním, ale mezi tím, kolik je těm respondentům let.
-
-Ve věkový kategorii 15 až myslím, že to bylo 25 let to, jak moc to na lidi doléhá, jak moc to emočně zasahuje do opravdu desítek procent, a taky desítky procent lidí odpověděly, že v souvislosti se změnou klimatu zvažují, jestli vůbec budou mít děti, popřípadě už jsou rozhodnutí, že děti mít nebudou.
-
-Když bychom šli do té dospělejší populace, tak třeba v Severní Americe je to, myslím, 7 % dospělých Američanů, kteří pociťují aspoň mírnou formu environmentálního distresu, takže tam to číslo postupně jako víc klesá, ale pořád ještě 7 % populace není zas tak málo.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-To je furt hodně.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-To je furt hodně.
-
-Takže proto mi to přijde jako fenomén, kterému je důležité věnovat nějakou pozornost, a teď ne jen jako jenom, abych osvětlila víc tu svoji misi, nejenom jako pozornost ve smyslu, jak tedy pomoct těmto sedmi procentům lidí, aby to jako necítili, aby to neprožívali, aby jim tedy bylo zase dobře, aby si vedli ten svůj byznys.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Prášky proti bolesti prostě na klimatickou krizi.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Přesně tak. Někdy dostávám od novinářů otázku, jak pomáháte lidem zbavit se environmentálního žalu?
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Možná pojďte pomáhat tomu světu, co zažívá tu klimatickou krizi, odstraníte ten zdroj.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Přesně tak. Takže když jsi se ptal na to, jak se k tomu staví psychologická teorie, tak já jsem moc vděčná za to, že čím dál tím více na západě, a všímám si toho, že už i u nás v Čechách se tam přístup proměňuje. To základní paradigma, ze kterého vycházíme, není, že je to taková trochu jako patologie, pojďme těm lidem rychle dát nějaký recept, aby to teda zase jako necítili, nebo možná jsou takoví všeobecně trošku úzkostní. A budeme zatím hledat ten jejich individuální příběh, ale spíš jako se posouváme směrem k tomu přístupu, že, cítit environmentální distres je velmi zdravá a legitimní reakce na nezdravou situaci, která se zkrátka děje, a mnoho výzkumů potvrzuje, že je to ve skutečnosti adaptivní reakce a zároveň pro environmentální, to znamená, že ona nám vlastně pomáhá se nějakým způsobem ta naše reakce vnitřní, emocionální se nějak adaptovat na tu realitu, ve které žijeme a pomáhá nám.
-
-Nezůstat jako v tom pasivním přihlížení, ale nějakým způsobem přispívat k proměně světa, ve kterém žijeme. Ale jenom ještě pro mě, Petře, jenom ještě dodám, že tohle platí za předpokladu, že v tom neuvízneme, v těch svých vlastních emocích, že se nám podaří se jimi nenechat jako zaplavit, zavalit, nedostat se do té paralýzy toho, že to je příliš, nebo že neuvízneme třeba v tom vzteku a že potom nekřičíme na každého, že to prostě dělá úplně hrozně zle a nevyvoláváme jako zase polaritu ve společnosti. My musíme vlastně si pomáhat, vzájemně se natolik podpořit a sebe podpořit, abychom to naše prožívání uměli posunout někam dál do nějaké širší perspektivy, aby ty naše akce byly skutečně efektivní a účinné.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Takže to, co říkáš, můžu si to přeložit jako, hele, pokud zažíváte environmentální distress, tak to neznamená, že jste špatně. Naopak, je to zdravá reakce na něco, co je ohrožující, asi když někomu na Ukrajině spadne bomba na dům, ve kterém bydlel, tak nám také nepřijde jako nezdravá reakce, když je z toho traumatizovaný, že jo.
-
-Ale říkáš, je tam, ale, ale jako nezamrznout v těch těžkých emocích, vlastně jako to, co pomůže světu, je jako naopak najít zdroje, jak to prožívat nějak konstruktivně, to je to, o čem přemýšlíš.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Přesně tak, ale já bych to zase posunula ještě od toho individuálního k tomu společenskému, tohle by byl příliš velký nárok, kdybychom to kladli na ty jednotlivce samotné, jako zpracujte si to nějak teda sami.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Vydělej dost peněz, zaplať si dost terapií.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-A pak teda přijď jako zpátky.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Za náma a buď užitečnej.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Já myslím, že jsme v tom všichni nějak na stejné lodi a že to, co můžeme dělat, je posilovat nejenom na té individuální úrovni, ale na té společenské naše zdroje k tomu, abychom těmahle, tímto procesem mohli nějak dobře a zdravě procházet, a pak říkám procházet a ne projít, protože já to vnímám jako spirálu nebo cyklus, kdy se stále znovu a znovu dostáváme do kontaktu s tím, co je těžké a bolavé, a stále znovu a znovu je potřeba se nějakým způsobem zdrojovat a získávat možná nějaký jiný náhled, jiný postoj a hledat si svou vlastní jedinečnou cestu, nějakou, nějaké mé místo ve světě, v tom systému a v mém životě, kde já můžu dělat něco, co mi přijde smysluplné, ale to se nějak proměňuje, že?
-
-Možná za nějakou dobu zase dospěji do bodu, kdy budu si možná potřebovat oplakat něco, co mě bolí, nebo se vyvztekat, ideálně za podpory lidí okolo mě a zase znovu. A to, že to je takový jako spirální cyklus, je moc hezké, o tom mluví Joanna Macy ve své knize Aktivní naděje a návrat do života, kde ono tam zmiňuje opravdu spirálu a nikdo z nás, ani já, když už jsem s tím tématem jako v kontaktu dlouho i odborně.
-
-To nemá podle mě tak, že bychom tím prošli nějak lineárně. A pak už jsme to měli vyřešené. A už jsme to vyřešili, už si to vyřešili, už nás nic nebolelo.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Netrápilo, byli jsme s tím úplně v pohodě.
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Bavili jsme se o tom, že dominantní emoce spojená s environmentální krizí v České republice je bezmoc. Co tedy s tím, jak nad tím přemýšlet i z toho pohledu, co si z toho vzít? Nejenom jak se toho zbavit.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-Určitě.
-
-Já vnímám každou emoci jako nějakou zprávu, jako nějakého posla, který nám nese nějaké důležité poselství, a přijde mi dobré tomu, tomu poselství, naslouchat, jako když si dáme ruku na horká kamna, tak to sice bolí, ale je dobré tomu naslouchat, protože bychom se spálili, kdybychom to nebudeme poslouchat, tak. Stejně tak, pokud cítíme bezmoc.
-
-Možná je to zpráva o tom, že se potřebujeme spojit, o tom, že na tu změnu nestačíme sami, ale možná spojit jak vnitřně, sami se sebou, s tím, co teda, jak se máme v těle a co prožíváme, ale jako spojit na úrovni komunit a celé společnosti, abychom dosáhli třeba nějaké systémové změny, která bude mít zásadní dopad a stejně tak každá jiná emoce, která nám přichází v souvislosti s tím, co se děje v našem vnitřním prožívání, tak možná nějaké důležité poselství, smutek, žal třeba o tom, že je potřeba se zastavit a možná adaptovat na to, co se děje a možná i přehodnotit to, co se dělo doteď, nějak to zreflektovat, protože smutek nás vlastně brzdí v té horečnaté aktivitě, ke které jsme v naší společnosti tak jako vedeni a vychováváni, a vztek jako zase.
-
-Informuje o tom, že něco už nějak naráží na naše vlastní hranice, že je potřeba začít chránit, že je potřeba se začít chránit.
-
-Ono vlastně to, že prožívají nějaký emoce.
-
-V souvislosti se zániky v přírodě mluvili biologové už v šedesátých letech, když sledovali zánik jednotlivých ekosystémů.
-
-Vím, že třeba jedna vědkyně, teď si nevzpomenu její jméno, se rozplakala při svém rádiovém rozhovoru, když mluvila o tom, čeho je svědkyní. A tehdy jsme se k tomu stavěli jako společnost tak, že emoce jsou něco, co je potřeba od toho akademického uvažování oddělit, že to možná není důležité. Pojďme radši mluvit o těch faktech.
-
-A když už někdo čelil nějakým emocím, tak až do nedávné doby si myslím, že se dělo primárně to, že jsme mu tak trochu říkali: "Hele, tak běž někam na terapii nebo do lesa, tam si to jako vyřeš a pak se vrať zpátky, to je vlastně tvůj osobní problém."
-
-{% include 2050/transcript-person.html id="holik" %}
-
-Oprav se, oprav se a pak se vrať do normální společnosti.
-
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="zapal" %}
 
 Přesně tak.
 
-Moc se mi líbí a moc přijde inspirativní v tomhle ohledu přístup některých domorodých kmenů třeba v Brazílii. Moc hezky o tom mluví i neurovědec (Eduard Schoenberg), který tam za těmi kmeny jezdí a nějak s nimi rozmlouvá a on si povšiml takového rozdílu, jak oni se vztahují k tomu, když někdo z jejich společenství prožívá nějaké trápení, ať už na fyzické nebo na duševní úrovni, oni to nikdy nepovažují jenom za záležitost toho jednotlivce, oni to vždy berou jako zprávu o celém společenství, protože příčiny toho utrpení zpravidla nějakým způsobem přesahují toho jednotlivce, takže oni se na to dívají víc systémově. My se možná v tomhle můžeme inspirovat.
+{% include 2050/transcript-person.html id="pribyla" %}
 
-To, že tady teď máme tak ohromné množství lidí, kteří prožívají environmentální úzkost, nastraženost, cokoliv, tak vlastně je možná zpráva o tom, že my jako společnost se fakt potřebujeme zastavit a vzít to jako nějakou důležitou zprávu, že je něco potřeba začít dělat.
+OK.
 
-To vědomí krize, které teď čelíme na náš život, může jako nějakým způsobem i obohatit, a dost často to zmiňují účastníci mých workshopů nebo nějakých kurzů, že právě to vědomí třeba změny klimatu nebo nějakých jiných aspektů environmentální krize jim taky nějakým způsobem, kromě toho, že to bolí, vlastně proměnilo život k lepšímu, že si třeba víc váží svých vztahů, které žijou tady a teď, které se vlastně netýkají nějak jako vzdálené budoucnosti, ale které už tady a teď máme k dispozici a jsou krásné, jsou bohaté.
+### Příklad emisních povolenek
 
-Že je nějakým způsobem jinak nakládají se svým časem, už je třeba nebaví jako nakupovat celé odpoledne někde v obchodáku, ale raději jdou ven do přírody, do lesa, který je teda taky velkým zdrojem, že už jsme u toho.
+{% include 2050/transcript-time.html time="20:20" %}
+{% include 2050/transcript-person.html id="zapal" %}
 
-Dost často se taky lidi posunou profesně v kontaktu s tímto tématem, rozhodnou se, že budou natáčet podcasty, vidět stejný a co jim dává smysl?
+A zároveň jsme úplně v jednoduchém případě, kdy je tady jednosměna, je tady jeden papírek, ale možná když se budeme bavit o emisních povolenkách, tohle je vlastně princip emisních povolenek, to, že někdo řekne, emitujeme papírky, které říkají, vy můžete emitovat tunu CO2. Ty následně budeme obchodovat. Tak jedno velmi důležité rozhodnutí je, nechá si ty povolenky stát a řekne firmám, když vy chcete emitovat, tak já vám je prodám, nebo je dá firmám, což je.
 
-My tomu říkáme posttraumatický růst, psychologická teorie.
+{% include 2050/transcript-person.html id="pribyla" %}
 
-Je to způsob, jak nějakým způsobem vyrůst z toho těžkého a bolestného, posunout se někam dál, dát tomu hlubší význam, hlubší smysl té naší zkušenosti.
+Část povolenek, ano.
+
+{% include 2050/transcript-person.html id="zapal" %}
+
+Představte si, že veškeré emisní povolenky by dostalo Hnutí Duha. Tak to je také jedno řešení, nebo jako neziskové organizace, které bojují za životní prostředí, to je také způsob, kam ty povolenky dát. Druhé důležité rozhodnutí je, kolik těch povolenek bude, protože to determinuje celkovou úroveň toho, kolik se bude emitovat CO2. Krásné řešení nebo krásný aspekt toho řešení je ten, že ta cena povolenek vlastně determinuje.
+
+U regulace je problém v tom, že když stát řekne všechny firmy, musí snížit emisi CO2 ročně na polovinu, tak to musí udělat i ty firmy, pro které to je nákladné, i ty firmy, pro které je to jednoduché. Když budeme obchodovat povolenky, tak pro firmy, pro které je nákladné snižovat emise, si koupí víc povolenek od těch firem, pro které je jednoduché snižovat emise, takže ta alokace toho snižování zase odráží nějaké náklady toho snižování. Je to rozestříhaný systém, který reaguje na to, že každá firma má možná jiné náklady snižování emisí, což je možná lepší, neříkám, že vždycky lepší, což je možná lepší než regulace nebo danění.
+
+{% include 2050/transcript-person.html id="pribyla" %}
+
+To krásně vysvětluje ty diskuze, které jsou o povolenkovém systému, protože alternativou k němu je zdanění, některé země mají obojí, některé země mají jenom daně, emise skleníkových plynů, některé mají jenom povolenky a vlastně ta diskuze, ty diskuze, které o tom byly, je, no, některé firmy by rády daně, protože ty jsou předvídatelné, ví, kolik budou platit, když to, ta cena povolenky je určena trhem. Tam může vyskočit nebo se měnit nebo je vlastně pro ně hůř předvídatelná. Z druhé strany jako daně by nemusely zajistit pokles těch emisí, když řeknou každý rok budou dávat na trh méně a méně povolenek, tak to zajistí ten pokles a cena se upraví tak, aby to snižovalo ty emise, a to vlastně jako až teďka, když to takhle popisuješ, tak vidím, že jsou to fakt fundamentálně jiné systémy a že to není jedno, že to není záměnné, že to bude mít, že daně by měly jiný efekt než emisní povolenky.
+
+A ta diskuze o tom, co teda děláte, je vlastně docela relevantní.
+
+### Role regulátora
+
+{% include 2050/transcript-time.html time="23:25" %}
+{% include 2050/transcript-person.html id="holik" %}
+
+Hodně přemýšlím nad tím, že vlastně je potřeba buď nějaký mocný hráč, který řekne, teď budeme mít povolenky, že jo, což v případě, když to zařídí stát, anebo je možné, že se jinou iniciativou než regulátorem něco takového nastavit. Asi si dokážu představit, že se všechny firmy, které vypouštějí CO2, domluví, že to budeme chtít regulovat. Nevím, jak moc je to reálné, jestli se tyto zásahy nebo systémy dají nastavit jinak než jen z pozice moci, z pozice EU.
+
+{% include 2050/transcript-person.html id="pribyla" %}
+
+Ne, to je, jako, jestli to dobře chápu, a teď mě oprav, jestli tam to. Ale to je právě povaha externality, že nikdo na tom trhu nechce platit, že ona je mimo, to znamená, ty firmy budou vždycky chtít externalitu udržet mimo, aby ji nemusely platit, a ty firmy...
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Zdeňka má zároveň vlastní psychoterapeutickou praxi, takže se přímo potkává s lidmi, kteří sami ty enviro temata nějak prožívají a mluvila o takových třech skupinách lidí, kteří k ní chodí. Ta první skupina je prý docela pestrá a jsou to často angažovaní lidé v tom tématu, jako jsou učitelé nebo ochranáři přírody, lidé z neziskových organizací nebo třeba umělci, kteří o přírodě píšou nebo točí.
+Za předpokladu, že jsou to ty jako jedu na sebe, nezajímá mě nic okolního, ano.
 
-Druhou skupinou jsou lidé, kteří se pracovně v tom tématu neangažují, ale téma klimatu na ně emočně hodně doléhá.
+{% include 2050/transcript-person.html id="zapal" %}
 
-{% include 2050/transcript-person.html id="vostova" %}
-
-Já jsem třeba paní, která za mnou přišla a kterou nějak hodně zasáhla po vědomí toho, co se děje ve chvíli, kdy na její vlastní chatě, kam jezdí, najednou přestala téct voda, protože prostě byla vyschlá studna a najednou ona prostě neměla vodu a v tu chvíli nebyla tím samozřejmě ohrožená, ona měla ještě svůj byt v Praze, všechno v pohodě, donesla si vodu v kanystru, ale najednou to vědomí, že by se taky mohla dostat do bodu, kdy nemáme prostě vodu, ji fakt jako vlastně ochromilo a ocitla se ve stadiu té environmentální úzkosti, která pro ni byla jako velmi těžko integrovatelná, potřebovala k tomu vnější pomoc.
+Což ale správná firma by měla dělat, že jo, jako posláním firmy je maximalizovat zisk svým vlastníkům, takže vlastně jako ta správná firma by měla maximalizovat zisk a nebrat v potaz externalitety, které.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-A třetí skupinou, se kterou Zdeňka pracuje, jsou mladí lidé z nastupující generace.
+Takže vlastně je to, dá se říct, že je to tím pádem jako starat se o externality, což je role regulátora státu.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="pribyla" %}
 
-Americká vědkyně Britt Wray, která se tímto fenoménem environmentální úzkosti zabývá, na akademické půdě tak mluví o tom, že mladá generace často prožívá pocit takové institucionální zrady. To znamená, že my jsme se narodili do tohoto světa a dřív, než vůbec můžeme něco udělat, tak nás ty instituce, které měly za úkol nás vlastně chránit a vytvářet nám dobré podmínky pro naši budoucnost, aby jsme mohli prosperovat, rodit své děti a žít si své životy, tak nás vlastně zradily. Vy jste o tom věděli celé ty desítky let, co se děje, a nic jste s tím neudělali a pokračovali jste v tom a dále v tom pokračujete. A my už s tím teď nic dělat nemůžeme a myslím si, že to je jeden z důvodů, proč vlastně potom v těch výzkumech vychází, že právě na tu mladou generaci to doléhá ještě s větší intenzitou, protože ten pocit bezmoci je u nich ještě posílený.
+Někoho, kdo stojí mimo trh.
 
-Tímto aspektem, oproti třeba nynějším padesátníkům, šedesátníkům, kteří to nějakým způsobem celý život spoluvytvářeli, a teď to vůbec nemyslím tak, že bych chtěla někoho nějak zaviňovat, ale jsou přece jenom v trochu jiné pozici a u nich zase ale může potom právě ten pocit viny spouštět ty silnější obranné mechanismy, které to nějak jako popírají nebo vytěsňují, protože je to vlastně těžké čelit tomu faktu, že jako my jsme tohle spolu vytvořili, to není jednoduché psychologicky tohle unést.
+{% include 2050/transcript-person.html id="zapal" %}
 
-{% include 2050/transcript-person.html id="holik" %}
+ANO, a ne standardně všechny tyto nástroje jsou vnímány jako nástroje státu pro vnímání špatného fungování trhu, ale dneska už víme, že to nemusí být nutně stát, který tuhle regulaci, řekněme, dělá. A existuje fascinující linie výzkumu na řešení externalit, které jsou, které se opírají o celospolečenskou dohodu.
 
-Já si teď úplně jako si to představuju, fakt se na mě doléhá taková, jako, takové sevření, že… nebo jenom, když si představím, že jsem prostě, že mi je 60, tak si říkám, já jsem možná spoluvytvářel transformaci, která byla úspěšná, jako od totality k demokracii v Česku konkrétně, jo, si říkám, a to je...
+Ono je to vlastně téměř synonymum k tomu státu, protože pakliže vnímáme stát jako celospolečenskou dohodu, která nám umožňuje dělat některé věci, tak vlastně budu mluvit o tom samém, ale já to vysvětlím. Elinor Ostrom, omlouvám se, nevím přesně, neumím přesně vyslovit to jméno. Ta dostala Nobelovu cenu za celoživotní zkoumání skupin nebo situací, kde dochází k nadužívání nějakého společného zdroje. Typicky společný zdroj je rybářská vesnice u moře, tam jsou nějaká loviště, na ta loviště každý rybář může jet, ale když tam všichni budou hodně lovit, tak populace ryb se nebude obnovovat a ten zdroj zmizí, to znamená, to je další příklad externality. Já když jedu a vylovím víc ryb, než bych měl, tak to má externí účinek na všechny ostatní rybáře a teď je otázka, jak tenhle společný zdroj nějakým způsobem spravovat.
 
-Takže mám vlastně, možná se nemusím cítit bezmocný, nebo jsem zažil v životě aspoň období, kdy jsme prostě něco dokázali, něco, někam jsme se posunuli, třeba jako společnost, nebo mám za sebou prostě, nevím, úspěšný byznys, kariéru, rodinu, jako že už vlastně stojím na zdrojích, které jsem si vybudoval během života. Samozřejmě jsou lidé, kteří to tak třeba nemají, to štěstí, a když si představím opravdu to jako, že se narodím do světa, který...
+Základní tenze je ta, že já se rozhoduju mezi tím, jestli vylovit dneska hodně nějakým velkým ziskem a tím, že poškozuju ten zdroj do budoucna a už nebudu mít co lovit a ta loď mi bude, ta loď mi bude na nic. Problém je v tom, že ten zisk, který vytvářím dneska, je jenom můj ten náklad budoucnosti, ty vylovené ryby a vlastně to, že nemáme, je náklad celé společnosti, respektive celé té rybářské vesnice.
 
-Jak říkáš, no. Že já na něm nemám žádnou moc, protože mám povinnou školní docházku, musím poslouchat rodiče, nemám volební právo a zároveň mám velice pestrý přístup k internetu a k informacím, které mi říkají, jak tenhle svět je rozbitej, máme envirokrizi, jako je jedna z nich z těch krizí, se kterýma se můžu potýkat.
+Další příklad jsou pastviny, vesnické pastviny, kam každý může vyhnat svůj dobytek, ale když tam všichni vženou velmi často svůj dobytek, tak tam spásou trávu. Nebude to udržitelné. No, a co ona už teda zemřela? Ale co ten výzkum ukazuje? Je, že jsou společnosti, skupiny lidí, které jsou schopné se nějakým způsobem domluvit a vymyslet si řešení toho, jak s tím, s tím problémem naložit. A jsou skupiny nebo společenství, která nejsou schopná.
 
-To je hrozná situace, že. To je fakt hrozný, nezávidím to, mám velký soucit s touhle generací. Já jsem se nějak hlouběji se změnou klimatu setkal během svých vysokoškolských studií, a to spíš z té akademické roviny, která je velmi odpojená od prožívání, takového, tady se dějou tyto trendy, tady stoupají teploty, OK, a pak nějak víc emočně nebo komplexněji až s prací pro Fakta a klimatu. A mně je teď přes 30, takže to, že už to je také v dospělém životě a potkalo mě to spíš jako kariérní volbu, jako že jo, já se rozhoduji teď dělat něco tímto směrem, takže vlastně jako zmocňující element.
-
-Představa, že tohle to potkám, když mi je 13.
-
-Když s tím fakt nemůžu nic dělat, protože to, co se ode mě očekává ve společnosti, je učit se na test, nevím, z dějepisu. Au, to bolí.
-
-{% include 2050/transcript-person.html id="vostova" %}
-
-No jo, je to tak, já jsem třeba dělala workshop na pedagogické fakultě pro budoucí učitele, protože,
-
-I oni se budou často potkávat s tím, že to bude na ty děti doléhat. Budou o tom učit, a jedna z těch studentek, když jsem se ptala, co vlastně prožívají, tak říkala: "Já už vlastně ani neprožívám nic."
-
-My jako naše generace čelíme tolika krizím na tolika různých úrovních, a zdaleka nejenom té environmentální, ale krizi bydlení, krizi toho, že tady je jako válka, tady prostě rostou nerovnosti, a je toho vlastně jako tolik věcí, co bychom vlastně mohli jako řešit, ale vlastně nemáme jak řešit, že si už ani jako nemůžu dovolit být s tím v kontaktu, protože by to bylo příliš. Tak to je ten jeden přístup, a potom ten druhý přístup, ono to není jako vědomá volba často, ale to, co se potom děje, často taky jako na té druhé straně těch dvou polarity, že to na ty lidi doléhá tolik, že si tím fakt nechají zaplavit, a možná ani nemají jako na výběr, ale prostě nemají dost jako podpory, zdrojů, aby to nějak dobře integrovali.
-
-Je podstatné nás směřovat zpátky k nějakému biocentrálnímu postoji, kdy se vztahujeme k přírodě nebo obecně k většímu celku, ve kterém žijeme. Jako k něčemu, jehož jsme součástí, co nás přesahuje, kde čerpáme z prvků vzájemné souzvětlosti, kdy ani jenom nebereme, ani nedáváme, ale je to taková vzájemná výměna.
-
-A přijde mi moc užitečný taky přitom respektovat princip nějaké pulsace, kdy já jdu jakoby ven do té akce, směrem ven, do toho světa, kdy jdu do kontaktu s tím, co je pro mě zrovna důležité, a zároveň potom zpátky dovnitř, zpátky k sobě, zpátky ke svým zdrojům, zpátky k tomu, co vlastně prožívám a co potřebuji. Někdy v gestalt terapii tomu říkáme fáze plodné prázdnoty, právě v té plodné prázdnotě, kdy já se stáhnu z toho kontaktu, se může zjevit to, co je skutečně podstatné, kdežto když.
-
-Jsme aktivističtí natolik, že si nedovolíme to spočinutí, to stáhnutí se, a jdeme stále znovu a znovu a znovu do další akce, tak to paradoxně někdy může vyústit v to, že ty akce nejsou jako užitečné, protože my v tom. Jednak to vyčerpává nás, my se nedosycujeme zpátky, neregenerujeme, ale zároveň tím, jak to jako někdy potom už ani nevychází z té naší skutečné jako dobré podstaty, z toho nějakého dobrého místa, z našeho dobrého středu, tak tu environmentální práci můžeme dělat způsobem, který je třeba i kontraproduktivní a který vyvolává právě ve společnosti třeba odpor.
-
-Ještě k tomu dodám jeden aspekt, týkající se záchranářské pozice. Možná jsi někdy slyšel o takovém psychologickém trojúhelníku – oběť, zachránce. Myslím, že lidé, kteří se snaží něco změnit nebo pozitivně ovlivnit, někdy můžou malinko naskakovat na tu pozici zachránce, někdy míň a někdy víc ve smyslu: "Já tady teď prožívám nějaký pocit vlastní moci tím, že něco spravím k lepšímu." Ale jde o to, že pokud je to dělané v té trochu extrémnější podobě, tak to právě není užitečné, protože to nevytváří tu dobrou, když to tak řeknu, regenerativní kulturu v tom smyslu, že každý z nás má nějakou moc a každý z nás možná taky moc nemá, každý z nás má na něco vliv a na něco už narážíme na nějaké své limity, ale jsme v tom nějak spolu a není až tak důležité, jestli jsem to právě já, ten, kdo to zachrání a ten, kdo to všechno spraví.
-
-V tomhle ohledu mi přijde moc užitečné, abychom se mohli jako dobře zpátky vrátit k sobě, zazdrojovat se a uvědomit si ty vlastní jako hlubší motivace a tendence, jestli taky nepřeskakujeme nějaké fáze toho možná uvědomění, když to vezmu z pohledu gestalt teorie, jestli vím, co dělám a proč to vlastně dělám, co přitom cítím, jestli mám dostatek prostoru pro svoje potřeby, nebo si jenom neplním jakoby nějaké introjekty ve smyslu, co bych měl dělat, co se ode mě očekává, abych něco, abych si třeba dokázal, že tady mám nějaké dobré své místo na tom světě, nebo že mám taky nějakou hodnotu. Ta realita je taková, že každý z nás má nějakou hodnotu nezávisle na tom, co zrovna děláme nebo neděláme, a každý z nás tady máme nějaké svoje místo.
-
-A mým cílem je vytvářet takovou společnost, kde každý z nás nějak může být viděn, slyšen, přijímán právě s těmi našimi jedinečnými dary, o kterých jsme mluvili.
-
-Abychom to potom nemuseli takhle snažit urvat skrze nějakou akci, která je možná už příliš.
+A pakliže to převedeme na celou planetu dnes, tak my jako lidstvo dnes řešíme problém, jak vymyslet řešení našeho společného problému, což je Země, jestli je to loviště, nebo jestli je to pastvina, nebo je to země. Je to otázka velikosti, ale je to stejný typ problémů a některé vesnice přežívají, některé nepřežívají a je to závislé na tom, jestli si našli řešení toho svého problému.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Mám asi poslední otázku, a to je velmi praktická. Ty jsi během toho našeho rozhovoru zmiňovala několik knih, tak jestli bys mohla doporučit třeba.
+Já se chci zeptat k tomu, vlastně k těm příkladům, co sis říkal, není právě ta velikost vlastně strašně rozhodující kritérium, protože si představ, že pět firem nebo 300 lidí se vlastně domluvit může, ale 25 000 firem už vlastně možná nesouhlasí.
 
-Tři knížky, čtyři, které máš fakt ráda, které se vážou k tomu tématu, o kterém jsme se tady dneska bavili.
+{% include 2050/transcript-person.html id="zapal" %}
 
-{% include 2050/transcript-person.html id="vostova" %}
+Já jenom, když už jsme to nakousli, chci říct, co jsou hlavní determinanty těch úspěšných řešení, kde ty vesnice přežívají. Je to to, co z toho vidíme, že ti aktéři jsou si vědomi toho, že to je vlastně problém, jsou schopni analyzovat ten problém a říci, že když se budeme takhle chovat do budoucna, tak na tom všichni budeme hůř.
 
-Určitě. Co se týče knih, které byly přeložené do češtiny, tak já mám moc ráda pracuji s principy ekofilozofky, kterou jsem tady už zmínila - Joanny Macy.
+Ty řešení, která fungují, mají velmi často nějakou formu celospolečenské dohody, nějaké celospolečenské nebo společenské, vesnické normy, nějaké normy chování, které je ale potřeba vynucovat. To znamená, že já, když vidím, že je hodně krav na pastvině, tak nějakým způsobem my jako společnost jsme se dohodli, že toho, kdo je tam vyhnal, tak se na něm budeme mračit nebo mu nabančíme. Problém je v tom, že mračit se na něj a nabančit mu možná nás stojí také něco, takže i my sami sebe musíme donutit vlastně potrestat toho, kdo se chová špatně, ale nějakým způsobem to funguje, když jsme se dohodli, že tohle je přesně to řešení, které chceme mít. Jsou to řešení, která jsou ekonomická, řekl bych endogenní.
 
-Zejména tedy dvě její knížky, Aktivní naděje a Návrat do života, které tedy ona ještě vydala spolu s dalšími autory, abych je tady neopomenula, tak.
-
-Ty jsou pro mou práci nějak jako zásadní. A jsou velmi obohacující a moc vám je i doporučuji. Aktivní naděje všeobecně na tom fenoménu environmentálního žalu. A jak s tím pracovat? Návrat do života už je víc takový metodologický vysloveně pro facilitátory. Obsahuje řadu konkrétních cvičení, jak třeba provázet skupiny. No a potom v angličtině velmi sleduju a doporučuji autorku Britt Wray.
-
-Která zkoumá tento fenomén na akademické půdě, vydala o tom knížku Generation Dread.
-
-A také natočila řadu podcastů a vydává pravidelný měsíční newsletter.
-
-Velmi se mi líbí, jak ona to zkoumá skutečně s takovou jakousi akademickou analytičností, ale zároveň do toho se nebojí vložit i své vlastní osobní prožitky, protože ona má za to, že právě je načase, abychom i v té akademické sféře vědecké se nebáli být trochu osobnější a zranitelnější a neoddělovali tak ten rozum od těch emocí, což je jeden z příčin environmentální krize možná.
-
-No a potom ještě na takové víc jako spirituální rovině mě velmi oslovila knížka Když ztrácíme půdu pod nohama od Pemy Chödrön, což je buddhistická autorka, která píše o tom, jak dobře být s nejistotou, jak proměnit tyhle své jako prožitky a stavět do něčeho možná krásnějšího, bohatšího.
+Je to něco, co jsme se dohodli, vlastně není nikdo zvenku, kdo by to pro nás udělal. Velmi často řešení, která přijdou od konzultantů zvenku a něco nám řeknou, že máme dělat, tak nefungují, protože vlastně nerespektují nějakou lokální informaci. Takže tohle jsou řešení, která fungují.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Díky moc za tyhle doporučení, díky moc za celý rozhovor a vůbec za přivítání mě tady u tebe doma k natáčení. Jsem moc rád, že jsme si takhle mohli popovídat. Díky moc a měj se krásně.
+Takže ty tři věci jsou tedy jako společné uvědomění, společná norma a její vynucování.
 
-{% include 2050/transcript-person.html id="vostova" %}
+{% include 2050/transcript-person.html id="zapal" %}
 
-Ahoj, díky, Petře, za pozvání, díky za to, že děláte tenhle podcast.
+Přesně tak, přesně tak.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Což třeba klimatické změny? Už na tom prvním se úplně neshodneme, jestli je to opravdu tak velký problém, který potřebuje celospolečenské řešení.
+
+{% include 2050/transcript-person.html id="pribyla" %}
+
+Pařížská dohoda má 196 států, které ji podepsaly. Vlastně ta dohoda je někde v procesu. Nemyslím, že se shodnou všichni.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+A teď otázka, kdo se rozhoduje, jestli se ta rozhodují, jo, státy, regulátoři nebo celospolečenská jednotka, jakože, ale rozumím, kam míříš?
+
+{% include 2050/transcript-person.html id="zapal" %}
+
+Já si myslím, že celospolečenské uvědomění toho, že máme problém, je generační otázka. A já vidím velký posun vlastně v myšlení lidí nebo změnu, když se podívám na věkové spektrum, takže si myslím, že jsme v nějaké tranzici. Samozřejmě otázka, otázka řešení klimatu na celoplanetární úrovni je někde jinde a nejsou to vesnice, takže to bude mít svoje vlastní problémy.
+
+Toho, že hlavními aktéry budou státy, je problém vynucovat mezinárodní smlouvy, protože vlastně, jak se budeme mračit na stát, který emituje hodně, máme s tím problémy. Vidíme to, nevím, jestli do toho vůbec jít, ale vidíme to na příkladu Ruska, na které se mračíme, nemůže hrát na mistrovství světa v hokeji, protože vede válku, ale zároveň s ním obchodujeme, protože tu ropu potřebujeme, jo, což je prostě ten problém. Protože já, když se budu bančit, já, když se budu mračit nebo mám na bančit sousedovi, který vyhnal hodně krav na pastvinu, tak on mi možná dá facku a mně to bude bolet, jo, tak si pak možná řeknu, tak já to neudělám a on to ví, že mu on ví, že mu nenabančím, tak ty krávy tam stejně vyžene. A pak celá ta celospolečenská dohoda vlastně jako padá jako dům z karet.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Dokázal bys vlastně možná trochu tak, jako když se blížím k závěru tohoto povídání o externalitách a tak, že když se aplikujeme na tu situaci okolo, ať už konkrétně emisní povolenky nebo vůbec nakládání s externalitami v oblasti klimatických změn, tak.
+
+Jako kde jsme teď, jaké jsou další kroky. A to třeba vnímáš jako překážky, v čem jsi optimistický, v čem naopak máš nedůvěru, že se jako možná nepovede posunout, když se tady vlastně bavíme.
+
+{% include 2050/transcript-person.html id="zapal" %}
+
+Já půjdu zpátky k tomu našemu kurzu, máme jednu celou přednášku na téma životního prostředí, kde se vlastně snažíme vysvětlit studentům, že je to přednáška o externalitách a o způsobech jejich řešení. Takže my vlastně tady procházíme tu přednášku a já vždycky studentům říkám, že to je velký problém, který nemá jednoduché řešení, ale že vlastně nejsem úplně pesimistický, protože je příklad, kdy jsme jako lidé vymysleli řešení důležitého problému, a to je ozonová díra, kde jsme problém naměřili, pochopili, že to je problém, a vymysleli nějaké řešení, které po 30 letech z vás učiní větší odborníky na životní prostředí než jsem já. Takže to uvidíte lépe. Dneska je ta ozonová díra zavřená. Mám pocit, že to je tak.
+
+{% include 2050/transcript-person.html id="pribyla" %}
+
+Zmenšuje se, zmenšil, je tam zřetelný trend, a to říkáš správně, že už ten problém ozonové díry vlastně přestává být tak palčivý.
+
+{% include 2050/transcript-person.html id="zapal" %}
+
+Tak, takže to je příklad, který vnímám velmi pozitivně, že jsme jako lidé schopni se domluvit, když nám teče do bot, na řešení nějakého problému, který je vlastně důležitý.
+
+{% include 2050/transcript-person.html id="pribyla" %}
+
+Ono koneckonců okolo emisí to platí taky, protože emise skleníkových plynů rostly nebo rostou stále ještě, ale ten největší růst byl v letech 2000–2010. Ten růst od roku 2010 zpomaluje a Světová energetická agentura odhaduje, že rok, kdy dosáhneme peak emissions, tedy toho vrcholu emisí, tak by mohl být rok 2024, to znamená možná letos, možná 25, možná 26, ale vlastně díky technologiím obnovitelných zdrojů, solárním a větrným elektrárnám, díky systémům na obchodování s emisemi, vlastně díky souhře nějakých dalších věcí se nejspíš daří růst emisí zastavit. Ono to pořád není jako úplně dobrá zpráva, protože my bychom potřebovali pro zastavení klimatické změny jako radikální pokles, ale to, že už se ten problém jako zastavuje, růst toho problému, tak to se snad, dá se říct, daří, tak jenom to chci dodat, že v té klimatické změně už máme i takovéhle jako pozitivní zprávy, že se aspoň něco kousek daří.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Já si pamatuju, že nebo v kontextu té ozonové díry, jak trochu se vracím k tomu bodu jedna, shodnout se na tom, že to je problém a umět to dobře vysvětlit. Viděl jsem srovnání právě, že ozónová díra se dařila právě hrozně moc vyřešit vlastně kvůli tomu, že to je skvělá ukázka vydařené komunikace vědy, že se podařilo společnosti vysvětlit, že tady máme problém. Někdo to nazval díra, což je geniální marketingově jako díra, díru nechceme, díra je špatně, díru potřebujeme zalepit. Jo, jasně, no, tak to udělejme. A kdež to. Emise skleníkových plynů jsou, co ty potřebujeme teda neemitovat nebo snížit jakoby, jak moc, jak moc vlastně to společné pochopení možná vytváří dobrý pevný základ pro to, abychom s tím pak nad tím se mohli.
+
+{% include 2050/transcript-person.html id="pribyla" %}
+
+Díra je fakt geniální, protože prostě díry ve vozovce.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+To je potřeba zalepit.
+
+{% include 2050/transcript-person.html id="pribyla" %}
+
+Možná mladé generace díry v kalhotech nelátají. Tak to nevím, jestli, ale to je fakt silné.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Honzo, moc děkuju za ten vhled, jednak do toho, čím se vlastně ekonomie v tomhle kontextu zabývá. I dovysvětlení, jakože emisní povolenky jsme si tady už vysvětlovali, ale když si to vzal od směny masek ve vlastním kurzu, až přes všechny ty věci, co se dá dělat s externalitami, tak mám dojem, že tomu víc rozumím, z jakého přemýšlení vlastně celý tenhle systém třeba vzešel.
+
+{% include 2050/transcript-person.html id="zapal" %}
+
+Tak to jsem rád. Já děkuju za pozvání.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Díky moc, že jsi tady, díky i tobě, Ondráši, že ses přidal k tomuto podcastu.
+
+{% include 2050/transcript-person.html id="pribyla" %}
+
+Díky, že jsem mohl. Mě to fascinuje, tyhle experimenty, myšlenkové experimenty a reálné experimenty na studentech, které by se daly provádět a učit s nimi ekonomii.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Tak ahoj a díky, a díky i vám, co nás posloucháte. Mějte se krásně a těšíme se na další epizody. Ahoj.
 
 {% include 2050/transcript-end.html %}
