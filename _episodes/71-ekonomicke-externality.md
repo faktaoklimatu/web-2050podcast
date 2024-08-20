@@ -24,7 +24,7 @@ Jak lze s externalitami pracovat, jak je internalizovat a jaký dopad to má na 
 
 <div class="bonus-material" markdown="1">
 
-* **Video verze podcastu [Proč jsou ekonomické externality zásadní pro ochranu klimatu?](https://youtu.be/wcT2LsEviEE)** (_Fakta o klimatu a podcast 2050_)\\
+* **Video verze podcastu [Proč jsou ekonomické externality zásadní pro ochranu klimatu?](https://youtu.be/wcT2LsEviEE)** (_Podcast 2050_)\\
   Video verze tohoto podcastu z našeho nového studia. Sledujte náš kanál na youtube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
 
 {% include 2050/bonus-interview.html
