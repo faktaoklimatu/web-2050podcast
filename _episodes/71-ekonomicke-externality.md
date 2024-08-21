@@ -6,7 +6,7 @@ slug:       "71-ekonomicke-externality"
 redirect_from: "/epizody/71"
 published:  2024-08-21
 summary:    |
-    S hostem Janem Zápalem z CERGE-EI se bavíme o environmentální ekonomii a zaměříme se na klíčový pojem „ekonomické externality“ a jaký je jejich význam pro ochranu klimatu. Externalitou se rozumí dopad na lidi, přírodu nebo společnost, který je způsobený jednáním aktérů na trhu. Pokud například vlastním uhelnou elektrárnu, z prodeje elektřiny mám zisk, ale dopad znečištění nese celá společnost – to je právě externalita. Na příkladech si vysvětlíme, jak vypadají pozitivní i negativní externality, objasníme, jak v základu fungují trhy a proč v některých případech klasické ekonomické poučky neplatí. 
+    S hostem Janem Zápalem z CERGE-EI se bavíme o environmentální ekonomii a zaměříme se na klíčový pojem „ekonomické externality“ a jaký je jejich význam pro ochranu klimatu. Externalitou se rozumí dopad na lidi, přírodu nebo společnost, který je způsobený jednáním aktérů na trhu. Pokud například vlastním uhelnou elektrárnu, z prodeje elektřiny mám zisk, ale dopad znečištění nese celá společnost – to je právě externalita. Na příkladech si vysvětlíme, jak vypadají pozitivní i negativní externality, objasníme, jak v základu fungují trhy a proč v některých případech klasické ekonomické poučky neplatí.
 audioboom:  "8558149"
 guests:     [ zapal, pribyla ]
 tags:       [ ekonomika ]
@@ -25,7 +25,7 @@ Jak lze s externalitami pracovat, jak je internalizovat a jaký dopad to má na 
 <div class="bonus-material" markdown="1">
 
 * **Video verze podcastu [Proč jsou ekonomické externality zásadní pro ochranu klimatu?](https://youtu.be/wcT2LsEviEE)** (_Podcast 2050_)\\
-  Video verze tohoto podcastu z našeho nového studia. Sledujte náš kanál na youtube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
+  Video verze tohoto podcastu z našeho nového studia. Sledujte náš kanál na YouTube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
 
 {% include 2050/bonus-interview.html
   title="Proč jsou ekonomické externality zásadní pro ochranu klimatu?"
@@ -41,7 +41,7 @@ Jak lze s externalitami pracovat, jak je internalizovat a jaký dopad to má na 
   Evropské emisní povolenky jsou účinným prostředkem při snižování emisí a jsou klíčové pro dosažení budoucích emisních cílů EU. Jak systém pro obchodování s emisemi skleníkových plynů funguje?
 
 * **Explainer [Jak bude fungovat zpoplatnění emisí skleníkových plynů z dopravy a budov](https://faktaoklimatu.cz/explainery/emisni-povolenky-ets-2)** (_Fakta o klimatu_)\\
-  Nový systém tzv. ETS 2 naváže od roku 2027 na stávající systém obchodování s emisními povolenkami (ETS 1), pod nějž spadaly velké elektrárny, teplárny, těžký průmysl nebo letecká a námořní doprava. EU Emissions Trading System tak bude rozšířen také o emise ze silniční dopravy a budov, které do té doby na celoevropské úrovni zpoplatněny nebyly. Jaké cíle z hlediska snížení emisí si nový systém klade? Jak chce ošetřit možné potíže domácností a malých podniků? 
+  Nový systém tzv. ETS 2 naváže od roku 2027 na stávající systém obchodování s emisními povolenkami (ETS 1), pod nějž spadaly velké elektrárny, teplárny, těžký průmysl nebo letecká a námořní doprava. EU Emissions Trading System tak bude rozšířen také o emise ze silniční dopravy a budov, které do té doby na celoevropské úrovni zpoplatněny nebyly. Jaké cíle z hlediska snížení emisí si nový systém klade? Jak chce ošetřit možné potíže domácností a malých podniků?
 
 </div>
 
