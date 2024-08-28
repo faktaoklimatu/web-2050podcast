@@ -6,7 +6,7 @@ slug:       "72-dekarbonizace-aktuality"
 redirect_from: "/epizody/72"
 published:  2024-08-28
 summary:    |
-    V Číně se prodává více elektromobilů než aut se spalovacím motorem. Česko vyrábí třikrát méně elektřiny ze slunce a větru, než je světový průměr. Světové emise skleníkových plynů z elektroenergetiky dosáhly vrcholu a do roku 2030 by se mohly snížit na polovinu. Dekarbonizace postupuje rychle a v některých případech dokonce rychleji, než se očekávalo (např. rozvoj solární energetiky). Pokud udržíme současné tempo, máme stále šanci dosáhnout cílů Pařížské dohody. 
+    V Číně se prodává více elektromobilů než aut se spalovacím motorem. Česko vyrábí třikrát méně elektřiny ze slunce a větru, než je světový průměr. Světové emise skleníkových plynů z elektroenergetiky dosáhly vrcholu a do roku 2030 by se mohly snížit na polovinu. Dekarbonizace postupuje rychle a v některých případech dokonce rychleji, než se očekávalo (např. v rozvoji solární energetiky). Pokud udržíme současné tempo, máme stále šanci dosáhnout cílů Pařížské dohody.
 audioboom:  "8561404"
 guests:     [ protivinsky ]
 tags:       [ energetika ]
@@ -35,10 +35,10 @@ V dnešní epizodě si s Tomášem Protivínským projdeme některé nové studi
   Analýza přechodu zemí Evropské Unie na elektřinu z obnovitelných zdrojů. EU v roce 2023 urychlila svůj odklon od fosilních paliv, přičemž došlo k rekordnímu poklesu výroby elektřiny z uhlí i plynu. Využití fosilních paliv kleslo o rekordních 19 % na historicky nejnižší úroveň a stálo za méně než jednou třetinou výroby elektřiny v EU.
 
 * **Web [Electricity Data Explorer](https://ember-climate.org/data/data-tools/data-explorer/)** (_Ember_)\\
-  Nejnovější údaje o poptávce elektřiny, výrobě, kapacitě a emisích CO<sub>2</sub> v jednotlivých zemích. V tomto nástroji lze vybírat země a srovnávat je dle instalované kapacity nebo skutečné výroby z jednotlivých zdrojů.
+  Nejnovější údaje o spotřebě elektřiny, výrobě, kapacitě a emisích skleníkových plynů v jednotlivých zemích. V tomto nástroji lze vybírat země a srovnávat je dle instalované kapacity nebo skutečné výroby z jednotlivých zdrojů.
 
 * **Studie [Cesty k čisté a levné elektřině v roce 2050](https://faktaoklimatu.cz/studie/2024-cesty-k-ciste-a-levne-elektrine-2050)** (_Fakta o klimatu_)\\
-  Česko stejně jako téměř všechny země světa řeší transformaci energetiky, aby mělo dostatek levné a čisté elektřiny. Tato studie přináší celou škálu scénářů pro rok 2050, které se liší ve spotřebě elektřiny, možnostech rozvoje obnovitelných zdrojů v Česku, míře rozvoje jaderné energetiky, stejně jako v míře energetické spolupráce napříč Evropou. Modelování se zaměřuje na otázku, jakým způsobem může Česko dosáhnout levné výroby elektřiny, tak aby dokázalo být v rámci Evropy konkurenceschopné.
+  Česko stejně jako téměř všechny země světa řeší transformaci energetiky, aby mělo dostatek levné a čisté elektřiny. Tato studie přináší celou škálu scénářů pro rok 2050, které se liší ve spotřebě elektřiny, možnostech rozvoje obnovitelných zdrojů v Česku, míře rozvoje jaderné energetiky, stejně jako v míře energetické spolupráce napříč Evropou. Modelování se zaměřuje na otázku, jakým způsobem může Česko dosáhnout levné výroby elektřiny tak, aby dokázalo být konkurenceschopné v rámci Evropy.
 
 </div>
 
