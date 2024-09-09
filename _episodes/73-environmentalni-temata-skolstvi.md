@@ -84,39 +84,42 @@ A teď se musím zeptat, máš nějaká data v hlavě nebo aspoň zkušenost, ko
 
 {% include 2050/transcript-person.html id="kriz" %}
 
-Otázka, co je hodně, co je málo, jasně, dá se podívat na školy třeba, které učí badatelsky, mají školní zahradu, učí venku, na školy, které nějakým způsobem prochází environmentálním vzděláváním v rámci programu pobytových nebo jednodenních akcí na ekocentrech. Tyhle statistiky se dají najít, ale tam to strašně záleží na učiteli. Některé věci se jako neví, protože jako některé věci se neměřily, obecně se ty trendy zlepšují a dokonce nový RVP, který je teďka vlastně i v připomínkovém řízení, je vlastně velmi proenvironmentální.
-
-{% include 2050/transcript-person.html id="kriz" %}
-
-Hele, moment a chviličku.
+Otázka, co je hodně, co je málo, jasně, dá se podívat na školy třeba, které učí badatelsky, mají školní zahradu, učí venku, na školy, které nějakým způsobem prochází environmentálním vzděláváním v rámci programu pobytových nebo jednodenních akcí na ekocentrech. Tyhle statistiky se dají najít, ale tam to strašně záleží na učiteli. Některé věci se jako neví, protože jako některé věci se neměřily, obecně se ty trendy zlepšují a dokonce nový RVP, který je teďka vlastně i v připomínkovém řízení, je vlastně velmi proenvironmentální. 
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Martin tady používá zkratku RVP. Můžeš to ani trošku víc vysvětlit pro nás, co nejsme zrovna z oboru učitelů, kteří vzdělávají další učitele?
+Počkej Hani, Martin tady teď říká zkratku RVP. Tak možná než se jí tady začneme ohánět, mohla bys trošku víc vysvětlit, o co se jedná? I pro nás, co nejsme zrovna učitelé, kteří vzdělávají další učitele.
+
+{% include 2050/transcript-person.html id="vrtalova" %}
+Určitě. RVP jsou tzv. rámcové vzdělávací programy a nahradily něco, čemu se dřív říkalo jednotné učební osnovy. Jestli si vzpomínáš, někdy tvůj učitel říkal musíme jet, protože osnovy.
+
+{% include 2050/transcript-person.html id="holik" %}
+
+Že je to v osnovách, tak to nejde jinak.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-RVP jsou tzv. rámcové vzdělávací plány. Možná jsi někdy slyšel od svého učitele, že říkal, že musíme jet, protože je to v osnovách. Tak jednotné učební osnovy už neexistují, ale rámcové vzdělávací plány je v tomhle vlastně nahradily.
+Tak ty už neexistují a vlastně místo nich existují rámcové vzdělávací programy, protože tyhle programy jsou udělané pro všechny typy škol, druhů a stupňů, tak jednotlivé školy si pak na základě těchhle rámcových programů dělají svoje školní vzdělávací programy, které jsou víc napasované pro tu danou školu.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-A to je nějaký jakoby celostátní plán toho, co se bude na školách učit, nebo co to je?
+A můžeme teda říct, když se teďka dělají ty RVP nový, tak co jsou ty zásadní změny, v čem se teda posouvají? A teď v kontextu toho klimatu, jako že Martin říká, že jsou jako vstřícnější vůči environmentální výchově, tak co to vlastně znamená reálně.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-Je to takový obecný rámec, ve kterém jsou definované nějaké vzdělávací cíle, a pak ty školy ten rámec vezmou, trochu si ho více vyprofilují a na jeho základě udělají tzv. svůj školní vzdělávací program, který je závazný pro tu danou školu a výstupy z něj.
+Posouvají se v tom, že toho klimatu a vůbec udržitelnosti je tam mnohem více než dříve a ta zásadní změna je, že tam nejsou na úrovni znalostí toho, co by žáci měli vidět, ale na úrovni nějaké akce, něčeho, co by měli dělat, něčeho, na co by si měli sáhnout, takže to je velká novinka.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-No, a když Martin říká, že jsou teda ty RVP víc jako environmentální, tak co to znamená? Znamená to, že v tom celkovém rámci si říká lidi, měli byste víc učit o klimatu, nebo to, co se tam vlastně píše?
+Já schválně, když teď zalistujeme jako tím návrhem, tak tady je věta, že Žák vybírá, plánuje a realizuje opatření na posílení udržitelnosti a na úrovni páté třídy na to má být jako na úrovni školy a v deváté třídě dokonce na úrovni třeba jako krajiny obce nebo většího celku, takže fakt je to zaměření na to, jako že by studenti měli něco dělat, něco v té krajině jako realizovat. Zároveň ještě mě přijde zajímavý, co jsem slyšel, že to ty nové RVP mnohem víc kladou akcent na hodnoty. Je to tak, můžeš to nějak trošku okomentovat.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
-To, co je v tom rámcovém vzdělávacím plánu, tak oni jsou tam definované výstupy pro jednotlivé předměty, ale i pro tzv. průřezová témata, a to je nějakých šest oblastí a jedním z nich je i oblast environmentální a to, co je právě v téhle nové revizi, vyskytuje se mnohem hojněji, je i téma klimatické změny a ty výstupy se klimatické změny dotýkající, třeba to, že žáci by měli být schopni vyhledávat údaje faktografické ohledně klimatické změny a posuzovat její vliv a vůbec vliv člověka na klimatickou změnu.
+Je to tak. V novém revidovaném RVP se mnohem víc. Otázka hodnot, respektive hodnoty jako takové vyskytují dřív tam nebyly vůbec a jednou z těch hodnot, která se dotýká právě klimatu, respektování potřeb planety. Takže tohle je teďko novinka, kterou by vlastně měli učitelé více zahrnovat do své výuky a měla by se dotknout samotných žáků.
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Okay. Tak jo, tak to zní asi jako dobrá zpráva, že jsme se posunuli. Tak díky, posílám vám to zpátky za Martinem.
+Tak díky za vysvětlení tý zkratky a jsem rád, že jsme se trošku dotkli i toho, jak se ta změna vlastně dotýká těchhle těch environmentálních témat. Tak posílám vám slovo zpátky za Martinem do studia.
 
 {% include 2050/transcript-person.html id="vrtalova" %}
 
