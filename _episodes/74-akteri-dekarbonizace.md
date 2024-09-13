@@ -21,7 +21,7 @@ V rozhovoru rozebíráme nad tzv. emisním koláčem jednotlivé hlavní aktéry
 
 <div class="bonus-material" markdown="1">
 
-* **Video verze podcastu [Stát, firmy, domácnosti - jakou má kdo roli v dekarbonizaci?](cndsjicndsjindsjicndsicdj)** (_Podcast 2050_)\\
+* **Video verze podcastu [Stát, firmy, domácnosti - jakou má kdo roli v dekarbonizaci?](https://youtu.be/KGzPi3l2GlU)** (_Podcast 2050_)\\
   Video verze tohoto podcastu z našeho nového studia. Sledujte náš kanál na YouTube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
 
 * **Infografika [Emise skleníkových plynů v ČR podle sektorů](https://faktaoklimatu.cz/infografiky/emise-cr)** (_Fakta o klimatu_)\\
