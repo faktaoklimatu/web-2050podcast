@@ -1,6 +1,6 @@
 ---
 layout:     episode
-title:      "Stát, firmy, domácnosti - jakou má kdo roli v dekarbonizaci?"
+title:      "Stát, firmy, domácnosti – jakou má kdo roli v dekarbonizaci?"
 number:     74
 slug:       "74-akteri-dekarbonizace"
 redirect_from: "/epizody/74"
@@ -12,7 +12,7 @@ guests:     [ pribyla ]
 tags:       [ společnost ]
 transcript: true
 ---
-V rozhovoru rozebíráme nad tzv. emisním koláčem jednotlivé hlavní aktéry a jejich možnosti přispět k dekarbonizaci – stát, firmy a domácnosti. V případě jednotlivců, resp. domácností, docházíme k závěru, že jde především o investiční rozhodnutí, která učiní několikrát za život, co má největší efekt – ať už jde o koupi nového auta nebo třeba rekonstrukci a zateplení domu.
+V rozhovoru si povídáme o hlavních aktérech dekarbonizace – státu, firmách a domácnostech. Nad tzv. emisním koláčem Česka rozebíráme, jakou roli mají v transformaci jednotlivých sektorů hospodářství. V případě domácností docházíme k závěru, že největší efekt mají především investiční rozhodnutí, která učiní několikrát za život – ať už jde o koupi auta nebo třeba rekonstrukci a zateplení domu.
 
 {% include 2050/guest-list.html %}
 
@@ -22,7 +22,7 @@ V rozhovoru rozebíráme nad tzv. emisním koláčem jednotlivé hlavní aktéry
 
 <div class="bonus-material" markdown="1">
 
-* **Video verze podcastu [Stát, firmy, domácnosti - jakou má kdo roli v dekarbonizaci?](https://youtu.be/KGzPi3l2GlU)** (_Podcast 2050_)\\
+* **Video verze podcastu [Stát, firmy, domácnosti – jakou má kdo roli v dekarbonizaci?](https://youtu.be/KGzPi3l2GlU)** (_Podcast 2050_)\\
   Video verze tohoto podcastu z našeho nového studia. Sledujte náš kanál na YouTube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
 
 * **Infografika [Emise skleníkových plynů v ČR podle sektorů](https://faktaoklimatu.cz/infografiky/emise-cr)** (_Fakta o klimatu_)\\
