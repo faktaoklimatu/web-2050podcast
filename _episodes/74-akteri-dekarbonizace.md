@@ -9,7 +9,7 @@ summary:    |
     S čím se zakladatel projektu Fakta o klimatu Ondráš Přibyla potkává, když o klimatické změně a dekarbonizaci přednáší nebo poskytuje konzultace? Jaké jsou představy lidí, s nimiž se setkává, ohledně možností transformace a jejich potenciální roli v tomto procesu?
 audioboom:  "8570524"
 guests:     [ pribyla ]
-tags:       [ společnost ]
+tags:       [ spolecnost ]
 transcript: true
 ---
 V rozhovoru si povídáme o hlavních aktérech dekarbonizace – státu, firmách a domácnostech. Nad tzv. emisním koláčem Česka rozebíráme, jakou roli mají v transformaci jednotlivých sektorů hospodářství. V případě domácností docházíme k závěru, že největší efekt mají především investiční rozhodnutí, která učiní několikrát za život – ať už jde o koupi auta nebo třeba rekonstrukci a zateplení domu.
