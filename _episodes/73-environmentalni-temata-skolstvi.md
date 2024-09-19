@@ -9,7 +9,7 @@ summary:    |
     Naším hostem je Martin Kříž, odborník, který se dlouhodobě zabývá výukou o životním prostředí a pracuje s učiteli na všech stupních škol – od základních, přes střední školy až po univerzity. Společně se zamýšlíme nad tím, jak je environmentální vzdělávání zakotveno v rámci českého školství. 
 audioboom:  "8565680"
 guests:     [ kriz ]
-tags:       [ společnost ]
+tags:       [ spolecnost ]
 transcript: true
 ---
 Jak se s touto látkou vypořádávají učitelé? Jaké dovednosti a znalosti mají, a co jim naopak ještě chybí k efektivnímu předávání environmentálních témat? A jak se výuka o klimatu a udržitelnosti začleňuje do rámcového vzdělávacího programu? 
