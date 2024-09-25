@@ -469,7 +469,7 @@ Jo, jako slyším v tom zároveň, ať nás to nepřekvapí.
 
 {% include 2050/transcript-person.html id="grabovsky" %}
 
-Jo. 
+Jo.
 
 {% include 2050/transcript-person.html id="holik" %}
 
