@@ -24,8 +24,11 @@ transcript: true
 * **Video verze podcastu [Od ptáků na zahradě po změny klimatu: Rozhovor s Prokopem Pithartem](https://youtu.be/bPhREskToEQ)** (_Podcast 2050_)\\
   Video verze tohoto podcastu z našeho studia. Sledujte náš kanál na YouTube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
 
-* **Studie [Sternova zpráva](https://faktaoklimatu.cz/studie/2006-sternova-zprava)** (_Fakta o klimatu_)\\
-  Sternova zpráva je ekonomickou analýzou dopadů klimatických změn a nákladů a přínosů opatření na snížení emisí skleníkových plynů z roku 2006. Ukazuje, že přínosy silných a včasných opatření výrazně převyšují jejich náklady a ignorování klimatických změn povede ke snížení hospodářského růstu. 
+* **Instagram [Prokop Pithart](https://www.instagram.com/prokoppithart/?hl=cs)** (_Prokop Pithart_)\\
+   Instagramový profil hosta, na němž sdílí svá videa o tom, co můžeme vidět v české přírodě a jak ji chránit. 
+
+  * **Video [Do divočiny](https://www.ceskatelevize.cz/porady/13663097045-do-divociny/)** (__)\\
+  Dobrodružná výprava do nitra české přírody. Jaká zvířata a jaké přírodní úkazy se mohou skrývat i pár kroků za naším domem?
 
 </div>
 
