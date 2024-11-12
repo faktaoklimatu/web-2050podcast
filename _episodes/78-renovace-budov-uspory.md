@@ -25,8 +25,6 @@ Hostem je Michal Čejka z Centra pasivního domu, který se podělí o zkušenos
 * **Video verze podcastu [Renovace budov: Jak ušetřit energii a podpořit dekarbonizaci](https://youtu.be/vq1BsMN_MNs)** (_Podcast 2050_)\\
   Video verze tohoto podcastu z našeho studia. Sledujte náš kanál na YouTube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
 
-* **Studie [Sternova zpráva](https://faktaoklimatu.cz/studie/2006-sternova-zprava)** (_Fakta o klimatu_)\\
-  Sternova zpráva je ekonomickou analýzou dopadů klimatických změn a nákladů a přínosů opatření na snížení emisí skleníkových plynů z roku 2006. Ukazuje, že přínosy silných a včasných opatření výrazně převyšují jejich náklady a ignorování klimatických změn povede ke snížení hospodářského růstu. 
 
 </div>
 
