@@ -9,7 +9,7 @@ summary:    |
     Každá vypuštěná tuna oxidu uhličitého způsobí budoucí společnosti škodu 250 dolarů, což znamená, že průměrný Čech vytváří měsíčně škodu 5000 korun vypouštěním skleníkových plynů. V této epizodě Tomáš Protivínský vysvětluje, jak se tyto náklady počítají a jaký model za nimi stojí.
 audioboom:  "8587284"
 guests:     [ protivinsky ]
-tags:       [ energetika ]
+tags:       [ ekonomika, finance ]
 transcript: true
 ---
 Model je založen na čtyřech hlavních složkách: vývoji populace a ekonomiky, klimatických modelech zahrnujících změny teplot a hladiny moří, modelu škod odhadujícím dopady těchto změn a diskontování, které upravuje hodnotu budoucích škod s ohledem na očekávané zbohatnutí světa. Na závěr rozebíráme, z čeho se konkrétně skládají náklady způsobené změnou klimatu a jaké dopady jsou v těchto částkách započítané.
