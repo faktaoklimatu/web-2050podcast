@@ -36,6 +36,6 @@ transcript: true
 
 _Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce._
 
-
+Přepis bude brzy doplněn.
 
 {% include 2050/transcript-end.html %}

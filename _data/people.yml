@@ -473,3 +473,13 @@
   name: Martin  
   surname: Kříž
   description: Ekocentrum Chaloupky
+
+- id: pithart
+  name: Prokop  
+  surname: Pithart
+  description: Autor Do divočiny
+
+- id: cejka
+  name: Martin  
+  surname: Čejka
+  description: Centrum pasivního domu
