@@ -25,13 +25,12 @@ Hostem je Michal Čejka z Centra pasivního domu, který se podělí o zkušenos
 * **Video verze podcastu [Renovace budov: Jak ušetřit energii a podpořit dekarbonizaci](https://youtu.be/vq1BsMN_MNs)** (_Podcast 2050_)\\
   Video verze tohoto podcastu z našeho studia. Sledujte náš kanál na YouTube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
 
-
 </div>
 
 {% include 2050/transcript-start.html %}
 
 _Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce._
 
-
+Přepis bude brzy doplněn.
 
 {% include 2050/transcript-end.html %}
