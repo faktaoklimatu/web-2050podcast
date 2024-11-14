@@ -26,7 +26,7 @@ Model je založen na čtyřech hlavních složkách: vývoji populace a ekonomik
   Video verze tohoto podcastu z našeho studia. Sledujte náš kanál na YouTube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
 
 * **Studie [Sternova zpráva](https://faktaoklimatu.cz/studie/2006-sternova-zprava)** (_Fakta o klimatu_)\\
-  Sternova zpráva je ekonomickou analýzou dopadů klimatických změn a nákladů a přínosů opatření na snížení emisí skleníkových plynů z roku 2006. Ukazuje, že přínosy silných a včasných opatření výrazně převyšují jejich náklady a ignorování klimatických změn povede ke snížení hospodářského růstu. 
+  Sternova zpráva je ekonomickou analýzou dopadů klimatických změn a nákladů a přínosů opatření na snížení emisí skleníkových plynů z roku 2006. Ukazuje, že přínosy silných a včasných opatření výrazně převyšují jejich náklady a ignorování klimatických změn povede ke snížení hospodářského růstu.
 
 </div>
 

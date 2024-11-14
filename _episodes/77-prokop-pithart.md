@@ -2,8 +2,8 @@
 layout:     episode
 title:      "Od ptáků na zahradě po změny klimatu: Rozhovor s Prokopem Pithartem"
 number:     77
-slug:       "77-prokop-pithart.md"
-redirect_from: "/epizody/76"
+slug:       "77-prokop-pithart"
+redirect_from: "/epizody/77"
 published:  2024-10-23
 summary:    |
     Prokop Pithart přináší radost z přírody a fascinaci jejími detaily – od drobných momentů, jako je pták hnízdící na zahradě, až po globální témata, jako je změna klimatu. V této epizodě si povídáme o jeho pohledu na propojenost lidí s přírodou, jeho cestě za natáčením autentických videí z české divočiny a o tom, jak jeho videa ovlivňují ochranu přírody a komunikaci důležitých témat napříč různými skupinami lidí. Diskutujeme také o samotné tvorbě – je za jeho videi čistá autenticita, nebo pečlivá dramaturgie?
@@ -25,7 +25,7 @@ transcript: true
   Video verze tohoto podcastu z našeho studia. Sledujte náš kanál na YouTube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
 
 * **Instagram [Prokop Pithart](https://www.instagram.com/prokoppithart/?hl=cs)** (_Prokop Pithart_)\\
-   Instagramový profil hosta, na němž sdílí svá videa o tom, co můžeme vidět v české přírodě a jak ji chránit. 
+   Instagramový profil hosta, na němž sdílí svá videa o tom, co můžeme vidět v české přírodě a jak ji chránit.
 
 * **Video [Do divočiny](https://www.ceskatelevize.cz/porady/13663097045-do-divociny/)** (_Česká televize_)\\
   Dobrodružná výprava do nitra české přírody. Jaká zvířata a jaké přírodní úkazy se mohou skrývat i pár kroků za naším domem?
@@ -176,11 +176,11 @@ To máš třeba s bobrem, pokud je bobr tam, kde vyloženě nehrozí, že podmá
 Jo, protože on ti zadrží vodu, voda přitáhne spoustu zvířat, chodí tam pít, hnízdí tam, dostává se ti voda víc do podzemí, že jo. No, ochlazuje toto prostředí, čili jako se tam uchylují ve vedrech zvířata, no, je to, je to jako úplnej inženýr takovej.
 
 ### O tvorbě videí
-{% include 2050/transcript-time.html time="23:18" %} 
+{% include 2050/transcript-time.html time="23:18" %}
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Já se chci asi ptát teďka na ty tvoje videa nebo na tu tvorbu, možná spíš, co je za ní. Já, já vždycky koukám na videa, ať už je to do divočiny, nebo nějaký jako videejko na Instagramu, nebo tak, tak.
+Já se chci asi ptát teďka na ty tvoje videa nebo na tu tvorbu, možná spíš, co je za ní. Já, já vždycky koukám na videa, ať už je to do divočiny, nebo nějaký jako videjko na Instagramu, nebo tak, tak.
 
 Já jako z mýho pohledu mi přijde, že nějak jako tvoje strašně silná stránka je fakt nějaká autenticita, nějaká taková jako opravdovost, to jako nadšení, ta emoce v tom, že ti to prostě hrozně věřím, že fakt jako když hrábneš do hlíny a vidíš tam prostě, co tam je, tak že z toho tu radost máš, že se ti to jako hrozně daří předávat pro mě, takže já vlastně mám taky chuť jako vylézt na louku a podívat se, co tam teda mám v hlíně nebo na tý zahradě nebo něco. A je to, jak to vlastně vzniká, jako je tohle? Máš za sebou promyšlený tým tří dramaturgyň a dvou scenáristek prostě, který s tebou pracujou na tom, jako jaký slovo použít, a pak se to naučíš a pak to jdeš udělat, anebo to je fakt jenom způsob, jako otočíš si na sebe telefon a ono to vlastně funguje jako jak nad tím přemýšlíš, možná i s jakým záměrem jako, nebo. No, asi ta širší otázka je, hele, proč to vlastně vypadá zrovna takhle? Je to prostě jenom tvoje přirozenost? Nebo je zatím nějakej jako propracovaný strategický plán?
 
@@ -190,7 +190,7 @@ No, jsou dva typy videí, možná i víc, ale to, co třeba mluvíš o těch ž�
 
 A já ten telefon vytáhnu. To je, myslím, moment, kdy se propojí ta potřeba teda sdílet, je to práce, je to nějaký poslání, takže to je ten moment, kdy vytáhnu ten telefon, ale když už ho zapnu a točím, tak já v tu chvíli podle mě vůbec neřeším, kdo se na to bude dívat, jak to vypadá. Je mi to vlastně v tu chvíli úplně jedno, neřeším prostě, pro koho to je, mluvím jako jak mi zobák narost.
 
-A v tu chvíli fakt řeším jenom to, co vidím, a zkoumám to, jsem z toho nadšenej. Myslím si, že ten pobyt v přírodě je v tu chvíli zaznamenanej fakt takovej, jakej je, a není zatím jako žádná příprava. Často potom, když si to pustím, tak jsem úplně jako vyřízenej, protože tam jsou občas takový jako hlody. Teď jsem u těch žížal, prostě, jo, tam jsem se to pustil, já jsem spoustu, tam je spoustu přeřeků, kdy já formuluju blbě, jo, já se na to vůbec nesoustředím v tu chvíli. Teď si myslím, že jak začínám dělat druhej typ videí, takže mi to dost pomáhá k tomu, abych byl schopen mluvit nějak jako normálně, srozumitelně. A to jsou videa, ten druhej typ, kdy fakt je zatím jako tým lidí, teď mi hodně píše scénář a prostě Honza Krajhanzl.
+A v tu chvíli fakt řeším jenom to, co vidím, a zkoumám to, jsem z toho nadšenej. Myslím si, že ten pobyt v přírodě je v tu chvíli zaznamenanej fakt takovej, jakej je, a není za tím jako žádná příprava. Často potom, když si to pustím, tak jsem úplně jako vyřízenej, protože tam jsou občas takový jako hlody. Teď jsem u těch žížal, prostě, jo, tam jsem se to pustil, já jsem spoustu, tam je spoustu přeřeků, kdy já formuluju blbě, jo, já se na to vůbec nesoustředím v tu chvíli. Teď si myslím, že jak začínám dělat druhej typ videí, takže mi to dost pomáhá k tomu, abych byl schopen mluvit nějak jako normálně, srozumitelně. A to jsou videa, ten druhej typ, kdy fakt je za tím jako tým lidí, teď mi hodně píše scénář a prostě Honza Krajhanzl.
 
 Což je prostě environmentální sociolog a psycholog, ale to fakt hodně znát, co se všechno do těch informací, do těch věd dá dostat, aby tam těch dimenzí bylo víc než jenom takový to jako zkoumání a nadšení, který je důležitý a myslím si, že přitahuje spoustu lidí, děti, je to blízký lidem, dozví se něco o tom žádná, ale zároveň jako je ochrana přírody, je složitej komplexní, složitá komplexní věc, klimatická změna je složitá, komplexní, je to prostě problém. Jako výzva teda spíš nebudeme tomu říkat problém, je to výzva.
 
