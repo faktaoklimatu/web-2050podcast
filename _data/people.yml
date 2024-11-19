@@ -483,3 +483,8 @@
   name: Martin  
   surname: Čejka
   description: Centrum pasivního domu
+
+- id: klein
+  name: Václav
+  surname: Klein
+  description: Gentec CHP
