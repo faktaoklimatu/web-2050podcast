@@ -12,6 +12,9 @@ guests:     [ klein ]
 tags:       [ energetika ]
 transcript: true
 ---
+Dozvíte se, proč jsou kogenerační jednotky důležité pro rychlou dekarbonizaci, jak jejich decentralizovaný charakter přináší výhody nejen v energetice, ale i lokálním komunitám, a proč jejich výstavba významně přispívá stabilitě české energetické sítě.
+
+Kromě toho instalace jednotek v teplárnách vede k větší energetické nezávislosti a umožňuje lepší regulaci ceny tepla v dobách drahých energií.
 
 {% include 2050/guest-list.html %}
 
