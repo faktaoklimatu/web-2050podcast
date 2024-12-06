@@ -488,3 +488,8 @@
   name: Václav
   surname: Klein
   description: Gentec CHP
+
+- id: hicl
+  name: Jan
+  surname: Hicl
+  description: Delta Green
