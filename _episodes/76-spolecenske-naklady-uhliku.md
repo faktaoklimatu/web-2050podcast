@@ -14,6 +14,8 @@ transcript: true
 ---
 Model je založen na čtyřech hlavních složkách: vývoji populace a ekonomiky, klimatických modelech zahrnujících změny teplot a hladiny moří, modelu škod odhadujícím dopady těchto změn a diskontování, které upravuje hodnotu budoucích škod s ohledem na očekávané zbohatnutí světa. Na závěr rozebíráme, z čeho se konkrétně skládají náklady způsobené změnou klimatu a jaké dopady jsou v těchto částkách započítané.
 
+_Vznik této epizody podpořilo Britské Velvyslanectví v Praze._
+
 {% include 2050/guest-list.html %}
 
 ---
