@@ -25,7 +25,7 @@ S Janem Hiclem ze společnosti Delta Green se bavíme o flexibilitě v elektrick
 {% include 2050/bonus-interview.html
   title="Jak se mohou domácnosti podílet na flexibilitě elektrické sítě"
   audioboom="8620176"
-  spotify="3XIaCFsoRBJtqR0pJoYI65"
+  spotify="0zghNM4cgxehjoubZjU7ZL"
   caption="Prodloužená verze rozhovoru jako bonus k 80. epizodě podcastu 2050. V bonusu si můžete poslechnout zbytek rozhovoru, kde se bavíme, jaký vliv na flexibilitu může mít používání elektroaut, o flexibilitě v průmyslu a dále rozebíráme zapojení domácností."
 %}
 
