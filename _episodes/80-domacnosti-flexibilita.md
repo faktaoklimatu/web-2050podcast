@@ -12,7 +12,7 @@ guests:     [ hicl ]
 tags:       [ energetika ]
 transcript: true
 ---
-S Janem Hiclem ze společnosti Delta Green se bavíme o flexibilitě v elektrické síti a vysvětlujeme pojem „agregace flexibility”. Náš host představuje, jakým způsobem se do celého procesu mohou zapojit domácnosti vybavené bateriemi a fotovoltaikou, a jak na poskytování flexibility mohou vydělávat i když zrovna nesvítí slunce.
+S Janem Hiclem ze společnosti Delta Green se bavíme o flexibilitě v elektrické síti a vysvětlujeme pojem "agregace flexibility". Náš host představuje, jakým způsobem se do celého procesu mohou zapojit domácnosti vybavené bateriemi a fotovoltaikou, a jak na poskytování flexibility mohou vydělávat i když zrovna nesvítí slunce.
 
 {% include 2050/guest-list.html %}
 
@@ -33,7 +33,7 @@ S Janem Hiclem ze společnosti Delta Green se bavíme o flexibilitě v elektrick
   Video verze tohoto podcastu z našeho studia. Sledujte náš kanál na YouTube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
 
 * **Studie [Cesty k čisté a levné elektřině v roce 2050](https://faktaoklimatu.cz/studie/2024-cesty-k-ciste-a-levne-elektrine-2050)** (_Fakta o klimatu_)\\
-   Jakým způsobem může Česko dosáhnout výroby levné a čisté elektřiny, tak aby dokázalo být v rámci Evropy konkurenceschopné?
+  Jakým způsobem může Česko dosáhnout výroby levné a čisté elektřiny, tak aby dokázalo být v rámci Evropy konkurenceschopné?
 
 * **Studie [Výroba elektřiny v Česku bez uhlí](https://faktaoklimatu.cz/studie/2024-vyroba-elektriny-v-cesku-bez-uhli)** (_Fakta o klimatu_)\\
   Studie zkoumá důsledky případného zdražení emisní povolenky a následného odstavování uhelných elektráren na základě ekonomických faktorů. Provedené modelování se zaměřuje na otázky spojené s bezpečností dodávek elektřiny, s importní bilancí a s cenami silové elektřiny v Česku.
@@ -57,6 +57,7 @@ Tak já budu mluvit asi hlavně za naši společnost Deltu Green a my jsme takov
 A k tomu všemu se dostaneme. No, co to vlastně znamená ta modernizace? Já mám, já jsem poslouchal nějaké rozhovory s tebou, vím zhruba, čemu se věnuješ, to seš vlastně schopnej, o čem jsi schopnej mluvit a co vysvětlovat. A tak. Vlastně mám chuť udělat kus takovýho vzdělávání tady v tom podcastu, o co teda jde, když se, protože mám dojem, že když pochopím ty základní energetické principy, co je potřeba, aby to fungovalo a co se teďka mění, tak pak vlastně mě možná jako třeba spotřebiteli dávají víc smysl nějaké věci, co se dějou na tom trhu nebo nějaké trendy v té společnosti, tak to se snažím tímhle podcastem tu osvětu trošku šířit. A možná jako základní věc, od které se odrazit a která stojí za to říct, je, že v elektrické síti se prostě musí být nějaká rovnováha, že výroba se musí rovnat spotřebě, aby to prostě všechno fungovalo správně, a to se musí nějak řešit. A když to jako není, tak se to musí nějak vyvažovat a tak dál, jak to fungovalo doteď? Tahle ta fyzikální věc, jak si jako zařizovala, a jak se to možná mění teďka.
 
 ### Význam rovnováhy výroby a spotřeby v síti
+
 {% include 2050/transcript-time.html time="02:59" %}
 
 {% include 2050/transcript-person.html id="hicl" %}
@@ -90,6 +91,7 @@ A teď jako 70, 30 % zdrojů, které se podílejí na té flexibilitě, které v
 Který vyrovnávají tu síť, přesně tak, a těch 30 % jsou teda ostatní. Něco z toho jsou dieselagregátory, často to jsou kogenerační jednotky, v některých případech to jsou i baterie.
 
 ### Proměna pohledu na flexibilitu
+
 {% include 2050/transcript-time.html time="07:38" %}
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -117,6 +119,7 @@ Musí udělat do termosky čaj, aby jim vydržel do druhýho, do rána. Tak ze s
 To znamená, vlastně to jako klíčová věc v dekarbonizaci, že to jako není jenom o tom, že, nebo mám dojem, že když se mluví jako i v tomhle podcastu, už když se bavíme o tom, jako, jak dekarbonizovat energetiku, tak říkám, jako je potřeba postavit tohle a postavit tohle a postavit tohle a postavit hodně větru a tak, a to všecko jako je pravda a zároveň teda to, co ty říkáš, že musíme s tím umět dobře zacházet. Není to jenom o tom, postavit ty fotovoltaiky, ale jako přizpůsobit tu naši spotřebu, ten náš rytmus tomu, abychom je využili na maximum, abychom je vlastně využili jako ve chvíli, kdy vyrábí levně.
 
 ### Naučme se využívat energii v době, kdy je vyrobena
+
 {% include 2050/transcript-time.html time="12:00" %}
 
 {% include 2050/transcript-person.html id="hicl" %}
@@ -154,6 +157,7 @@ To je skvělá otázka, se kterou se hrozně často setkáváme, protože ti lid
 Pak samozřejmě existují nějaké pokročilejší algoritmy, které už to sledují pokročilejší, ať už jsou různé domácí automatizace, které to dělají, ta optimalizace je samozřejmě vyšší, to napojení je větší, ale to, co jsem zmínil na začátku, tak je takové to klasické pravidlo 80, 20 za 20 % investice. Svojí časové jsem dosáhl osmdesátiprocentní úspory a vlastně docela hezky to funguje.
 
 ### Jak to může fungovat v domácnostech
+
 {% include 2050/transcript-time.html time="18:09" %}
 
 {% include 2050/transcript-person.html id="holik" %}
@@ -239,6 +243,7 @@ To mě vůbec nedošlo, že vlastně tu baterku pak můžu využívat nezávisle
 Je to tak. A vlastně naše fotovoltaiky můžou potom pomáhat i té síti jako celku. A je to za mě, je to přesně ten pojem té distribuované energetiky, že už to nejsou obrovské, velké celky, já neříkám, že je nebudeme nikdy potřebovat, a ta tranzice do té bezemisní energetiky bude složitá. Určitě budeme potřebovat po cestě nějaké velké výrobní celky a určitě to nemůže stát jenom na malých domácnostech. Určitě by bylo naivní si říct, že to všechno zajistí domácnosti, ale my dokazujeme, že domácnosti, když se dobře ovládají a využívají digitální nástroje, které tady dneska už jsou, tak dokážou tu energetiku velmi dobře posunout kupředu na moderní úroveň. A ty asety, které už máme, které jsme zaplatili, které prostě v té síti jsou, tak začneme mnohem efektivněji a lépe využívat k tomu, abychom se dokázali dostat lépe k bezemisní energetice.
 
 ### Osobní pohled na změnu klimatu a dekarbonizaci
+
 {% include 2050/transcript-time.html time="33:24" %}
 
 {% include 2050/transcript-person.html id="holik" %}
