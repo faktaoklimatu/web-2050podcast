@@ -14,7 +14,7 @@ transcript: true
 ---
 V dnešní epizodě si s Tomášem Protivínským projdeme některé nové studie, které sledují pokrok ve světě, a porovnáme světové trendy s tím, co vidíme u nás v České republice.
 
-_Vznik této epizody podpořilo Britské Velvyslanectví v Praze._
+_Vznik této epizody podpořilo Britské velvyslanectví v Praze._
 
 {% include 2050/guest-list.html %}
 

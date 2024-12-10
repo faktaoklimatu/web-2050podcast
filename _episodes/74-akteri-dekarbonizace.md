@@ -14,7 +14,7 @@ transcript: true
 ---
 V rozhovoru si povídáme o hlavních aktérech dekarbonizace – státu, firmách a domácnostech. Nad tzv. emisním koláčem Česka rozebíráme, jakou roli mají v transformaci jednotlivých sektorů hospodářství. V případě domácností docházíme k závěru, že největší efekt mají především investiční rozhodnutí, která učiní několikrát za život – ať už jde o koupi auta nebo třeba rekonstrukci a zateplení domu.
 
-_Vznik této epizody podpořilo Britské Velvyslanectví v Praze._
+_Vznik této epizody podpořilo Britské velvyslanectví v Praze._
 
 {% include 2050/guest-list.html %}
 
