@@ -38,6 +38,6 @@ Panelovou diskuzi jsme natočili na setkání přátel a podporovatelů projektu
 
 _Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V případě, že potřebujete doslovné citace, ověřte si je přímo v nahrávce._
 
-Bude doplněn později
+Bude doplněn později...
 
 {% include 2050/transcript-end.html %}
