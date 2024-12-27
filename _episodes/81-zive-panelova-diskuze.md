@@ -29,13 +29,6 @@ Panelovou diskuzi jsme natočili na setkání přátel a podporovatelů projektu
 
 <div class="bonus-material" markdown="1">
 
-{% include 2050/bonus-interview.html
-  title="Jak se mohou domácnosti podílet na flexibilitě elektrické sítě"
-  audioboom="8620176"
-  spotify="0zghNM4cgxehjoubZjU7ZL"
-  caption="Prodloužená verze rozhovoru jako bonus k 80. epizodě podcastu 2050. V bonusu si můžete poslechnout zbytek rozhovoru, kde se bavíme, jaký vliv na flexibilitu může mít používání elektroaut, o flexibilitě v průmyslu a dále rozebíráme zapojení domácností."
-%}
-
 * **Video verze podcastu [Živě z panelové diskuze 2015-2025-2035](https://youtu.be/5A0Ac8pUvHA)** (_Podcast 2050_)\\
   Video verze tohoto podcastu z našeho studia. Sledujte náš kanál na YouTube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
 
