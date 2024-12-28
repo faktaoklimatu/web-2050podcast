@@ -1,6 +1,6 @@
 ---
 layout:     episode
-title:      "Živě z panelové diskuze 2015-2025-2035"
+title:      "Živě z panelové diskuze 2015–2025–2035"
 number:     81
 slug:       "81-zive-panelova-diskuze"
 redirect_from: "/epizody/81"
@@ -19,7 +19,7 @@ transcript: true
 
 Bavíme se o tom, co zásadního se v jejich oborech odehrálo za poslední dekádu, a nastiňujeme klíčové křižovatky a výzvy, které nás na cestě ke klimatické neutralitě čekají v následujících 10 letech.
 
-Panelovou diskuzi jsme natočili na setkání přátel a podporovatelů projektu Fakta o klimatu  symbolicky v době, kdy se blíží 10 let od uzavření Pařížské dohody. Záznam nabízí rekapitulaci, reflexi i výhled do roku 2035 – a skvěle se tak hodí pro závěr roku, kdy se často ohlížíme zpět a přemýšlíme, kam dál.
+Panelovou diskuzi jsme natočili na setkání přátel a podporovatelů projektu Fakta o klimatu symbolicky v době, kdy se blíží 10 let od uzavření Pařížské dohody. Záznam nabízí rekapitulaci, reflexi i výhled do roku 2035 – a skvěle se tak hodí pro závěr roku, kdy se často ohlížíme zpět a přemýšlíme, kam dál.
 
 {% include 2050/guest-list.html %}
 
@@ -30,7 +30,7 @@ Panelovou diskuzi jsme natočili na setkání přátel a podporovatelů projektu
 <div class="bonus-material" markdown="1">
 
 * **Video verze podcastu [Živě z panelové diskuze 2015-2025-2035](https://youtu.be/5A0Ac8pUvHA)** (_Podcast 2050_)\\
-  Video verze tohoto podcastu z našeho studia. Sledujte náš kanál na YouTube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
+  Video verze tohoto podcastu. Sledujte náš kanál na YouTube. Kromě nových epizod na něm vychází také kratší rozhovory a další bonusový obsah k aktuálním tématům.
 
 </div>
 
