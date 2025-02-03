@@ -57,7 +57,7 @@ A jak už je naším zvykem v tomhle podcastu, tak možná se na to nechceme dí
 
 Ahoj, dobrý den.
 
-###Trump, Pařížská dohoda a širší kontext
+### Trump, Pařížská dohoda a širší kontext
 {% include 2050/transcript-time.html time="02:05" %}
 
 {% include 2050/transcript-person.html id="holik" %}
