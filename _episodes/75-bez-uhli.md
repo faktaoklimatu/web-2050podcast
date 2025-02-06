@@ -40,7 +40,7 @@ _Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V p�
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Vážení přátelé, ahoj, vítejte u dalšího podcastu 2050. Dneska tady se mnou ve studiu sedí Matěj Kolouch, Grabovský. Vítej, Matěji, ve studiu a v tomto podcastu.
+Vážení přátelé, ahoj, vítejte u dalšího podcastu 2050. Dneska tady se mnou ve studiu sedí Matěj Kolouch Grabovský. Vítej, Matěji, ve studiu a v tomto podcastu.
 
 {% include 2050/transcript-person.html id="grabovsky" %}
 
