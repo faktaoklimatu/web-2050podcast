@@ -20,6 +20,8 @@ Ve výsledku zjistíme, že Trump je možná významná „figurka na šachovnic
 
 Na druhou stranu odstoupení USA od Pařížské dohody má význam bezpečnostně geopolitický, ve smyslu narušování důvěry a narušování mezinárodní spolupráce. Což dle uvedených scénářů může výrazně zpomalit potřebnou transformaci.
 
+Epizoda vznikla za podpory Britského velvyslanectví v Praze.
+
 {% include 2050/guest-list.html %}
 
 ---
@@ -47,7 +49,7 @@ _Tento přepis byl pro lepší čitelnost gramaticky a stylisticky upraven. V p�
 
 {% include 2050/transcript-person.html id="holik" %}
 
-Vážení, milí posluchači, vítejte u další epizody. Podcast 2050 a Petr Holík. Já mám na úvod, než se pustíme do dnešního povídání, dvě věci, které bych vám chtěl říct. Jedna z nich je velké poděkování, protože tahle epizoda vznikla za podpory britského velvyslanectví v Praze, takže jim tímto mockrát děkujeme, že tyto podcasty můžeme dělat, a není to jediná epizoda, kterou podporují. Takže mockrát díky za podporu. Druhá věc, kterou chci říct a kterou si myslím, že vám trošku dlužíme, je možná částečně vysvětlení toho, proč se nám teď nedaří vydávat epizody tak často, trošku jsme ztratili rytmus.
+Vážení, milí posluchači, vítejte u další epizody. Podcast 2050 a Petr Holík. Já mám na úvod, než se pustíme do dnešního povídání, dvě věci, které bych vám chtěl říct. Jedna z nich je velké poděkování, protože tahle epizoda vznikla za podpory Britského velvyslanectví v Praze, takže jim tímto mockrát děkujeme, že tyto podcasty můžeme dělat, a není to jediná epizoda, kterou podporují. Takže mockrát díky za podporu. Druhá věc, kterou chci říct a kterou si myslím, že vám trošku dlužíme, je možná částečně vysvětlení toho, proč se nám teď nedaří vydávat epizody tak často, trošku jsme ztratili rytmus.
 
 Od nového roku je to proto, že pracujeme na online kurzu k dekarbonizaci, který bude vycházet snad někdy před létem. A tak to jenom chci říct, že pracujeme na něčem ucelenějším a moc se těším, až to bude, a až budeme vědět o tom víc, tak vás samozřejmě budeme informovat. Tak jenom ať víte, že rytmus podcastu zase chytneme a vrátíme se do toho vydávání epizod třeba jednou za 14 dnů. Něco takového, ale teďka děláme primárně na nějakém větším projektu, tak to jsou nějaké takové informace na úvod. A to, o čem se chceme bavit dneska, je trošku se vyjádřit k tématu, které proletělo médii. Nebo když natáčíme tuto epizodu, tak stále ještě létá, a to je zvolení Donalda Trumpa a jeho následné odstoupení od Pařížské dohody.
 
