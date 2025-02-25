@@ -3,7 +3,7 @@ layout:     episode
 title:      "Jaké nástroje má stát k dispozici pro dekarbonizaci?"
 number:     84
 slug:       "84-nastroje-statu"
-redirect_from: "/epizody/83"
+redirect_from: "/epizody/84"
 published:  2025-02-21
 summary:    |
     Transformace na nízkouhlíkovou ekonomiku vyžaduje sérii důležitých rozhodnutí o vhodných řešeních a opatřeních. To se neobejde bez jasné komunikace a spolupráce na všech úrovních a bez nastavení podmínek a prostředí pro jednotlivé aktéry. Klíčovým hráčem je v tomto ohledu stát a jeho vláda.
@@ -29,10 +29,9 @@ Vznik epizody podpořilo Britské velvyslanectví v Praze.
 
 * **Explainer [Jaké nástroje má stát k dispozici pro dekarbonizaci?](https://faktaoklimatu.cz/explainery/nastroje-stat)** (_Fakta o klimatu_)\\
   Transformace na nízkouhlíkovou ekonomiku vyžaduje sérii důležitých rozhodnutí o vhodných řešeních a opatřeních. To se neobejde bez jasné komunikace a spolupráce na všech úrovních a bez nastavení podmínek a prostředí pro jednotlivé aktéry. Klíčovým hráčem je v tomto ohledu stát a jeho vláda.
-  
+
 * **Studie [AI analysed 1,500 policies to cut emissions. These ones worked](https://www.nature.com/articles/d41586-024-02717-7)** (_Nature_)\\
   Výzkumníci za pomocí strojového učení analyzovali přibližně 1 500 klimatických strategií, aby identifikovali ty, které skutečně výrazně snížily emise uhlíku. Podle této studie platí, že politiky kombinující několik nástrojů jsou při snižování emisí účinnější než samostatná opatření.
-
 
 </div>
 
@@ -236,7 +235,7 @@ Je něco konkrétně, co bys chtěla zmínit k tomu, ještě tady k tomu, jako, 
 
 {% include 2050/transcript-person.html id="kolouchova" %}
 
-Asi bych to nechala zatím tedy u toho a v příští epizodě bych rozebrala to, co ten samotný Clean Industrial Deal přináší až příští týden vyjde. 
+Asi bych to nechala zatím tedy u toho a v příští epizodě bych rozebrala to, co ten samotný Clean Industrial Deal přináší až příští týden vyjde.
 
 {% include 2050/transcript-person.html id="holik" %}
 
