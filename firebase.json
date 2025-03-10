@@ -9,23 +9,19 @@
       "public": "_site",
       "cleanUrls": true,
       "trailingSlash": false,
-      "redirects": [
-          {
-            "source": "/dary",
-            "destination": "https://www.darujme.cz/projekt/1204792?utm_source=podcast_audio&utm_medium=podcast&utm_campaign=podcast_obecny",
-            "type": 301
-          },
-          {
-            "source": "/darujme",
-            "destination": "https://www.darujme.cz/projekt/1204792?utm_source=podcast_audio&utm_medium=podcast&utm_campaign=podcast_obecny",
-            "type": 301
-          },
-          {
-            "source": "/dotaznik",
-            "destination": "https://www.survio.com/survey/d/U1W4V6F5A5K9W0L3B",
-            "type": 301
-          }
-        ],
+      "redirects": [ {
+          "source": "/dary",
+          "destination": "https://www.darujme.cz/projekt/1204792?utm_source=podcast_audio&utm_medium=podcast&utm_campaign=podcast_obecny",
+          "type": 301
+        }, {
+          "source": "/darujme",
+          "destination": "https://www.darujme.cz/projekt/1204792?utm_source=podcast_audio&utm_medium=podcast&utm_campaign=podcast_obecny",
+          "type": 301
+        }, {
+          "source": "/dotaznik",
+          "destination": "https://www.survio.com/survey/d/U1W4V6F5A5K9W0L3B",
+          "type": 301
+        } ],
       "headers": [ {
         "source": "assets/files/**",
         "headers": [ {
@@ -82,23 +78,19 @@
       "public": "_site",
       "cleanUrls": true,
       "trailingSlash": false,
-      "redirects": [
-          {
-            "source": "/dary",
-            "destination": "https://www.darujme.cz/projekt/1204792?utm_source=podcast_audio&utm_medium=podcast&utm_campaign=podcast_obecny",
-            "type": 301
-          },
-          {
-            "source": "/darujme",
-            "destination": "https://www.darujme.cz/projekt/1204792?utm_source=podcast_audio&utm_medium=podcast&utm_campaign=podcast_obecny",
-            "type": 301
-          },
-          {
-            "source": "/dotaznik",
-            "destination": "https://www.survio.com/survey/d/U1W4V6F5A5K9W0L3B",
-            "type": 301
-          }
-        ],
+      "redirects": [ {
+          "source": "/dary",
+          "destination": "https://www.darujme.cz/projekt/1204792?utm_source=podcast_audio&utm_medium=podcast&utm_campaign=podcast_obecny",
+          "type": 301
+        }, {
+          "source": "/darujme",
+          "destination": "https://www.darujme.cz/projekt/1204792?utm_source=podcast_audio&utm_medium=podcast&utm_campaign=podcast_obecny",
+          "type": 301
+        }, {
+          "source": "/dotaznik",
+          "destination": "https://www.survio.com/survey/d/U1W4V6F5A5K9W0L3B",
+          "type": 301
+        } ],
       "headers": [ {
         "source": "assets/**",
         "headers": [ {
