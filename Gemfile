@@ -17,4 +17,4 @@ gem 'nokogiri', '~> 1.18'
 # gem 'jekyll-target-blank'
 
 # Temporary workaround enabling build with Ruby 3+ (e.g. Fedora 34)
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
