@@ -12,10 +12,11 @@ guests:     [ klvanova ]
 tags:       [ krajina ]
 transcript: true
 ---
-_Zajímá nás proč a jak posloucháte náš podcast. Najděte si prosím pár minut na vyplnění dotazníku na [2050podcast.cz/dotaznik](2050podcast.cz/dotaznik) a dejte nám cennou zpětnou vazbu._
+_Zajímá nás proč a jak posloucháte náš podcast. Najděte si prosím pár minut na vyplnění dotazníku na [2050podcast.cz/dotaznik](https://2050podcast.cz/dotaznik) a dejte nám cennou zpětnou vazbu._
+
 <hr>
 
-Jednou z příčin úbytku je intenzifikace zemědělství a další proměny krajiny, ale mezi méně známé patří velké rozšíření koček, které jsou u nás v podstatě invazním druhem a pro ptáky jsou nebezpečnými predátory. 
+Jednou z příčin úbytku je intenzifikace zemědělství a další proměny krajiny, ale mezi méně známé patří velké rozšíření koček, které jsou u nás v podstatě invazním druhem a pro ptáky jsou nebezpečnými predátory.
 
 Hostem epizody je ornitoložka Alena Klvaňová, od níž se dozvíme, že dbát o ptačí populace se nám vyplatí nejen protože jsou součástí naší krásné přírody, ale také protože jsou užiteční. Ptáci patří mezi důležité opylovače, redukují hmyz, škůdce a protože se řada ptáků živí semeny různých plevelů, pomáhají i tímto způsobem.
 
