@@ -6,13 +6,16 @@ slug:       "86-obnova-prirody-nrl"
 redirect_from: "/epizody/86"
 published:  2025-03-26
 summary:    |
-    ******
-audioboom:  "******"
+    Nature Restoration Law (česky Nařízení o obnově přírody) je unikátní svým zaměřením na tu část krajiny, kde žijí lidé a probíhá hospodářská činnost. Jde o základní rámec pro obnovu poškozené přírody a zdevastovaných ekosystémů na celém kontinentu. Na rozdíl od jiných legislativ se tedy nesoustředí jen na ochranu v rámci národních parků atp.
+audioboom:  "8694504"
 guests:     [ snovakova ]
 tags:       [ krajina, legislativa ]
 transcript: true
 ---
-****
+S Andy Snovákovou z Fakta o klimatu se bavíme o významu NRL – kromě potřeby zachování zdravé přírody jako takové jde samozřejmě také o dopady na lidi. Příkladem je špatná absorpce nefunkční zemědělské půdy, která nedokáže v případě náhlých velkých srážek pojmout dostatek vody, aby zabránila ničivým povodním. Obecně budeme v budoucnosti, kdy lze očekávat častější extrémy počasí, potřebovat, aby nám příroda co nejvíce pomáhala v jejich zvládání. A to nepůjde, pokud nebude v co nejlepší kondici.
+
+NRL stanovuje indikátory a cíle jako jsou obnova odvodněných rašelinišť, zvyšování populací opylujících živočichů nebo pestrost polnohospodářské krajiny. Tyto indikátory odrážejí širší ekologické procesy – např. nejde jen o počet motýlů nebo ptáků, ale o skutečnost, že když se jim daří, znamená to, že krajina jako celek funguje.
+
 
 {% include 2050/guest-list.html %}
 
