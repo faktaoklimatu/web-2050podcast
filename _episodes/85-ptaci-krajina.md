@@ -40,7 +40,7 @@ Bavíme se také o tom, jak v praxi probíhá sledování ptáků po celé Evrop
   Analýza dat z jedné východoevropské země ukazuje, že vstup do EU a přijetí Společné zemědělské politiky vedl k významnému zhoršení stavu biodiverzity. Studie tak poukazuje na negativní dopady unifikované zemědělské politiky na dříve přírodně bohaté oblasti.
 
 * **Report [Member States fail to make EU agriculture more sustainable](https://www.birdlife.org/news/2025/02/05/new-report-member-states-fail-to-make-eu-agriculture-more-sustainable/)** (_BirdLife International_)\\
-  Ekologické programy (tzv. eco-schemes) v rámci Společné zemědělské politiky EU nedosahují očekávaných výsledků v oblasti udržitelnosti. Mnohé členské státy upřednostňují snadno realizovatelné opatření s minimálním dopadem na životní prostředí, zatímco účinnější, avšak náročnější programy zůstávají nedostatečně financovány nebo neatraktivní. 
+  Ekologické programy (tzv. eco-schemes) v rámci Společné zemědělské politiky EU nedosahují očekávaných výsledků v oblasti udržitelnosti. Mnohé členské státy upřednostňují snadno realizovatelné opatření s minimálním dopadem na životní prostředí, zatímco účinnější, avšak náročnější programy zůstávají nedostatečně financovány nebo neatraktivní.
 
 * **Článek [Ptáci a skla](https://www.birdlife.cz/co-delame/vyzkum-a-ochrana-ptaku/ochrana-druhu/konflikty-ptak-clovek/ptaci-a-skla/)** (_Česká společnost ornitologická_)\\
   Na světě uhyne po srážce s průhlednou nebo zrcadlící výplní více než miliarda ptáků ročně. V Česku je to podle našich odhadů okolo 1 milionu ptáků ročně. Proč se tak děje a jak problém správně řešit?
@@ -52,7 +52,7 @@ Bavíme se také o tom, jak v praxi probíhá sledování ptáků po celé Evrop
   Stěhovaví ptáci čelí během svého každoročního cyklu mnoha hrozbám způsobeným lidskou činností. Přičemž existuje mnoho jednoduchých způsobů, jak může kdokoliv pomoci k ochraně ptáků ve svém okolí.
 
 * **Článek [How Many Birds Do Cats Kill?](https://www.catster.com/statistics/how-many-birds-do-cats-kill-statistics/)** (_Catster_)\\
-  Díky svým loveckým schopnostem představují kočky jednu z nejvýznamnějších hrozeb pro populace ptáků v mnoha zemích. 
+  Díky svým loveckým schopnostem představují kočky jednu z nejvýznamnějších hrozeb pro populace ptáků v mnoha zemích.
 
 </div>
 
