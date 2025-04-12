@@ -7,7 +7,7 @@ redirect_from: "/epizody/42"
 published:  2023-04-19
 summary:    |
     Navštívili jsme společnost Lafarge Cement, a.s., ve které jsme diskutovali nejen o výrobě a dekarbonizaci cementu, ale měli jsme také možnost nahlédnout do samotného výrobního areálu. Výroba cementu představuje cca 8 % světových emisí oxidu uhličitého. Jedná se tedy o odvětví, jehož dekarbonizace je pro dosažení klimatických cílů velmi důležitá. Podobně jako v případě oceli ani zde není dekarbonizace snadná: dvě třetiny emisí oxidu uhličitého vznikají během chemické reakce při výrobě, a tu v současnosti nedokážeme nijak nahradit.
-audioboom:  "8283919"
+spotify:    "5HAznAWzCTy1JdjfSWRWja"
 guests: [ kratochvil, zdenek ]
 tags:       [ prumysl ]
 transcript: true

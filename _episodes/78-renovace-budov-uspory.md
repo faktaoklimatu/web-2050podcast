@@ -7,7 +7,7 @@ redirect_from: "/epizody/78"
 published:  2024-11-05
 summary:    |
     Efektivní renovace i rozumná stavba nového domu mohou zásadně snížit náklady na energie a přispět k dekarbonizaci bydlení, ať už máte starší dům, plánujete novostavbu, nebo bydlíte v bytě. Jak přistupovat k úpravám, aby vám domov lépe sloužil dnes i za desítky let? V této epizodě diskutujeme, jak přemýšlet nad renovacemi, které umožňují optimalizovat spotřebu energie, lépe plánovat investice a adaptovat bydlení tak, aby odpovídalo vašim měnícím se potřebám.
-audioboom:  "8602199"
+spotify:    "0S9uGQ7P3NTmCRH0PP5JWT"
 guests:     [ cejka ]
 tags:       [ energetika, spolecnost ]
 transcript: true

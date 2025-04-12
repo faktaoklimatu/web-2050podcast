@@ -7,7 +7,7 @@ redirect_from:  "/epizody/29"
 published:      2022-07-20
 summary:    |
   Podle Jana Matouška, ředitele České asociace pojišťoven, je změna klimatu jedním ze dvou hlavních témat, která pojišťovny v současnosti řeší. S rostoucí průměrnou roční teplotou totiž přibývá i extrémních projevů počasí, jako jsou vlny veder, sucho, intenzivní srážky apod., a škody, které tyto extrémy způsobí, pak do velké míry hradí právě pojišťovny. Je pro ně tedy velice důležité se na častější výskyt těchto jevů a jejich větší intenzitu dobře připravit.
-audioboom:  "8122700"
+spotify:    "3uxiebcJeumBtmxwh5YENJ"
 guests: [ matousek ]
 tags:       [ ekonomika, klima ]
 transcript: true

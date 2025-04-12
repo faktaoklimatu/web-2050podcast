@@ -7,7 +7,7 @@ redirect_from: "/epizody/4"
 published:  2021-07-28
 summary:    |
   Na krajinu máme poměrně velké nároky. Kromě toho, že využíváme její produkční funkci, tedy například v ní pěstujeme obilí či využíváme dřevo z lesů, byli bychom rádi, kdyby krajina byla také zdravá a pomáhala nám pohlcovat skleníkové plyny.
-audioboom:  "7912562"
+spotify:    "2nuubc0uhUGsfIR4xGlUCI"
 guests: [ kozminova, kotecky, pokorny ]
 tags:       [ krajina ]
 transcript: true
@@ -30,7 +30,6 @@ Rozhovor s Radkem Pokorným byl natočen v rámci projektu [Science Slam MUNI](h
 
 {% include 2050/bonus-interview.html
   title="Vojtěch Kotecký (Univerzita Karlova) o změnách klimatu v české krajině"
-  audioboom="7958307"
   spotify="6YbL7knWvnWXYoyW8aV8C7"
   caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}

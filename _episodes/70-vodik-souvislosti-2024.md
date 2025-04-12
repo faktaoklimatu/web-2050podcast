@@ -7,7 +7,7 @@ redirect_from: "/epizody/70"
 published:  2024-08-07
 summary:    |
     S Martinem Tenglerem navazujeme na epizodu ze začátku roku 2023 a probíráme, co je kolem vodíku nového.
-audioboom:  "8550938"
+spotify:    "2HEsCpckLzeQERfAiIBTL4"
 guests:     [ tengler ]
 tags:       [ prumysl ]
 transcript: true

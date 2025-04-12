@@ -7,7 +7,7 @@ redirect_from: "/epizody/63"
 published:  2024-04-03
 summary:    |
     Dozvíte se užitečné tipy, jak o těžkých tématech mluvit s rodinou, přáteli nebo kolegy v práci tak, abychom spíš budovali porozumění než vyvolávali konflikty a napětí. Epizoda vznikla jako spolupráce podcastu 2050 a Nenásilného podcastu, jehož spoluautor – Petr Sucháček – je dnešním hostem.
-audioboom:  "8482971"
+spotify:    "0QLRPOuxqc8IilrYq7OSOD"
 guests:     [ suchacek ]
 tags:       [ spolecnost ]
 transcript: true

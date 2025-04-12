@@ -7,7 +7,7 @@ redirect_from: "/epizody/15"
 published:  2021-11-09
 summary:    |
   Pokud jste si poctivě poslechli naši druhou sérii, víte, že sledujeme příběhy českých vyjednavačů na COP26 v Glasgow.
-audioboom:  "7975844"
+spotify:    "2YZTRZ0TzC7QGkdoiqaMKN"
 tags:       [ politika ]
 ---
 

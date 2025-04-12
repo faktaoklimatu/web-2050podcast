@@ -9,7 +9,7 @@ summary:    |
     Jakou roli hraje umění v řešení klimatické změny a jak je klimatická změna v uměleckých dílech zobrazována?
 
     Hosty této epizody jsou sound designér a muzikant Jan Růžička a ilustrátorka a grafička Alex Zamouřilová. Přemýšlení nad svojí tvorbou sdílí také moderátoři Petr Holík a Hana Tesák Vrtala. Společně diskutují o roli, kterou umělecká tvorba sehrává ve vnímání klimatické krize a jejím přiblížení lidem.
-audioboom:  "8491734"
+spotify:    "1obhyIydzOnGppi345BGQN"
 guests:     [ zamourilova, ruzicka ]
 tags:       [ spolecnost ]
 transcript: true

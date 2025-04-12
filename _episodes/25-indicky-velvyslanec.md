@@ -7,7 +7,7 @@ redirect_from: "/epizody/25"
 published:  2022-05-18
 summary:    |
    Indie dnes není energeticky soběstačná země a změna klimatu jí přinese další výzvy v podobě zaplavení velkých měst, vln veder či delších období sucha. Přesto se však stát, kde žije šestina veškeré světové populace, zavázal do roku 2030 pokrýt 50 % své spotřeby elektřiny z obnovitelných zdrojů a už teď je zde v provozu největší solární park na světě.
-audioboom:  "8084540"
+spotify:    "491qxUUXQ2ia8koayzenRX"
 guests: [ kotalwar ]
 tags:       [ klima, politika, spolecnost ]
 transcript: false

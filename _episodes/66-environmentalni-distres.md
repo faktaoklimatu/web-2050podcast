@@ -7,7 +7,7 @@ redirect_from: "/epizody/66"
 published:  2024-05-15
 summary:    |
     Zdenka Voštová se dlouhodobě zabývá lidským prožíváním environmentálních témat jako psychoterapeutka a lektorka. V rozhovoru představuje data a trendy toho, jak lidé po celém světě i v Česku tato témata prožívají. Ve vlastní terapeutické praxi se setkává se skupinami i jednotlivci, na které doléhají témata spojená se změnou klimatu, a emocionálně je tímto procesem doprovází.
-audioboom:  "8504863"
+spotify:    "3LZDDsqeszFXdRVKn2gRMx"
 guests:     [ vostova ]
 tags:       [ spolecnost ]
 transcript: true
@@ -24,7 +24,6 @@ Téměř třetina Čechů prožívá ve spojitosti s klimatickou změnou bezmoc.
 
 {% include 2050/bonus-interview.html
   title="Jak se cítíš, když se řekne ‚klima’? Environmentální distres jako fenomén nejen mezi mladými"
-  audioboom="8504857"
   spotify="2kIsoIN6Wy6zeWlDirEgdD"
   caption="Originální nesestříhaný rozhovor jako bonus k 66. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o pocitech, které lze zažívat v souvislostí s klimatickou změnou."
 %}

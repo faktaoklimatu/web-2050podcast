@@ -7,7 +7,7 @@ redirect_from: "/epizody/57"
 published:  2023-12-18
 summary:    |
     Natáčeli jsme přímo ve Škodovce, kde jsme se s jejími zástupci bavili o budoucnosti elektromobility a jejich firemní cestě k udržitelnosti. Dozvíte se, jaké typy emisí vznikají v souvislosti s výrobou, provozováním i následnou likvidací auta a jak vychází v tomto směru srovnání elektroauta a vozu se spalovacím motorem.
-audioboom:  "8418067"
+spotify:    "1FNeRRXnfOl39IZDZM6bE4"
 guests: [ matus, houba, grmela ]
 tags:       [ doprava ]
 transcript: true
@@ -27,7 +27,6 @@ Důležitou součástí epizody je povídání o využití baterií poté, co do
 
 {% include 2050/bonus-interview.html
   title="Rudolf Matúš, Rostislav Houba a Pavel Grmela ze Škoda Auto: Transformace dopravy očima největší české automobilky"
-  audioboom="8418072"
   spotify="0QWIftxK6OanFF3ewtzywP"
   caption="Originální nesestříhaný rozhovor jako bonus k 57. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o dekarbonizaci a udržitelnosti podle zástupců Škoda Auto."
 %}

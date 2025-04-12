@@ -9,7 +9,7 @@ summary:    |
     V rámci fóra elektromobility, o němž jsme vydali krátkou aktualitu, jsme „v terénu“ natočili také rozhovor s jedním z přednášejících – Nikolou Hořejšem z agentury STEM.
 
     Z průzkumů vyplývá, že je česká společnost ve vztahu k elektromobilitě a dekarbonizaci nerozhodnutá a zároveň poměrně nedůvěřivá. V rozhovoru se bavíme o tom, jaké faktory by napomohly tomu, aby byla transformace na nízkouhlíkovou ekonomiku přijímána kladněji.
-audioboom:  "8390063"
+spotify:    "3U4xzjLfnZ4Rg75l6mAJKs"
 guests: [ horejs ]
 tags:       [ spolecnost, doprava ]
 transcript: true

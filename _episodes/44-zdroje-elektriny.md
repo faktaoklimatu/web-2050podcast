@@ -7,7 +7,7 @@ redirect_from: "/epizody/44"
 published:  2023-05-16
 summary:    |
       Pro dostatečně rychlou dekarbonizaci energetiky v Česku potřebujeme významně posílit bezemisní zdroje elektřiny. V minulé epizodě podcastu jsme se zaměřili na to, jaké scénáře připadají v úvahu a jak jednotlivé zdroje zkombinovat tak, aby byl výsledný energetický mix nejen čistý, ale také spolehlivý a zajistil dostupnost elektřiny pro všechny. V dnešní epizodě se na jednotlivé zdroje elektřiny podíváme podrobněji.
-audioboom:  "8301746"
+spotify:    "5T1c7HwbaZFCJm4ZIWeL22"
 guests: [ krcal ]
 tags:       [ energetika ]
 transcript: true
@@ -24,7 +24,6 @@ Rozdělit se dají do tří kategorií: slunce a vítr, jádro a nízkoemisní f
 
 {% include 2050/bonus-interview.html
   title="Jan Krčál: Z čeho můžeme v ČR vyrábět bezemisní elektřinu?"
-  audioboom="8301745"
   spotify="1QJgC2rCjiQ4syc5UlsX4j"
   caption="Nesestříhaný bonusový rozhovor ke 44. epizodě podcastu 2050."
 %}

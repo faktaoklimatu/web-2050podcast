@@ -7,7 +7,7 @@ redirect_from: "/epizody/65"
 published:  2024-05-07
 summary:    |
     Martin Sedlák (Svaz moderní energetiky) a Jan Krčál (Fakta o klimatu) jsou hosty živého natáčení podcastu o tom, jak pravděpodobně bude vypadat energetika v blízké budoucnosti, jaké trendy pozorujeme na úrovni Evropy a jaké jsou nejbližší kroky pro Česko.
-audioboom:  "8499396"
+spotify:    "0CORoYrFdAn2L2bBIFt9m9"
 guests:     [ krcal, sedlak ]
 tags:       [ energetika ]
 transcript: true

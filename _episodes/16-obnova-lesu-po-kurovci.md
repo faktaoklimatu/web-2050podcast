@@ -7,7 +7,7 @@ redirect_from: "/epizody/16"
 published:  2021-12-22
 summary:    |
   Epizoda o lesích s Matějem Šaškem by se dala považovat za takovou malou případovou studii, jak na konkrétního vlastníka lesa dnes dopadá kůrovcová kalamita. Matěj přišel v posledních letech o 80 ha lesa a v současnosti plánuje a postupně realizuje jeho obnovu.
-audioboom:  "8001393"
+spotify:    "1Vvmcqg1XWgzlE6s87uhyV"
 guests: [ sasek ]
 tags:       [ krajina ]
 transcript: true
@@ -27,7 +27,6 @@ Lesní porosty pokrývají v České republice 36,8 % území. Lesy hrají z hle
 
 {% include 2050/bonus-interview.html
   title="Matěj Šašek o lesním hospodaření, kůrovcové kalamitě a obnově lesa"
-  audioboom="8000660"
   spotify="1jMmJSjIkDV2J0A5gcxXCP"
   caption="Rozhovor s Matějem Šaškem můžete považovat za malu případovou studii, jak na konkrétního majitele lesa dopadá kůrovcová kalamita posledních let. Matěj přišel o 80 ha lesa a v současnosti plánuje a realizuje jeho obnovu. V první části bonusu uslyšíte celý rozhovor \"uvnitř\" a ve druhé části uslyšíte jednu za druhou krátké nahrávky \"z terénu\", které nebyly publikovány v hlavní epizodě."
 %}

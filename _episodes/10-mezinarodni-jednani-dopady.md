@@ -7,7 +7,7 @@ redirect_from: "/epizody/10"
 published:  2021-10-20
 summary:    |
   Mají mezinárodní jednání o klimatu vůbec nějaký smysl? Mají nějaký reálný dopad? Nebo je to jen prázdné tlachání politiků? Těmito otázkami jsme se nechali vést při nahrávání druhé epizody ze série o mezinárodních jednáních a dohodách.
-audioboom:  "7963927"
+spotify:    "7g1Liod5DKFP8Uc12CKfAT"
 tags:       [ politika ]
 ---
 
@@ -29,14 +29,12 @@ Uslyšíte kromě jiného několik konkrétních příběhů, jak je možné s p
 
 {% include 2050/bonus-interview.html
   title="Romana Březovská (AMO): Klimatické summity, Pařížská dohoda a COP26 v Glasgow"
-  audioboom="7963936"
   spotify="63TGrIxxXvikzdIo96dDjY"
   caption="Romana Březovská působila na ministerstvu životního prostředí na pozici ministerského rady a zúčastnila se mimo jiné COP25 v Madridu. V rozhovoru podrobně vysvětluje, jak klimatické summity fungují, popisuje mechanismy Pařížské dohody a sdílí své zkušenosti a svůj pohled na mezinárodní klimatický režim."
 %}
 
 {% include 2050/bonus-interview.html
   title="Hana Müllerová (AV ČR): Právní rámec COP, klimatické právo a žaloby"
-  audioboom="7963938"
   spotify="2iG8faM8eeTUM56mAtkpBO"
   caption="V tomto rozhovoru Hana Müllerová z Centra pro klimatické právo a udržitelnost přibližuje nový právní obor zvaný klimatické právo. Vysvětluje také právní rámec mezinárodních klimatických jednání a uvádí konkrétní příklady klimatických žalob, které jsou jedním z přímých důsledků mezinárodních dohod."
 %}

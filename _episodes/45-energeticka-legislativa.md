@@ -7,7 +7,7 @@ redirect_from: "/epizody/45"
 published:  2023-05-31
 summary:    |
       Jaké změny se aktuálně dějí na poli energetické legislativy? A jak ovlivňují rozvoj obnovitelných zdrojů a další klíčové parametry nové energetiky? Epizodu odpovídající na tyto otázky jsme se chystali natočit v rámci naší „energetické série“, ale zjistili jsme, že stejné téma už dobře zpracoval někdo jiný. Proto vám dnes přinášíme hostující epizodu podcastu Pod proudem.
-audioboom:  "8308935"
+spotify:    "2qWiuaH2PBlkvDt1p3DMQo"
 guests: [ novak, doucha, sikola ]
 tags:       [ energetika, politika ]
 transcript: true

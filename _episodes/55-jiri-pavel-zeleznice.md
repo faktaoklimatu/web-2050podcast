@@ -7,7 +7,7 @@ redirect_from: "/epizody/55"
 published:  2023-11-22
 summary:    |
     Železniční doprava má mnohem menší zátěž na životní prostředí než jiné typy přepravy. Naším cílem v kontextu dekarbonizace je proto přesouvat na koleje větší dopravní objemy a ulevit tak emisně náročnějším typům transportu, zejména silniční dopravě.
-audioboom:  "8404726"
+spotify:    "6XBnZp7T5WqQv3BR3tbJvc"
 guests: [ jiripavel ]
 tags:       [ doprava ]
 transcript: true
@@ -27,7 +27,6 @@ V epizodě mimo jiné zazní, jak se proměnila nákladní i osobní železničn
 
 {% include 2050/bonus-interview.html
   title="Jiří Pavel: Dekarbonizace dopravy pohledem železničáře"
-  audioboom="8404725"
   spotify="5lXed8CFTmCZqh3AqFhR12"
   caption="Originální nesestříhaný rozhovor jako bonus k 55. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o budoucí podobě české železnice."
 %}

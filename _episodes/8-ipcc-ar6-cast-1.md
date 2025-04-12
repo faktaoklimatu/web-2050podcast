@@ -9,7 +9,7 @@ redirect_from:
 published:  2021-10-01
 summary:    |
   V srpnu 2021 byla zveřejněna první část očekávané Šesté hodnotící zprávy IPCC, dokumentu shrnujícího vědecké poznatky, které se týkají fyzikální podstaty změn klimatu. Najdeme v ní tedy například data o teplotách, srážkách a podobně.
-audioboom:  "7950185"
+spotify:    "1YLvl0BBgWY1NqJhXV0ZIu"
 tags:       [ klima ]
 ---
 

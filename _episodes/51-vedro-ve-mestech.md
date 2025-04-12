@@ -7,7 +7,7 @@ redirect_from: "/epizody/51"
 published:  2023-08-23
 summary:    |
       Naši hosté z Nadace Partnerství se dlouhodobě věnují udržitelnosti a komfortu života ve městech v čase postupující klimatické změny. V dnešní epizodě se zaměříme na to, jak konkrétně klimatická změna na městské prostředí dopadá a proč jsou zde vedra větší problém než v otevřené krajině. Probereme principy adaptačních opatření a uvedeme také příklady  jednotlivých adaptačních prvků i příklady fungující adaptace celých měst.
-audioboom:  "8354312"
+spotify:    "1t6xEVyaMR8NA37AGVSFzd"
 guests:     [ macekova, ander ]
 tags:       [ klima ]
 transcript: true
@@ -25,7 +25,6 @@ Ve městech je důležité vytvářet síť zastíněných míst, po kterých se
 
 {% include 2050/bonus-interview.html
   title="Maceková, Ander: Příčiny a řešení veder v městském prostředí"
-  audioboom="8341131"
   spotify="3CUnMSlt8DOe7omou5mF0M"
   caption="Originální nesestříhaný rozhovor jako bonus k 51. epizodě podcastu 2050. V bonusu si můžete poslechnout ještě víc o konkrétních adaptačních opatřeních a projektech Nadace Partnerství."
 %}

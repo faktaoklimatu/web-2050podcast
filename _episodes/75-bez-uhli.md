@@ -7,7 +7,7 @@ redirect_from: "/epizody/75"
 published:  2024-09-25
 summary:    |
     Spalovat uhlí pro výrobu elektřiny a tepla je ekonomicky čím dál méně výhodné a některým uhelným elektrárnám už dnes hrozí uzavření kvůli nedostatečné ziskovosti. Podle nové studie „Výroba elektřiny v Česku bez uhlí“ by i při výrazně nižší výrobě elektřiny z uhlí Česko v nejbližších letech nemělo mít problémy s dodávkami elektřiny. Zároveň by to vedlo k významnému snížení emisí v sektoru energetiky.
-audioboom:  "8576253"
+spotify:    "67NvATbhkFpHeP4SDLZQaj"
 guests:     [ grabovsky ]
 tags:       [ energetika ]
 transcript: true

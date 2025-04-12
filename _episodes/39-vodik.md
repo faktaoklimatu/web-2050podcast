@@ -7,7 +7,7 @@ redirect_from: "/epizody/39"
 published:  2023-02-17
 summary:    |
    Přestože se o využití vodíku mluví v mnoha odvětvích, ne vždy se musí jednat o ten nejlevnější způsob dekarbonizace. V této epizodě proto s Martinem Tenglerem (BloombergNEF) diskutujeme nejen technologický potenciál vodíku a jeho využití v průmyslu, ale hlavně ekonomické souvislosti výroby a přepravy. Ty totiž do značné míry ovlivní jeho možnou budoucnost ve světové ekonomice.
-audioboom:  "8248988"
+spotify:    "0FLacNtx1mKrViRHZHQPVa"
 guests: [ tengler ]
 tags:       [ prumysl, doprava ]
 transcript: true
@@ -26,7 +26,6 @@ Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 
 {% include 2050/bonus-interview.html
   title="Martin Tengler: O využití vodíku nejen v průmyslu v ekonomických souvislostech"
-  audioboom="8248966"
   spotify="16rbtISczort6F5j5GKRjx"
   caption="Prodloužená verze 39. epizody podcastu, která obsahuje dodatečné informace k historii využití vodíku, výrobě vodíku a jeho využití v dekarbonizaci lodní a letecké dopravy"
 %}

@@ -7,7 +7,7 @@ redirect_from: "/epizody/84"
 published:  2025-02-21
 summary:    |
     Transformace na nízkouhlíkovou ekonomiku vyžaduje sérii důležitých rozhodnutí o vhodných řešeních a opatřeních. To se neobejde bez jasné komunikace a spolupráce na všech úrovních a bez nastavení podmínek a prostředí pro jednotlivé aktéry. Klíčovým hráčem je v tomto ohledu stát a jeho vláda.
-audioboom:  "8657297"
+spotify:    "3Bhqbh1woKmV1BtDlngbJC"
 guests:     [ kolouchova ]
 tags:       [ politika ]
 transcript: true

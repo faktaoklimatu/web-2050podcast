@@ -7,7 +7,7 @@ redirect_from: "/epizody/79"
 published:  2024-11-20
 summary:    |
     Kogenerace může hrát klíčovou roli v transformaci české energetiky. S hostem Václavem Kleinem rozebíráme, jak tento způsob kombinované výroby tepla a elektřiny nabízí efektivní, flexibilní a udržitelné řešení pro nahrazení uhelných zdrojů.
-audioboom:  "8611151"
+spotify:    "0zYbmKa6qA995EqyMMO4iK"
 guests:     [ klein ]
 tags:       [ energetika ]
 transcript: true

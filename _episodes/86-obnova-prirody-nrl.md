@@ -7,7 +7,8 @@ redirect_from: "/epizody/86"
 published:  2025-03-26
 summary:    |
     Nature Restoration Law (česky Nařízení o obnově přírody) je unikátní svým zaměřením na tu část krajiny, kde žijí lidé a probíhá hospodářská činnost. Jde o základní rámec pro obnovu poškozené přírody a zdevastovaných ekosystémů na celém kontinentu. Na rozdíl od jiných legislativ se tedy nesoustředí jen na ochranu v rámci národních parků atp.
-audioboom:  "8694504"
+spotify:    "1Q5kYmHg6pPmaJQ612zShf"
+spotify:    "1Q5kYmHg6pPmaJQ612zShf"
 guests:     [ snovakova ]
 tags:       [ krajina, legislativa ]
 transcript: true

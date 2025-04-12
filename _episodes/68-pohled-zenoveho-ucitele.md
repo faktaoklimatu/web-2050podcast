@@ -7,7 +7,7 @@ redirect_from: "/epizody/68"
 published:  2024-06-14
 summary:    |
     V epizodě hovoříme se zenovým učitelem Jirkou Hazlbauerem o spiritualitě a ochraně klimatu. Diskutujeme, jak zen přistupuje k environmentální krizi a klimatickým změnám nebo jak může spiritualita pomoci lépe zvládat environmentální žal a stres. Jirka sdílí také praktické rady, jak se ukotvit ve vlastní spiritualitě pro každodenní život. Epizodu završuje autorská hudba od Ondreje Kalužáka, kterou vytvořil tomuto rozhovoru na míru.
-audioboom:  "8522957"
+spotify:    "1Rl9DgAPkbndwZ3uGibDgq"
 guests:     [ hazlbauer ]
 tags:       [ spolecnost ]
 transcript: true

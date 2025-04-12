@@ -7,7 +7,7 @@ redirect_from: "/epizody/60"
 published:  2024-01-29
 summary:    |
       V závěrečné epizodě dopravní série odpovídáme na vaše dotazy. Zajímala vás témata týkající se elektroaut a související infrastruktury, potenciální překážky v dekarbonizaci dopravy nebo zda elektromobilita nepřináší jiná rizika – třeba v podobě velmi malých prachových částic.
-audioboom:  "8445336"
+spotify:    "72yWGUhu91bN11xJK6j3Ng"
 guests: [ grabovsky, stajer, brzezina ]
 tags:       [ doprava ]
 transcript: true

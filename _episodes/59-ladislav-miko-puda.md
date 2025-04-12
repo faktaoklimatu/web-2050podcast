@@ -7,7 +7,7 @@ redirect_from: "/epizody/59"
 published:  2024-01-10
 summary:    |
     Půda je naprosto zásadní „orgán“ planety jak pro fungování života, tak pro zachytávání a ukládání uhlíku. Když se řekne „půda“, mnozí si možná představí neživou hmotu, ale půda je ve skutečnosti bohatý ekosystém a sama o sobě živý organismus, díky kterému může existovat vše, co v ní žije a roste. Můžeme na ni nahlížet také jako na důležitý přírodní cyklus, který propojuje organismy s živinami a energií.
-audioboom:  "8427357"
+spotify:    "0c98qINtMGj1YAfurT00fz"
 guests: [ miko ]
 tags:       [ krajina ]
 transcript: true

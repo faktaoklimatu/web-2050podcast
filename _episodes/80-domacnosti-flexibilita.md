@@ -7,7 +7,7 @@ redirect_from: "/epizody/80"
 published:  2024-12-06
 summary:    |
     Dříve se výroba elektřiny přizpůsobovala spotřebě, ale dnes technologie otevírají možnosti, jak částečně řídit také kdy a jak energii využíváme. Moderní energetika proto bude založena na synchronizaci výroby a spotřeby, což je pro využívání proměnlivých obnovitelných zdrojů klíčové.
-audioboom:  "8620171"
+spotify:    "5z1RYJ5152j63VYa3Q6ofy"
 guests:     [ hicl ]
 tags:       [ energetika ]
 transcript: true
@@ -24,7 +24,6 @@ S Janem Hiclem ze společnosti Delta Green se bavíme o flexibilitě v elektrick
 
 {% include 2050/bonus-interview.html
   title="Jak se mohou domácnosti podílet na flexibilitě elektrické sítě"
-  audioboom="8620176"
   spotify="0zghNM4cgxehjoubZjU7ZL"
   caption="Prodloužená verze rozhovoru jako bonus k 80. epizodě podcastu 2050. V bonusu si můžete poslechnout zbytek rozhovoru, kde se bavíme, jaký vliv na flexibilitu může mít používání elektroaut, o flexibilitě v průmyslu a dále rozebíráme zapojení domácností."
 %}

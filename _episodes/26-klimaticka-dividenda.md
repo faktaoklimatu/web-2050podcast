@@ -7,7 +7,7 @@ redirect_from: "/epizody/26"
 published:  2022-06-02
 summary:    |
   Evropský systém pro obchodování s emisemi neznamená jen rostoucí náklady pro ty, kdo emise vypouštějí, ale také výnosy, které se vracejí zpět do státního rozpočtu. Odtud bere stát prostředky například na dotace spojené se zateplením vaší nemovitosti nebo pořízením nového kotle.
-audioboom:  "8094362"
+spotify:    "6WxaaUEjdYbhrI1nDlxsrF"
 guests: [ jungwirth, svoboda ]
 tags:       [ politika, ekonomika ]
 transcript: true
@@ -29,7 +29,6 @@ Vznik této epizody finančně podpořil Jihomoravský kraj.
 
 {% include 2050/bonus-interview.html
   title="Jan Svoboda a Tomáš Jungwirth (AMO): O finančních tocích v rámci EU ETS, klimatické dividendě a kompenzaci rostoucích nákladů domácností "
-  audioboom="8093795"
   spotify="6AdMzZ5QvN9dwAI3QPwJFN?si=aa963d24958d45bb&nd=1"
   caption="Nesestříhaný rozhovor jako bonus ke 26. epizodě podcastu 2050. Podrobně rozebíráme jakými způsoby mohou peníze z evropského povolenkového systému proudit zpět do národní ekonomiky. Bavíme se také o tom, jak je možné lidem kompenzovat zvýšené životní náklady spojené s probíhající klimatickou transformací."
 %}

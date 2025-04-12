@@ -7,7 +7,7 @@ redirect_from: "/epizody/69"
 published:  2024-06-26
 summary:    |
     V této epizodě se s rodinou Danišových ponoříme do tématu, jak o klimatické změně mluvit s dětmi a jak je vychovávat s ohledem na výzvy, jež přináší. Hosty jsou Justina a Petr Danišovi, odborníci na klimatické vzdělávání a zároveň rodiče, kteří sdílejí své zkušenosti z pracovní praxe i rodinného života.
-audioboom:  "8529545"
+spotify:    "2NQWbQnvxHiRSuFS2uSs0O"
 guests:     [ danis, danisova ]
 tags:       [ spolecnost ]
 transcript: true

@@ -7,7 +7,7 @@ redirect_from: "/epizody/37"
 published:  2023-01-18
 summary:    |
    V Evropské unii můžeme ušetřit 40 % emisí z průmyslu, pokud zavedeme principy cirkulární ekonomiky. S Pavlem Zedníčkem z INCIEN (Institut cirkulární ekonomiky) v této epizodě vysvětlujeme, co to je, v jakých odvětvích a jak konkrétně ji můžeme využít a jak si v této oblasti aktuálně vedeme.
-audioboom:  "8231993"
+spotify:    "435KIolUpSZUFEblz8KYOh"
 guests: [ zednicek ]
 tags:       [ prumysl ]
 transcript: true

@@ -7,7 +7,7 @@ redirect_from: "/epizody/35"
 published:  2022-12-14
 summary:    |
   Z 12 tun emisí skleníkových plynů, které v Česku průměrně připadají na jednoho obyvatele, souvisí s osobní spotřebou jen menší část. Většinu emisí svou spotřebou přímo ovlivnit nemůžeme, je totiž spojena s poskytováním služeb a chodem celé společnosti. To se týká i průmyslu: zde vzniká přibližně třetina emisí ČR. Pokud tedy chceme Českou republiku dekarbonizovat, bude nutné se zaměřit i na průmyslové procesy, které jsou výrazným zdrojem emisí, například v cementárnách či ocelárnách.
-audioboom:  "8211189"
+spotify:    "41UilHBb0xEF7HIfy2XPIU"
 guests: [ pribyla, zednicek, skavron ]
 tags:       [ prumysl ]
 transcript: true
@@ -27,7 +27,6 @@ Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 
 {% include 2050/bonus-interview.html
   title="Jakub Skavroň: Climate & Sustainable Leaders"
-  audioboom="8211062"
   spotify="1zjNWjdk5b1OOEOR0pmFGn"
   caption="Ve sdružení Climate & Sustainable Leaders Czech Republic, z. s., spojily své síly společnosti z oblasti financí, telekomunikací, poradenské a právnické firmy i specialisté na redukci emisí CO<sub>2</sub>. Posláním platformy je zejména sledovat ambice omezovat produkci CO<sub>2</sub> u největších firem v ČR, motivovat klíčové hráče v české ekonomice ke startu projektů, které přispívají k udržitelnosti a ochraně klimatu, a také pomoci s jejich realizací."
 %}

@@ -7,7 +7,7 @@ redirect_from: "/epizody/1"
 published:  2021-07-28
 summary:    |
   Hlavním tématem této epizody (stejně jako celého podcastu) je přechod ke klimatické neutralitě. Abychom zastavili oteplování planety, a zamezili tak zhoršování změn klimatu, musíme do ovzduší vypouštět jen takové množství skleníkových plynů, které jsme schopni z atmosféry odebírat. Tomu se říká klimatická neutralita.
-audioboom:  "7912535"
+spotify:    "74JujyQY21mMtWqKJk108n"
 guests: [ pribyla, hanzlik, gerslova, jungwirth, tovarkova ]
 tags:       [ klima, spolecnost ]
 transcript: true
@@ -28,7 +28,6 @@ Přechod ke klimatické neutralitě není jen v zájmu států, ale i firem. Nav
 
 {% include 2050/bonus-interview.html
   title="Barbora Geršlová (IKEA) o strategii udržitelnosti společnosti IKEA"
-  audioboom="7958315"
   spotify="6S5jacXX4eDp42q8sp2ltf"
   caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}

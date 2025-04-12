@@ -7,7 +7,7 @@ redirect_from: "/epizody/61"
 published:  2024-02-07
 summary:    |
     Studie vědců z Masarykovy Univerzity zkoumala vliv extrémních teplot na úmrtnost v ČR a potvrdila světová data o důsledcích neobvykle nízkých i vysokých teplot v podobě zvýšené úmrtnosti.
-audioboom:  "8454091"
+spotify:    "6JT3f8smUBI2n8tbeX8Ptg"
 guests:     [ janos ]
 tags:       [ klima, spolecnost ]
 transcript: true
