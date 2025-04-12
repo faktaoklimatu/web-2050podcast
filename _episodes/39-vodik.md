@@ -26,7 +26,6 @@ Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 
 {% include 2050/bonus-interview.html
   title="Martin Tengler: O využití vodíku nejen v průmyslu v ekonomických souvislostech"
-  audioboom="8248966"
   spotify="16rbtISczort6F5j5GKRjx"
   caption="Prodloužená verze 39. epizody podcastu, která obsahuje dodatečné informace k historii využití vodíku, výrobě vodíku a jeho využití v dekarbonizaci lodní a letecké dopravy"
 %}

@@ -29,7 +29,6 @@ Jak lze s externalitami pracovat, jak je internalizovat a jaký dopad to má na 
 
 {% include 2050/bonus-interview.html
   title="Proč jsou ekonomické externality zásadní pro ochranu klimatu?"
-  audioboom="8558143"
   spotify="1dOPdJyjbgxxDsUljJlCxO"
   caption="Originální nesestříhaný rozhovor jako bonus k 71. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o ekonomických externalitách a jejich souvislostech s ochranou klimatu."
 %}

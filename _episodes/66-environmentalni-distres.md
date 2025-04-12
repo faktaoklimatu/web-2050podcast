@@ -24,7 +24,6 @@ Téměř třetina Čechů prožívá ve spojitosti s klimatickou změnou bezmoc.
 
 {% include 2050/bonus-interview.html
   title="Jak se cítíš, když se řekne ‚klima’? Environmentální distres jako fenomén nejen mezi mladými"
-  audioboom="8504857"
   spotify="2kIsoIN6Wy6zeWlDirEgdD"
   caption="Originální nesestříhaný rozhovor jako bonus k 66. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o pocitech, které lze zažívat v souvislostí s klimatickou změnou."
 %}

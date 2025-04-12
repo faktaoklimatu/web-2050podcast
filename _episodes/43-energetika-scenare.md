@@ -24,7 +24,6 @@ V nové sérii se budeme podrobně zabývat energetikou a v této první epizod�
 
 {% include 2050/bonus-interview.html
   title="Jan Krčál: Jaké cesty mohou dovést Česko k bezesní elektřině?"
-  audioboom="8294276"
   spotify="78dQywDhwoL3ySeKtOBro9"
   caption="Nesestříhaný rozhovor jako bonus ke 43. epizodě podcastu 2050. O elektroenergetice v ČR, výrobě, spotřebě, emisích a scénářích, jak se dostat k bezemisní energetice v roce 2050."
 %}

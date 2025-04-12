@@ -27,14 +27,12 @@ Zeptali jsme se přímo vyjednavačů, kteří na klimatické summity jezdí a r
 
 {% include 2050/bonus-interview.html
   title="Romana Březovská (AMO): Klimatické summity, Pařížská dohoda a COP26 v Glasgow"
-  audioboom="7963936"
   spotify="63TGrIxxXvikzdIo96dDjY"
   caption="Romana Březovská působila na ministerstvu životního prostředí na pozici ministerského rady a zúčastnila se mimo jiné COP25 v Madridu. V rozhovoru podrobně vysvětluje, jak klimatické summity fungují, popisuje mechanismy Pařížské dohody a sdílí své zkušenosti a svůj pohled na mezinárodní klimatický režim."
 %}
 
 {% include 2050/bonus-interview.html
   title="Pavel Zámyslický a Kateřina Suchá (MŽP): Jak funguje COP a co očekávat od COP26 v Glasgow"
-  audioboom="7963937"
   spotify="4WhRx2OftKRytEscIPLkwl"
   caption="Čeští delegáti jezdí na klimatické summity pravidelně a v tomto rozhovoru popisují, jak probíhá příprava podkladů i samotná vyjednávání. Sdílí také své zážitky z podobných konferencí a naznačují, jaké výsledky můžeme čekat od COP26 v Glasgow."
 %}

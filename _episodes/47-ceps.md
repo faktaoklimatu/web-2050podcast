@@ -24,7 +24,6 @@ Vzniká totiž velké množství malých, nezávislých zdrojů, jako jsou např
 
 {% include 2050/bonus-interview.html
   title="Pavel Šolc (ČEPS): Elektrická přenosová soustava ve světě nové energetiky"
-  audioboom="8327063"
   spotify="2RHOrPbL97YeAwc2W5Neg5"
   caption="Nesestříhaný rozhovor jako bonus ke 47. epizodě podcastu 2050. V bonusu si můžete poslechnout ještě víc o historii české přenosové soustavy, víc o podobě budoucí energetiky z pohledu ČEPSu a taky podrobnější technické detaily ohledně mezinárodní spolupráce a propojení evropské elektrické soustavy."
 %}

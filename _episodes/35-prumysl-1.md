@@ -27,7 +27,6 @@ Epizoda vznikla za podpory Britského velvyslanectví v Praze.
 
 {% include 2050/bonus-interview.html
   title="Jakub Skavroň: Climate & Sustainable Leaders"
-  audioboom="8211062"
   spotify="1zjNWjdk5b1OOEOR0pmFGn"
   caption="Ve sdružení Climate & Sustainable Leaders Czech Republic, z. s., spojily své síly společnosti z oblasti financí, telekomunikací, poradenské a právnické firmy i specialisté na redukci emisí CO<sub>2</sub>. Posláním platformy je zejména sledovat ambice omezovat produkci CO<sub>2</sub> u největších firem v ČR, motivovat klíčové hráče v české ekonomice ke startu projektů, které přispívají k udržitelnosti a ochraně klimatu, a také pomoci s jejich realizací."
 %}

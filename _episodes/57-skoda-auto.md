@@ -27,7 +27,6 @@ Důležitou součástí epizody je povídání o využití baterií poté, co do
 
 {% include 2050/bonus-interview.html
   title="Rudolf Matúš, Rostislav Houba a Pavel Grmela ze Škoda Auto: Transformace dopravy očima největší české automobilky"
-  audioboom="8418072"
   spotify="0QWIftxK6OanFF3ewtzywP"
   caption="Originální nesestříhaný rozhovor jako bonus k 57. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o dekarbonizaci a udržitelnosti podle zástupců Škoda Auto."
 %}
