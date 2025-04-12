@@ -7,7 +7,7 @@ redirect_from: "/epizody/0"
 published:  2021-07-13
 summary:    |
   Poslechněte si, co pro vás zrovna stříháme a zjistěte, kdy si můžete konečně poslechnout celou první sérii podcastu.
-audioboom:  "7902963"
+spotify:    "0RTGtU1zFAQe2BO08G4YPw"
 ---
 Chcete vědět, co se chystá a jak projekt postupuje? Dejte nám lajk na Instagramu nebo Facebooku, ať vám nic neunikne. Nebo nám můžete nechat email a my se vám ozveme, až bude první série venku.
 

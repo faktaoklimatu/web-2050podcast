@@ -7,7 +7,7 @@ redirect_from: "/epizody/76"
 published:  2024-10-09
 summary:    |
     Každá vypuštěná tuna oxidu uhličitého způsobí budoucí společnosti škodu 250 dolarů, což znamená, že průměrný Čech vytváří měsíčně škodu 5000 korun vypouštěním skleníkových plynů. V této epizodě Tomáš Protivínský vysvětluje, jak se tyto náklady počítají a jaký model za nimi stojí.
-audioboom:  "8587284"
+spotify:    "44r2u5HNZHRJGhRCKzubUQ"
 guests:     [ protivinsky ]
 tags:       [ ekonomika, finance ]
 transcript: true

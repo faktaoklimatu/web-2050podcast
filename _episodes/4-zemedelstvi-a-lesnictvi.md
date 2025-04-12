@@ -7,7 +7,7 @@ redirect_from: "/epizody/4"
 published:  2021-07-28
 summary:    |
   Na krajinu máme poměrně velké nároky. Kromě toho, že využíváme její produkční funkci, tedy například v ní pěstujeme obilí či využíváme dřevo z lesů, byli bychom rádi, kdyby krajina byla také zdravá a pomáhala nám pohlcovat skleníkové plyny.
-audioboom:  "7912562"
+spotify:    "2nuubc0uhUGsfIR4xGlUCI"
 guests: [ kozminova, kotecky, pokorny ]
 tags:       [ krajina ]
 transcript: true

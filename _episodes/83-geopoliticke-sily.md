@@ -7,7 +7,7 @@ redirect_from: "/epizody/83"
 published:  2025-02-03
 summary:    |
     Donald Trump potvrdil odstoupení USA od Pařížské dohody. Ale jaký vliv má americký prezident na klimatickou politiku v celosvětovém kontextu? V této epizodě se chceme podívat na to, jaké hybné síly a jací aktéři ji reálně formují.
-audioboom:  "8647677"
+spotify:    "4AOzyCxWCWaXELBhm2bGPb"
 guests:     [ pribyla ]
 tags:       [ politika ]
 transcript: true

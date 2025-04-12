@@ -7,7 +7,7 @@ redirect_from: "/epizody/81"
 published:  2024-12-19
 summary:    |
     Hosty je tentokrát celá sestava odborníků, kteří se společně zamýšlejí nad vývojem ochrany klimatu z pohledu několika důležitých oblastí.
-audioboom:  "8620171"
+spotify:    "1gLUn6J4z5V1yGAHfbiYLS"
 guests:     [ tengler, krajhanzl, hicl, otypkova ]
 tags:       [ spolecnost, energetika, politika, ekonomika ]
 transcript: true

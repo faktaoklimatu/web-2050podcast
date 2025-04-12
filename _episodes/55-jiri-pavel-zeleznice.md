@@ -7,7 +7,7 @@ redirect_from: "/epizody/55"
 published:  2023-11-22
 summary:    |
     Železniční doprava má mnohem menší zátěž na životní prostředí než jiné typy přepravy. Naším cílem v kontextu dekarbonizace je proto přesouvat na koleje větší dopravní objemy a ulevit tak emisně náročnějším typům transportu, zejména silniční dopravě.
-audioboom:  "8404726"
+spotify:    "6XBnZp7T5WqQv3BR3tbJvc"
 guests: [ jiripavel ]
 tags:       [ doprava ]
 transcript: true

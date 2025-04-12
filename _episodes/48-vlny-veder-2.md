@@ -7,7 +7,7 @@ redirect_from: "/epizody/48"
 published:  2023-07-18
 summary:    |
       Lékař, klimatolog, meteorolog a fyzik vysvětlují v této epizodě vlny veder, každý z pohledu svého oboru. Přestože mluví hlavně o českém kontextu, mnohé z toho, co říkají, platí i globálně. Dozvíte se, jaká rizika pro naše zdraví vedra představují a jak těmto rizikům účinně předcházet. Získáte také základní informace o tom, co to vůbec vlna veder je, jak vzniká a jaký vývoj se u tohoto extrému počasí očekává do budoucna.
-audioboom:  "8335992"
+spotify:    "6fsrw6lLmfTbufgygssYHT"
 guests: [ sebek, lhotka, zak, pribyla ]
 tags:       [ klima ]
 transcript: true

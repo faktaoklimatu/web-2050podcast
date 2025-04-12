@@ -7,7 +7,7 @@ redirect_from: "/epizody/47"
 published:  2023-07-04
 summary:    |
       ČEPS zajišťuje na území ČR provoz elektrické přenosové soustavy. Znamená to nejen starat se o to, aby byly „všechny dráty v pořádku“, ale hlavně zajistit, aby bylo do sítě v každý okamžik dodáváno právě tolik elektřiny, kolik se spotřebovává. Vyžaduje to pečlivé plánování provozu a zároveň dostatečné rezervy na straně výroby či flexibilitu na straně spotřeby, se kterou ČEPS může podle potřeby pracovat. Na rozdíl od minulosti, kdy v zásadě probíhal přenos elektřiny z několika velkých elektráren směrem ke spotřebitelům, se dnes dostáváme do mnohem složitější reality.
-audioboom:  "8327064"
+spotify:    "5ZCxoionB7dcX38jNhoi5r"
 guests: [ solc ]
 tags:       [ energetika ]
 transcript: true

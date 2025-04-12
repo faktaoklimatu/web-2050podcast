@@ -7,7 +7,7 @@ redirect_from:  "/epizody/28"
 published:      2022-07-06
 summary:    |
   Při běžné výrobě jedné tuny oceli vzniknou dvě tuny CO<sub>2</sub>. Přes vysokou emisní náročnost je však ocel materiálem, bez kterého se neobejdeme a který potřebujeme i pro samotnou dekarbonizaci (například větrná elektrárna obsahuje desítky tun ocelových součástí). Navštívili jsme proto jeden z největších hutních podniků v Česku, abychom se o výrobě oceli dozvěděli více a zjistili, zda a jak se dá ocel do budoucna vyrábět bez emisí.
-audioboom:  "8115164"
+spotify:    "53pHir8qt6wcEZr7zgy8ML"
 guests: [ kalinec ]
 tags:       [ prumysl ]
 transcript: true

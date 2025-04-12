@@ -7,7 +7,7 @@ redirect_from: "/epizody/72"
 published:  2024-08-28
 summary:    |
     V Číně se prodává více elektromobilů než aut se spalovacím motorem. Česko vyrábí třikrát méně elektřiny ze slunce a větru, než je světový průměr. Světové emise skleníkových plynů z elektroenergetiky dosáhly vrcholu a do roku 2030 by se mohly snížit na polovinu. Dekarbonizace postupuje rychle a v některých případech dokonce rychleji, než se očekávalo (např. v rozvoji solární energetiky). Pokud udržíme současné tempo, máme stále šanci dosáhnout cílů Pařížské dohody.
-audioboom:  "8561404"
+spotify:    "48cUQxbttxwPh3Z6xhg6HA"
 guests:     [ protivinsky ]
 tags:       [ energetika ]
 transcript: true

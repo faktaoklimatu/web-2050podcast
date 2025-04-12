@@ -7,7 +7,7 @@ redirect_from: "/epizody/56"
 published:  2023-12-18
 summary:    |
     Klimatická konference COP 28 se konala ve Spojených arabských emirátech. Obě naše hostky se na konferenci samy nacházely, díky čemuž jsme měli možnost nahlédnout přímo do místa dění.
-audioboom:  "8413452"
+spotify:    "2QmF9RL8HMMw672Gbwqp5g"
 guests: [ brezovska, macurova ]
 tags:       [ politika ]
 transcript: false

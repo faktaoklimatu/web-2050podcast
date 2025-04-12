@@ -7,7 +7,7 @@ redirect_from: "/epizody/10"
 published:  2021-10-20
 summary:    |
   Mají mezinárodní jednání o klimatu vůbec nějaký smysl? Mají nějaký reálný dopad? Nebo je to jen prázdné tlachání politiků? Těmito otázkami jsme se nechali vést při nahrávání druhé epizody ze série o mezinárodních jednáních a dohodách.
-audioboom:  "7963927"
+spotify:    "7g1Liod5DKFP8Uc12CKfAT"
 tags:       [ politika ]
 ---
 

@@ -7,7 +7,7 @@ redirect_from: "/epizody/41"
 published:  2023-04-12
 summary:    |
     Mezivládní panel pro změny klimatu (IPCC) nedávno vydal poslední část takzvané Šesté hodnotící zprávy, která shrnuje dosavadní vědecké poznání o změnách klimatu. S klimatologem a zástupcem ČR v tomto panelu Radimem Tolaszem si povídáme o tom, jak tyto zprávy vznikají a co se nachází v té poslední.
-audioboom:  "8279545"
+spotify:    "69NtmE28TuMB7AiScjwVWq"
 guests: [ tolasz ]
 tags:       [ klima, politika ]
 transcript: true

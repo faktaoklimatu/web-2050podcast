@@ -7,7 +7,7 @@ redirect_from: "/epizody/57"
 published:  2023-12-18
 summary:    |
     Natáčeli jsme přímo ve Škodovce, kde jsme se s jejími zástupci bavili o budoucnosti elektromobility a jejich firemní cestě k udržitelnosti. Dozvíte se, jaké typy emisí vznikají v souvislosti s výrobou, provozováním i následnou likvidací auta a jak vychází v tomto směru srovnání elektroauta a vozu se spalovacím motorem.
-audioboom:  "8418067"
+spotify:    "1FNeRRXnfOl39IZDZM6bE4"
 guests: [ matus, houba, grmela ]
 tags:       [ doprava ]
 transcript: true

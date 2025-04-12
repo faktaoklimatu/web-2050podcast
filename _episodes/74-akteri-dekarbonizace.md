@@ -7,7 +7,7 @@ redirect_from: "/epizody/74"
 published:  2024-09-18
 summary:    |
     S čím se zakladatel projektu Fakta o klimatu Ondráš Přibyla potkává, když o klimatické změně a dekarbonizaci přednáší nebo poskytuje konzultace? Jaké jsou představy lidí, s nimiž se setkává, ohledně možností transformace a jejich potenciální roli v tomto procesu?
-audioboom:  "8570524"
+spotify:    "5AuEzrbeHJ2jB25lblKX1a"
 guests:     [ pribyla ]
 tags:       [ spolecnost ]
 transcript: true

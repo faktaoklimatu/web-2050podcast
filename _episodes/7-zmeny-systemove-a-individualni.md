@@ -7,7 +7,7 @@ redirect_from: "/epizody/7"
 published:  2021-07-28
 summary:    |
   Přehled možností, jak dosáhnout uhlíkové neutrality v jednotlivých sektorech, máme za sebou. Pořád ale nevíme přesně, kdo tedy zařídí, aby se to opravdu stalo. A právě na to se podíváme v poslední epizodě první série našeho podcastu.
-audioboom:  "7912596"
+spotify:    "5BR7JIKsdYg72OhqZfDvSb"
 guests: [ broza, davidova, jungwirth, zindulkova, tovarkova ]
 tags:       [ politika, spolecnost ]
 transcript: true

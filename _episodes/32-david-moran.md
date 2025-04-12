@@ -7,7 +7,7 @@ redirect_from:  "/epizody/32"
 published:      2022-10-26
 summary:    |
   Zkušený britský vyjednavač nás v tomto rozhovoru s Ondrášem Přibylou nechává nahlédnout do zákulisí klimatických jednání i diplomacie samotné. To nejdůležitější na jeho práci je prý umět naslouchat. Musí pochopit postoje jednotlivých stran a umět si představit kroky, na kterých by se tyto strany mohly dohodnout.
-audioboom:  "8180494"
+spotify:    "2P5eRVgm3AFbSAe96tghg5"
 guests: [ moran ]
 tags:       [ politika ]
 transcript: false

@@ -7,7 +7,7 @@ redirect_from: "/epizody/77"
 published:  2024-10-23
 summary:    |
     Prokop Pithart přináší radost z přírody a fascinaci jejími detaily – od drobných momentů, jako je pták hnízdící na zahradě, až po globální témata, jako je změna klimatu. V této epizodě si povídáme o jeho pohledu na propojenost lidí s přírodou, jeho cestě za natáčením autentických videí z české divočiny a o tom, jak jeho videa ovlivňují ochranu přírody a komunikaci důležitých témat napříč různými skupinami lidí. Diskutujeme také o samotné tvorbě – je za jeho videi čistá autenticita, nebo pečlivá dramaturgie?
-audioboom:  "8594109"
+spotify:    "1sBP1UPDwPliiFZQ8UYpA2"
 guests:     [ pithart ]
 tags:       [ krajina, zemedelstvi ]
 transcript: true
