@@ -27,7 +27,6 @@ V epizodě mimo jiné zazní, jak se proměnila nákladní i osobní železničn
 
 {% include 2050/bonus-interview.html
   title="Jiří Pavel: Dekarbonizace dopravy pohledem železničáře"
-  audioboom="8404725"
   spotify="5lXed8CFTmCZqh3AqFhR12"
   caption="Originální nesestříhaný rozhovor jako bonus k 55. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o budoucí podobě české železnice."
 %}

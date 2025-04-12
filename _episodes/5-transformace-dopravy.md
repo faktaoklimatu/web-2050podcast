@@ -29,7 +29,6 @@ Dozvíte se, jak by mohla vypadat doprava budoucnosti a také to, proč je důle
 
 {% include 2050/bonus-interview.html
   title="Oldřich Sklenář (AMO) o dekarbonizaci dopravy"
-  audioboom="7958302"
   spotify="6nMHXASakx1d5VjnAikQgx"
   caption="Tento rozhovor nevznikl jako ucelený podcast, ale host i moderátor počítali s tím, že z něj budou vybrané jen některé části, které sestříháme do výsledného díla. Berte proto tento záznam spíše jako open source bonus pro ty z vás, které host z podcastu zaujal. Omluvte tedy sníženou kvalitu zvuku, občasná přeřeknutí, opakování myšlenek a podobně."
 %}

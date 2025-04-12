@@ -27,7 +27,6 @@ Odborným hostem je Michal Hrubý – vědecký pracovník Škoda Auto Vysoké �
 
 {% include 2050/bonus-interview.html
   title="Michal hrubý: alternativní paliva pro dopravu"
-  audioboom="8396562"
   spotify="0HWm1VZkAyHoqtjByVlsDl"
   caption="Originální nesestříhaný rozhovor jako bonus k 54. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o alternativách k fosilním palivům a legislativě týkající se dekarbonizace dopravy."
 %}

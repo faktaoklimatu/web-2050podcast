@@ -26,7 +26,6 @@ Také probereme zda se zdají jako vhodnější třicetiminutové vzdělávací 
 
 {% include 2050/bonus-interview.html
   title="Jak média reportují o klimatu a dekarbonizaci?"
-  audioboom="8512853"
   spotify="1pwKgHGBUI2NPk44e4pRq4"
   caption="Originální nesestříhaný rozhovor jako bonus k 67. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o komunikaci klimatické změny v médiích."
 %}

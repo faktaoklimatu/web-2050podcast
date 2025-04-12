@@ -27,7 +27,6 @@ Hovoří o způsobech, jak podpořit využívání veřejné dopravy nebo mikrom
 
 {% include 2050/bonus-interview.html
   title="Peter Bednár: Urbanistův pohled na dopravu ve městě"
-  audioboom="8418828"
   spotify="4CefZoIJiVyDiDx3o90FFm"
   caption="Originální nesestříhaný rozhovor jako bonus k 58. epizodě podcastu 2050. V bonusu si můžete poslechnout více podrobností o tom, jak by měla vypadat moderní a udržitelná městská doprava."
 %}
