@@ -7,7 +7,7 @@ redirect_from: "/epizody/13"
 published:  2021-10-20
 summary:    |
   Závěr série o mezinárodních klimatických jednáních patří samotné konferenci v Glasgow. Jedná se o summit všech smluvních stran Rámcové úmluvy o změně klimatu (UNFCCC), který se koná každý rok, nicméně letošní ročník je často v médiích prezentován jako „poslední šance pro klima“. Poslední šance to určitě není, ale bezesporu jde o důležitý summit.
-audioboom:  "7963932"
+spotify:    "6jqTaOqHRTbkyGbVQQkWNf"
 tags:       [ politika ]
 
 ---

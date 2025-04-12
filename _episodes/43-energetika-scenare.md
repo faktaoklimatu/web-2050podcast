@@ -7,7 +7,7 @@ redirect_from: "/epizody/43"
 published:  2023-05-03
 summary:    |
     Výroba elektřiny a tepla má dnes na svědomí přibližně 40 % z celkových emisí skleníkových plynů v ČR. Do budoucna počítáme v rámci dekarbonizace odvětví, jako jsou doprava nebo průmysl, s další elektrifikací mnoha procesů, což znamená, že v roce 2050 bude spotřeba elektřiny oproti současnosti 1,5× až 2× větší. Proto je nutné hledat cesty k její bezemisní výrobě.
-audioboom:  "8294295"
+spotify:    "5Hw5TvHjCxPr7TSBFhD45P"
 guests:     [ krcal ]
 tags:       [ energetika ]
 transcript: true

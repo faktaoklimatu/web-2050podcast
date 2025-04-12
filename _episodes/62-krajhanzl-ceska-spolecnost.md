@@ -7,7 +7,7 @@ redirect_from: "/epizody/62"
 published:  2024-03-21
 summary:    |
     Sociolog Jan Krajhanzl je hostem první epizody nové série podcastu 2050, která se bude zabývat lidmi a společností. Zaměříme se na to, jak se česká společnost staví ke změně klimatu a dalším otázkám životního prostředí, udržitelnosti nebo dekarbonizace. V epizodě diskutujeme, jak se postoj naší společnosti k těmto tématům vyvíjel v čase a do jakých skupin můžeme Čechy a Češky názorově rozdělit.
-audioboom:  "8476257"
+spotify:    "2aQH3cz1OQ1Mk7ri5svbC2"
 guests:     [ krajhanzl ]
 tags:       [ spolecnost ]
 transcript: true

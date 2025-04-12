@@ -7,7 +7,7 @@ redirect_from: "/epizody/85"
 published:  2025-03-12
 summary:    |
     Od roku 1980 zmizela skoro pětina evropských ptáků. Přitom právě ptáci patří ke spolehlivým indikátorům stavu životního prostředí, protože jsou velmi závislí na okolní krajině - ať už třeba kvůli požadavkům na hnízdění nebo potravu. A na případné změny v ekosystému jejich populace poměrně rychle reagují.
-audioboom:  "8667796"
+spotify:    "7nuyqfDAoDp3QVVAqiJpcv"
 guests:     [ klvanova ]
 tags:       [ krajina ]
 transcript: true

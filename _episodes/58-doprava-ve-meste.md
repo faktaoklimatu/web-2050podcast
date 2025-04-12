@@ -7,7 +7,7 @@ redirect_from: "/epizody/58"
 published:  2023-12-19
 summary:    |
     To, jak vypadá místní doprava zároveň utváří podobu našich měst a má velký vliv na kvalitu života v nich. Česká města patří na přední příčky ve srovnání hromadné dopravy co se týče její kvality a ceny, ale do značné míry těží v tomto směru z toho, co bylo postaveno v minulosti.
-audioboom:  "8418824"
+spotify:    "1TxGEUfmHe7iyPPfPOXN81"
 guests: [ bednar ]
 tags:       [ doprava ]
 transcript: true

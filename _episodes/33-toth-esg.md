@@ -7,7 +7,7 @@ redirect_from:  "/epizody/33"
 published:      2022-11-16
 summary:    |
   Za zkratkou ESG se skrývá systém hodnocení firem a jejich činnosti z různých hledisek, který zahrnuje mimo jiné i změnu klimatu: Jak se firma dokáže vypořádat s dopady této změny? A jak k této změně naopak svým působením přispívá? Když se investor rozhoduje, do jakého byznysu vloží své peníze, obvykle si dělá podrobný průzkum toho, jak si která firma vede a jakým rizikům bude pravděpodobně v budoucnu čelit. Stále větší prostor je přitom v poslední době věnován také tzv. nefinančním kritériím, a právě na ty se vztahuje ESG.
-audioboom:  "8197261"
+spotify:    "71uZyb2inoYpWSyRBwUd6l"
 guests: [ toth ]
 tags:       [ ekonomika, politika ]
 transcript: false

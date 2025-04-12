@@ -7,7 +7,7 @@ redirect_from:  "/epizody/34"
 published:      2022-11-30
 summary:    |
   Jak ovlivní konflikt na Ukrajině evropský Green Deal a balíček opatření Fit for 55? Jakou roli v transformaci na nízkouhlíkovou ekonomiku hraje finanční sektor? A jak na evropské úrovni řešit  rozdíly, které existují mezi jednotlivými regiony?
-audioboom:  "8203883"
+spotify:    "4fUSAHzSZuUVxFm6bbb1EH"
 guests: [ popov ]
 tags:       [ politika ]
 transcript: false

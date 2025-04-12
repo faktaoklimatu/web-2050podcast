@@ -7,7 +7,7 @@ redirect_from: "/epizody/71"
 published:  2024-08-21
 summary:    |
     S hostem Janem Zápalem z CERGE-EI se bavíme o environmentální ekonomii a zaměříme se na klíčový pojem „ekonomické externality“ a jaký je jejich význam pro ochranu klimatu. Externalitou se rozumí dopad na lidi, přírodu nebo společnost, který je způsobený jednáním aktérů na trhu. Pokud například vlastním uhelnou elektrárnu, z prodeje elektřiny mám zisk, ale dopad znečištění nese celá společnost – to je právě externalita. Na příkladech si vysvětlíme, jak vypadají pozitivní i negativní externality, objasníme, jak v základu fungují trhy a proč v některých případech klasické ekonomické poučky neplatí.
-audioboom:  "8558149"
+spotify:    "2udLCLkokn9jhUh8WDRnQk"
 guests:     [ zapal, pribyla ]
 tags:       [ ekonomika ]
 transcript: true

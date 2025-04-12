@@ -7,7 +7,7 @@ redirect_from: "/epizody/16"
 published:  2021-12-22
 summary:    |
   Epizoda o lesích s Matějem Šaškem by se dala považovat za takovou malou případovou studii, jak na konkrétního vlastníka lesa dnes dopadá kůrovcová kalamita. Matěj přišel v posledních letech o 80 ha lesa a v současnosti plánuje a postupně realizuje jeho obnovu.
-audioboom:  "8001393"
+spotify:    "1Vvmcqg1XWgzlE6s87uhyV"
 guests: [ sasek ]
 tags:       [ krajina ]
 transcript: true

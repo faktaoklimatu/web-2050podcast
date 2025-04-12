@@ -6,7 +6,7 @@ slug:       "0-teaser"
 published:  2021-05-11
 summary:    |
   Podcast 2050 vám přinášejí Fakta o klimatu ve spolupráci s Asociací pro mezinárodní otázky, Učenou společností České republiky a Centrem pro dopravu a energetiku. Na podcast se můžete těšit už v létě 2021.
-audioboom:  "7861095"
+spotify:    "6v5JZV9Qy6KabdL63Shsfs"
 ---
 Chcete vědět, co se chystá a jak projekt postupuje? Dejte nám lajk na Instagramu nebo Facebooku, ať vám nic neunikne. Nebo nám můžete nechat email a my se vám ozveme, až bude první série venku.
 

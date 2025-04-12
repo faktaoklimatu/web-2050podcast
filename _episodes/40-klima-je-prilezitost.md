@@ -7,7 +7,7 @@ redirect_from: "/epizody/40"
 published:  2023-03-24
 summary:    |
    Jaké příběhy o změně klimatu a transformaci kolují v české společnosti? Co nás na celém tom tématu štve? A je něco, co nás těší? O těchto a dalších otázkách diskutujeme s autorem nově vydané knihy o změnách klimatu, která se více než na popis těchto změn zaměřuje na možnosti jejich řešení a přináší řadu konkrétních tipů, co můžeme jako společnost i jako jednotlivci dělat, abychom změny klimatu zastavili.
-audioboom:  "8269349"
+spotify:    "5ri7SR7HjsvZHromyUFFA1"
 guests: [ danis ]
 tags:       [ spolecnost ]
 transcript: true

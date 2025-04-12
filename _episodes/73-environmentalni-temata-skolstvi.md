@@ -7,7 +7,7 @@ redirect_from: "/epizody/73"
 published:  2024-09-04
 summary:    |
     Naším hostem je Martin Kříž, odborník, který se dlouhodobě zabývá výukou o životním prostředí a pracuje s učiteli na všech stupních škol – od základních, přes střední školy až po univerzity. Společně se zamýšlíme nad tím, jak je environmentální vzdělávání zakotveno v rámci českého školství. 
-audioboom:  "8565680"
+spotify:    "2N0DBW2RkfulC9kkCQGIxp"
 guests:     [ kriz ]
 tags:       [ spolecnost ]
 transcript: true

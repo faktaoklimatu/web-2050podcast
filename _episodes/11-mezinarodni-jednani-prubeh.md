@@ -7,7 +7,7 @@ redirect_from: "/epizody/11"
 published:  2021-10-20
 summary:    |
   Jak se stane, že se na jednom místě na 14 dní sejde celý svět a dokáže se na něčem dohodnout? Ve třetí epizodě ze série o mezinárodních klimatických jednáních si přiblížíme, jak vůbec taková jednání probíhají, jak to celé funguje.
-audioboom:  "7963928"
+spotify:    "5fK1dV5oM5yRfuXovpHvDd"
 tags:       [ politika ]
 ---
 

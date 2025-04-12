@@ -7,7 +7,7 @@ redirect_from: "/epizody/9"
 published:  2021-10-20
 summary:    |
   Představujeme dalších šest dílů podcastu 2050, opět v ucelené sérii. Tentokrát jsme se zaměřili na téma mezinárodních jednání a klimatických dohod. Jak aktivně k tématu změny klimatu přistupují země v různých částech světa, jaké jsou jejich národní priority a o čem spolu diskutují? A jakou roli hraje Česká republika?
-audioboom:  "7963925"
+spotify:    "69AC7fZRO1uJrLV5KEAW26"
 guests: [ archer, broza, brezovska, kvasnickova, mullerova, sucha, zamyslicky ]
 tags:       [ politika ]
 transcript: true

@@ -7,7 +7,7 @@ redirect_from: "/epizody/82"
 published:  2025-01-08
 summary:    |
     Jaký vliv má změna klimatu na ceny potravin nebo jakou hrála roli při nedávných povodních na území ČR? S Ondrášem Přibylou, zakladatelem projektu Fakta o Klimatu, reflektujeme data a události na poli klimatické změny za rok 2024.
-audioboom:  "8634231"
+spotify:    "4ihdd33uwLxpii00KFjib3"
 guests:     [ pribyla ]
 tags:       [ klimaticka-zmena ]
 transcript: true

@@ -7,7 +7,7 @@ redirect_from: "/epizody/12"
 published:  2021-10-20
 summary:    |
   Světový klimatický summit v Glasgow se koná na začátku listopadu a v této  epizodě se zaměříme na to, jak se současný svět na změnu klimatu dívá – jak na jednotlivé státy dopadají její důsledky a co se s tím jednotlivé země pokoušejí dělat.
-audioboom:  "7963929"
+spotify:    "0eFuYYidEFMPfDi8hWn7b0"
 tags:       [ klima, politika, společnost ]
 
 ---

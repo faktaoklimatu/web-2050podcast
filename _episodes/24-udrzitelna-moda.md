@@ -7,7 +7,7 @@ redirect_from: "/epizody/24"
 published:  2022-04-27
 summary:    |
    Až 73 % veškerého vyrobeného oblečení končí na skládkách. Cesta jednoho bavlněného trička do našich šatníků je dlážděna tunami emisí, mnoha litry vody a hromadou chemie, a právě proto bude muset módní průmysl v následujících dekádách projít velkou transformací.
-audioboom:  "8073775"
+spotify:    "4i7f94yGSkDkjpJQa371Rv"
 guests: [ brinkova ]
 tags:       [ prumysl, spolecnost ]
 transcript: true
