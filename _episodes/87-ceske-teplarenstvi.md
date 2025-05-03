@@ -24,10 +24,10 @@ Důležité je, že mnohé zmíněné technologie už jsou odzkoušené a jen v 
 
 <div class="bonus-material" markdown="1">
 
-* **Explainer [Jak bude fungovat zpoplatnění emisí skleníkových plynů z dopravy a budov (tzv. ETS 2)?](https://faktaoklimatu.cz/explainery/emisni-povolenky-ets-2?q=tepl%C3%A1rny)** (_Fakta o klimatu_)\\
+* **Explainer [Jak bude fungovat zpoplatnění emisí skleníkových plynů z dopravy a budov (tzv. ETS 2)?](https://faktaoklimatu.cz/explainery/emisni-povolenky-ets-2)** (_Fakta o klimatu_)\\
   _Tento text zmiňujeme v epizodě._ Pro zpomalení změny klimatu je nezbytné modernizovat všechny sektory ekonomiky a vytvářet nástroje, které zajistí podmínky pro dekarbonizaci. Jedněmi z ekonomických nástrojů jsou uhlíkové daně nebo obchodování s emisními povolenkami. Systému zpoplatnění, tzv. EU ETS (EU Emissions Trading System), podléhají v současnosti velké elektrárny, teplárny, těžký průmysl nebo letecká a námořní doprava. Emise ze silniční dopravy a budov však na celoevropské úrovni dosud zpoplatněny nebyly. Jaké cíle z hlediska snížení emisí si nový systém klade? Jak chce ošetřit možné potíže domácností a malých podniků?
 
-* **Infografika [Uhelné elektrárny a teplárny v Česku](https://faktaoklimatu.cz/infografiky/mapa-uhli-cr?q=tepl%C3%A1renstv%C3%AD)** (_Fakta o klimatu_)\\
+* **Infografika [Uhelné elektrárny a teplárny v Česku](https://faktaoklimatu.cz/infografiky/mapa-uhli-cr)** (_Fakta o klimatu_)\\
   Uhlí je pro Česko významným palivem – vyrábí se z něj dvě pětiny elektřiny a polovina dodaného tepla. Kde se v Česku uhlí těží a kde se nacházejí největší elektrárny a teplárny?
 
 </div>
