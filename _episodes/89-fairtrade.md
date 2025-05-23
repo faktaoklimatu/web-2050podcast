@@ -6,7 +6,7 @@ slug:       "89-fairtrade"
 redirect_from: "/epizody/89"
 published:  2025-05-14
 summary:    |
-    Fairtrade – značka, kterou najdete na čokoládě, kávě nebo banánech. Ale co přesně tenhle certifikát znamená a jak funguje v praxi? S Lubomírem Kadaně se díváme pod povrch systému, který slibuje důstojnější podmínky pěstitelům a výrobcům, zejména v zemích globálního Jihu. Probíráme, jaké záruky Fairtrade nabízí, jaký je o něj zájem mezi farmáři i spotřebiteli a kde má tenhle model své limity – včetně toho, co o jeho přínosech říkají dostupná data.
+    Fairtrade – známka, kterou najdete na čokoládě, kávě nebo banánech. Ale co přesně tenhle certifikát znamená a jak funguje v praxi? S Lubomírem Kadaně se díváme pod povrch systému, který slibuje důstojnější podmínky pěstitelům a výrobcům, zejména v zemích globálního Jihu. Probíráme, jaké záruky Fairtrade nabízí, jaký je o něj zájem mezi farmáři i spotřebiteli a kde má tenhle model své limity – včetně toho, co o jeho přínosech říkají dostupná data.
 spotify:    "5fbTiPZWlBZkNWxRMtf6wV"
 guests:     [ kadane ]
 tags:       [ krajina, spolecnost ]
