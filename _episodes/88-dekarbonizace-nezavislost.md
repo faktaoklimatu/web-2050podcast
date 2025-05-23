@@ -6,7 +6,7 @@ slug:       "88-dekarbonizace-nezavislost"
 redirect_from: "/epizody/88"
 published:  2025-05-02
 summary:    |
-    Rozšiřování obnovitelných zdrojů, zateplování budov nebo snižování energetické spotřeby není jen otázka klimatu – jde také o svobodu rozhodovat o vlastní budoucnosti. Zatímco Evropská unie dlouhodobě propojuje klimatická opatření s cíli energetické bezpečnosti a nezávislosti, v Česku se stále častěji objevují hlasy, které mezi těmito oblastmi staví protiklad. 
+    Rozšiřování obnovitelných zdrojů, zateplování budov nebo snižování energetické spotřeby není jen otázka klimatu – jde také o svobodu rozhodovat o vlastní budoucnosti. Zatímco Evropská unie dlouhodobě propojuje klimatická opatření s cíli energetické bezpečnosti a nezávislosti, v Česku se stále častěji objevují hlasy, které mezi těmito oblastmi staví protiklad.
 spotify:    "22eQGwQc3QLjy51aSIpjvn"
 guests:     [ krcal ]
 tags:       [ spolecnost, energetika ]

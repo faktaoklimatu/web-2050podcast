@@ -251,10 +251,6 @@ Jo, já myslím, že toto hezky ilustruje vlastně princip, který se do velké 
 
 Jo. Já znám tu studii o květinách, nevím, jak je to u manga. Jasně. A tak dál. To nejsem schopný jakoby potvrdit, ale u těch květin je to takhle a vím, že zároveň kávu ani kakao si u nás nevypěstujeme jako nikdy, takže pokud chceme u kávy nebo kakaa jakoby zůstat a mít to, mohli bychom si uvědomit, že to je vlastně luxusní zboží, protože přichází zdaleka, je za tím spoustu práce jako jednotlivců, což je taky dobrý si uvědomit. A když potom sáhneme, tak je dobrý třeba sáhnout po té kávě nebo čokoládě nebo banánech, u kterých víme, za jakých podmínek byly vypěstovány. Takže to možná jako nakonec, že je dobrý se koukat na původ těch produktů i na původ těch potravin, které kupujeme, že na tom záleží.
 
-Mluvčí 1
-
-Možná.
-
 {% include 2050/transcript-person.html id="holik" %}
 
 Pojďme si udělat nějaké shrnutí na závěr, jakože ve smyslu, když teda doposloucháváte tuhle epizodu, tak jako pojďte si zapamatovat, nevím, tyhle ty tři hlavní věci, co byste o fair trade měli vědět, dokázal byste něco takovýho jako vypíchnout?
