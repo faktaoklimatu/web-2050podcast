@@ -6,13 +6,13 @@ slug:       "90-lesnictvi"
 redirect_from: "/epizody/90"
 published:  2025-05-29
 summary:    |
-    Jak vypadá les, kde přírodní procesy nejsou překážkou, ale spojencem? S lesníkem Tomášem Vrškou se bavíme o tom, co se můžeme naučit z přírodě blízkých lesů a pralesů – a jak tyhle principy uplatnit i v lese, ze kterého získáváme dřevo. 
+    Jak vypadá les, kde přírodní procesy nejsou překážkou, ale spojencem? S lesníkem Tomášem Vrškou se bavíme o tom, co se můžeme naučit z přírodě blízkých lesů a pralesů – a jak tyhle principy uplatnit i v lese, ze kterého získáváme dřevo.
 spotify:    "7vli1ztx24dCWw7rOFBmK6"
 guests:     [ vrska ]
 tags:       [ krajina ]
 transcript: true
 ---
-Hledání rovnováhy mezi hospodařením a přírodními procesy může vést k lesům, které nejen poskytují materiál, ale taky pomáhají zadržet vodu, zmírňovat dopady klimatické změny nebo podporovat biodiverzitu. 
+Hledání rovnováhy mezi hospodařením a přírodními procesy může vést k lesům, které nejen poskytují materiál, ale taky pomáhají zadržet vodu, zmírňovat dopady klimatické změny nebo podporovat biodiverzitu.
 
 Proměna lesa přitom není sprint, ale běh na dlouhou trať – práce, kterou jeden lesník za život dotáhne možná do půlky. Jaký mindset si to žádá – a proč stojí za to ho přijmout?
 
