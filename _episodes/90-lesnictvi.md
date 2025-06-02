@@ -25,7 +25,7 @@ Proměna lesa přitom není sprint, ale běh na dlouhou trať – práce, kterou
 <div class="bonus-material" markdown="1">
 
 * **Web [Pralesy.cz](https://pralesy.cz)** (_Pralesy.cz_)\\
-   Informace a přehledy o přirozených lesích v České republice. Najdete zde také přehledovou mapu přirozených lesů a bezzásahových lokalit.
+   Informace a přehledy o přirozených lesích v České republice. Najdete zde také mapu přirozených lesů a bezzásahových lokalit.
 
 </div>
 
