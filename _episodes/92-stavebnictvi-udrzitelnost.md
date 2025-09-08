@@ -7,7 +7,7 @@ redirect_from: "/epizody/92"
 published:  2025-09-04
 summary:    |
     Výroba stavebních materiálů tvoří menší část emisí budov než jejich provoz, přesto se i tento sektor rychle proměňuje. Kristýna Vobecká z Wienerbergeru vysvětluje, jak firma snižuje svou uhlíkovou stopu, jaké inovace se objevují v oblasti cihel a střešních tašek a co znamená životní cyklus materiálů v praxi. Diskutujeme, jak se mění požadavky na stavební produkty v době klimatické změny, jak legislativa a ekonomické podmínky ovlivňují tempo renovací a jak udržitelnější stavebnictví ovlivňují nejen nové technologie, ale i postoje a příběhy lidí z praxe.
-spotify:    ""
+spotify:    "1zKipdFnd27hCHYEzFXKoL"
 guests:     [ vobecka ]
 tags:       [ prumysl ]
 transcript: true
