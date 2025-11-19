@@ -9,7 +9,7 @@ summary:    |
     Efektivní cirkulární modely pomáhají českým firmám snižovat náklady, posilovat odolnost jejich provozu a lépe pracovat s materiály v době rostoucích požadavků na flexibilitu, dostupnost zdrojů i nižší emise.
 
     Společně s hosty z Institutu cirkulární ekonomiky rozebíráme, co opravdu znamená přetvářet hodnotové řetězce tak, aby dávaly smysl nejen dnes, ale i v horizontu dalších desetiletí. Zaměřujeme se na to, na jaké překážky firmy při zavádění cirkulárních obchodních modelů narážejí, jaké změny v procesech a spolupráci jsou nutné, aby je dokázaly překonat, a jaké příležitosti se díky tomu otevírají. Hosté zároveň představují svou novou studii, která tyto otázky detailně mapuje a nabízí konkrétní směry, jak mohou české podniky využít cirkulární přístupy k větší stabilitě, efektivitě i konkurenceschopnosti do budoucna.
-spotify:    "2YpphdIOfc47BbJPvzqNDg"
+spotify:    ""
 guests:     [ hague, rulik ]
 tags:       [ prumysl ]
 transcript: false
