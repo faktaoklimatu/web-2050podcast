@@ -538,3 +538,13 @@
   name: Tadeáš
   surname: Rulík
   description: INCIEN
+
+- id: kunssberger
+  name: David
+  surname: Kunssberger
+  description: Agentura Koniklec
+
+- id: lupac
+  name: Miroslav
+  surname: Lupač
+  description: Agentura Koniklec
