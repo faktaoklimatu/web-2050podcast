@@ -7,7 +7,7 @@ redirect_from: "/epizody/96"
 published:  2025-11-26
 summary:    |
     Minisérie Klima na doma, kterou touto epizodou startujeme, otevírá prostor pro příběhy lidí, kteří už dnes řeší, jak se jejich domy a byty vyrovnávají se změnou klimatu. Autoři projektu z agentury Koniklec dali dohromady několik autentických reportáží – panelákový byt, škola, městská řadovka… a všude konkrétní rozhodnutí, technologie, přemýšlení i slepé uličky.
-spotify:    "XXXXXXX"
+spotify:    "2Sw0LeiMizSVHHstQB1QHU"
 guests:     [ kunssberger, lupac ]
 tags:       [ spolecnost ]
 transcript: false
