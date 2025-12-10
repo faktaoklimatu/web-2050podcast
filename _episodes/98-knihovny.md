@@ -7,7 +7,7 @@ redirect_from: "/epizody/98"
 published:  2025-12-10
 summary:    |
     Knihovny už dávno nejsou jen místem, kde si půjčíte knížku. Víc než kdy dřív fungují jako centra vzdělanosti, setkávání, komunitního života a přístupného učení pro všechny generace. Eliška Bartošová ze Sdružení knihoven České republiky vysvětluje, jakou roli dnes knihovny hrají v dekarbonizaci a v hledání řešení klimatické krize – od zpřístupňování důležitých informací přes vytváření prostoru pro dialog a sdílení zkušeností až po podporu komunity v porozumění změně klimatu a možnostem, jak se na ni adaptovat. Knihovny mají velký dosah, důvěru a umí přirozeně propojovat skupiny lidí, které by se jinak nesetkaly.
-spotify:    "XXX"
+spotify:    "2BWcTh9UJzo81jm393wuH7"
 guests:     [ bartosova ]
 tags:       [ spolecnost ]
 transcript: false
