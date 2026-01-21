@@ -7,7 +7,7 @@ redirect_from: "/epizody/100"
 published:  2026-01-21
 summary:    |
     V obcích na Jesenicku se dnes neřeší jen opravy mostů, domů a infrastruktury, ale i otázka, jak se připravit na další extrémy, které přicházejí častěji a s větší intenzitou. Mluvíme o tom, co obce s odstupem času skutečně řeší a jak se proměňují jejich priority. Řešíme také, jak využít obnovu po povodni jako příležitost, jak území celkově zlepšit a zvýšit kvalitu života, nejen samotnou bezpečnost. V roce 2025 se tématu povodní věnovala také soutěž Adapterra Awards.
-spotify:    ""
+spotify:    "TVxQhNmC8CwG9BuXdS8tt"
 guests:     [ macekova ]
 tags:       [ klima, krajina ]
 transcript: false
