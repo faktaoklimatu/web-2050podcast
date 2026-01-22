@@ -15,5 +15,3 @@ transcript: false
 Hostkou je Magdalena Maceková z Nadace Partnerství, která se věnuje poradenství vedení obcí zasažených loňskými povodněmi. Popisuje zkušenosti z jednodenních terénních výjezdů, kdy do obce přijíždí tým víceoborových odborníků a společně s místními hledají řešení podle aktuálních potřeb. Bavíme se o tom, jaká je v obcích nálada, jak funguje spolupráce mezi samosprávami a experty, jestli si místní propojují povodně s tématy změny klimatu, adaptace nebo dekarbonizace a co se z těchto zkušeností můžeme učit pro adaptační plány. 
 
 {% include 2050/guest-list.html %}
-
----
