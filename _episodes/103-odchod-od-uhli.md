@@ -25,6 +25,9 @@ V rámci odchodu od uhlí se díváme na dvě klíčové roviny – elektrárny 
 * **Studie [Konec uhlí v Česku: Je soustava připravena na uzavření zdrojů skupiny Sev.en a co zbývá vyřešit pro bezpečný útlum uhelné energetiky?](https://faktaoklimatu.cz/studie/2026-konec-uhli-v-cesku)** (_Fakta o klimatu_)\\
   Česko v roce 2025 vyrobilo z uhlí přibližně třetinu elektřiny. Kvůli vysoké emisní intenzitě a nákladům na povolenky jsou však tyto zdroje ekonomicky neudržitelné. Skupina Sev.en proto oznámila záměr uzavřít své elektrárny Počerady a Chvaletice a teplárnu Kladno na přelomu let 2026 a 2027. Tato studie pomocí podrobného modelování analyzuje dopady tohoto kroku na zdrojovou přiměřenost, bezpečnost dodávek a cenu silové elektřiny.
 
+* **Přehled [Odchod velkých tepláren v Česku od uhlí](https://faktaoklimatu.cz/studie/2026-odchod-teplaren-od-uhli)** (_Fakta o klimatu_)\\
+  Velké teplárenské soustavy dohromady zásobují přes milion českých domácností, což jsou skoro tři čtvrtiny všech domácností vytápěných dálkovým teplem. Naprostá většina z těchto soustav buď od uhlí už odešla nebo odchod od uhlí připravuje. Tento přehled detailně ukazuje současný stav a transformační plány 35 velkých soustav, včetně přidělené dotační podpory.
+
 * **Explainer [Dekarbonizace teplárenství: Jak v Česku vyrobit dost nízkoemisního tepla pro dálkové vytápění?](https://faktaoklimatu.cz/explainery/dekarbonizace-teplarenstvi-cr)** (_Fakta o klimatu_)\\
   Dálkové vytápění hraje v dodávkách tepla v současném Česku významnou roli. Zároveň je s ním spojeno velké množství emisí skleníkových plynů. Tento text ukazuje možnosti, jak sektor teplárenství dekarbonizovat a proč je tato transformace důležitá.
 
