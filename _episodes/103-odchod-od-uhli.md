@@ -7,7 +7,7 @@ redirect_from: "/epizody/103"
 published:  2026-02-18
 summary:    |
     Kde se aktuálně nachází česká energetika? Jaká témata jsou v těchto letech ta hlavní? To diskutujeme s Janem Krčálem, analytikem Fakta o klimatu. Ekonomické tlaky na odchod od uhlí a uzavírání elektráren otevírají otázku, které zdroje si můžeme dovolit zavřít a které by nám aktuálně chyběly.
-spotify:    "DOPLNIT XXXXXXXXXXXXX"
+spotify:    "25zNI7s8latJYqqYP6TjQX"
 guests:     [ krcal ]
 tags:       [ energetika ]
 transcript: false
