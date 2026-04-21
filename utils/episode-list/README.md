@@ -2,7 +2,7 @@
 
 On-demand GitHub Actions workflow that fetches a podcast RSS feed, extracts the
 `title` and `enclosure` of the 10 most recent episodes, and publishes them as an
-HTML page with inline audio players to GitHub Pages.
+HTML page with episode titles and enclosure download links to GitHub Pages.
 
 ## Running the action
 
@@ -12,8 +12,8 @@ HTML page with inline audio players to GitHub Pages.
    - `feed_url` — any RSS URL; defaults to the Fakta o klimatu podcast feed.
    - `limit` — number of episodes (default `10`).
 4. When the run finishes (~30 s), you'll see:
-   - A markdown table with every episode's title + enclosure link in the
-     run's **Summary** tab.
+   - A Markdown-formatted summary with every episode's title + enclosure
+     link in the run's **Summary** tab.
    - The published site at
      `https://<your-user-or-org>.github.io/<your-repo>/` — listed as the
      `github-pages` environment URL on the `deploy` job.
