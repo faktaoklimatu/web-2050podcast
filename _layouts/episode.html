@@ -28,7 +28,7 @@
               <a class="btn btn-primary no-ext-link-icon" id="donate-button" href="https://www.darujme.cz/projekt/1204792?utm_source=podcast_epizoda_{{ page.number }}&utm_medium=web&utm_campaign=podcast_epizody" rel="noopener">
   <i class="fa fa-heart"></i> Podpořte nás darem</a>
               {% if page.download %}
-                <a class="btn btn-secondary no-ext-link-icon" id="download-button" href="{{ page.download }}" download="{{ page.number }}.mp3" rel="noopener"><i class="fas fa-download"></i> Stáhnout MP3</a>
+                <a class="btn btn-secondary no-ext-link-icon" id="download-button" href="{{ page.download }}"{% if page.number %} download="{{ page.number }}.mp3"{% endif %} rel="noopener"><i class="fas fa-download"></i> Stáhnout MP3</a>
               {% endif %}
             </div>
           </div>
