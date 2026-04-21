@@ -1,10 +1,10 @@
 <div class="row mt-5 text-lg-left">
     <div class="col-lg-4 mb-3 mr-lg-auto">
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/{{ include.episode.spotify }}?utm_source=website" width="320px" height="352px" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <iframe class="spotify-embed" src="https://open.spotify.com/embed/episode/{{ include.episode.spotify }}?utm_source=website" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
     <div class="col-lg-8 mb-3">
         <h3><a href="{{ include.episode.url }}">{% if include.episode.number %}{{ include.episode.number }}: {% endif %}{{ include.episode.title }}</a></h3>
-        <p class="text-muted">{% include 2050/date-cs.html date=include.episode.published %}, 
+        <p class="text-muted">{% include 2050/date-cs.html date=include.episode.published %},
             {% if include.episode.type %}{{ include.episode.type }}{% else %}epizoda{% endif %}
             {% if include.episode.number %}{{ include.episode.number }}{% endif %}</p>
         {% if include.episode.tags %}
