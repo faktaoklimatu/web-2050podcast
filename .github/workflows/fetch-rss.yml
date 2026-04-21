@@ -1,0 +1,62 @@
+name: Fetch RSS
+
+# Trigger manually from GitHub's "Actions" tab via the "Run workflow" button.
+on:
+  workflow_dispatch:
+    inputs:
+      feed_url:
+        description: "RSS feed URL"
+        required: false
+        default: "https://anchor.fm/s/1039e0eb8/podcast/rss"
+      limit:
+        description: "Number of most recent episodes to include"
+        required: false
+        default: "10"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only one Pages deploy at a time; let an in-progress one finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch feed and render HTML
+        env:
+          FEED_URL: ${{ inputs.feed_url }}
+          LIMIT: ${{ inputs.limit }}
+          OUTPUT_DIR: site
+        run: python utils/episode-list/fetch_rss.py
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
