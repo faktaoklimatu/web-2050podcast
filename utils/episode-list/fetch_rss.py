@@ -13,13 +13,46 @@ from __future__ import annotations
 import html
 import os
 import sys
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 
-FEED_URL = os.environ.get("FEED_URL") or "https://anchor.fm/s/1039e0eb8/podcast/rss"
-LIMIT = int(os.environ.get("LIMIT") or "10")
+DEFAULT_FEED_URL = "https://anchor.fm/s/1039e0eb8/podcast/rss"
+DEFAULT_LIMIT = 10
+MAX_LIMIT = 100
+
+
+def _get_validated_feed_url() -> str:
+    feed_url = os.environ.get("FEED_URL") or DEFAULT_FEED_URL
+    parsed = urllib.parse.urlparse(feed_url)
+    if parsed.scheme not in {"http", "https"} or not parsed.netloc:
+        raise ValueError(
+            "Invalid FEED_URL: expected an absolute http:// or https:// URL"
+        )
+    return feed_url
+
+
+def _get_validated_limit() -> int:
+    raw_limit = os.environ.get("LIMIT")
+    if raw_limit in (None, ""):
+        return DEFAULT_LIMIT
+    try:
+        limit = int(raw_limit)
+    except ValueError as exc:
+        raise ValueError(
+            f"Invalid LIMIT {raw_limit!r}: expected an integer between 1 and {MAX_LIMIT}"
+        ) from exc
+    if limit < 1:
+        raise ValueError(
+            f"Invalid LIMIT {raw_limit!r}: expected an integer between 1 and {MAX_LIMIT}"
+        )
+    return min(limit, MAX_LIMIT)
+
+
+FEED_URL = _get_validated_feed_url()
+LIMIT = _get_validated_limit()
 OUTPUT_DIR = Path(os.environ.get("OUTPUT_DIR") or "site")
 
 
