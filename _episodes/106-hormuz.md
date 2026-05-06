@@ -11,8 +11,8 @@ summary:    |
 
 Tento podcast vznikl v rámci projektu Dekarbonizujeme Česko: od kvalitních informací ke kvalitní diskusi, který je spolufinancován Evropskou unií.
 
-spotify:    ""
-download:   "https://anchor.fm/s/1039e0eb8/podcast/play/118911583/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-23%2F422685631-44100-2-0f148a19cb2a5.mp3"
+spotify:    "3U34JotuunaUP4bCsyw7Ys"
+download:   "https://anchor.fm/s/1039e0eb8/podcast/play/119582454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-6%2F423606254-44100-2-4177a12c50cfe.mp3"
 guests:     [ pribyla ]
 tags:       [ energetika, politika ]
 transcript: false
