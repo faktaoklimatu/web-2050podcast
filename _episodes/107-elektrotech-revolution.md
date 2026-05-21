@@ -13,7 +13,7 @@ O geopolitice energetiky si povídáme s Martinem Jiruškem z Fakulty sociální
 
 Tento podcast vznikl v rámci projektu Dekarbonizujeme Česko: od kvalitních informací ke kvalitní diskusi, který je spolufinancován Evropskou unií.
 
-spotify:    ""
+spotify:    "6qnPvZjfzNuZ3lkxpTW6ZR"
 download:   "https://anchor.fm/s/1039e0eb8/podcast/play/120232586/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-19%2F424483581-44100-2-b2a6713abda05.mp3"
 guests:     [ jirusek, pribyla ]
 tags:       [ energetika, politika ]
