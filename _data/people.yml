@@ -558,3 +558,8 @@
   name: Martin
   surname: Jirušek
   description: Masarykova univerzita
+
+- id: wiejski
+  name: Paweł
+  surname: Wiejski
+  description: Fakta o klimatu
