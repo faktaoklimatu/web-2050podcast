@@ -8,8 +8,8 @@ published:  2026-06-17
 op-jak:     true
 summary:    |
     In our previous episode, we explained what a capacity market is, what problems it aims to solve, and what it means in practice for the Czech Republic. This follow-up episode features Paweł Wiejski – an expert with hands-on professional experience from similar work in Poland. We use Poland as a case study – drawing on lessons learned to explore the risks of capacity market design and how to avoid them. Along the way, we unpack key technical details of the topic, such as derating factors. In short: a deeper dive into the topic, focused on one key question – how to design the Czech capacity market as well as possible. The conversation is hosted by Hana Tesák Vrtala. Welcome back to the podcast team, Hanka!
-spotify:    " "
-download:   " "
+spotify:    "6u8Mv2ZktMyBLAPa2Q6jvl"
+download:   "https://anchor.fm/s/1039e0eb8/podcast/play/121622762/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-17%2F426338187-44100-2-f237fb5c0e33b.mp3"
 guests:     [ krcal, wiejski ]
 tags:       [ energetika ]
 transcript: false
