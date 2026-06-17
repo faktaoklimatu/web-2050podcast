@@ -1,13 +1,13 @@
 ---
 layout:     episode
-title:      ""
+title:      "Capacity Market: Policy Deep Dive – How to Make it Actually Work"
 number:     110
 slug:       "110-capacity-market"
 redirect_from: "/epizody/110"
 published:  2026-06-17
 op-jak:     true
 summary:    |
-    Evropsk.............
+    In our previous episode, we explained what a capacity market is, what problems it aims to solve, and what it means in practice for the Czech Republic. This follow-up episode features Paweł Wiejski – an expert with hands-on professional experience from similar work in Poland. We use Poland as a case study – drawing on lessons learned to explore the risks of capacity market design and how to avoid them. Along the way, we unpack key technical details of the topic, such as derating factors. In short: a deeper dive into the topic, focused on one key question – how to design the Czech capacity market as well as possible. The conversation is hosted by Hana Tesák Vrtala. Welcome back to the podcast team, Hanka!
 spotify:    ""
 download:   ""
 guests:     [ krcal, wiejski ]
