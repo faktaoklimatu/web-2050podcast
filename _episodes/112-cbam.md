@@ -5,6 +5,7 @@ number:     112
 slug:       "112-cbam"
 redirect_from: "/epizody/112"
 published:  2026-08-19
+op-jak:     true
 summary:    |
     Když si evropská firma koupí tunu oceli, má v ceně i emise, které při její výrobě vznikly — a když si ji doveze z druhého konce světa, často ne. Přesně tuhle nerovnost má od letošního roku srovnávat mechanismus uhlíkového vyrovnání na hranicích, zkráceně CBAM: dovozci železa, oceli, cementu, hliníku, hnojiv, elektřiny a vodíku budou za emise obsažené ve svých výrobcích doplácet certifikáty v ceně emisní povolenky. V epizodě se dozvíte, proč se opatření nespustilo naráz, ale nabíhá postupně tak, jak průmyslu ubývají povolenky zdarma, jak se počítá, kolik dovozce zaplatí, když už si část emisí zaplatil doma, a kde má celá věc slabá místa — od hotových výrobků, na které se zatím nevztahuje (stačí místo oceli dovézt pračku), přes vývoz evropských výrobců na trhy, kde se za uhlík neplatí, až po otázku, kolik z toho nakonec skončí v ceně pro spotřebitele. Řeč je i o tom, že spor o emisní povolenky nevede průmysl proti klimatu: jedna ocelárna upozorňuje, jak ji platby za emise bolí, a druhá zároveň lobbuje za to, aby povolenky zůstaly, protože do dekarbonizace už investovala.
 spotify:    "5Q0MHVgMum3AxgMDy4ojH8"
