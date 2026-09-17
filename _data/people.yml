@@ -172,12 +172,12 @@
   name: Kateřina
   surname: Davidová
   description: Centrum pro dopravu a energetiku
-  
+
 - id: zindulkova
   name: Kristina
   surname: Zindulková
   description: Asociace pro mezinárodní otázky
-  
+
 - id: kotalwar
   name: Hemant
   surname: Kotalwar
@@ -419,7 +419,7 @@
   surname: Tesák
   description: Podcast 2050
 
-- id: ruzicka 
+- id: ruzicka
   name: Jan
   surname: Růžička
   description: Sound designér a muzikant
@@ -461,7 +461,7 @@
 
 - id: detskyhlas
   name: Dětský hlas
-  surname: 
+  surname:
   description: hlas
 
 - id: zapal
@@ -470,7 +470,7 @@
   description: CERGE-EI
 
 - id: kriz
-  name: Martin  
+  name: Martin
   surname: Kříž
   description: Ekocentrum Chaloupky
 
@@ -523,7 +523,7 @@
   name: Kristýna
   surname: Vobecká
   description: Wienerberger
-  
+
 - id: soperova
   name: Eliška
   surname: Soperová
@@ -573,3 +573,8 @@
   name: Daniel
   surname: Kortus
   description: "@klimatomluva"
+
+- id: danis2
+  name: Petr
+  surname: Daniš
+  description: Fakta o klimatu

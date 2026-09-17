@@ -7,17 +7,17 @@ redirect_from: "/epizody/114"
 published:  2026-09-16
 op-jak:     true
 summary:    |
-    Atlas klimatické změny vychází v druhém vydání a je z poloviny nový. S jeho hlavním autorem Petrem Danišem jsme prošli, co se v datech za posledních pět let pohnulo: koncentrace CO2 přes 430 ppm, tepelná nerovnováha Země, která odpovídá osmi hirošimským bombám každou sekundu, a Česko, které se otepluje dvakrát rychleji než svět.
+    Atlas klimatické změny vychází v dalším vydání a je z poloviny nový. S jeho hlavním autorem Petrem Danišem jsme prošli, co se v datech za posledních pět let pohnulo: koncentrace CO2 přes 430 ppm, tepelná nerovnováha Země, která odpovídá osmi hirošimským bombám každou sekundu, a Česko, které se otepluje dvakrát rychleji než svět.
 
     Bavili jsme se ale i o tom, co je na klimatické vědě fascinující — proč je grónský ledovec vlastně vysoká hora a co drží v chodu atlantickou cirkulaci. A na konec došlo na dvě věci, které si Petr Daniš při práci na Atlasu přeformuloval: že cíl 1,5 °C je v podstatě mrtvý, a že přesto odkrajujeme extrémní scénáře z obou stran.
 spotify:    "5Be7f4jxBqA4tFUCJF6QSQ"
 download:   "https://anchor.fm/s/1039e0eb8/podcast/play/125831425/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2F432030157-44100-2-a6b9e4f1917f9.mp3"
-guests:     [ danis ]
+guests:     [ danis2 ]
 tags:       [ klima ]
 transcript: true
 ---
 
-Když Fakta o klimatu vydávala první Atlas klimatické změny, chyběl v Česku základní datový podklad — o klimatu se najednou mluvilo všude a nebylo se o co opřít. Po šesti letech vychází druhé vydání a doba je jiná: informací je dost, jen jsou pomíchané s různými polopravdami e dezinformacemi. Datová kotva je proto potřeba pořád stejně.
+Když Fakta o klimatu vydávala první Atlas klimatické změny, chyběl v Česku základní datový podklad — o klimatu se najednou mluvilo všude a nebylo se o co opřít. Po šesti letech vychází další vydání a doba je jiná: informací je dost, jen jsou pomíchané s různými polopravdami e dezinformacemi. Datová kotva je proto potřeba pořád stejně.
 
 V epizodě procházíme s Petrem Danišem, hlavním autorem Atlasu, co se v datech za posledních pět let změnilo. Od koncentrací CO2 a tepelné nerovnováhy Země (James Hansen ji kdysi přepočítal na čtyři hirošimské bomby za sekundu — dnes je to osm) přes české teploty, které rostou dvakrát rychleji než světový průměr, až po body zlomu: proč grónský ledovec funguje jako vysoká hora a proč je atlantická cirkulace centrálním topením Evropy.
 
@@ -32,7 +32,7 @@ Druhá polovina rozhovoru je osobnější. Petr Daniš psal knihu Klima je pří
 <div class="bonus-material" markdown="1">
 
 * **Publikace [Atlas klimatické změny](https://faktaoklimatu.cz/atlas)** (_Fakta o klimatu_)\\
-  Vizuální průvodce vědou a daty o změně klimatu, o kterém je celá epizoda — druhé vydání, z poloviny nové. Atlas je [ke stažení zdarma v PDF](https://faktaoklimatu.cz/assets-local/files/atlas-klimaticke-zmeny.pdf) a dá se koupit i v tištěné podobě.
+  Vizuální průvodce vědou a daty o změně klimatu, o kterém je celá epizoda — další vydání, z poloviny nové. Atlas je [ke stažení zdarma v PDF](https://faktaoklimatu.cz/assets-local/files/atlas-klimaticke-zmeny.pdf) a dá se koupit i v tištěné podobě.
 
 </div>
 
@@ -44,7 +44,7 @@ _Přepis byl vytvořen automaticky s pomocí AI a pro lepší čitelnost gramati
 
 Vážení a milí posluchači a posluchačky podcastu 2050, vítejte u další epizody. Dneska se podíváme mnohem blíž na téma klimatu jako takového, respektive na změnu klimatu a na to, co se v něm děje. A mým hostem k tomu povídání je Petr Daniš, dnes už dlouhodobý člen Fakt o klimatu, ale možná ho znáte z jeho předchozího působení.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Ahoj Petře, dobrý den, posluchači. Jsem moc rád, že tady můžu být.
 
@@ -54,7 +54,7 @@ Díky. Když jsme se potkávali v podcastu posledně, bavili jsme se o tvojí pr
 
 To, o čem se chceme bavit dnes, je příležitost, kterou nám dává to, že jsme ve Faktech o klimatu vydali druhé vydání Atlasu klimatické změny. A ty jsi byl, řekněme, projektový vedoucí a hlavní autor. Chci tě představit s dostatečnou důstojností a zároveň uznat, že na tom dělalo víc lidí v týmu.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Určitě na tom dělalo víc lidí a na konci musíme všem poděkovat.
 
@@ -62,7 +62,7 @@ Určitě na tom dělalo víc lidí a na konci musíme všem poděkovat.
 
 Takže druhé vydání Atlasu klimatické změny. První vydání bylo v roce… pamatuješ si to?
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Začalo se na tom pracovat vlastně s prvními grafikami, které Fakta o klimatu začala dělat, a vydalo se to rok později, v roce 2020. A teď máme rok 2026, to znamená šest let od vydání a řekněme sedm let od toho prvního nápadu.
 
@@ -70,14 +70,14 @@ Začalo se na tom pracovat vlastně s prvními grafikami, které Fakta o klimatu
 
 Hezký. Takže po šesti letech aktualizace — to už se asi něco pohnulo v tom vědění o klimatu.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Pohnulo. Pohnuly se dvě věci. Proč jsme to vydali znova: změnila se trochu i ta doba. Takže máme novou dobu a máme samozřejmě nová data.
 
 ### Nová doba: fakta, poloviční pravdy a bullshit
 {% include 2050/transcript-time.html time="02:04" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Já to vnímám tak: kdy vznikala ta publikace, před sedmi lety? Co to bylo za dobu? To byly čerstvé Fridays for Future, taková atmosféra „musíme s tím klimatem něco udělat, teď je to nové téma, pro Boha dělejte už něco". Zároveň to byla vlna zelených v Evropě — volby do Evropského parlamentu, ve kterých uspěli zelení a dostala se tam spousta proklimaticky smýšlejících politiků, nastavila se ta proklimatická politika Evropské unie a tak dále. Prostě to byla doba plná očekávání.
 
@@ -89,13 +89,13 @@ Pak přišla doba, kdy se dalo říct: tohle už je za námi a teď můžeme sta
 
 Takže něco mezi pravdou a dezinformací je bullshit. No ano, tak se to slovo definuje.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Přesně tak. To znamená, že ta poptávka — nebo nutnost mít tady pořád nějaké základní informace, základní datovou kotvu — je stejně důležitá jako kdykoli předtím.
 
 {% include 2050/transcript-time.html time="03:53" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 A cítili jsme tu nutnost i proto, že spousta lidí dnes tápe mezi tím, jestli mají věřit tomu, nebo onomu, a nakonec končí v nějakých strašných deziluzích a věří katastrofickým scénářům. Přitom pořád existuje něco jako fakta. A ta fakta je třeba prezentovat. Myslím si, že dneska je to stejně důležité jako kdykoli předtím, možná ještě naléhavější.
 
@@ -105,7 +105,7 @@ Proto to nové vydání, které není jen aktualizované a nejsou v něm jen nov
 
 Takže je to tlustší knížečka. A ještě k tomu představení Atlasu: já se tě pak chci zeptat na to, co se vlastně změnilo, když jsi do toho zanořil. Ale když jsme u toho Atlasu — je k dispozici pro veřejnost a dá se sehnat. Teď mám poznámku, že je v tisku, takže jakmile bude k dispozici…
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Zřejmě v době vydání epizody už bude. Najdete si na stránkách Fakt o klimatu Atlas klimatické změny a tam by mělo být jak PDF, které si můžete zadarmo stáhnout, tak odkaz, kde si můžete koupit tištěný Atlas, abyste si v něm mohli obracet stránky a mít ho v rukou.
 
@@ -113,7 +113,7 @@ Zřejmě v době vydání epizody už bude. Najdete si na stránkách Fakt o kli
 
 Přijde mi, že často se to využívá jako pomůcka ve školách — vím, že spousta škol si Atlas nakoupila do výuky.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Myslím si, že se to používá i tak, že ty jednotlivé grafiky — které nabídneme i na samostatném webu, ten bude možná o nějaký týden později — si můžete stáhnout jako obrázek. A spousta lidí, opravdu spousta lidí, to využívá do různých prezentací, ať už ve škole, nebo při spoustě jiných příležitostí. Protože tady je inteligentní, srozumitelný graf, který mluví sám za sebe a můžete ho snadno ukázat.
 
@@ -121,7 +121,7 @@ Myslím si, že se to používá i tak, že ty jednotlivé grafiky — které na
 
 Když jsem tím listoval, říkal jsem si na začátku: jo, to jsou takové ty klasiky — teplota, koncentrace CO2, závislost koncentrací na spalování fosilních paliv, závislost teploty na koncentracích. Co v tom Atlase vlastně je? Pojďme se do toho podívat. Ty jsi možná nebyl u psaní toho prvního Atlasu, zároveň to byla zhruba doba, kdy jsi psal svoji knihu Klima je příležitost.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 To ještě ne, až později.
 
@@ -129,7 +129,7 @@ To ještě ne, až později.
 
 Ale každopádně ten vývoj sleduješ. Takže co jsou ty věci, které se za posledních pět let změnily v klimatu České republiky? Nebo nejenom.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Dobře, že se ptáš na klima České republiky — a zároveň pojďme nejdřív do světa, protože bez pochopení světového kontextu se klima České republiky chápe špatně. Ono je to nějaký důsledek světového dění, a ne naopak. Takže se nakonec dostaneme k Česku, ale zkusme to projít. Změnilo se toho dost.
 
@@ -140,7 +140,7 @@ Možná by mě zajímalo, jestli tě to překvapilo. Jestli za těch pět let by
 ### Co se za pět let změnilo v datech
 {% include 2050/transcript-time.html time="07:48" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 A to je právě zajímavé, že je to oboje zároveň. Na jednu stranu si člověk říká: no to je přesně to, co se předpovídalo, to je úplně podle těch modelů. Spíš to vypadá, že oteplování probíhá možná ještě o kousek rychleji, ale pořád je to v rámci modelů a předpovědí, jenom výš, než byla ta střední hodnota. Takže vlastně vůbec nic překvapivého.
 
@@ -150,7 +150,7 @@ A na druhou stranu to člověka stejně překvapí. Poslední tři roky ze tří
 
 Zajímavé. V minulé epizodě, kterou jsme vydali, byl Dan Kortus a ten říkal: když jsem se díval, že v roce 2100 se svět oteplí o tři stupně, říkal jsem si, že to zase není tak hrozné. Ale když jsem zažil letošní léto, jak vypadá svět, který se oteplil o 1,4 stupně globálně a Česko o 2,5 — tak najednou. Můžu koukat na ty grafy, ve kterých to vyčtu, ale ten zážitek je někde jinde než to pochopení.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 S tím naprosto souhlasím. To, co zažíváme, a uvědomit si, kde jsme na škále možného vývoje — to nás může lekat do budoucna.
 
@@ -158,7 +158,7 @@ S tím naprosto souhlasím. To, co zažíváme, a uvědomit si, kde jsme na šk�
 
 Takže co byly ty změny, když se podíváme na data?
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Koncentrace skleníkových plynů — když to uvedu na koncentraci CO2 v atmosféře — roste. Samozřejmě roste, když vypouštíme skleníkové plyny do atmosféry. Teď už jsme někde přes 430 ppm, tedy parts per million, jednotek CO2 v atmosféře. Když to vztáhnu k tomu, kdy jsem se narodil, tak jsme byli někde kolem 330. Dnes jsme už na 430. Udává se někdy, že nějaká trvale udržitelná hodnota by měla být do 350 — tak to už jsme dávno za touto hodnotou. A narůstá to.
 
@@ -173,7 +173,7 @@ Normálně je Země ve stavu takzvané energetické rovnováhy: dostane nějakou
 
 Jeden watt na metr čtvereční, to nic není. Vlastně nevím, jestli to nic není.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 To je takový příměr, s kterým přišel James Hansen, slavný klimatolog. V nějakém přepočtu — tehdy to bylo ještě menší číslo — spočítal, že ta tepelná nerovnováha v horizontu celé Země znamená něco jako výbuch čtyř atomových bomb hirošimského typu každou sekundu. To je ta energie, která se uvolní. Kdyby tady vybouchly čtyři atomové hirošimské bomby každou sekundu, tak tolik tepla tady zůstává na Zemi.
 
@@ -183,7 +183,7 @@ A mezitím jsme se posunuli od toho jeho slavného přirovnání k tomu, že už
 
 Pořád nevím, jestli si to dokážu líp představit, protože představit si to globální měřítko je nereálné. Ale už to zní, že to je hodně a nemálo.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Je to vlastně obrovské číslo. A je zajímavé, že většina té tepelné nerovnováhy nakonec skončí v oceánu. Většina toho přebytečného tepla, které tady máme na Zemi — přes 90 % — otepluje oceány.
 
@@ -193,7 +193,7 @@ Což má svoje důsledky.
 
 {% include 2050/transcript-time.html time="12:27" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Té hmoty v tom oceánu, té vody, a její schopnosti akumulovat teplo je obrovské množství, ale stejně to má svoje důsledky a už se oteplují i ty oceány. A naštěstí jenom jedno procento otepluje atmosféru — a stejně už máme oteplení o několik stupňů v Česku a ve světě zhruba o 1,3 až 1,4 stupně Celsia.
 
@@ -206,7 +206,7 @@ Vlastně se dostáváme na tu hranici 1,5 stupně, což byl jeden z cílů Pař�
 
 Chci se doptat ještě na emise a koncentrace. Už mám dojem, že tak druhý dva a půl roku v podcastu říkám — nebo to říkají hosté — že pravděpodobně dobrá zpráva je, že se blížíme k vrcholu tempa růstu emisí a že celkové globální emise by už neměly růst. Že samozřejmě pořád vypouštíme, ale už bychom neměli vypouštět každý rok víc a víc. Jak to vypadá s tímhle bodem?
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Ano, ale pozor, bavíme se tady o dvou věcech. Jedno je koncentrace v atmosféře a druhé je, kolik vypouštíme.
 
@@ -220,7 +220,7 @@ A ano, je dobře, že to tady ostatní hosté říkají — blížíme se píku,
 
 Tak uvidíme. Snad.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Ale pořád to znamená, že koncentrace dále porostou. Tohle je jedna náročná a možná i trochu strašidelná věc — uvědomit si ten rozjetý vlak. Že oteplování se opravdu nezastaví za rok ani za deset let.
 
@@ -230,7 +230,7 @@ A není to ani tak setrvačnost v klimatickém systému. Kdybychom přestali vyp
 
 Tím vlastně napadáš název našeho podcastu. My jsme začínali s tím, že v roce 2050 oznámíme dosažení klimatické neutrality a tím tenhle podcast skončí.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 To v Atlase klimatické změny neřešíme, ale bohužel to tak v dnešním světě nevypadá.
 
@@ -241,7 +241,7 @@ To v Atlase klimatické změny neřešíme, ale bohužel to tak v dnešním svě
 
 Tak když půjdeme zpátky k Atlasu — co dalšího tam najdeme?
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Byli jsme u světových teplot, tak pojďme ještě připomenout ty české. Když jsme říkali, že ve světě se oteplilo v klouzavém průměru o 1,3 až 1,4 stupně Celsia oproti době před průmyslovou revolucí — v Česku se za posledních 65 let oteplilo o 2,3 stupně Celsia. V klouzavém průměru. Ten nejteplejší český rok 2024 měl průměrnou teplotu 10,3 stupně, poprvé přes deset stupňů. Zase pro kontext: když jsem se narodil, teploty roku se pohybovaly kolem sedmi a půl.
 
@@ -249,7 +249,7 @@ Byli jsme u světových teplot, tak pojďme ještě připomenout ty české. Kdy
 
 Já si pamatuju, že když jsem byl malý a chodil jsem vždycky do jeskyní, tak tam vždycky říkali: tady v jeskyni je taková teplota, jaká je průměrná teplota vzduchu za celý rok, podle toho to poznáte, protože tady nejsou ty výkyvy — tak tady je osm stupňů.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Osm stupňů. Tak tehdy, když jsi se narodil, se říkalo osm stupňů. Já už jsem byl narozený nějakou dobu, když jsem chodil do jeskyní. A teď jsme někde průměrně u těch devíti a půl, nebo ještě trochu výš. Těch přes deset stupňů, to byl extrémní rok, ale takové roky zase přijdou.
 
@@ -257,7 +257,7 @@ Za stejné období těch 65 let se ve světě oteplilo o 1,1 a v Česku o 2,3. T
 
 {% include 2050/transcript-time.html time="19:12" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Když se bavíme o tom, že je nějaká hranice 1,5 stupně, tak v Česku je to oteplení celkově spíš o tři. A když je nějaká hranice dva stupně, tak v Česku už to je o čtyři. A teď máme předpovědi, že tak, jak se svět vyvíjí a jaké jsou současné politiky, to vypadá, že v roce 2100 bychom mohli dospět někam k oteplení 2,6 stupně globálně oproti době před průmyslovou revolucí — takže v Česku to bude zase více než pět stupňů. A více než pět stupňů oproti té dřívější době, to je docela velký rozdíl pro ekosystémy, pro všechno možné. Tohle je dobré si uvědomovat.
 
@@ -267,7 +267,7 @@ A druhá věc, která v Česku platí — a není to žádná novinka, ale nově
 
 A čím to je, že se to takhle liší? Složitá klimatologie?
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Možná ne, ale já to fakt nevím. Taky mě to zajímá, určitě se na to podívám po skončení nahrávání — protože každá nová otázka vyvolá další.
 
@@ -280,7 +280,7 @@ Tak když půjdeme od těch úplně základních klimatických ukazatelů — v 
 
 {% include 2050/transcript-time.html time="22:00" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 To je naprosto fascinující část klimatické vědy a zároveň část, kde nepanuje ještě zdaleka tak velká jistota jako v jiných oblastech. Ta míra nejistoty, jestli opravdu nastane jaký klimatický zlom a kdy přesně nastane, je tam docela velká. I v jiných věcech v klimatu máme samozřejmě nějakou nejistotu, ale v zásadě: vypustíme tolik CO2, víme, že se oteplí zhruba o tolik. Kdežto tady reakce těch ekosystémů je prostě mnohem složitější věc.
 
@@ -294,7 +294,7 @@ Nevím. Albedo?
 
 {% include 2050/transcript-time.html time="23:26" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Ne, ne. To hlavní vysvětlení, které se dává, je tohle: ledovec v Grónsku je vlastně něco jako vysoká hora. On je vysoký přes tři tisíce metrů. A to znamená, že špička té hory je docela v chladném vzduchu — jenom tou nadmořskou výškou. A ve chvíli, kdy ten ledovec utaje a sníží se jeho mocnost, sníží se i výška toho ledového štítu. A když to klesne pod nějakou kritickou hladinu, tak se najednou ocitá už v teplejších nadmořských výškách, je tam větší teplota vzduchu. A postupně, jenom tímto efektem, dojde k tomu, že ten ledovec roztaje, i když dál bude teplota stabilizovaná. Dostal se už do takové zóny, že bude sám od sebe odtávat. A to je příběh grónského ledovce.
 
@@ -306,7 +306,7 @@ To je zajímavé, já jsem si vždycky představoval, že ten grónský ledovec 
 
 {% include 2050/transcript-time.html time="24:42" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 On se samozřejmě snižuje. Odtává, řekněme, může odtávat zespoda, ale zároveň odtává všude i zeshora. Odtává teplotou hodně.
 
@@ -322,7 +322,7 @@ To mě baví poslouchat. Napadá tě ještě nějaký další příklad?
 
 {% include 2050/transcript-time.html time="26:49" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Atlantická cirkulace. Nejdřív je potřeba pochopit tu dynamiku, čím to je, že vůbec je nějaké atlantické proudění. Tady je nějaká voda, která je v tropech a je slaná a teplá. A postupně, jak se posouvá do Atlantiku a severního Atlantiku, chladne. To, že je ta voda slaná, zvětšuje její hustotu, a to, že chladne, zase zvětšuje její hustotu. A najednou je tak hustá, že se propadne ke dnu.
 
@@ -336,7 +336,7 @@ Už teď dochází k nějakému zpomalování. Mluví se o tom, že o 15 % možn
 
 {% include 2050/transcript-time.html time="29:29" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Následky tohohle by byly pro Evropu obrovské, to si skoro neumíme představit. Snaží se to modelovat, ale je to těžké: na jednu stranu modelujete selhání něčeho, co jsme tady nezažili — i když se to asi někdy stávalo v geologické minulosti — a na druhou stranu tady máte změnu klimatu a jdou proti sobě dva trendy. Kdyby atlantická cirkulace opravdu zkolabovala, tak v severním Atlantiku to má udělat změnu 4 až 10 stupňů ochlazení. To je velký rozptyl, ale prostě je to hodně. A teď: jak se to vyrovná a zkompenzuje s globálním oteplením a co to bude znamenat pro Evropu? Jestli celkově trochu oteplení, nebo klidně i velké ochlazení v severní a západní Evropě. Každopádně větší extrémy počasí, větší nejistotu, obrovské důsledky pro zemědělství — mohlo by to ohrozit velkou část zemědělství v Evropě.
 
@@ -346,7 +346,7 @@ A zároveň: není jenom celková atlantická cirkulace, je tam ještě subpolá
 
 {% include 2050/transcript-time.html time="31:43" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Takže to bude mít nějaké důsledky, jestli k něčemu takovému dojde. A hlavní scénář je, že to přinese větší extrémy počasí do Evropy.
 
@@ -360,7 +360,7 @@ Naštěstí u mnoha těch bodů zlomu platí, že i když překročíme bod zlom
 
 Mě na tom baví, že to je fakt fascinující věda. A přijde mi to i jako hezká perspektiva na to pochopení. Jasně, jeden směr, na který se můžeme dívat, je katastrofa pro lidskou společnost. Ale samo o sobě jenom pozorovat ty obrovské přírodní procesy, jak reagují, jak se vyvíjejí a co na ně má vliv — to mě hrozně baví poslouchat. Takže díky za tohle vykreslení.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Rádo se stalo. Pro mě to byla taky jedna z nejvíc fascinujících částí toho průzkumu. Byť tam bodům zlomu není věnováno tolik kapitol — dvě kapitoly — stejně člověk musel jít do nějakých pramenů a nejen si to osvěžit. Musím říct, že tady jsem si taky změnil některé svoje prekoncepty, které jsem měl falešné.
 
@@ -373,7 +373,7 @@ To je vlastně hezký oslí můstek, tak ho využiju. Myslím si, že Atlas nemu
 
 Klimatické změně se ve své kariéře věnuješ už nějakou dobu. A mě by zajímalo: když jsi teď měl možnost zahloubat se do dat a příběhů současného klimatu zase o něco víc, v čem jsi třeba změnil názor nebo jak se vyvíjí tvůj pohled? Jedna část je „tohle mě překvapilo, tohle jsem se doučil". A druhá — jestli se ti z toho mění pohled na to, kam bychom se měli z hlediska dekarbonizace vydat, co jsou ty důležitější kroky.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Dobře se ptáš. Dvě otázky v jednom.
 
@@ -381,7 +381,7 @@ Já jsem trochu přeskočil hluboké zkoumání problému změny klimatu. Samoz�
 
 {% include 2050/transcript-time.html time="35:38" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Zároveň je dobré říct, že ta doba se v tomhle taky rychle mění. V jaké době jsem začal psát knížku Klima je příležitost? To byla doba plná očekávání a naděje, že s tím fakt zatočíme. Byla to doba víry, že cíl udržet oteplení pod 1,5 stupně, jak doporučovala Pařížská dohoda a OSN, je skvělý cíl a musíme udělat všechno pro to, abychom ho dosáhli. Celá ta knížka Klima je příležitost je vlastně trochu apologetika toho cíle: pojďme se kousnout, tohle zvládneme, když budeme chtít, tak to dokážeme.
 
@@ -389,7 +389,7 @@ A v dnešní době a po tom hlubším studiu dat — no, a teď už to říká m
 
 {% include 2050/transcript-time.html time="37:00" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 A ten druhý cíl Pařížské dohody, udržet oteplení hluboko pod hranicí dvou stupňů Celsia, ten je výrazně ohrožený. Cokoli pod dva stupně bude velký úspěch. Když se člověk kouká na to, jak klima funguje, kolik emisí lidstvo každý rok vypouští a jaká je možná trajektorie jejich snižování — cokoli pod dva stupně bude extrémní úspěch.
 
@@ -406,7 +406,7 @@ Ale už bych tenhle příběh nezasazoval do toho, že dokážeme omezit oteplen
 
 Zároveň říkáš, že ta dekarbonizace v nějakém smyslu funguje, že to je něco i za tu dobu. A teď nechci oponovat nějakým optimismem ve smyslu „pojď mi dát naději na závěr" —
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Ne, ne, já ji tam chci dát taky trochu.
 
@@ -416,7 +416,7 @@ Ne, ne, já ji tam chci dát taky trochu.
 
 {% include 2050/transcript-time.html time="40:42" %}
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Přesně tak. A teď je otázka, jestli je to dobrá, nebo špatná zpráva — ale chtěl jsem navázat na to, že i v tom Atlase klimatické změny jsme nechtěli skončit jenom tou úplnou depresí, co všechno se děje, jak moc se otepluje a jaký to má vliv na různé ekosystémy nebo jaké jsou další dopady pro lidskou civilizaci. Právě proto se tam díváme i na emise. Bavili jsme se spolu o tom, že emise světa stále trochu rostou a čekáváme ten pík — ale dobré je podívat se na data, a ta data v Atlase máme.
 
@@ -434,7 +434,7 @@ Takže v tomhle je to vlastně dobrá zpráva: to, co děláme, opravdu funguje 
 
 Díky za to. Fakt si teď trochu odnáším tu představu ořezávání extrémních scénářů z druhé strany. Takže dekarbonizace funguje, a ano, doufali jsme, že bude fungovat rychleji — a zároveň nějak postupujeme.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Nějak postupujeme. Ale je tady celý svět a spousta zemí, které teprve budují svoji infrastrukturu, které mají miliony, miliardy lidí, jež potřebujeme dostat z větší nebo menší chudoby do střední třídy. A každý tenhle rozvoj znamená obrovskou zátěž. Vlastně je výborná zpráva, že dneska máme technologie, aby ten rozvoj šel dělat s mnohem menšími emisními nároky, než jak jsme ho dělali my tady v Evropě na začátku.
 
@@ -445,7 +445,7 @@ Nějak postupujeme. Ale je tady celý svět a spousta zemí, které teprve buduj
 
 Chtěl jsem se závěrem ještě zeptat k Atlasu jako takovému: jestli bys mohl shrnout, kde se dá sehnat, kdo nám může napsat, když ho bude chtít víc, případně v jakých jazykových variantách bude.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Určitě najdete Atlas u nás na webu faktaoklimatu.cz — Atlas klimatické změny — a tam si ho můžete stáhnout. Časem, velmi brzo, v horizontu nějakých týdnů, bude i dedikovaný web, kde si budete moct stahovat i jednotlivé infografiky, nejenom celé PDF. A bude tam taky odkaz, kde si můžete koupit celou publikaci. To je ta česká verze.
 
@@ -459,7 +459,7 @@ Nabízíme ho zahraničnímu publiku v angličtině a může být přeložen i d
 
 Tak jo, díky moc za tohle nahlédnutí do nové publikace a vlastně i do té fascinující vědy. To mi přijde krásné. A možná pojďme poděkovat.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Chci zdůraznit, že to, že tady sedím já, neznamená, že jsem jediný autor — jenom tady zrovna sedím já. Psal jsem to dohromady s Ondrášem Přibylou, zakladatelem Fakt o klimatu. Ondráš tomu dal nejenom teď zase nějaký vklad, ale je i autorem celé té myšlenky a ideje toho Atlasu: jedna stránka vizualizací a jedna stránka srozumitelného, vysvětlujícího textu, která umožňuje pochopit ty základní koncepty.
 
@@ -473,7 +473,7 @@ Takže se dá s klidným srdcem říct, že se na tom podílela odborná veřejn
 
 Tak já moc díky za tvoji práci a za práci všech, které jsi zmiňoval, i všech ostatních, kteří se do zmínění nevešli.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Já děkuju za tvoji práci, bylo to pro mě moc příjemné si popovídat.
 
@@ -483,7 +483,7 @@ Já děkuju za tvoji práci, bylo to pro mě moc příjemné si popovídat.
 
 Tak zase někdy příště u mikrofonu. A pro vás, co nás posloucháte: minimálně si ten Atlas stáhněte, je zdarma, a když tak si ho i kupte. A kdybyste třeba nevěděli, co s ním dělat — můžete ho nosit někde u sebe, když budete čekat, že vás čeká nějaká konverzace o klimatu. Ty konverzace podle mých zkušeností fakt vypadají jinak, když nám na stole leží nějaká kotva, nějaká mapa.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Povídat si, když vidím graf nebo opravdová data, je něco jiného.
 
@@ -491,7 +491,7 @@ Povídat si, když vidím graf nebo opravdová data, je něco jiného.
 
 Než povídat si, když vidím zprávy. Tak snad vám bude sloužit. Díky moc a mějte se.
 
-{% include 2050/transcript-person.html id="danis" %}
+{% include 2050/transcript-person.html id="danis2" %}
 
 Děkuju, hezké. Ahoj.
 
