@@ -9,8 +9,8 @@ summary:    |
     Jak mluvit o ochraně přírody a klimatu tak, aby z toho bylo pochopení, a ne hádka? Živě z Klíčků (k) udržitelnosti, se třemi laureátkami environmentální Ceny Josefa Vavrouška: Jarmilou Johnovou (Pěšky městem, dřív Pražské matky), Karolínou Žákovskou (ReUse centrum Ústí nad Labem) a Kateřinou Fialovou (režisérkou pořadu Nedej se!).
 
     Bavíme se o tom, co lidi na ekologických tématech dráždí – třeba to, že se pořád mluví o věcech, na které si nejde sáhnout, a že to zní jako kázání o tom, čeho se mají vzdát. A hlavně o tom, co funguje: nastavit si v debatě hranice, ptát se místo přesvědčování, jít příkladem a dát lidem něco, čeho se můžou dotknout. Protože mosty mezi lidmi se nestavějí jen mluvením.
-spotify:    ""
-download:   ""
+spotify:    "2MO2CXIk0wR2JyAfWu7ZSA"
+download:   "https://anchor.fm/s/1039e0eb8/podcast/play/126492236/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2F432914982-44100-2-02824567d832c.mp3"
 guests:     [ johnova, zakovska, fialova ]
 tags:       [ spolecnost ]
 transcript: true
@@ -20,7 +20,7 @@ Tahle epizoda vznikla živě před publikem na Klíčcích (k) udržitelnosti �
 
 Začínáme u toho, co lidi na těch tématech dráždí. Že se ochrana životního prostředí vytrhla z kontextu a začala se tvářit jako něco odděleného od nás. Že je slyšet hlavně to, čeho se má člověk vzdát. A že hodně z toho, o čem se mluví, je pro lidi nehmatatelné – dokud se to nepřeloží do bezpečnosti dětí cestou do školy, do ceny nafty nebo do toho, jestli je v obci voda.
 
-Druhá půlka je praktičtější. Padá v ní nedůvěra ke slovu „přesvědčování“, doporučení nejdřív najít s člověkem spojení a teprve pak nosit argumenty, a taky velmi konkrétní věc, která v takové debatě chybí nejčastěji: hranice. Přijde řeč i na to, že mosty se nestavějí jen mluvením – že nejvíc udělá zážitek, práce v terénu, věc, na kterou si člověk může sáhnout. A na závěr dostane každá z hostek jednu otázku: jednu věc, kterou si posluchač může zkusit hned příště.
+Druhá půlka je praktičtější. Padá v ní nedůvěra ke slovu „přesvědčování“, doporučení nejdřív najít s člověkem spojení a teprve pak nosit argumenty, a taky velmi konkrétní věc, která v takové debatě často chybí: hranice. Přijde řeč i na to, že mosty se nestavějí jen mluvením – že nejvíc udělá zážitek, práce v terénu, věc, na kterou si člověk může sáhnout. A na závěr dostane každá z hostek jednu otázku: jednu věc, kterou si posluchač může zkusit hned příště.
 
 Diskuze pokračuje otázkami z publika a je v ní i pořádný kus skepse. Nechali jsme ji tam.
 
