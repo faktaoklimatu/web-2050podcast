@@ -578,3 +578,18 @@
   name: Petr
   surname: Daniš
   description: Fakta o klimatu
+
+- id: johnova
+  name: Jarmila
+  surname: Johnová
+  description: Pěšky městem (dříve Pražské matky)
+
+- id: zakovska
+  name: Karolína
+  surname: Žákovská
+  description: právnička, ReUse centrum Ústí nad Labem
+
+- id: fialova
+  name: Kateřina
+  surname: Fialová
+  description: režisérka, pořad Nedej se!
