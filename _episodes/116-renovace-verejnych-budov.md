@@ -11,7 +11,7 @@ summary:    |
 
     Řeč přijde na to, proč se renovuje právě teď, co o budovách vlastně víme, proč se velké projekty snadno rozpadnou a jak se dá skončit u projektu školy za 150 milionů, na který obec nemá. A na závěr rady pro starosty a plán, jak chce kraj během 26 let zrenovovat stovky svých nejnáročnějších budov.
 spotify:    ""
-download:   ""
+download:   "https://anchor.fm/s/1039e0eb8/podcast/play/127461376/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434156560-44100-2-d314325ee35b8.mp3"
 guests:     [ smutkova, stav ]
 tags:       [ energetika ]
 transcript: true
@@ -38,9 +38,6 @@ Na závěr přijdou konkrétní rady pro starosty a zastupitele a plán kraje: �
 
 * **Web [Jihomoravská energetická agentura (JIMEG)](https://www.jimeg.cz/)** (_JIMEG_)\\
   Krajské energetické centrum Jihomoravského kraje. Pomáhá obcím a jejich příspěvkovým organizacím s energetickým poradenstvím a energetickým managementem, s fotovoltaikou, sdílením energie i s přípravou dotačních projektů.
-
-* **Přehled [Energetické poradenství pro samosprávy](https://sfzp.gov.cz/poradna/poradenstvi-samospravy/)** (_Státní fond životního prostředí ČR_)\\
-  Seznam krajských energetických center ve všech krajích a v Praze. Přesně to, co v epizodě radí Karolína Smutková starostům: když nevíte, jak na renovaci nebo energetický management, ozvěte se svému kraji.
 
 </div>
 
