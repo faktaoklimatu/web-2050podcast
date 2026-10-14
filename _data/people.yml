@@ -593,3 +593,13 @@
   name: Kateřina
   surname: Fialová
   description: režisérka, pořad Nedej se!
+
+- id: smutkova
+  name: Karolína
+  surname: Smutková
+  description: vedoucí oddělení energetiky, Jihomoravský kraj
+
+- id: stav
+  name: Tomáš
+  surname: Stav
+  description: energetický manažer, specialista na energetiku budov, Jihomoravský kraj
