@@ -10,7 +10,7 @@ summary:    |
     Jak vypadá dekarbonizace z pohledu kraje? Karolína Smutková vede oddělení energetiky Jihomoravského kraje, Tomáš Stav má na starosti energetiku krajských budov. Bavíme se o tom, proč pro kraj dekarbonizace znamená hlavně potřebovat co nejméně energie a co nejvíc si jí vyrobit sám – a proč k tomu vede cesta přes budovy, kterých má kraj kolem dvou tisíc.
 
     Řeč přijde na to, proč se renovuje právě teď, co o budovách vlastně víme, proč se velké projekty snadno rozpadnou a jak se dá skončit u projektu školy za 150 milionů, na který obec nemá. A na závěr rady pro starosty a plán, jak chce kraj během 26 let zrenovovat stovky svých nejnáročnějších budov.
-spotify:    "https://open.spotify.com/embed/episode/7h2DP9AqikiSJJ3pgHWU9e"
+spotify:    "7h2DP9AqikiSJJ3pgHWU9e"
 download:   "https://anchor.fm/s/1039e0eb8/podcast/play/127461376/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434156560-44100-2-d314325ee35b8.mp3"
 guests:     [ smutkova, stav ]
 tags:       [ energetika ]
