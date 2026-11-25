@@ -4,7 +4,7 @@ title:      "Geopolitická weaponizace fosilních paliv"
 number:     118
 slug:       "118-weaponizace-fosilnich-paliv"
 redirect_from: "/epizody/118"
-published:  2026-12-07
+published:  2026-11-25
 op-jak:     true
 summary:    |
     Když se v Hormuzském průlivu zastaví tankery, zdraží se benzín i na české pumpě. Fosilní paliva nejsou jen klimatické téma, ale i nástroj moci, a Česko, které je skoro všechna dováží, to cítí víc, než by se zdálo. S politickým geografem Michaelem Romancovem jsme epizodu natočili živě na Korzu Národní 17. listopadu.
