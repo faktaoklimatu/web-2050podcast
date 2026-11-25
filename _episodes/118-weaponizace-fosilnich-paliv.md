@@ -10,8 +10,8 @@ summary:    |
     Když se v Hormuzském průlivu zastaví tankery, zdraží se benzín i na české pumpě. Fosilní paliva nejsou jen klimatické téma, ale i nástroj moci, a Česko, které je skoro všechna dováží, to cítí víc, než by se zdálo. S politickým geografem Michaelem Romancovem jsme epizodu natočili živě na Korzu Národní 17. listopadu.
 
     Probíráme, jak se ze dřeva, uhlí a ropy postupně stávaly strategické suroviny, proč firmy přestaly držet zásoby a proč se dnes místo „on time“ mluví o „just in case“. Řeč přijde na Nord Stream, na to, proč Evropa věřila, že obchod s Ruskem vybuduje důvěru, na Hormuzský průliv a hnojiva i na to, jestli si s dekarbonizací nekoledujeme o novou závislost, tentokrát na Číně.
-spotify:    ""
-download:   ""
+spotify:    "3t5YIUSdn7TnbgnCO2o3U3"
+download:   "https://anchor.fm/s/1039e0eb8/podcast/play/130085087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437599505-44100-2-c614e2d79b70f.mp3"
 guests:     [ romancov ]
 tags:       [ politika, energetika ]
 transcript: true
