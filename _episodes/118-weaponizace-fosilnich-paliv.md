@@ -7,7 +7,7 @@ redirect_from: "/epizody/118"
 published:  2026-11-25
 op-jak:     true
 summary:    |
-    Když se v Hormuzském průlivu zastaví tankery, zdraží se benzín i na české pumpě. Fosilní paliva nejsou jen klimatické téma, ale i nástroj moci, a Česko, které je skoro všechna dováží, to cítí víc, než by se zdálo. S politickým geografem Michaelem Romancovem jsme epizodu natočili živě na Korzu Národní 17. listopadu.
+    Když se v Hormuzském průlivu zastaví tankery, zdraží se benzín i na české pumpě. Fosilní paliva nejsou jen klimatické téma, ale i nástroj moci, a Česko, které jich většinu dováží, to cítí víc, než by se zdálo. S politickým geografem Michaelem Romancovem jsme epizodu natočili živě na Korzu Národní 17. listopadu.
 
     Probíráme, jak se ze dřeva, uhlí a ropy postupně stávaly strategické suroviny, proč firmy přestaly držet zásoby a proč se dnes místo „on time“ mluví o „just in case“. Řeč přijde na Nord Stream, na to, proč Evropa věřila, že obchod s Ruskem vybuduje důvěru, na Hormuzský průliv a hnojiva i na to, jestli si s dekarbonizací nekoledujeme o novou závislost, tentokrát na Číně.
 spotify:    "3t5YIUSdn7TnbgnCO2o3U3"
@@ -17,7 +17,7 @@ tags:       [ politika, energetika ]
 transcript: true
 ---
 
-Tahle epizoda vznikla živě před publikem na Korzu Národní, oslavách 17. listopadu, které na Národní třídě pořádá spolek Díky, že můžem. Podcast 2050 se jinak věnuje hlavně dekarbonizaci a změně klimatu. Fosilní paliva jsou ale i nástroj moci: tři čtvrtiny českých emisí pocházejí z jejich spalování a skoro všechna je dovážíme.
+Tahle epizoda vznikla živě před publikem na Korzu Národní, oslavách 17. listopadu, které na Národní třídě pořádá spolek Díky, že můžem. Podcast 2050 se jinak věnuje hlavně dekarbonizaci a změně klimatu. Fosilní paliva jsou ale i nástroj moci: tři čtvrtiny českých emisí pocházejí z jejich spalování a většinu jich dovážíme.
 
 S politickým geografem Michaelem Romancovem z Fakulty sociálních věd Univerzity Karlovy jsme se proto podívali, kdy se suroviny začaly používat jako zbraň. Začali jsme u dřeva, Benátek a blokády Baltu, pokračovali přes uhlí, Alsasko-Lotrinsko a ropu na Blízkém východě až k tomu, proč velké firmy přestaly držet zásoby a proč dnes místo „on time“ mluví o „just in case“.
 
